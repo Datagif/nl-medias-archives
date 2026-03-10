@@ -1,0 +1,51 @@
+name: Sync Mailchimp Newsletter
+
+on:
+  # Déclenchement manuel (peuplement initial ou resync)
+  workflow_dispatch:
+    inputs:
+      full_resync:
+        description: "Resync complète (écrase les fichiers existants)"
+        required: false
+        default: "false"
+
+  # Déclenchement via webhook Mailchimp (campaign.sent)
+  # URL du webhook à configurer dans Mailchimp :
+  # https://api.github.com/repos/datagif/nl-medias-archives/dispatches
+  # avec le token WEBHOOK_TOKEN en Authorization Bearer
+  repository_dispatch:
+    types: [mailchimp_campaign_sent]
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests html2text
+
+      - name: Run sync script
+        env:
+          MAILCHIMP_API_KEY: ${{ secrets.MAILCHIMP_API_KEY }}
+          MAILCHIMP_LIST_ID: ${{ secrets.MAILCHIMP_LIST_ID }}
+          OUTPUT_DIR: archives
+        run: python fetch_archives.py
+
+      - name: Commit & push si nouveaux fichiers
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add archives/
+          # Ne commite que s'il y a des changements
+          git diff --cached --quiet || git commit -m "chore: sync archives Mailchimp [$(date +'%Y-%m-%d')]"
+          git push

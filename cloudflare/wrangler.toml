@@ -1,0 +1,10 @@
+name = "mailchimp-github-relay"
+main = "index.js"
+compatibility_date = "2024-01-01"
+
+# Variables d'environnement sensibles : à définir via
+# "wrangler secret put GITHUB_TOKEN" etc.
+# ou directement dans le dashboard Cloudflare Workers > Settings > Variables
+
+[vars]
+GITHUB_REPO = "datagif/nl-medias-archives"

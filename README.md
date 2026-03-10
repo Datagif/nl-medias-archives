@@ -64,6 +64,8 @@ Configurer un webhook dans Mailchimp pour déclencher la Action à chaque envoi 
 ## Lancement local (optionnel)
 
 ```bash
-pip install requests html2text
-MAILCHIMP_API_KEY=xxx MAILCHIMP_LIST_ID=xxx python fetch_archives.py
+pip install requests html2text python-dotenv
+cp .env.example .env
+# éditer .env avec les vraies valeurs
+python fetch_archives.py
 ```

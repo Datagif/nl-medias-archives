@@ -5,7 +5,8 @@ Récupère toutes les campagnes Newsletter Médias depuis Mailchimp
 et les sauvegarde en HTML et TXT.
 
 Usage :
-    MAILCHIMP_API_KEY=xxx MAILCHIMP_LIST_ID=xxx python fetch_archives.py
+    cp .env.example .env  # puis remplir les valeurs
+    python fetch_archives.py
 
 Variables d'environnement :
     MAILCHIMP_API_KEY   Clé API Mailchimp
@@ -18,6 +19,9 @@ import re
 import sys
 import time
 import html2text
+from dotenv import load_dotenv
+
+load_dotenv()
 import requests
 from datetime import datetime
 from pathlib import Path

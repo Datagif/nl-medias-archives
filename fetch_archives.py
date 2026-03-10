@@ -72,7 +72,7 @@ def get_campaigns() -> list[dict]:
                 "offset": offset,
                 "status": "sent",
                 "list_id": LIST_ID,
-                "fields": "campaigns.id,campaigns.status,campaigns.settings.title,"
+                "fields": "total_items,campaigns.id,campaigns.status,campaigns.settings.title,"
                           "campaigns.recipients.list_id,campaigns.send_time",
             },
         )
@@ -83,7 +83,8 @@ def get_campaigns() -> list[dict]:
             break
         campaigns.extend(batch)
         offset += len(batch)
-        if offset >= data.get("total_items", 0):
+        total = data.get("total_items", 0)
+        if total and offset >= total:
             break
     return campaigns
 

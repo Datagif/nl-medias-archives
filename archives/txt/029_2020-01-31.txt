@@ -1,0 +1,131 @@
+---  
+![Médias](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/d060cdc3-f8d4-4207-b9bb-0b8ffda1ca6f.png)  
+La veille innovation et design media par Datagif  
+  
+| *|MC_PREVIEW_TEXT|*  
+---  
+---  
+1\. Zero pub L'ad blocker ethique qui veut revolutionner le financement des medias  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/175bd1ad-ad07-471f-8f26-a7afee187939.png)  
+---  
+Apres 3 ans de teasing, le nouveau service « **Scroll**  » est enfin disponible aux Etats-Unis. Il propose un abonnement « zero publicite »  a 5$ par mois... qui fonctionne sur une dizaine de sites d'info partenaires (USA Today, BuzzFeed, Vox, The Atlantic, Business Insider, Slate…)  
+  
+On vous conseille l'essai gratuit (pas de carte bancaire requise) : on se logge une fois et les publicites disparaissent chez tous les medias partenaires. Le montant de l'abonnement est ensuite redistribue aux editeurs en fonction du temps de lecture. Pour les attirer, Scroll promet que son modele est plus remunerateur qu'un modele publicitaire.  
+  
+Bref, c'est une nouvelle façon de soutenir les medias tout en evitant les publicites et les trackers. Mais y a-t-il vraiment un public pret a payer pour ce genre d'_ad blocker   _ethique ? A noter : l'abonnement ne donne pas acces aux articles payants de chaque site. On a hate de voir si ça decolle...  
+---  
+|  -- Decouvrir [le service](https://scroll.com/)  
+-- Lire [le decryptage](https://www.niemanlab.org/2020/01/scroll-promises-a-better-internet-for-users-and-more-money-for-publishers-all-for-just-five-bucks/) du Nieman Lab  
+---  
+---  
+2\. Green De nouvelles verticales liees au changement climatique  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/06cbd3bd-d8f1-4618-9655-ec3376faa3d5.jpg)  
+---  
+●  **Bloomberg** vient de lancer une nouvelle verticale "Bloomberg Green", qui s'attache a traiter et analyser les bouleversements lies au changement climatique.  
+  
+Outre des articles et dossiers « classiques », on aime particulierement le dashboard "DataDash", alimente avec des indicateurs en temps reel. De quoi visualiser le phenomene de façon percutante et factuelle.  
+  
+● En France, **Les Echos** viennent de lancer "Les Echos Planete" sur le meme creneau. On y retrouve le meme principe de verticale, avec un angle editorial plus magazine. On apprecie l'effort iconographique et la strategie de monetisation, avec Rolex comme  sponsor exclusif. Ce choix pourra faire grincer des dents mais a le merite d'etre plutot bien explique, a la façon des rubriques sponsorisees du Guardian.  
+---  
+|  -- Decouvrir [Bloomberg Green](https://www.bloomberg.com/graphics/climate-change-data-green/)  
+-- Decouvrir [Les Echos Planete](https://planete.lesechos.fr/)  
+---  
+---  
+3\. Analytics Le media Contexte reconcilie les journalistes avec la mesure d'audience  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/6440c90b-97f9-40e4-8328-d0868138ee19.png)  
+---  
+Dans un retour d'experience documente, Contexte partage sa methodologie pour mesurer le succes d'un article. Un objectif souvent mal defini et interprete, qui n'est pas seulement une affaire d'audience...  
+  
+Contexte a donc defini ses 4 criteres de succes pour un article publie :  
+  
+●  il a ete lu par beaucoup d'abonnes  
+●  il a convaincu des non-abonnes a tester l'abonnement  
+●  il a circule sur Twitter et LinkedIn  
+●  il est lie dans d'autres articles hors Contexte  
+  
+Pour chaque article, les journalistes ont ainsi acces a un graphique permettant de visualiser sa  performance sur chaque critere. Dans cette approche multi-dimensionnelle, un facteur faible peut etre compense par un facteur fort. De quoi eviter le reflexe instinctif de la course a l'audience...  
+---  
+|  -- [ À lire en details](https://blog.contexte.com/comment-r%C3%A9concilier-les-journalistes-avec-la-mesure-daudience-l-exp%C3%A9rience-de-contexte-45abee8768dd) sur le blog de Contexte  
+---  
+---  
+4\. Newsletters Le JDD passe a la vitesse superieure  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/c6cf891d-ea04-4aa3-807f-46cdc970113e.jpg)  
+---  
+On appreciait la newsletter « Le Journal de Demain » du JDD ; la voici qui bascule en payant pour muscler l'offre d'abonnement numerique du journal. Preuve qu'une newsletter pertinente, structuree et bien marketee peut trouver un veritable public (le JDD revendique presque 100 000 inscrit.e.s).  
+  
+Dans cette lignee, le JDD lance egalement une nouvelle newsletter prometteuse : « Bon dimanche a Paris », consacree aux recommandations de sorties parisiennes.   
+---  
+|  -- [Decouvrir les newsletters ](https://newsletter.lejdd.fr/)du JDD  
+---  
+---  
+5\. Passe tes codes Bienvenue dans un monde ou tout le monde partage ses abonnements  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/12437d9c-4249-4de2-8d86-cca9c92df896.jpg)  
+---  
+Le start-up française Spliiit propose un concept dans l'air du temps : faciliter le partage de ses abonnements en ligne. Vous pouvez soit creer une cagnotte entre amis, soit partager vos identifiants avec des inconnus. Service de streaming, logiciels, jeux video ou sites d'info : tout est possible... et la plateforme prend une commission sur les transactions.   
+  
+Spliiit ne se prive pas d'afficher les logos de Netflix, Spotify ou Mediapart dans son catalogue, sans qu'aucun partenariat n'ait ete signe. Le service profiterait d'une "[zone grise juridique](http://www.leparisien.fr/economie/consommation/netflix-spotify-amazon-prime-bein-sport-partager-ses-abonnements-un-bon-plan-20-06-2019-8097279.php)"... Pour en avoir le coeur net, on a interroge le service, qui affirme que Le Figaro a "_chang e ses offres pour ouvrir le partage suite a une interview avec [eux]_", et "_croyez nous [...] si un distributeur souhaitait ne plus apparaitre dans la liste, nous l 'enleverons_". Methode cowboy 🤠 !  
+---  
+![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/4f6fd7b4-12e7-43e3-9e67-cab36340f67c.png)  
+---  
+|  -- [En savoir plus ](https://www.spliiit.com/)sur Spliiit  
+---  
+---  
+6\. Engagement Et si on abaissait les paywalls en cas d'actu majeure ?  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/b639d215-6941-4e19-985f-0f06ff2027f1.jpeg)  
+---  
+Quand une actu majeure a lieu, la plupart des sites d'info se precipitent generalement pour produire un maximum d'articles et decryptages, dont une bonne partie sera dissimulee derriere un paywall.   
+  
+Certains sites font pourtant le pari inverse : offrir un acces exceptionnellement gratuit quand une info majeure le justifie. Quelques cas de figure :  
+-- Les elections (au [New York Times](https://www.nytco.com/press/the-new-york-times-to-offer-open-access-to-nytimes-com-november-7-9/), chez [Contexte](https://twitter.com/maxloisel/status/1132715460800204800) ou Mediapart)  
+-- Les catastrophes (chez Paris-Normandie lors de [l'affaire Lubrizol](https://t.co/KikWQh61Cs)... ou le Los Angeles Times apres [le deces de Kobe Bryant](https://twitter.com/ylichterman/status/1221587206097264640))  
+  
+Une strategie qui a le merite de donner acces du plus grand nombre a une information de qualite… mais qui n'est pas denuee d'interet en terme de monetisation ! L'acces libre peut nourrir un pic d'audience mais aussi jouer sur la conscience « civique » des citoyens. "On vous offre nos articles gratuitement, mais soutenez notre journalisme en echange", n'hesite pas a expliquer le Los Angeles Times.  
+---  
+|   
+---  
+---  
+7\. Green (oui, encore) Une newsletter ecolo qui a de l'idee  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/5078a005-de3c-45ff-bd4e-8600c418911a.png)  
+---  
+Toujours dans la thematique environnementale, on note le lancement de "Vert", une newsletter quotidienne au nom bien trouve. Incarnee par le journaliste Loup Espargiliere, elle examine chaque jour plusieurs sujets de façon concise et efficace. Avec un traitement plus constructif qu'alarmiste, visant a relayer des solutions emergentes. Le modele economique bannit par ailleurs la publicite sous toutes ses formes, et repose sur la contribution libre des lecteurs. Courageux !  
+---  
+|  -- [Decouvrir la newsletter "Vert"](https://vert.eco/)  
+---  
+---  
+8\. Desinformation Un projet ambitieux pour ameliorer la traçabilite des images sur le Web  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/b6e72a2b-3a30-4cd0-bf8e-fcfca1137856.png)  
+---  
+La cellule R&D du New York Times a inititie depuis quelques mois le « News Provenance Project », une initiative ambitieuse pour que les internautes puissent mieux evaluer la fiabilite des images sur le Web.  
+  
+Concretement, l'idee serait de developper de nouveaux standards techniques utilisant la « blockchain », afin de mieux tracer le parcours d'une image sur le Web. Le  prototype du NYT donne un petit aperçu de l'experience cote utilisateur :  
+●  chaque image pourrait avoir une date et geolocalisation irrevocable, un auteur officiel…  
+●  on pourrait lier l'image a d'autres prises au meme endroit, au meme moment  
+●  on pourrait retrouver l'historique des sites qui ont diffuse l'image…   
+---  
+![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/7a6c2ecf-0a24-4613-8728-d2ed44ec0095.png)  
+---  
+|  -- [Lire l'analyse](https://www.niemanlab.org/2020/01/heres-how-the-new-york-times-tested-blockchain-to-help-you-identify-faked-photos-on-your-timeline/) du Nieman Lab  
+-- Decouvrir [le prototype](https://www.newsprovenanceproject.com/proof-of-concept) du News Provenance Project  
+---  
+Vous recevez cet e-mail car vous êtes inscrit•e via le site   
+[medias.datagif.fr](https://medias.datagif.fr/)   
+  
+🏄‍   
+Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)   
+  
+📪  
+Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)   
+  
+✌️  
+Retrouvez la veille et les projets de Datagif sur   
+[Medium](https://medium.com/Datagif) \- [Twitter](https://twitter.com/datagif) \- [Instagram](https://www.instagram.com/datagif) \- [Datagif.fr](https://datagif.fr)   
+  
+👋   
+[Cliquez-ici](*|UNSUB|*) pour vous désabonner   
+  
+  
+*|IF:REWARDS|* *|HTML:REWARDS|* *|END:IF|*   
+  
+  
+---

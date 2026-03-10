@@ -1,0 +1,266 @@
+*|MC_PREVIEW_TEXT|*  
+  
+͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿
+
+| | [Ouvrir dans le navigateur](*|ARCHIVE|*)  
+---  
+| ![Médias](https://newsletter.datagif.fr/ext/datagif/img/medias.png)  
+---  
+La veille innovation et design média par DATAGIF  
+  
+| |   
+---  
+  
+| | | Bonjour tout le monde 👋 Deux rappels si vous avez manque l'info :   
+1️⃣ On a [quelques places de bureaux](https://twitter.com/Datagif/status/1712510859996488058) a louer chez nous pour profiter de notre environnement de travail ;  
+2️⃣ On a ouvert [notre page "Liens"](https://datagif.fr/liens/) : tous les liens de la newsletter rassembles dans une graaaande liste filtrable.   
+Ceux deux infos ont un point commun : vous faciliter la vie !  
+---  
+  
+| |   
+---  
+  
+| | | 
+
+## 1\. Guerre
+
+## Le conflit Hamas - Israel focalise l'attention sous differents angles : le direct, l'analyse, le contexte...  
+  
+---  
+  
+| | | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/299e41c9-59ee-3624-a046-587e63f2b897.jpg)  
+---  
+  
+| | Parmi l'ensemble des publications realisees, nous avons selectionne certaines qui traduisent une des facettes possibles du traitement, en dehors des traditionnels fils d'actu :   
+  
+• Rumeurs et vigilance : un journaliste de la BBC explique au Reuters Institute [comment trier les images reçues et reperer de faux reportages](https://reutersinstitute.politics.ox.ac.uk/news/bbc-expert-debunking-israel-hamas-war-visuals-volume-misinformation-twitter-was-beyond) qui circulent en ligne (la BBC a justement fait l'objet d'un faux). Tres interessant pour la methode journalistique et les conseils au public.  
+• Les Decodeurs du Monde proposent [un outil de suivi des fausses videos](https://www.lemonde.fr/les-decodeurs/article/2023/10/16/guerre-israel-hamas-les-fausses-images-et-videos-qui-circulent-depuis-le-7-octobre_6193612_4355771.html) (dont celle grimee BBC), regulierement mis a jour.  
+• Le New York revient [heure par heure sur le premier jour de l'attaque du Hamas](https://www.nytimes.com/interactive/2023/10/11/world/middleeast/israel-gaza-hamas-attack-timeline.html) et la longue attente des israeliens pour de l'aide.   
+• Rad (de Radio Canada) donne un contexte au conflit avec une approche adaptee a son public jeune, via [une edition speciale de sa newsletter](https://mailchi.mp/rad/isral-hamas).  
+• Temps reel : le Financial Times a opte pour [un article cartographique mis a jour quotidiennement](https://www.ft.com/content/42bbe534-8a0d-4ba8-9cc6-f84936d87196).  
+• Le CPJ (Comittee to Protect Journalists) tient [un article a jour des victimes du conflit cote journalistes](https://cpj.org/2023/10/journalist-casualties-in-the-israel-gaza-conflict/) : tues, blesses, emprisonnes ou disparus...  
+• Enfin, le media satirique The Onion [s'exprime avec acidite sur les reactions internationales](https://www.theonion.com/what-to-know-about-what-s-happening-in-israel-and-gaza-1850923354) : "_Des gens du monde entier ont contribu e a une effusion d'infographies_". Via [Thomas](https://bsky.app/profile/cosmoflash.bsky.social/post/3kbzdhqdt552m).  
+---  
+---  
+  
+| |   
+---  
+  
+| | | 
+
+## 2\. Intelligence (trop) artificielle
+
+## Comment les images generees par IA reproduisent les stereotypes culturels  
+  
+---  
+  
+| | | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/a78f445a-5f0c-a14b-97c5-a5b30bef960c.jpg)](https://restofworld.org/2023/ai-image-stereotypes/)  
+---  
+  
+| | Dans notre numero [#111](https://datagif.fr/newsletter-medias/?campaign_id=d53a872787), nous avons deja aborde la question soulevee par [Bloomberg](https://www.bloomberg.com/graphics/2023-generative-ai-bias/) concernant les biais raciaux ou sexistes inherents aux outils de generation d'images. [Rest of World ](https://restofworld.org/2023/ai-image-stereotypes/) pousse l'experience encore plus loin en nous permettant de visualiser **comment un outil comme Midjourney peut v ehiculer une vision du monde truffee de cliches**, ou "une personne mexicaine" est toujours represente avec un homme en sombrero et un "indien" est automatiquement assimile a un vieil homme hindou portant un turban.  
+  
+🎁 En bonus, ce [format interactif](https://ig.ft.com/generative-ai/) du Financial Times qui explique comment fonctionne l'IA generative.  
+---  
+| | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[Decouvrir l'analyse des biais](https://restofworld.org/2023/ai-image-stereotypes/) chez Rest of World  
+  
+| |   
+---  
+  
+| | | 
+
+## 3\. Archeologie
+
+## La chronologie ultime pour tout savoir sur l'histoire de la biere (dont l'origine reste inconnue)  
+  
+---  
+  
+| | | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/2f47f13f-2ea8-739c-d5d4-090e74e7f1ba.jpg)](https://www.washingtonpost.com/food/interactive/2023/beer-history-types-timeline/?tid=ss_tw)  
+---  
+  
+| | Cette plongee dans l'histoire de la biere proposee par le Washington Post tente de definir les caracteristiques du breuvage en remontant **jusqu 'aux origines connues de l'humanite**, tout en soulignant son caractere tantot social, tantot religieux ou politique.   
+  
+Avec une frise chronologique separant les epoques, vous naviguez dans les chapitres construits sur une base similaire. Une question vous est meme posee avant de changer d'ere, pour vous donner en fin d'article une selection de bieres selon vos gouts.  
+---  
+| | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[Devenir incollable sur la biere](https://www.washingtonpost.com/food/interactive/2023/beer-history-types-timeline/?tid=ss_tw) grace au Washington Post  
+  
+| |   
+---  
+  
+| | | 
+
+## 🚨 Bureaux
+
+## Quelques places disponibles dans les locaux de Datagif  
+  
+---  
+  
+| | | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/af588b66-6470-7099-a50f-709ef2a57a22.jpg)  
+---  
+  
+| | Vous etes independant*e, solo ou a deux, cette annonce est pour vous : quelques postes de travail sont disponibles dans nos bureaux, a Paris dans le 11e, metro Charonne.  
+  
+• location au poste : 350€/mois par poste  
+• dans un bureau de 16m2, avec 4 postes au total  
+• emplacement fixe avec bureau et casier  
+• 2 salles de reunions  
+• fibre  
+• cuisine avec the et cafe a disposition  
+• la vie de bureau partagee avec Datagif ✨  
+  
+👀 Interesse*e ? Contactez-nous : contact@datagif.fr  
+---  
+---  
+  
+| |   
+---  
+  
+| | | 
+
+## 4\. Tic tac
+
+## Comment signifier son impatience  
+  
+---  
+  
+| | | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/69143ee5-5083-13e8-79ad-1684693fcf6d.gif)](https://www.nbcnews.com/data-graphics/speaker-of-the-house-time-tracker-rcna120179)  
+---  
+  
+| | Un detail interessant dans un article de NBC News : la chambre des debutes aux USA se retrouve sans porte-parole depuis plus d'une semaine ; pour signifier cette aberration paralysant une partie du gouvernement, **le m edia a tout simplement mis en place un chronometre geant**. Compteur qui est d'ailleurs reemploye ailleurs dans les articles parlant du sujet : tres malin !  
+---  
+| | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[Regarder les secondes defiler](https://www.nbcnews.com/data-graphics/speaker-of-the-house-time-tracker-rcna120179) chez NBC  
+  
+| |   
+---  
+  
+| | | 
+
+## 5\. Moodboard
+
+## Le diable s'habille en New York Times  
+  
+---  
+  
+| | | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/9c129594-5911-246d-24d5-4d9d5b552a94.gif)](https://www.nytimes.com/interactive/2023/10/16/style/visual-profile-beenslackin.html)  
+---  
+  
+| | Dans un article dedie au styliste ethiopien Beenslackin, le New York Times propose une navigation a propos, au regard du sujet : le lecteur est invite a parcourir **le portrait de Beenslackin pens e telle une planche de style**. L'article peut se parcourir de maniere guidee, a l'aide de petits boutons situes en bas de l'ecran. Ou bien au glisse de la souris, de maniere libre -- et ainsi etre lu dans un sens libre.   
+  
+Un petit plus qui ne concerne pas seulement pas l'interaction, mais qui permet aussi une valorisation pertinente des nombreuses photos de l'article.   
+---  
+| | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[Explorer le moodboard](https://www.nytimes.com/interactive/2023/10/16/style/visual-profile-beenslackin.html) de Beenslacking  
+  
+| |   
+---  
+  
+| | | | ![](https://newsletter.datagif.fr/ext/datagif/img/mail.png)  
+---  
+Bienvenue dans cette newsletter 👋  
+Nous sommes [une agence de conseil et design](http://datagif.fr/) qui travaille sur des sujets de design d'information. Pour suivre notre veille, un seul bouton :  
+| [Woop woop](https://datagif.fr/newsletter-medias/)  
+---  
+  
+| |   
+---  
+  
+| | | 
+
+## 6\. Brouaha
+
+## Mesures d'ambiance dans les stades   
+  
+---  
+  
+| | | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/eb70ab4a-d162-5a9f-c289-8e541abbb24c.png)](https://www.inquirer.com/phillies/inq2/phillies-fans-crowd-noise-nlcs-citizens-bank-park-20231016.html)  
+---  
+  
+| | Les fans des "Phillies", l'equipe de baseball de Philadelphie, sont reputes pour leur ferveur, particulierement en ce qui concerne le niveau sonore. Afin de verifier cette notoriete, **le journal local The Philadelphia Inquirer a entrepris de mesurer les d ecibels lors des recents matchs**. En resulte une experience interactive et auditive, permettant d'ecouter l'ambiance tout en faisant defiler graphiques, tweets et autres elements de contexte.  
+---  
+| | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[Pousser le son sur le site](https://www.inquirer.com/phillies/inq2/phillies-fans-crowd-noise-nlcs-citizens-bank-park-20231016.html) de The Inquirer  
+  
+| |   
+---  
+  
+| | | | ![](https://newsletter.datagif.fr/ext/datagif/img/reseaux.png)  
+---  
+Retrouvez la veille et les projets de Datagif sur  
+[Medium](https://datagif.medium.com/) • [X](https://twitter.com/datagif) • [Bluesky](https://bsky.app/profile/datagif.bsky.social) • [Instagram](https://www.instagram.com/datagif/) • [Linkedin](https://www.linkedin.com/company/datagif/) • [Datagif.fr](https://datagif.fr/)  
+  
+  
+| |   
+---  
+  
+| | | 
+
+## 7\. Illustration
+
+## Grist explore la ville en illus et a 360°  
+  
+---  
+  
+| | | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/d925b3f3-f344-e394-95c3-94625df1eb83.jpg)](https://grist.org/project/cities/extreme-heat-resilient-city-design-urban-planning-climate/)  
+---  
+  
+| | Dans un article co-publie avec [Gizmodo](https://gizmodo.com/), Grist a imagine plusieurs metropoles modeles dans une ere aux temperatures elevees. Pour illustrer son propos, le media propose **trois illustrations a decouvrir en 360**°. Si nous aurions adore y trouver une legende cliquable, nous apprecions l'effort de projection et tout particulierement la direction artistique legerement psychedelique de ces illustrations.   
+---  
+| | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[Plonger dans les metropoles futuristes et colorees](https://grist.org/project/cities/extreme-heat-resilient-city-design-urban-planning-climate/) chez Grist  
+  
+| |   
+---  
+  
+| | | 
+
+## 8\. Enquete
+
+## The New Yorker realise une enquete saisissante sur la peche industrielle  
+  
+---  
+  
+| | | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/3a211afc-63a8-f1df-53f4-28506c9d0c90.gif)](https://www.newyorker.com/magazine/2023/10/16/the-crimes-behind-the-seafood-you-eat)  
+---  
+  
+| | Le media s'est interesse a l'origine des produits de la mer arrivant dans les assiettes de son audience. Pour beaucoup d'especes, ce sont des super-chalutiers chinois qui ont le monopole de la peche, avec en jeu des drames ecologiques (que l'on connait) et humains (de l'esclavage).  
+  
+Realisee en collaboration avec l'organisation de journalisme non-profit "[The Outlaw Ocean Project](https://www.theoutlawocean.com/about/)", cette enquete d'envergure mele parfaitement fond et forme. Que ça soit par des cartes de situation, de courts extraits video ou quelques schemas, **vous etes litteralement happes dans l'article**. Mention particuliere au recueil de temoignages par les journalistes, realise en jetant aux chalutiers des bouteilles en plastique contenant du papier et un stylo...  
+---  
+| | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[Plongez dans l'horreur des super-chalutiers](https://www.newyorker.com/magazine/2023/10/16/the-crimes-behind-the-seafood-you-eat) chez The New Yorker  
+  
+| |   
+---  
+  
+| |   
+---  
+  
+| | Merci pour votre lecture et vos retours, toujours encourageants et bienveillants 💫 Et n'hesitez pas a nous communiquer vos innovations internes !  
+🔵 PS : invits Bluesky disponibles sur simple demande  
+---  
+  
+| | | ![](http://gallery.mailchimp.com/653153ae841fd11de66ad181a/images/transparent.gif)  
+---  
+  
+| |   
+---  
+  
+| | Vous recevez cet e-mail car vous êtes inscrit•e via le site [datagif.fr](https://datagif.fr/newsletter-medias/)Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)  
+👋 [Cliquez-ici](*|UNSUB|*) pour vous désabonner  
+---  
+  
+| | DATAGIF  
+---  
+  
+| |   
+---

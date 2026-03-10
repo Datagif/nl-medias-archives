@@ -1,0 +1,84 @@
+---  
+![Médias](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/d060cdc3-f8d4-4207-b9bb-0b8ffda1ca6f.png)  
+La veille innovation et design media par Datagif  
+  
+| *|MC_PREVIEW_TEXT|*  
+---  
+---  
+1\. Long format  Va-t-on enfin arreter de citer Snowfall en reference apres cet exemple ?  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/abba1e93-9fe1-4988-8961-b6d905aade9a.gif)  
+---  
+Cet article de Shoes Up sur l'artiste Bada$$ est bourre de petits details d'animation ultra cools. Et fluides. Une reussite de mix entre fond et forme, sans perturber la lecture ni tomber dans le registre du gadget. Bravo a l'equipe du mag qui donne tout sur ses formats.  
+---  
+-- Le long format Bada$$ de ShoesUp, a lire et voir [ici](http://badass.shoes-up.com/)  
+---  
+2\. Repartition Contenus VS contenus sponsos VS pubs display  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/d27f93a1-eff8-4bfe-b467-8aadb331ce4b.png)  
+---  
+Une image dans un tweet qui en raconte beaucoup sur la place accordee a la pub. En rouge la pub display, en orange les contenus sponsorises, et en bleu la place accordee aux contenus produits par les redactions. Sur une dizaine de homepages de sites d'actu US, [Noah Veltman](https://twitter.com/veltman) a superpose des blocs de couleurs sur les blocs de contenus ou de pub pour rendre immediat l'effet de leurs emplacements.  
+  
+On peut en retenir que :  
+**01.** les contenus sponsos sont moins envahissants (et mieux organises) que sur les homepages de nos medias hexagonaux.  
+**02.** le format "arche" est totalement abandonne aux États-Unis (hourra !)  
+**03.** les homepages restent majoritairement assez longues. #scroll  
+**04.**  il n'y a finalement pas tant de pubs que ça !  
+---  
+-- Pubs VS contenus a decouvrir dans ce [tweet](https://twitter.com/veltman)  
+---  
+3\. Social Media Quelle strategie pour un media 100 % payant ? Les conseils du Financial Times  
+|  Avec pres d'un million d'abonnes et un "hard paywall" le Financial Times a fait le pari du payant pour les contenus de son site. Pour autant, les equipes sont loin d'etre inactives sur les reseaux sociaux. Comment gerer cette particularite ?   
+  
+**À propos des formats :**  
+-- Produire du contenu complet et exclusivement pense pour les reseaux sociaux (l'inverse du teaser d'un article).  
+-- Extraire des informations saillantes des articles et les re-designer pour les calibrer sur les plateformes.  
+  
+**À propos des plateformes :**  
+-- Instagram vs Snapchat : victoire d'Insta par K.O. Le FT a choisi d'investir massivement dessus.  
+-- Les resultats d'Instagram : 900 K followers et une audience tres engagee.  
+  
+Resultat : cela permet de toucher une audience differente et de faire rayonner la marque.  
+---  
+-- [Lire et ecouter l'interview](https://medium.com/the-business-of-content/inside-the-social-media-strategy-at-the-financial-times-13b638ff420) de Jake Grovum, directeur social media FT  
+---  
+4\. DIY Election game  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/9cdc1eb2-ab53-4c35-9a15-65e180550f92.gif)  
+---  
+En observant le traitement de l'election presidentielle [US de 2016](https://fr.slideshare.net/Datagif/prsidentielle-us-2016-comment-les-sites-medias-anglosaxons-sortent-de-leur-zone-de-confort) nous avions note que les experiences qui mixent contenu d'info avec des formes de jeux ou de quizz restaient en vogue. Pour les midterms de cette annee, on aime l'idee d'un outil pour predire les resultats d'une election. Mais dans le cas present, pas aide par le systeme d'election complexe, l'experience proposee par Politico est assez rude a prendre en main ! 😮 On en retient quand meme la volonte de tester des formats qui sortent de l'ordinaire et donner la main a l'internaute pour se faire son propre pronostic.  
+---  
+-- Pronostiquez votre election sur [Politico](https://www.politico.com/election-results/2018/predict-congress/)  
+---  
+5\. F.A.Q. Faire d'un format bien desuet un format bien fun  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/803d2dc0-9c2f-4cb6-9e6d-85d221e564cc.png)  
+---  
+Le New York Times nous propose une enorme FAQ pour mettre les choses au clair sur le fonctionnement des elections (c'etait vraiment necessaire). Sur la forme : un design brutal et un rangement des questions sans categorisation. Les reponses aux questions peuvent comporter des tweets, des sons, des images mais le plus souvent un simple texte. Sur le fond : 50 % d'info et 50 % d'humour. Cela nous rappelle leur [precedente FAQ](https://www.nytimes.com/interactive/2018/04/06/style/meghan-markle-prince-harry-royal-wedding.html) qui avait repondu a tout ce que nous voulions savoir au sujet du mariage de Megan & Harry <3\. Vers un nouveau format recurrent pour le NYT ?  
+---  
+-- Tout savoir sur les midterms grace a la [FAQ du NYT](https://www.nytimes.com/interactive/2018/10/02/us/politics/2018-midterm-election-guide.html)  
+---  
+6\. Tristesse Par un petit tour de passe-passe, le fonds gouvernemental d'aide a l'innovation des medias vient d'etre divise par deux.  
+|  Le Spiil (Syndicat de la presse independante d'information en ligne) denonce ouvertement dans un communique la methode du sauvetage de Presstalis (le distributeur de presse print, au bord de la faillite) par l'État. L'astuce ? Le FSDP (Fonds strategique pour le developpement de la presse), donc rien a voir, sera ponctionne de la moitie de son budget pendant 4 ans.  
+  
+Une solution qui n'entre pas dans les missions du FSDP et va donc a l'encontre des reels beneficiaires potentiels du FSDP, dont le fonctionnement etait deja remis en cause par le Spiil. Bref, un montage qui ne va clairement pas dans le sens de l'innovation media.  
+---  
+-- Communique a lire chez le [S](http://www.spiil.org/20181003/sauvetage-de-presstalis-l-tat-d-tourne-secr-tement-aides-linnovation)[piil](http://www.spiil.org/20181003/sauvetage-de-presstalis-l-tat-d-tourne-secr-tement-aides-linnovation)  
+Vous recevez cet e-mail car vous êtes inscrit•e via le site   
+[medias.datagif.fr](https://medias.datagif.fr/)   
+  
+🏄‍   
+Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)   
+  
+📪  
+Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)   
+  
+✌️  
+Retrouvez la veille et les projets de Datagif sur   
+[Medium](https://medium.com/Datagif) \- [Twitter](https://twitter.com/datagif) \- [Instagram](https://www.instagram.com/datagif) \- [Datagif.fr](https://datagif.fr)   
+  
+👋   
+[Cliquez-ici](*|UNSUB|*) pour vous désabonner   
+  
+  
+*|IF:REWARDS|* *|HTML:REWARDS|* *|END:IF|*   
+  
+  
+---

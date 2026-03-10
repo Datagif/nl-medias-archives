@@ -1,0 +1,146 @@
+---  
+![Médias](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/d060cdc3-f8d4-4207-b9bb-0b8ffda1ca6f.png)  
+La veille innovation et design media par Datagif  
+  
+| *|MC_PREVIEW_TEXT|*  
+---  
+---  
+1\. Reportage Immersion dans une usine de Pfizer  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/174c05e2-73c9-3f2f-592d-f6669b0566af.gif)  
+---  
+Le New York Times publie un reportage immersif sur un angle assez meconnu du Covid : le processus de fabrication des vaccins.  
+  
+Le journal a eu acces a une usine du laboratoire Pfizer, et nous raconte chaque etape de fabrication. Le tout est organise en grands chapitres, avec des belles boucles videos et des petits schemas. Une belle maniere de raconter le travail scientifique, de façon accessible et depassionnee.  
+---  
+|  -- [Decouvrir le reportage](https://www.nytimes.com/interactive/2021/health/pfizer-coronavirus-vaccine.html?smid=tw-nytimes&smtyp=cur) du NYT   
+---  
+---  
+2. Presidentielle Attention, les sondages arrivent  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/31047c43-9a69-ca02-16f4-d6bae6476c8d.png)  
+---  
+Quelle dynamique pour les candidats a la presidentielle de 2022 ? Tous les medias (ou presque) affutent leurs partenariats avec des instituts de sondage. Au risque d'encombrer tout l'espace mediatique avec des hypotheses fantasques et des methodologies plus ou moins fiables...  
+  
+Plus sage, le site Contexte lance un agregateur des meilleurs sondages, mis a jour quotidiennement grace a la compilation realisee par NSPPolls. De quoi reequilibrer un peu les biais des differentes enquetes. Cerise sur le gateau, l'outil de Contexte est en acces libre.  
+---  
+|  -- [Tester l'agregateur de Contexte](https://www.contexte.com/article/pouvoirs/agregateur-de-sondages-de-la-presidentielle-2022_128913.html?)  
+---  
+---  
+3\. Anniversaire Le Guardian en grande forme pour ses 200 ans  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/76e59b2b-58c8-914e-3550-dcac7dbd9077.png)  
+---  
+Que de festivites pour l'anniversaire du journal ! On vous recommande notamment :  
+-- le retour en images sur [le premier numero du journal (annote)](https://www.theguardian.com/media/ng-interactive/2021/may/05/guardian-200-first-ever-edition-annotated)  
+-- [une timeline](https://www.theguardian.com/media/ng-interactive/2021/may/05/guardian-200-timelines) des moments forts du journal  
+-- le best-of courageux de [ses pires erreurs editoriales](https://www.theguardian.com/media/2021/may/07/guardian-200-what-we-got-wrong-the-guardians-worst-errors-of-judgment-over-200-years)  
+-- [le mur de messages](https://www.theguardian.com/media/ng-interactive/2021/may/05/200-years-young-the-guardians-bicentenary-party-page) des lecteurs  
+-- ou encore ce  genial [« mode 1821 »](https://1821-mode.theguardian.com/) qui re-interprete l'actuelle homepage avec le design de l'epoque  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/92d0f7d0-37fd-c790-a926-f642807be3b4.png)  
+---  
+---  
+4\. Formats Differencier les news et l'opinion  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/a6c28178-b1f9-6589-dd21-f46113ce21e1.png)  
+---  
+Contrairement a la France, les grands medias anglo-saxons ont pour tradition de differencier strictement les articles d'actualite et les contenus d'opinion. Sauf qu'a l'heure du web, cette separation sacro-sainte n'est plus du tout claire pour les internautes...  
+  
+Pour y remedier, le New York Times vient de revoir le design de tous ses articles d'opinion (editos, chroniques, tribunes) sur le web. Objectif : rendre comprehensible leur caractere particulierement subjectif. La rubrique "Opinion" est desormais affichee en rouge et en majuscules -- inratable --, tandis que l'auteur est presente avec une biographie de plusieurs lignes, avant le debut de l'article.  
+  
+Les tribunes ont egalement ete revues : le terme historique "Op-Ed" est abandonne et remplace par "Guest Essay" (mieux compris par les lecteurs). Des petits changements mais qui ne manqueront pas d'avoir un fort impact.  
+---  
+|  -- [Lire les explications ](https://open.nytimes.com/how-we-redesigned-the-new-york-times-opinion-essay-ad5e0270f5bc)du NYT  
+-- [Voir un exemple de tribune](https://www.nytimes.com/2021/05/05/opinion/facebook-oversight-trump-jan-6.html?action=click&module=Opinion&pgtype=Homepage)  
+---  
+---  
+5. Climat La fonte des glaces en un coup d'oeil  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/949ef13a-667b-a336-e04e-8bf8ca95c117.gif)  
+---  
+Le Guardian raconte la fonte des 90 plus grands glaciers dans le monde, avec une petite animation avant/apres. Une image marquante qui se suffit presque a elle-meme.  
+---  
+|  -- [Consulter l'article](https://www.theguardian.com/environment/ng-interactive/2021/apr/29/visualised-glaciers-now-and-then) chez le Guardian  
+---  
+---  
+6\. Monetisation Bientot plein de podcasts reserves aux abonnes des medias ?  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/2d3803a8-87d3-81a3-3027-14e088afe392.jpg)  
+---  
+Certains medias proposent deja des podcasts reserves a leurs abonnes payants, comme "Le Gout de M" chez Le Monde. Cette strategie reste neanmoins rare car il est tres difficile pour l'internaute de profiter de son avantage : il doit ecouter le podcast via un player protege sur le site ou l'appli du media... ou carrement ajouter un flux RSS prive dans son appli de podcast preferee. Bref, le parcours du combattant.  
+  
+Cela pourrait bientot changer grace a Spotify, qui a annonce la semaine derniere une petite revolution. Les medias (et les createurs independants) pourront proposer des podcasts payants sur Spotify, mais leurs abonnes existants pourront facilement lier leur abonnement media avec leur compte Spotify pour en profiter. De quoi rendre beaucoup l'experience d'ecoute beaucoup fluide...  
+---  
+|  -- [Lire le decryptage](https://every.to/divinations/spotify-s-upcoming-open-access-platform-is-as-suprising-as-it-is-awesome) de Every  
+---  
+---  
+7\. Covid La France en cartogramme  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/be82cb5c-9068-5d17-9833-eca9be5e2c70.png)  
+---  
+Le Monde a publie recemment un "cartogramme" de la France, c'est-a-dire une carte deformee ou chaque departement est ici represente par un petit graphique de l'evolution epidemique (taux d'incidence et hospitalisations). Une façon tres visuelle de comparer les dynamiques entre regions.  
+  
+Ca nous rappelle un peu le [Covid World Map](https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html) du NYT mais c'est tres bien !  
+---  
+|  -- [Voir le cartogramme](https://www.lemonde.fr/politique/article/2021/04/29/du-3-mai-au-30-juin-un-deconfinement-en-quatre-etapes-conditionnees-a-la-situation-sanitaire-dans-chaque-departement_6078516_823448.html) du Monde  
+---  
+---  
+8\. Interface Un bel ecrin pour les enquetes de ProPublica  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/2349947b-954d-4d5c-4521-8fdb9fa98f1d.jpeg)  
+---  
+Le media d'investigation americain ProPublica vient de redesigner ses pages articles. Le fruit d'un gros travail _front_ mais aussi en back-office, afin de donner plus de flexibilite aux journalistes.  
+  
+Resultat : les articles peuvent desormais arborer de tres belles introductions visuelles, avec un jeu sur les couleurs. Les illustrations dans les articles s'adaptent aussi intelligemment sur desktop et mobile. Et chose encore rare, la nouvelle version supporte le dark mode adaptatif. Un beau progres pour le confort de lecture.  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/3cadbc64-4a82-3f5c-1f83-a1e5a7974171.gif)  
+---  
+|  -- [En savoir plus](https://www.propublica.org/article/2021-article-page-redesign) chez ProPublica  
+---  
+---  
+9\. Le saviez-vous Que deviennent les pages web apres leur mort ?  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/792dafaf-dc54-1ae2-53d3-6f4c8aec5a57.png)  
+---  
+Le debat revient regulierement : que deviennent les archives des sites web qui ferment ? Yahoo vient par exemple d'annoncer la [fermeture](https://www.lemonde.fr/pixels/article/2021/04/06/yahoo-answers-foyer-des-pires-questions-sur-internet-va-fermer-ses-portes-apres-seize-ans-d-existence_6075742_4408996.html) de son celebre service de Questions / Reponses. Les donnees seront bientot definitivement supprimees. La question se pose aussi pour les medias en ligne. Cette semaine, l'agence Reuters a par exemple supprime des centaines de blogs, sans prevenir leurs auteurs ([evidemment mecontents](https://twitter.com/felixsalmon/status/1389649958895333380?s=21)).  
+  
+**En France** , il existe depuis 2006, un [depot legal des sites web](https://www.bnf.fr/fr/centre-d-aide/depot-legal-des-sites-web-mode-demploi) assure par la BNF. Tous les types de site sont concernes : le processus automatique permet d'archiver environ 60% du web français. Mais contrairement a l'Internet Archive americain, nos « Archives de l'Internet » sont uniquement disponibles a la consultation dans les bibliotheques partenaires.  
+  
+Mieux, **les sites de presse** font meme l'objet d'un traitement specifique : les contenus gratuits et payants des principaux sites nationaux et regionaux sont ainsi archives. Depuis 2010, une centaine de titres sont ainsi captures quotidiennement.  
+  
+Des **collectes cibl ees** ont aussi lieu lors d'evenements majeurs comme les elections ou tout dernierement le [confinement](https://www.lemonde.fr/pixels/article/2020/05/15/a-la-bnf-les-archivistes-du-web-sauvegardent-l-internet-francais-du-confinement_6039704_4408996.html). Il y a deux ans, la fermeture des blogs publics du Monde a meme entraine une operation d'[urgence](https://webcorpora.hypotheses.org/825) pour sauver les milliers de pages supprimees de l'oubli.  
+---  
+|  -- [En savoir plus](https://www.bnf.fr/fr/archives-de-linternet) sur les « Archives de l'internet »   
+---  
+---  
+10\. **Autopromo** Nouveau : un flux personnalise sur Actu.fr  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/c0e71c28-2ac9-0031-1d73-ecd900c2b76d.jpg)  
+---  
+Il y a quelques mois, nous vous racontions notre refonte de la plateforme d'info locale Actu.fr.  
+  
+Nouveaute depuis cette semaine : le site s'enrichit d'une espace « Mon actu », qui permet de creer son fil personnalise d'actualites locales. Suivez vos medias et communes favoris et retrouvez-les en un clic a chaque visite. Une nouvelle fonctionnalite qui devrait aider Actu.fr a fideliser son audience en plein expansion !  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/ec7116b8-fcc9-d4b5-44d7-f7abff9e7880.gif)  
+---  
+|  -- [Decouvrir l'espace « Mon Actu »](https://moncompte.actu.fr/)  
+-- [Lire l'analyse](https://larevuedesmedias.ina.fr/actu-internet-presse-locale-regions-france-publihebdos) de la success story Actu.fr par La Revue des Medias  
+-- [Relire notre etude de cas](https://medium.com/datagif/un-nouveau-site-pour-actu-fr-f806465afe63) sur la refonte d'Actu.fr  
+---  
+---  
+C'est tout pour aujourd'hui. À dans deux semaines !  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/10fff15d-883b-8f45-e884-cbb4f3cf4793.gif)  
+---  
+Vous recevez cet e-mail car vous êtes inscrit•e via le site   
+[medias.datagif.fr](https://medias.datagif.fr/)   
+  
+🏄‍   
+Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)   
+  
+📪  
+Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)   
+  
+✌️  
+Retrouvez la veille et les projets de Datagif sur   
+[Medium](https://medium.com/Datagif) \- [Twitter](https://twitter.com/datagif) \- [Instagram](https://www.instagram.com/datagif) \- [Datagif.fr](https://datagif.fr)   
+  
+👋   
+[Cliquez-ici](*|UNSUB|*) pour vous désabonner   
+  
+  
+*|IF:REWARDS|* *|HTML:REWARDS|* *|END:IF|*   
+  
+  
+---

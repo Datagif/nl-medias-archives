@@ -1,0 +1,106 @@
+---  
+![Médias](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/d060cdc3-f8d4-4207-b9bb-0b8ffda1ca6f.png)  
+La veille innovation et design media par Datagif  
+  
+| *|MC_PREVIEW_TEXT|*  
+---  
+---  
+1\. Strategie Le Washington Post lance une nouvelle verticale dediee au voyage  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/e9cc18ed-af2b-4a9e-a8be-f2fd32ff5e1f.gif)  
+---  
+Ah le voyage… Un maronnier de la presse, qui fait souvent office de nid a publicite. Le Washington Post vient de lancer une nouvelle verticale sur ce theme, intitulee « By The Way ».  
+  
+Pourquoi c'est interessant ? Le WaPo a vraiment travaille sa strategie editoriale et produit, pour interesser les lecteurs et se distinguer de la concurrence.  
+---  
+|  -- Lire [notre thread sur Twitter](https://twitter.com/maxloisel/status/1138345733382426624) pour en savoir plus  
+---  
+---  
+2\. Probleme Selon une etude, 32 % des Europeens evitent activement les medias au quotidien  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/163e27f9-ca44-4af9-a5b3-656f1014e901.jpg)  
+---  
+Le chiffre est important et surtout en hausse de 3 points sur un an. Au Royaume-Uni, la raison principale invoquee (58 %) est que l'actualite a un impact negatif sur l'humeur des interesses. Un constat a mettre en lien avec les fake news, l'info-besite, la polarisation des opinions en ligne... Bref, on se porterait mieux en evitant l'info et cette ambiance anxiogene.  
+  
+L'occasion de s'interroger collectivement : Comment reconcilier ces citoyens avec les medias ? Comment les informer sans les decourager ou les assommer ?  
+---  
+|  -- Les resultats complets de l'etude [chez NiemanLab](https://www.niemanlab.org/2019/06/even-people-who-like-paying-for-news-usually-only-pay-for-one-subscription/)  
+---  
+---  
+3\. Presidentielle Le New York Times realise un grand coup pour les primaires democrates  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/6b05a3df-48e6-4360-adc7-b77fcf885535.png)  
+---  
+À l'approche du premier debat des primaires democrates, le New York Times vient de sortir un ambitieux projet. Le principe ? Le journal a reuni tous les candidat.e.s (21 ont participe, seul Biden a decline la proposition) pour leur poser une serie de 18 questions identiques, sous l'oeil d'une camera. Cela va du tres personnel (« Combien d'heures dormez-vous par nuit ») au plus politique (« Êtes-vous favorable a plus de sieges a la Cour Supreme ? »).   
+  
+![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/c38b8009-57c8-49cf-8dbe-ff549bd6c2d0.png)  
+  
+**Les points int eressants :**  
+● Une interface claire et facile a lire, a consommer avec ou sans le son (grace aux sous-titres)  
+● Plusieurs angles de lecture : on peut aborder le format par question ou par candidat  
+● Pour chaque question, une video introductive compile brievement les positions de chaque candidat (avec un montage tres catchy). On trouve en dessous des focus plus detailles sur chaque candidat.  
+● Les videos sont en autoplay (sans le son), ce qui permet de dynamiser la page  
+● Une totale equite : les meme questions, le meme temps de parole, mais aussi les memes prises de vues neutres pour tous les candidat.e.s  
+---  
+|  -- Les reponses de 21 candidats democrates, [a lire ou regarder ici](https://www.nytimes.com/interactive/2019/us/politics/2020-candidate-interviews.html)   
+---  
+---  
+4\. C'est pas mathematique Pendant une semaine, le Guardian a reduit sa production editoriale d'un tiers et son trafic a... augmente 🚀 Arreter la course au volume et se focaliser sur les contenus a valeur ajoutee : visiblement, [cela fonctionne](https://twitter.com/pilhofer/status/1139537199073058816).   
+---  
+5\. Agregateur Toute la presse economique dans une seule app ?  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/0ed31c67-e421-4c6c-81f1-fb8191b6a8a4.jpg)  
+---  
+La nouvelle application Mogul News propose un modele interessant pour les lecteurs anglo-saxons ferus d'economie.  
+  
+Pour la modique somme de 10$ par mois, elle agrege une selection d'articles de trois medias partenaires (The Economist, Bloomberg et le Financial Times). La selection d'articles est editorialisee et propose des fonctionnalites interessantes (un brief matinal, des dossiers avec plusieurs points de vue sur un meme sujet). On y trouve egalement des recommandations personnalisees. Le tout dans une interface epuree, garantie sans publicite.  
+  
+La meilleure offre possible pour ceux qui s'interessent a l'eco mais hesitent a cumuler des abonnements a tarif plein ?   
+---  
+|  -- Decouvrir [l'application Mogul News](https://mogul.news/)  
+---  
+---  
+6\. Local Un petit site d'info qui a du chien  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/b0e0c5a9-de0d-4bda-a21f-eff8cb443b0f.png)  
+---  
+Notre decouverte de la semaine : le Dublin Inquirer, un petit site d'info irlandais qui existe depuis 4 ans.  
+  
+Rarement un site local nous aura autant frappe par la qualite de son design et ses messages marketing bien travailles. Ici, pas de publicite, le modele economique repose entierement sur l'abonnement. On apprecie egalement la vision editoriale, avec des projets interessants (tracker des decisions municipales, agenda citoyen des lecteurs pour les elections...)  
+  
+Bref, le site se presente comme "local, independant et different", et ça se ressent !  
+---  
+|  -- Visiter le [Dublin Inquirer](https://dublininquirer.com/)  
+---  
+---  
+7\. Publicite Le sponsoring d'articles premium, un modele d'avenir ?  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/54a5e8ae-8a33-487c-b5af-4e092d479f70.jpeg)  
+---  
+Enfin, un format publicitaire dont on se rejouirait presque ! L'Equipe teste depuis quelques jours un nouveau deal avec McDonald's : l'annonceur ne paye plus pour un emplacement classique, mais pour « offrir » les articles premium de L'Equipe en acces libre. Un message relativement discret en informe les lecteurs.   
+  
+C'est gagnant-gagnant :  message positif pour l'annonceur, moins intrusif pour l'utilisateur. Un modele a creuser pour toutes les regies pub ?  
+---  
+---  
+8\. Ressources Datagif etait invite au Congres de la Presse Hebdomadaire Regionale, et voici une selection de ressources que nous avons appreciees  
+|  • Comment mixer [creativite editoriale et info locale](https://docs.google.com/presentation/d/1WRmfnUToxPhtQuHbXFvM8ln_v1oZzy02WW4APwoS7EI/edit#slide=id.g51aec3fb40_0_5641) ? C'est la question a laquelle repond Elise Colette, formatrice dans les redactions, a travers une selection d'exemples issus de la presse française et surtout de methodologie.   
+•  Julien Kostreche, directeur de Ouest Medialab s'est quant a lui penche sur [l'evolution du journalisme avec le numerique](https://docs.google.com/presentation/d/1oTGKHGTvnbGgCKQNY_HKf1spZtP8q5DTpiMt5NPgnXo/edit#slide=id.g334757af50_1_138). Formats, supports, concepts : plein d'exemples qui montrent le champ des possibles.  
+• Les [stories sur Instagram](http://sphr.fr/wp-content/uploads/2019/06/atelier-Stories.pdf), comment ça marche, et que peuvent en faire les medias ? Un tour d'horizon propose par Jonathan Leborgne, consultant independant.   
+• Enfin notre presentation :  [comment aborder une election](https://docs.google.com/presentation/d/13n095XO-1tygFRIDZhGu0VtNLoQYUKDavW5nv0ULJ98/) en tant que media ? Un benchmark articule autour de trois temps : avant l'election (comment susciter l'interet du public), le jour J (en temps reel) et l'apres (le suivi des elus).  
+---  
+Vous recevez cet e-mail car vous êtes inscrit•e via le site   
+[medias.datagif.fr](https://medias.datagif.fr/)   
+  
+🏄‍   
+Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)   
+  
+📪  
+Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)   
+  
+✌️  
+Retrouvez la veille et les projets de Datagif sur   
+[Medium](https://medium.com/Datagif) \- [Twitter](https://twitter.com/datagif) \- [Instagram](https://www.instagram.com/datagif) \- [Datagif.fr](https://datagif.fr)   
+  
+👋   
+[Cliquez-ici](*|UNSUB|*) pour vous désabonner   
+  
+  
+*|IF:REWARDS|* *|HTML:REWARDS|* *|END:IF|*   
+  
+  
+---

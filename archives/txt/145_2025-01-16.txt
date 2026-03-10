@@ -1,0 +1,155 @@
+*|MC_PREVIEW_TEXT|*  
+  
+͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿
+
+| | [Ouvrir dans le navigateur](*|ARCHIVE|*)  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/697bab60-47b9-e5b2-9854-270509b44d20.png)](*|ARCHIVE|*)  
+---  
+  
+| | | ![Médias](https://newsletter.datagif.fr/ext/datagif/img/medias-v2.png)  
+---  
+  
+| 145  
+---  
+  
+| | La veille innovation et design média par Datagif  
+---  
+  
+| | | Notre marronnier de janvier a nous  
+---  
+L'exercice des predictions n'est pas une science exacte. [Depuis 2018](https://medium.com/datagif/tagged/perspective) que l'on se prete au jeu, notre methode reste peu ou prou la meme : s'appuyer sur nos observations, les signaux faibles qui s'intensifient ; ajouter un soupçon de souhait ou d'inquietude sur la base de nos lectures ; puis confronter tout cela avec des exemples possibles. Quoi qu'il en soit, n'hesitez pas a reagir : dites-nous si certaines vous interpellent, ou si vous en avez de votre cote egalement ! Bonne lecture 🔮  
+  
+| | | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/dd27fd0a-f659-dbfe-2c8d-0fa69e1c9747.png)  
+---  
+  
+| Gaetan Duchateau  
+---  
+Lead @Datagif  
+  
+| | | Chamboulement  
+---  
+  
+| 1️⃣  
+---  
+  
+| | La mort de Google Search  
+---  
+| ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/061a05c8-2c64-7edd-170a-f34c51c02135.png)  
+---  
+C'est un sujet largement debattu en 2024 : le moteur de recherche autrefois incontournable est en declin face a la montee en puissance de l'IA, a la 'merdification' du web et a ses propres choix strategiques contestables. Pour les medias, on observe deja une baisse significative du trafic en provenance de Google, aggravee par la diminution du (deja modeste) trafic issu des reseaux sociaux tels que X ou Facebook.  
+  
+La solution ne sera pas unique et necessitera des efforts dans de multiples actions : diversifier les sources de trafic pour attirer les lecteurs, en misant sur des strategies comme les partenariats (voir plus loin), le developpement de communautes engagees, l'optimisation de l'experience utilisateur afin de favoriser un ecosysteme media complet et rassurant, ou la creation de contenus interactifs et personnalises tirant profit du format web, se demarquant face aux contenus generes par IA.  
+  
+| | | Format  
+---  
+  
+| 2️⃣  
+---  
+  
+| | Une lecture de plus en plus sequencee  
+---  
+| ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/6a7029c6-808e-4065-0df1-2265e544301a.png)  
+---  
+C'est un mouvement que l'on suit depuis un moment et qui va encore s'accentuer selon nous. Rappelez-vous, quand Instagram a lance son format _Stories_ en 2016, il y a 9 ans deja, personne ne croyait a une lecture d'articles decoupee en plusieurs ecrans. On en rigole aujourd'hui, non ? C'est pourtant devenu un format a part entiere et notre intuition porte sur l'evolution de sites et apps dans ce sens : proposer des articles decoupes en ecrans, **abandonnant la classique "page article"**.  
+  
+Imaginez bien : une app media qui mime des usages deja bien installes, avec du contenu sur sa propre plateforme sans devoir dependre de reseaux sociaux severes, sans en plus devoir produire ses articles dans deux formats differents… Si en plus on ajoute la surcouche d'interaction façon quiz (format le plus populaire sur TikTok), on commence a tenir quelque chose de pas mal…  
+  
+| | | ![](https://newsletter.datagif.fr/ext/datagif/img/newsletter.png) Bienvenue  
+---  
+Premiere lecture de notre newsletter ? Ne manquez pas les prochaines editions !  
+| [S'abonner en deux clics ](https://datagif.fr/newsletter-medias/)  
+---  
+  
+| | | Sur mesure  
+---  
+  
+| 3️⃣  
+---  
+  
+| | Ultra personnalisation des contenus grace a l'IA  
+---  
+| ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/e1e2dd59-0489-99ea-a902-e2f73bb3ca75.png)  
+---  
+Grace aux donnees de personnalisation (historique, interactions, localisation…), les medias ont reussi a dresser des profils utilisateurs detailles, leur permettant de proposer des articles en lien avec les centres d'interets supposes de leurs publics. Cependant, cette personnalisation reste limitee par grands ensembles, ou cohortes d'utilisateurs. Et si l'IA ouvrait de nouvelles perspectives en permettant une hyper-personnalisation individuelle des contenus ?  
+  
+On pourrait imaginer alors le renouvellement des onglets _Explorer_ hyper-personnalises, l'hypothetique page d'accueil sur-mesure, la generation d'articles uniques a la volee, mais aussi des videos, podcasts et newsletters qui repondraient a des besoins specifiques. Imaginez un media qui vous proposerait chaque matin un resume personnalise de l'actu, en composant avec les sujets qui vous interessent le plus. Si la personnalisation existe deja, on predit un glissement vers l'anticipation des besoins et preferences d'information jusqu'a un eclatement de la production - pour le meilleur, et pour le pire.  
+  
+| | | Image  
+---  
+  
+| 4️⃣  
+---  
+  
+| | Trancher le dilemme des generateurs d'images  
+---  
+| ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/38c9e2ff-7062-761c-0cee-d6478530305f.png)  
+---  
+Ces outils, faciles a utiliser et capables de produire des images impressionnantes de plus en plus realistes, soulevent d'importantes questions ethiques : un algorithme peut-il remplacer le travail humain et creatif ? Et chaque nouvelle avancee dans le domaine de l'IA relance le debat sur son integration dans les processus de production des medias. L'attrait principal de ces outils residant dans **le gain de temps et la r eduction des couts qu'ils permettent**.  
+  
+Ignorer l'IA serait une erreur strategique et une veille constante sur ses evolutions est indispensable, car certains usages peuvent etre benefiques. Mais **maintenir un lien de confiance avec le public n ecessite un travail journalistique de qualite**, realise par des humains. L'utilisation des generateurs d'images, bien que tentante, represente donc un risque pour l'authenticite et l'image d'une marque media. Il va donc falloir trancher : utilisation, ou restriction ?  
+  
+| | | Vous souhaitez partager nos predictions ?  
+---  
+Envoyez-les a vos collegues pour ouvrir la discussion !  
+📬 en transferant cette newsletter  
+✍️ en partageant [notre lien Medium](https://medium.com/datagif/les-7-predictions-media-de-datagif-pour-2025-0d02efa9ab56)  
+  
+| | | Force  
+---  
+  
+| 5️⃣  
+---  
+  
+| | Rationalisation de la marque-media  
+---  
+| ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/aaf4cf0b-0bf3-47bd-7615-92957cd30090.png)  
+---  
+Comment lancer une nouvelle verticale en 2025 ? Apres une periode faste de creation de marques dediees a des produits editoriaux, nous observons une rationalisation autour de la marque-media mere. Des declinaisons qui s'inscrivent dans une unite de ton et d'identite, dans le but de capitaliser davantage sur l'acquis et l'existant plutot que de reinventer la roue a chaque lancement de verticale.  
+  
+Concretement, **les utilisateurs ont besoin de se sentir en confiance, dans un environnement bien identifi e**. Les amener a decouvrir un nouvel espace est un travail considerable, les fideliser est necessaire. Surtout quand un media a enfin passe le cap d'exprimer ses valeurs, convictions pour ainsi faire adherer un public compatible. Ce qui mene a un besoin sur lequel nous sommes cales : l'harmonisation des elements de communication des contenus, dans un esprit de famille, sans pour autant gommer les asperites des differents produits editoriaux.  
+  
+| | | Catalogue  
+---  
+  
+| 6️⃣  
+---  
+  
+| | Repenser la recherche dans ses contenus  
+---  
+| ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/c005df40-d202-6298-5548-0147e22e50f2.png)  
+---  
+Si ça sent la fin pour Google, a l'inverse on pense que **la recherche interne va se r evolutionner sur les medias**. Oui oui, vous l'avez lu ici en premier. Les moteurs de recherche par mots-cles actuels sont obsoletes, souvent delaisses, voire meme parfois inexistants. Le pire etant quand les utilisateurs sont contraints d'utiliser Google pour chercher du contenu sur le site.  
+  
+L'arrivee de nouveaux outils de recherche IA va transformer radicalement l'experience de recherche. Des outils comme Miso Answers, deployables facilement, permettent aux internautes d'interagir avec les contenus de maniere fluide, et non plus se debattre avec une page de liens a cliquer dans un ordre mal defini. 2025 est donc l'annee ideale pour refondre sa page de recherche et s'attaquer a un chantier souvent mis sous le tapis : **valoriser les archives**.  
+  
+| | | Combo  
+---  
+  
+| 7️⃣  
+---  
+  
+| | Le retour des alliances entre medias independants et des offres communes  
+---  
+| ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/2850cead-2c4f-917b-4b43-84d2504215cd.png)  
+---  
+C'est une prediction qu'on appelait nos voeux il y a quelques annees deja (coucou le chimerique "Spotify de la presse") et qui ne s'est jamais vraiment concretisee. Mais dernierement des initiatives comme l'abonnement couple Politis / Arret sur images, le portail des medias independants de Basta! ou le projet Coop-medias vont dans le bon sens : **il est temps (et n ecessaire) de regrouper ses forces.**  
+  
+D'un cote, les lecteurs prets a payer pour la presse ne peuvent pas cumuler a volonte les abonnements a des medias independants ; de l'autre, la baisse des trafics organiques et sociaux doivent forcer les medias a trouver des nouveaux moyens d'attirer les lecteurs sur leurs sites. Resultat : l'heure des abonnements multisites et des portails d'actualites est donc peut-etre enfin arrivee.  
+  
+| | | Et bonne annee 2025 🎉  
+---  
+On en profite pour vous souhaiter une annee... animee !   
+Il y a quelques temps, on nous a fait la remarque : "Vous vous appelez Datagif, mais vous ne faites jamais de gifs 🤔". Il ne fallait pas nous le dire deux fois. [Voici nos voeux pour 2025, a partager a vos collegues](https://2025.datagif.fr/) ✨  
+par  
+| [![DATAGIF](https://newsletter.datagif.fr/ext/datagif/img/logo-big.png)](https://datagif.fr)  
+---  
+  
+| | | ![](https://newsletter.datagif.fr/ext/datagif/img/social.png) Retrouvez-nous sur les réseaux  
+---  
+[Medium](https://datagif.medium.com/) [X](https://x.com/datagif) [Bluesky](https://bsky.app/profile/datagif.bsky.social) [Instagram](https://www.instagram.com/datagif/) [Threads](https://www.threads.net/@datagif) [Linkedin](https://www.linkedin.com/company/datagif/) [Datagif.fr](https://datagif.fr/)  
+  
+| | Vous recevez cet e-mail car vous êtes inscrit•e via le site [datagif.fr](https://datagif.fr/newsletter-medias/)Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)  
+👋 [Cliquez-ici](*|UNSUB|*) pour vous désabonner  
+---

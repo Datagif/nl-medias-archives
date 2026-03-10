@@ -1,0 +1,92 @@
+---  
+![Médias](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/d060cdc3-f8d4-4207-b9bb-0b8ffda1ca6f.png)  
+La veille innovation et design media par Datagif  
+  
+| *|MC_PREVIEW_TEXT|*  
+---  
+---  
+1\. Long format 19 ans de couverture de Vogue (et le resultat ne devrait pas vous surprendre)  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/15fbadc4-078c-4c20-979d-c9243ece0796.png)  
+---  
+Un long format a scroller pour visionner 19 annees (de 2000 a 2018) de la couverture du magazine Vogue et se rendre compte… du peu de diversite de couleur de peau des mannequins a la une. Point interessant, une grande partie de ce travail fut automatise : d'abord le telechargement du fond d'archive, puis un outil pour filtrer le fond de l'image, un autre outil de reconnaissance de la peau humaine. The Pudding explique etre tout de meme intervenu pour rectifier manuellement certaines erreurs.  
+---  
+|  -- Le long format a retrouver [ici ](https://pudding.cool/2019/04/vogue/)  
+---  
+---  
+2\. Video Les Decodeurs du Monde se declinent en video sur YouTube  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/99e838d9-3aaf-4c9a-aa63-c46635cc7298.jpg)  
+---  
+Le Monde lance une nouvelle serie video dediee au decryptage des fake news et pensee pour YouTube. La serie se presente comme une declinaison de la verticale « Les Decodeurs », avec des episodes de 5 minutes publies toutes les deux semaines. La narration est tres rythmee (voire decalee), et s'adresse visiblement a une cible assez jeune.  
+  
+L'ambition est d'etendre encore la visibilite du Monde sur YouTube, afin de toucher de nouvelles audiences. La chaine vient d'ailleurs d'atteindre la barre des 500 000 abonnes, grace a ses productions de plus en plus lechees.  
+---  
+|  -- Voir [le premier episode sur YouTube](https://www.youtube.com/watch?v=Ouc6u0jGCWY)  
+---  
+---  
+3\. Outil Contexte vous donne une idee des futur.e.s elu.e.s au Parlement europeen  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/1324dca6-2ccb-464b-9293-88b9014dea2b.png)  
+---  
+La campagne pour les elections europeennes est lancee et Contexte s'illustre par un format bien pense qui permet de prendre connaissance des candidat.e.s susceptibles d'etre elu.e.s au Parlement europeen. Correlees aux intentions de vote par liste, Contexte renseigne les profils des probables futur.e.s elu.e.s. Utile et informatif, ne manque qu'une belle couche graphique !   
+---  
+|  -- Retrouvez l'outil sur le site de [C](https://www.theinformation.com/)[ontexte](https://www.contexte.com/article/pouvoirs/elections-europeennes-les-candidats-a-suivre_98969.html)  
+---  
+---  
+4\. KPI Comment mesurer le succes d'une newsletter ?  
+|  Si on a l'habitude des KPI pour le suivi de sites, il est plus rare de voir des indicateurs dedies aux newsletters. Or ce format editorial specifique merite bien ses propres metriques.  
+Un post Medium interessant identifie six indicateurs :  
+\- La croissance mensuelle de la liste d'abonnes  
+\- Ratio clic / taux d'ouverture  
+\- Pourcentage de lecteurs avec un taux d'ouverture de plus de 50% / mois  
+\- Minutes d'engagement par newsletter  
+\- Taux d'ouverture mobile  
+\- Trafic pour 1000 mails envoyes  
+Les particularites et les interets de ces indicateurs sont a retrouver dans le Medium !   
+---  
+|  -- Lire le [post](https://blog.getrevue.co/six-email-metrics-that-matter-that-arent-open-rate-bd7e498c0979)  
+---  
+---  
+5\. Notre-Dame Mais ou est donc le storytelling visuel sur les sites d'info français ?  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/d60699f1-f5f6-419b-b1c3-38bbb8b19ea6.gif)  
+---  
+L'incendie de Notre-Dame a declenche une avalanche de contenus chez les medias du monde entier... mais les sites d'info français ont-ils ete a la hauteur de l'evenement ?   
+  
+Nous observons avec une pointe de regret que les redactions françaises ont deploye peu de moyens du cote de la narration visuelle. Hormis ces exemples [des Echos](https://www.lesechos.fr/politique-societe/societe/lincendie-de-notre-dame-maitrise-les-degats-restent-difficiles-a-evaluer-1009664) ou [du Parisien](https://twitter.com/MonsieurPierre/status/1118268738942525440), peu d'illustrations ou schemas explicatifs ont ete publies a chaud. Et bien souvent, ils ne sont pas penses pour le Web ou sont peu mis en avant sur les sites.  
+  
+Le storytelling visuel est pourtant indispensable pour repondre aux questions immediates des lecteurs : _Qu 'est-ce qui a reellement brule ? Comment s'est propage l'incendie ?_  Deux exemples plus ou moins complexes, en provenance du New York Times :   
+-- [Des illustrations simples sur l'incendie](https://www.nytimes.com/interactive/2019/04/15/world/europe/paris-notre-dame-fire.html), decoupees pour la lecture sur le Web  
+-- Et [un format interactif en 3D](https://www.nytimes.com/interactive/2019/04/17/world/europe/notre-dame-cathedral-fire-spread.html), beaucoup plus sophistique  
+---  
+|   
+---  
+---  
+6\. Transparence The Pudding appelle a la collaboration en publiant ses idees editoriales  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/2d499623-422e-4e46-9e02-0ec371503f7f.jpg)  
+---  
+Le site The Pudding, dont on vous parle regulierement dans cette newsletter, a la particularite d'explorer des sujets en profondeur de maniere visuelle et avec beaucoup de transparence dans son processus de fabrication des articles.  
+  
+Recemment, le site a ouvert son espace "[backlog](https://pudding.cool/backlog/)" : la liste des potentiels sujets que l'equipe voudrait explorer. Vous etes interesse.e par une idee et souhaitez y collaborer ? C'est possible. Un sujet vous inspire et vous souhaitez vous en emparer, avec l'appui de The Pudding ? C'est possible egalement. Cette liste d'idees d'articles, en general non divulguee par les redactions, renforce la transparence qui est une des forces de The Pudding. Et pour ne rien enlever a l'aspect positif de la demarche, la page est simple et claire, on aime !  
+---  
+|  -- Decouvrir [le backlog de The Pudding](https://pudding.cool/backlog/)  
+---  
+Vous recevez cet e-mail car vous êtes inscrit•e via le site   
+[medias.datagif.fr](https://medias.datagif.fr/)   
+  
+🏄‍   
+Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)   
+  
+📪  
+Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)   
+  
+✌️  
+Retrouvez la veille et les projets de Datagif sur   
+[Medium](https://medium.com/Datagif) \- [Twitter](https://twitter.com/datagif) \- [Instagram](https://www.instagram.com/datagif) \- [Datagif.fr](https://datagif.fr)   
+  
+👋   
+[Cliquez-ici](*|UNSUB|*) pour vous désabonner   
+  
+  
+*|IF:REWARDS|* *|HTML:REWARDS|* *|END:IF|*   
+  
+  
+---

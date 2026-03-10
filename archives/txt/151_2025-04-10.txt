@@ -1,0 +1,243 @@
+*|MC_PREVIEW_TEXT|*  
+  
+͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿
+
+| | [Ouvrir dans le navigateur](*|ARCHIVE|*)  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/b64e1be3-f082-1915-62be-2fe83d9e6c1a.png)](*|ARCHIVE|*)  
+---  
+  
+| | | ![Médias](https://newsletter.datagif.fr/ext/datagif/img/medias-v2.png)  
+---  
+  
+| 151  
+---  
+  
+| | La veille innovation et design média par Datagif  
+---  
+  
+| | | À quoi bon faire de la veille ?  
+---  
+C'est une vaste question a laquelle j'ai du serieusement reflechir, quand l'ecole Sup de pub m'a propose d'animer un module dedie. Ce qui me semble etre une evidence ne l'est pas forcement. La veille, c'est etre curieux*se, ouvrir ses horizons, sa reflexion, s'interroger sur des usages, des phenomenes, accumuler des references... Mais ça c'est juste la moitie de la veille. L'autre moitie, c'est l'organiser, la structurer, creer ses routines, et la restituer. Pouvoir l'invoquer quand on en a besoin en reunion ou en reflexion, s'appuyer sur de l'accumulation pour en tirer des principes, ou au contraire des exemples uniques qui feront la difference. Bref, la veille n'est pas necessairement naturelle, mais elle devrait l'etre pour gagner du temps ensuite. Dans une prochaine edition, je vous raconterai ce que j'ai propose aux etudiants, vous me direz ce que vous en pensez !  
+  
+| | | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/dd27fd0a-f659-dbfe-2c8d-0fa69e1c9747.png)  
+---  
+  
+| [Gaetan Duchateau](mailto:gaetan@datagif.fr)  
+---  
+Lead @Datagif  
+  
+| | | **Magazine**  
+---  
+  
+| **📰**  
+---  
+  
+| | AOC passe du site web au kiosque  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/7866c4fc-cfbd-b30c-74ec-8d1f61bed5b3.gif)](https://aoc.media/produit/revue-1-intelligence-artificielleprintemps-2025/)  
+---  
+Le media en ligne [AOC](https://aoc.media/) lance sa version papier, distribuee en kiosque chaque trimestre et reprenant une selection d'articles du site selon une thematique differente pour chaque saison. Ce n'est pas une premiere pour un site web, mais l'idee fonctionne ici tres bien et offre un point d'entree physique vers le numerique, dans la continuite de leur collection « Imprimes AOC » [deja presente en librairie](https://aoc.media/librairie/).  
+  
+La bonne idee : aller chercher les lecteurs la ou ils sont, [avec des offres d'abonnement liees a l'edition papier,](https://aoc.media/abonnement-saisons/) pensees pour favoriser la conversion vers le site. Une strategie astucieuse, bien adaptee a leurs formats longs et exigeants, et comme pour le site web, un soin particulier apporte a la mise en page et a la typographie.  
+  
+Enfin, ce qui ne gache rien, [le numero #1](https://aoc.media/produit/revue-1-intelligence-artificielleprintemps-2025/), [consacre a l'intelligence artificielle](https://www.lemonde.fr/idees/article/2025/04/04/le-media-aoc-bouscule-l-intelligence-artificielle_6590841_3232.html), devrait interesser une grande partie des lecteurs de cette newsletter.  
+[Acheter le premier numero papier d'AOC](https://aoc.media/produit/revue-1-intelligence-artificielleprintemps-2025/)  
+  
+| | | Tableau  
+---  
+  
+| 💰  
+---  
+  
+| | Tout comprendre a la cacophonie sur les 'tariffs' de Trump : promulgues, menaces ou annules  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/4335b446-32f3-fe78-4907-2aae77ad8ea0.gif)](https://www.washingtonpost.com/business/interactive/2025/trump-tariffs-enacted-effect-threatened/)  
+---  
+Le sujet aurait pu etre traite sous la forme d'une sitcom, mais le WaPo a choisi quelque chose de visuellement plus efficace : un bon vieux tableau. Mais pas statique : un tableau qui permet de voir l'evolution des taxes, entre les propositions, les actions et les abandons au fil des jours et des discussions.   
+  
+L'article cumule plusieurs points d'inspiration :  
+• il est mis a jour au fil des evolutions (l'audience y revient donc)  
+• il apporte une information synthetique dans la 2e partie (le tableau recap)  
+• il illustre, par l'evolution du statut des taxes, la confusion totale du sujet, tout en informant (ça n'est pas qu'un effet visuel gratuit).  
+  
+Et d'ailleurs, l'evolution suivie des prix est un des fers-de-lance du media, exemple tout de suite apres la coupure...  
+[Consulter le tableau du WaPo qui fait le point sur les tariffs](https://www.washingtonpost.com/business/interactive/2025/trump-tariffs-enacted-effect-threatened/)  
+  
+| | | Spoiler alert  
+---  
+Nous ne sommes pas qu'une newsletter 🤓  
+Voila pres de 7 ans que cette newsletter existe, mais vous ne le savez peut-etre pas : nous ne sommes pas qu'une newsletter. Nous sommes [Datagif](https://datagif.fr/), une agence de strategie et design d'information. Nous avons cree cette newsletter car une partie de nos clients sont des medias, effectivement, et cela nous permet de partager au plus grand nombre la veille que nous faisons en interne. Le but pour nous : identifier les signaux faibles, les tendances dans les evolutions d'usages, les mecaniques UX et design interessantes qui nourriront notre reflexion pour les projets sur lesquels nous sommes impliques. Vous n'imaginez pas comme ça nous rend particulierement efficaces lorsque l'on travaille sur la refonte d'un site ou d'une appli. [Envie d'en savoir plus ?](https://datagif.fr/medias/)  
+  
+| | | Inflation  
+---  
+  
+| 💸  
+---  
+  
+| | Le Washington Post suit chaque semaine l'evolution du prix d'aliments grand public  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/6480d85f-edbb-667a-e5ec-a76e3c07eb86.jpg)](https://www.washingtonpost.com/opinions/interactive/2025/trump-food-prices-tracker/)  
+---  
+"_Gagner l 'election presidentielle de 2024 sera probablement plus facile pour Donald Trump que d'atteindre son objectif promis de reduire les prix des produits alimentaires_" introduit le Washington Post - sans rire ! Face a la montee des droits de douane, ainsi que les differents facteurs environnementaux sur la production des denrees alimentaires, l'inflation est le scenario le plus probable pendant ce second mandat de Trump.   
+  
+Pour mesurer cette evolution, le WaPo a cree un outil de suivi de divers produits alimentaires depuis 2018. Et pour rendre les donnees plus significatives, les ingredients ont ete agreges en groupes de depenses courantes tres accessibles : le cout d'un barbecue, d'un petit dej ou encore d'un sandwich BLT... Les tableaux de comparaison sont mis a jour chaque semaine, permettant de suivre de pres les evolutions de denrees alimentaires - et de **capitaliser sur le long cours sur un seul et unique gabarit**.   
+[Tracker l'evolution des prix depuis 2018](https://www.washingtonpost.com/opinions/interactive/2025/trump-food-prices-tracker/)  
+  
+| | | Groupement  
+---  
+  
+| 📺  
+---  
+  
+| | L'abonnement couple service + media  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/50d2993d-d25e-454a-ca0d-758c83bb3409.jpg)](https://www.theatlantic.com/sponsored/google/dialogues/3941/)  
+---  
+7e point de nos [predictions 2025](https://medium.com/datagif/les-7-predictions-media-de-datagif-pour-2025-0d02efa9ab56) : des passerelles malignes pour des abonnements partages. Bon, on faisait le focus sur de plus petits acteurs, mais l'exemple de cette semaine est particulierement parlant : la plateforme de contenu video [HBO Max s'allie a Telerama](https://abos.telerama.fr/max) pour une offre d'abonnement unique. C'est tres malin, car c'est une offre complementaire, qui couvre une chaine de valeur de bout en bout. Avec deux marques tres axees sur la qualite. L'offre est egalement etendue [au Monde](https://abo.lemonde.fr/max-lm#:~:text=Cette%20offre%20propose%20un%20tarif,de%2018%20ans%20ou%20plus.) mais bon, le lien est moins evident selon nous.  
+  
+| | | Le 50/50  
+---  
+Envie d'explorer un format ?  
+Cliquez sur le tag, tous nos liens sont juste derriere  
+  
+| | | [🐍 long](https://datagif.fr/liens/?format=long)  
+---  
+  
+| | [📝 liste](https://datagif.fr/liens/?format=liste)  
+---  
+  
+| | |   
+---  
+Il y 15 jours  
+La claque ! Un resultat qui correspond bien aux preoccupations mediatiques…  
+  
+| | | [🐝 societe](https://datagif.fr/liens/?theme=societe)  
+---  
+  
+| | [🏆 62%](https://datagif.fr/liens/?theme=climat)  
+---  
+  
+| |   
+---  
+  
+| | | [🌦️ climat](https://datagif.fr/liens/?theme=climat)  
+---  
+  
+| | [38%](https://datagif.fr/liens/?theme=tech)  
+---  
+  
+| | | Musique  
+---  
+  
+| **🎧**  
+---  
+  
+| | **L 'arbre genealogique des tubes**  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/c21b40eb-ba0d-b8f2-81bb-6aa93142aa44.jpg)](https://pudding.cool/2025/04/music-dna/)  
+---  
+Voici encore un long format remarquable signe [The Pudding](https://pudding.cool/2025/04/music-dna/), qui montre comment les chansons se transmettent d'une generation a l'autre en reutilisant melodies, refrains ou samples.  
+  
+Le projet s'appuie sur un jeu de donnees massif, issu de sites comme Genius.com, WhoSampled ou Spotify, ainsi que de sources academiques et journalistiques. Mais sa force tient autant au travail de musicologie derriere : les connexions realisees ne sont pas de simples extractions automatisees, mais le fruit d'une analyse minutieuse, croisant donnees officielles, interpretations officieuses et ecoute attentive.  
+  
+Le resultat : un immense arbre genealogique musical interactif, ou il est possible de comprendre de maniere aisee et sonore les filiations entre les morceaux. Et puis aussi de quoi briller en soiree en expliquant que "Hit Em Up" de Tupac est en realite un lointain descendant du Roi de la Montagne d'Edvard Grieg.  
+[Explorer le format interactif de The Pudding](https://pudding.cool/2025/04/music-dna/)  
+  
+| | | Le lien de Melanie, UX/UI  
+---  
+Le _creative playbook_ 2025 de l'evenement Recess  
+  
+| | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/72315504-ae3d-e697-3d92-ed1032809655.png)  
+---  
+  
+| | Plus qu'un simple rapport des tendances 2025, [ce pdf est une grosse pepite](https://static1.squarespace.com/static/645277164ea8460896304f0f/t/6799c0a80f61d5547ac3896c/1738130184565/%F0%9F%8C%B5RECESS_2025_CREATIVE_PLAYBOOK%F0%9F%8C%B5.pdf) qui rassemble les astuces, les outils preferes et les sources d'inspiration de 37 pros de design dans 32 pays du monde. Il y a de quoi cliquer pour plusieurs jours ! Chez Datagif on a beaucoup aime que les creatifs partagent leurs routines, leurs outils, en expliquant pourquoi et comment ils les utilisent. L'occasion de constater que l'on en partage certains, mais pas toujours. Et vous, ça vous inspire ?  
+---  
+  
+| | | Le meilleur lien de l'edition n°150  
+---  
+  
+| | Le National Geographic a gagne la 1ere place   
+---  
+Comme une envie d'ailleurs ? On vous comprend ! Vous avez ete nombreux a suivre le parcours de l'eau dans la foret amazonienne, et decouvrir les differents principes de navigation proposes par le National Geographic.   
+[(re)Decouvrir l'experience immersive du National Geographic](https://www.nationalgeographic.com/into-the-amazon/)  
+  
+| | | Photogrammetrie  
+---  
+  
+| 🗺️  
+---  
+  
+| | Gaza : Le camp**** de refugies de Jabaliya en trois dimensions  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/c94ba1d9-26ac-c3e8-9e95-5e74e33820cf.png)](https://www.lemonde.fr/international/visuel/2025/04/03/les-ravages-de-la-guerre-a-gaza-captures-en-trois-dimensions_6590099_3210.html)  
+---  
+À l'initiative de Forbidden Stories, dans le cadre du [_Gaza Project_](https://forbiddenstories.org/fr/gaza-project-pourquoi-nous-lavons-fait/), Le Monde a publie une representation 3D saisissante du camp de refugies de Jabaliya, l'une des zones les plus bombardees de Gaza depuis le debut de la guerre.  
+Cette modelisation 3D de la ville offre un aperçu avant/apres au defilement, appuye par des videos qui temoignent de l'etat du camp apres trois attaques israeliennes. Un format percutant et realiste, qui s'appuie sur un travail journalistique rigoureux. L'article revient egalement sur les circonstances de la mort du journaliste Mahmoud Samir Islim Al-Basos, dont les prises de vue aeriennes par drone ont permis cette reconstitution.  
+[Decouvrir l'enquete de Forbidden Stories et du Monde](https://www.lemonde.fr/international/visuel/2025/04/03/les-ravages-de-la-guerre-a-gaza-captures-en-trois-dimensions_6590099_3210.html)  
+  
+| | | ![](https://newsletter.datagif.fr/ext/datagif/img/newsletter.png) Vous avez un nouvel e-mail  
+---  
+Vous decouvrez cette newsletter via quelqu'un qui vous l'a sympathiquement envoyee ? Ne manquez pas le prochain numero !  
+| [Abonnez-vous ](https://datagif.fr/newsletter-medias/)  
+---  
+  
+| | | Introduction  
+---  
+  
+| 📊  
+---  
+  
+| | Franceinfo donne l'info avant le titre  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/16f29692-647e-820a-c51d-5b00a9ee86ab.png)](https://www.francetvinfo.fr/economie/automobile/crise-automobile/infographies-de-l-effondrement-des-ventes-a-la-fermeture-des-usines-mecanique-d-un-secteur-automobile-en-crise_7129404.html)  
+---  
+Pour illustrer la crise du secteur automobile, France Info adopte une approche visuelle interessante. L'article debute de maniere peu conventionnelle, par [l'animation d'un graphique](https://www.francetvinfo.fr/economie/automobile/crise-automobile/infographies-de-l-effondrement-des-ventes-a-la-fermeture-des-usines-mecanique-d-un-secteur-automobile-en-crise_7129404.html) et une succession d'informations complementaires au defilement, **et ce avant d 'annoncer le titre**.  
+  
+On aime beaucoup car c'est malin :  
+• l'audience a deja lu le titre par ailleurs (newsletter, fil social, page d'accueil...)  
+• ça reprend les mecaniques de videos Reels (Instagram ou TikTok) qui consistent a donner la fin en premier  
+• l'info est directement la, visuelle et accessible.  
+[La crise automobile en graphique](https://www.francetvinfo.fr/economie/automobile/crise-automobile/infographies-de-l-effondrement-des-ventes-a-la-fermeture-des-usines-mecanique-d-un-secteur-automobile-en-crise_7129404.html)  
+  
+| | | Bonus  
+---  
+Quand il n'y en a plus… vous connaissez la suite  
+🤖 Le [New York Times](https://www.nytimes.com/interactive/2025/03/26/business/ai-smarter-human-intelligence-puzzle.html) vous met au defi d'etre plus intelligent qu'une IA.  
+  
+💭 [The Economist](https://www.economist.com/interactive/culture/2025/03/20/what-is-in-a-name) examine les prenoms les plus populaires et leurs connotations aux US et au UK.  
+  
+🌪️ Votre prenom pourrait-il etre celui d'un ouragan ? Faites le test avec le [WaPo](https://www.washingtonpost.com/weather/interactive/2025/hurricane-names-list-storm-naming/).  
+  
+🚛 Aux Etats-Unis, les appels a temoignages de fonctionnaires americains se multiplient. [ProPublica](https://www.niemanlab.org/2025/03/propublica-wanted-to-find-more-sources-in-the-federal-government-so-it-brought-a-truck/?utm_source=substack&utm_medium=email) envoie carrement un camion en bas des bureaux de l'USAID lors du demantelement soudain de l'agence.  
+  
+🎨 Évaluez la sante de votre "biome social" avec le [NYT](https://www.nytimes.com/interactive/2025/04/02/well/social-life-quiz.html), et decouvrez leurs tres jolies illustrations.  
+  
+🎂 Marsactu revient sur 10 ans d'enquete dans [un beau dossier bien complet](https://marsactu.fr/long-format-marsactu-10-ans-de-revelations/). Joyeux anniversaire !  
+  
+🔥 Le [NYT](https://www.nytimes.com/interactive/2025/04/04/magazine/los-angeles-fires-altadena.html) reconstitue la rue de Wapello, dont les maisons ont toutes ete detruites pendant les incendies de janvier a Los Angeles.   
+  
+| | | Merci pour votre lecture  
+---  
+✏️ Cette edition a ete preparee par Athenais, Lucie, Charly, Melanie, Aurore et Gaetan  
+  
+👀 Ce sur quoi on travaille en ce moment, entre autres :  
+  
+• du benchmark d'application : comment re-donner de la valeur a un produit inscrit dans un ecosysteme de contenus ?  
+• le deploiement de l'identite video pour le Fonds social europeen  
+• la reflexion autour d'un programme d'innovation interne  
+  
+Vous avez un sujet en tete et souhaitez nous le partager ? Il suffit de repondre a ce mail ! À bientot 👋  
+   
+par  
+| [![DATAGIF](https://newsletter.datagif.fr/ext/datagif/img/logo-big.png)](https://datagif.fr)  
+---  
+  
+| | | ![](https://newsletter.datagif.fr/ext/datagif/img/social.png) Retrouvez-nous sur les réseaux  
+---  
+[Medium](https://datagif.medium.com/) [X](https://x.com/datagif) [Bluesky](https://bsky.app/profile/datagif.bsky.social) [Instagram](https://www.instagram.com/datagif/) [Threads](https://www.threads.net/@datagif) [Linkedin](https://www.linkedin.com/company/datagif/) [Datagif.fr](https://datagif.fr/)  
+  
+| | Vous recevez cet e-mail car vous êtes inscrit•e via le site [datagif.fr](https://datagif.fr/newsletter-medias/)Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)  
+👋 [Cliquez-ici](*|UNSUB|*) pour vous désabonner  
+---

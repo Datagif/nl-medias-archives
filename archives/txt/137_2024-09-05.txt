@@ -1,0 +1,184 @@
+*|MC_PREVIEW_TEXT|*  
+  
+͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿
+
+| | [Ouvrir dans le navigateur](*|ARCHIVE|*)  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/5fee7e0a-ea0b-f3fd-da0f-311341543c0e.png)](*|ARCHIVE|*)  
+---  
+  
+| | | ![Médias](https://newsletter.datagif.fr/ext/datagif/img/medias-v2.png)  
+---  
+  
+| 137  
+---  
+  
+| | La veille innovation et design média par Datagif  
+---  
+  
+| | | Une reprise electrique ⚡  
+---  
+Apres la coupure estivale, la newsletter est de retour ! Nous reprenons notre format classique de selection eclectique de liens et de sujets. Et cette semaine, il y a clairement de quoi faire ! Meme si certains liens datent du courant de l'ete, ils restent completement d'actualite. Bonne lecture et bonne reprise !  
+  
+| | | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/dd27fd0a-f659-dbfe-2c8d-0fa69e1c9747.png)  
+---  
+  
+| Gaetan Duchateau  
+---  
+Lead @Datagif  
+  
+| | | UX  
+---  
+  
+| 🔓  
+---  
+  
+| | Une bonne idee pour inciter votre lectorat a se creer un compte  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/fb2114a7-bf06-5fda-cfc7-9cb37a6956fa.jpg)](https://the-ken.com/)  
+---  
+Le media indien The Ken teste depuis peu une nouvelle maniere d'inciter son lectorat a se creer un compte, **en proposant chaque jour l 'acces gratuit et temporaire** a un article reserve aux abonnes uniquement apres la creation du compte.  
+  
+La proposition ne concerne qu'un seul article et ne dure que quelques heures - **pour renforcer cet aspect un compte a rebours indique meme aux utilisateurs jusqu'a quand l'offre est active**. Pour les personnes ayant deja cree leur compte, l'article leur est egalement accessible sur une periode limitee. Une idee particulierement astucieuse pour etoffer sa base de contacts et donner a voir la qualite des articles, initier une forme de fidelisation… et ainsi booster les abonnements.  
+[Tester cette strategie chez The Ken](https://the-ken.com/)  
+  
+| | | Jeux olympiques  
+---  
+  
+| 🥇  
+---  
+  
+| | Comment classer les pays par medailles olympiques ?  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/297df819-80a1-e1da-a6e3-a1e206d19160.jpg)](https://www.lemonde.fr/les-decodeurs/article/2024/08/12/jo-de-paris-2024-le-bilan-medailles-par-pays-records-battus-les-jeux-olympiques-en-quatre-graphiques_6278143_4355770.html?lmd_medium=al&lmd_campaign=envoye-par-appli&lmd_creation=ios&lmd_source=default)  
+---  
+🥇Les Decodeurs du Monde ont publie deux formats interessants pendant les JO : [le premier](https://www.lemonde.fr/les-decodeurs/article/2024/08/12/jo-de-paris-2024-le-bilan-medailles-par-pays-records-battus-les-jeux-olympiques-en-quatre-graphiques_6278143_4355770.html) explore l'evolution du classement des medailles par pays et les records battus en differents graphiques originaux. On aime surtout l'animation mise a jour quotidiennement du classement des medailles. Plus original, ils ont egalement [propose d'autres classements](https://www.lemonde.fr/les-decodeurs/article/2024/07/30/paris-2024-nos-classements-alternatifs-des-medailles-olympiques-selon-le-nombre-d-habitants-le-pib-ou-les-losers-magnifiques_6262088_4355771.html) "alternatifs" : selon le PIB, les quatriemes places ou le nombre d'habitants.  
+  
+🥈Comme souvent, le New York Times [tire son epingle du jeu](https://www.nytimes.com/interactive/2024/07/29/upshot/olympics-medal-table-paris.html) en proposant une methode de visualisation selon les ponderations entre medailles d'or et argent, c'est un peu complique a comprendre ([ce blog en explique l'interet](https://mathwithbaddrawings.com/2024/08/13/gold-medal-for-nyts-data-viz/)) mais cela vous permet de realiser votre propre classement personnalise.  
+  
+🥉Enfin, on voulait juste tirer notre chapeau a [l'Equipe ](https://www.lequipe.fr/collection/guide-para-athletes-france-jo-paris-2024/)et France Info[ pour le suivi des jeux paralympiques](https://the-media-leader.fr/lequipe-francetv-devoilnte-dispositif-editorial-pour-les-jeux-paralympiques/) sur leurs sites : la couverture et la place accordee en une est quasi identique a ce qu'ils ont fait pendant les JO, en capitalisant sur les dispositifs deja utilises en aout.  
+  
+| | | ![](https://newsletter.datagif.fr/ext/datagif/img/newsletter.png) Bienvenue  
+---  
+Cette newsletter vous a ete transferee ? N'attendez pas que votre sympathique contact oublie de le faire la prochaine fois.  
+| [S'abonner a la newsletter](https://datagif.fr/newsletter-medias/)  
+---  
+  
+| | | Intelligence artificielle  
+---  
+  
+| 🤖  
+---  
+  
+| | L'IA generative au banc d'essai des redactions  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/a9b4a4f1-799b-6468-c212-2a8e7c55a444.gif)](https://www.nytimes.com/interactive/2024/08/26/upshot/ai-synthetic-data.html)  
+---  
+Est-ce qu'une IA peut remplacer completement un journaliste web ? C'est l'idee du [test de The Pudding](https://pudding.cool/2024/07/ai/) qui a demande a l'assistant Claude de generer un long format similaire aux leurs. L'interface assez astucieuse permet de passer d'un clic entre les explications du processus et le contenu genere. Leur conclusion (et la notre) : ce n'est pas encore tout a fait ça si on veut quelque chose de qualite, **mais est-ce que le lecteur saura faire la diff erence** ?  
+  
+Sur le meme theme, le New York Times lui [a enquete](https://www.nytimes.com/interactive/2024/08/26/upshot/ai-synthetic-data.html) sur un des grands dangers qui guettent les IA : le risque de s'entrainer sur des donnees synthetiques issues elles-meme de generation artificielle. L'article vulgarise tres bien ce sujet complexe a apprehender et permet de **visualiser le puissant effet de d egradation et d'uniformisation** sur l'ecriture manuscrite ou les photographies, autrement dit... la degeneration IA.  
+  
+| | | Le 50/50  
+---  
+Deux mots cles, des tonnes de bons liens : choisissez !  
+Votre envie cette semaine ?  
+  
+| | | [💾 tech](https://datagif.fr/liens/?theme=tech)  
+---  
+  
+| | [🐝 societe](https://datagif.fr/liens/?theme=societe)  
+---  
+  
+| | | 🥁 Le meilleur lien de l'edition 136  
+---  
+  
+| | La precedente edition etait [consacree aux JO](https://mailchi.mp/datagif/132-cest-pareil-mais-en-mieux-5911514?e=\[UNIQID\]). Et un lien est sorti du lot   
+---  
+Et c'est le classement alternatif des medailles du Monde qui a le plus suscite votre curiosite. Un tres bon article, qui s'appuie sur une mecanique deja testee et eprouvee lors de precedents Jeux, avec un angle decale tout en etant dans l'actu : le combo parfait 👏  
+🥇 [Redecouvrir les classements du Monde](https://www.lemonde.fr/les-decodeurs/article/2024/07/30/paris-2024-nos-classements-alternatifs-des-medailles-olympiques-selon-le-nombre-d-habitants-le-pib-ou-les-losers-magnifiques_6262088_4355771.html)  
+  
+| | | Le lien de Lucie, CDP edito  
+---  
+Un magazine numerique interactif, vraie ou fausse bonne idee ?  
+  
+| | ![](https://newsletter.datagif.fr/ext/datagif/img/block-link-image.png)  
+---  
+  
+| | Le Quebec a vu naitre au mois d'aout une toute nouvelle revue dediee aux nouvelles technologies, a l'innovation et aux savoirs scientifiques : [Les Connecteurs](https://www.flipsnack.com/786E9BAA9F7/les-connecteurs-no1-site-cscience). Et franchement, le format nous a beaucoup surpris, car Les Connecteurs est une revue electronique - soit la version augmentee du format papier numerise. Comme sur une liseuse, les lecteurs feuillettent les pages. Mais ici, quelques graphiques et images sont animes, certaines rubriques sont cliquables et renvoient vers des contenus complementaires, et les profils des journalistes sont tous accompagnes de liens vers les reseaux sociaux de chacun. Honnetement, l'objet digital est plutot interessant et certaines fonctionnalites trouvent une pertinence certaine ! Mais dans l'equipe, on s'interroge quand meme sur les opportunites d'un tel investissement dans la production de ce type de format, alors que le tout pourrait etre accessible sur... un site Internet. _Quid_ de l'archivage des contenus ? Du partage des articles ? Ou des rebonds en dehors du magazine ? Les questions fusent, et nous sommes curieux de connaitre votre avis sur le sujet !  
+---  
+  
+| | | Biodiversite  
+---  
+  
+| 🙃  
+---  
+  
+| | Loin des emojis, loin des preoccupations d'extinction ?  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/53830f98-9c24-a510-6a8d-dccbebb99e8d.jpg)](https://www.washingtonpost.com/climate-solutions/interactive/2024/phone-emoji-missing-animals/)  
+---  
+Le Washington Post rebondit sur une etude scientifique qui s'est penchee sur la representation de la biodiversite du monde vivant dans les emojis et, surprise, rien ne va.  
+  
+Le WaPo considere que certaines especes, essentielles dans le maillage du vivant et/ou en voie d'extinction, meriteraient davantage de visibilite par leur integration dans les emojis. Cet article raconte donc tres bien le process de conception d'un emoji et en propose 8 nouveaux, dont l'argumentaire evoque aussi bien leur place dans le vivant que les statistiques liees aux autres emojis. Avec en bonus la possibilite de creer des stickers sur vos claviers a la fin de l'article.  
+[Explorer la methodologie de creation de 8 emojis pour la biodiversite](https://www.washingtonpost.com/climate-solutions/interactive/2024/phone-emoji-missing-animals/)  
+  
+| | | Persona  
+---  
+  
+| 💸  
+---  
+  
+| | Êtes-vous satisfait*e de votre salaire ?  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/a0d2172e-0d5e-1657-d1d4-e8dd575b81b2.jpg)](https://www.straitstimes.com/multimedia/graphics/2024/08/are-genzs-and-millennials-happy-with-their-pay/index.html)  
+---  
+C'est la question qu'a pose le media singapourien The Straits Times a la Gen Z et aux millennials. Le traitement du sujet est interessant car il propose d'abord des fiches de type "persona" pour rapporter les resultats de l'etude, avant de presenter les portraits d'individus interviewes dans le cadre de l'article.  
+  
+On aime aussi beaucoup les articles qui, comme ici, se cloturent par une rubrique de conseils a destination de l'audience : des conseils [issus de la rubrique emploi](https://www.straitstimes.com/singapore/jobs/askst-jobs-should-you-tell-a-colleague-how-much-you-earn) du media (et la boucle est bouclee !).  
+[Comparer votre satisfaction avec celles des singapourien.nes](https://www.straitstimes.com/multimedia/graphics/2024/08/are-genzs-and-millennials-happy-with-their-pay/index.html#young-millennials)  
+  
+| | | Chronologie  
+---  
+  
+| 🇺🇸  
+---  
+  
+| | Le NYT degaine une chronologie du premier mandat de Trump en guise d'avertissement  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/2cd8c01d-9983-fca2-c009-a9e70fd620ff.gif)](https://www.nytimes.com/interactive/2024/07/18/opinion/trump-presidency-record.html)  
+---  
+Cela pourrait etre du rechauffe, pourtant l'angle de la rétrospective permet de mettre en lumiere les consequences d'un possible futur mandat de Trump aux USA. Cette page presente donc plusieurs interets en innovation et design, en cette periode incertaine de campagne electorale :  
+  
+♻️ elle s'appuie sur des informations deja publiees par le media, donc deja validees  
+🔨 elle enfonce le clou par l'accumulation d'elements a charge  
+📧 elle permet d'etre partagee comme une page ressources   
+🗓️ elle est composee tres simplement et factuellement selon une chronologie ordonnee  
+✅ elle peut donc servir de modele pour un gros recap sur d'autres sujets.  
+[Derouler la terrible chronologie de Trump](https://www.nytimes.com/interactive/2024/07/18/opinion/trump-presidency-record.html)  
+  
+| | | Bonus  
+---  
+Cliquez, c'est du bon  
+📷 Tony Danza (_Madame est servie_) ouvre son appart au NYT [dans un article photo defilant assez marrant](https://www.nytimes.com/interactive/2024/08/28/realestate/tony-danza-apartment.html) ou les objets sont entoures puis racontes.   
+  
+✊ Society x RSF : un numero special sur la liberte de la presse a paraitre ce 12 septembre. [En attendant vous pouvez le co-financer via Ulule](https://fr.ulule.com/society-rsf/).   
+  
+🤔 Avant la nomination de Kamala Harris pour prendre le relai de Biden, le WaPo a cree [un arbre de decision hyper malin](https://www.washingtonpost.com/politics/2024/07/21/open-convention-democrats-biden-drop-out/?auto=true) pour comprendre toutes les issues possibles a la designation d'un nouveau candidat.  
+  
+🦈 [Des requins en 3D](https://www.nytimes.com/interactive/2024/07/26/well/shark-season-attacks-survival-tips.html) et tout savoir sur leurs habitudes et les risques ? Le meilleur lien de cette selection.  
+  
+| | | Et on vous donne rendez-vous dans 15 jours pour une nouvelle edition.  
+---  
+En attendant, vous pouvez toujours [consulter notre page "Liens"](https://datagif.fr/liens/) : tous les liens des precedentes editions 🔥  
+par  
+| [![DATAGIF](https://newsletter.datagif.fr/ext/datagif/img/logo-big.png)](https://datagif.fr)  
+---  
+  
+| | | ![](https://newsletter.datagif.fr/ext/datagif/img/social.png) Retrouvez-nous sur les réseaux  
+---  
+[Medium](https://datagif.medium.com/) [X](https://x.com/datagif) [Bluesky](https://bsky.app/profile/datagif.bsky.social) [Instagram](https://www.instagram.com/datagif/) [Threads](https://www.threads.net/@datagif) [Linkedin](https://www.linkedin.com/company/datagif/) [Datagif.fr](https://datagif.fr/)  
+  
+| | Vous recevez cet e-mail car vous êtes inscrit•e via le site [datagif.fr](https://datagif.fr/newsletter-medias/)Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)  
+👋 [Cliquez-ici](*|UNSUB|*) pour vous désabonner  
+---

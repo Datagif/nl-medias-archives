@@ -1,0 +1,131 @@
+---  
+![Médias](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/d060cdc3-f8d4-4207-b9bb-0b8ffda1ca6f.png)  
+La veille innovation et design media par Datagif  
+  
+| *|MC_PREVIEW_TEXT|*  
+---  
+---  
+1\. Poetique On trouve encore des merveilles a propos du Covid-19  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/1f5a74fc-fbed-4157-8ac6-9ce4b8a35526.jpg)  
+---  
+Qu'est-ce qui a change avec le coronavirus ? Le New York Times prend du recul et nous propose une petite liste joliment illustree.  
+  
+Des fleches, des dessins et des liens : c'est simple, basique, genial.   
+---  
+|  -- [Decouvrir cette liste](https://www.nytimes.com/interactive/2020/05/27/sunday-review/coronavirus-effects.html) du New York Times  
+---  
+---  
+2\. Video Le direct de BFMTV passe a la verticale  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/e9c51716-2987-47c7-8618-d54edb9f68ff.jpg)  
+---  
+Oui, beaucoup d'utilisateurs gardent leur mobile a la verticale pour regarder une video horizontale. Pour repondre a cet usage, BFMTV propose desormais son flux en direct dans une version optimisee pour les ecrans verticaux -- une "premiere mondiale".  
+  
+L'interet est surtout perceptible pour les plateaux, ou les deux presentateurs occupent a present tout l'ecran. Pour les reportages, le format reste 16/9 mais avec un habillage au-dessus et en-dessous de la video, en attendant d'y voir des informations complementaires a l'ecran ?  
+---  
+|  -- [À tester dans l'appli BFM TV](https://www.bfmtv.com/info/application/)   
+---  
+---  
+3\. Monetisation Le timewall, alternative credible au paywall ?  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/56f7ff1c-863f-4244-99e8-b582bd572626.png)  
+---  
+Et si un site d'info proposait ses articles en avant-premiere pour les abonnes, puis en acces libre pour tout le monde ?  
+  
+Le media local americain BoiseDev experimente ce modele de « timewall », a opposer aux « paywalls »  classiques -- dont le defaut principal est de rendre les contenus a valeur ajoutee de plus en plus inaccessibles. Le succes est apparemment au rendez-vous, avec des lecteurs assez receptifs a la promesse de l'exclusivite temporaire.  
+  
+À l'inverse, le media suedois MittMedia a mis en place une strategie ou les articles sont gratuits pendant 1 heure, avant de devenir reserves aux abonnes. De quoi inciter les lecteurs a revenir frequemment sur le site...  
+  
+Dans les deux cas, la contrainte du temps semble etre une piste interessante pour penser sa strategie de monetisation...  
+---  
+|  -- [Lire 3 retours d'experience](https://whatsnewinpublishing.com/rise-of-the-timewall-how-publishers-are-playing-with-time-in-their-paywall-strategies/) sur le timewall  
+---  
+---  
+4\. Iconographie Comment representer la mort en ces temps tres anxiogenes ? Certains medias misent avec brio sur des illustrations creatives. Une respiration visuelle qui fait du bien, mais a manier avec subtilite…  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/d3037923-2221-4d0d-ba16-f7f940e582fa.png)  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/24482c40-0854-4246-84d8-a14f3e9b7d51.jpg)  
+---  
+|  -- A voir chez le [New York Times](https://www.nytimes.com/2020/07/16/business/boom-time-for-death-planning.html?action=click&module=Editors%20Picks&pgtype=Homepage) ou [The Atlantic](https://www.theatlantic.com/health/archive/2020/07/second-coronavirus-death-surge/614122/)  
+---  
+---  
+5\. Refonte Fox Sports repense son experience numerique  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/92fff7f4-e2fa-4ecb-9f7b-a3d5e9fc6cf5.png)  
+---  
+Le media sportif Fox Sports revele un nouveau site et une application mobile, tres propre et tout en sobriete.   
+  
+La partie mobile est bien conçue mais on apprecie particulierement la version desktop, qui exploite habilement... les codes du mobile justement. La page d'accueil est ainsi etonnamment courte, et fait la part belle a des cards verticales pour presenter les infos du jour.   
+  
+La page article est egalement disposee originalement, sur 2 colonnes. Ca marche etonnamment bien, meme si l'absence de publicites y est sans doute pour quelque chose…  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/ba7d3e72-4535-4379-b418-e936abdd9b9d.gif)  
+---  
+|  -- [Decouvrir le site Fox Sports](https://www.foxsports.com/)  
+---  
+---  
+6\. Reconstitution 3D Enquete visuelle sur les dernieres heures d'Adama Traore  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/ec2632d2-b69b-4a5e-8e73-183c08caacee.png)  
+---  
+Le Monde, en partenariat avec le collectif Forensic Architecture, a reconstitue en images et en 3D le deroule des evenements qui ont conduit a la mort d'Adama Traore.  
+  
+Souvent utilisee par le New York Times ou le Guardian, la reconstitution 3D s'impose comme un format de reference pour croiser toutes les informations disponibles en source ouverte. L'alliance entre le travail d'investigation et la narration visuelle permet de plonger en profondeur dans ces affaires complexes.  
+---  
+|  -- [Voir l'enquete video](https://www.lemonde.fr/videos/video/2020/07/17/enquete-video-le-deroule-des-evenements-qui-ont-conduit-a-la-mort-d-adama-traore_6046510_1669088.html) du Monde  
+---  
+---  
+7\. Timeline Une chronologie de l'histoire des Noirs  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/9c12efa6-d747-4cd5-8072-ac8bcda0f36b.png)  
+---  
+A l'occasion du mois de l'histoire des Noirs (Black History Month) au Royaume-Uni, The Guardian propose une chronologie des moments cles qui ont defini ce pan de l'histoire.  
+  
+Grace a un systeme de colonnes, le format permet de naviguer facilement a travers trois grandes periodes.   
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/f54e9868-da82-4c9a-8edd-a5e999890c79.gif)  
+---  
+|  -- [Decouvrir la timeline](https://www.theguardian.com/world/ng-interactive/2020/jul/11/black-history-timeline?CMP=twt_gu&utm_source=Twitter&utm_medium#Echobox=1594464620) "Black History" de The Guardian  
+---  
+---  
+8. Dataviz Le site FiveThirtyEight signe une jolie data-visualisation pour illustrer les recents records des coureurs de longues distances. Point notable : sur mobile, chaque infographie a ete reellement adaptee en format vertical.  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/00182e79-30ad-49b3-8419-59950019787d.png)  
+---  
+---  
+|  -- [Voir l'article](https://fivethirtyeight.com/features/canceled-races-arent-stopping-endurance-athletes-from-setting-wild-new-records/) de FiveThirtyEight  
+---  
+---  
+9\. Instagram The Economist cartonne sur Instagram et ça n'est pas du au hasard  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/8a55c4e5-6d24-436f-ab61-62cb6ad42229.jpg)  
+---  
+5 millions d'abonnes, dont 1 million glanes en six mois : pour The Economist, Instagram c'est du serieux. Kevi Young, responsable des audiences du media, a publie un article sur Medium ou il detaille les enjeux sur la plateforme sociale. On en retient :  
+   
+• Instagram est consulte en moyenne 35 fois par jour par les abonnes du compte  
+• 2/3 sont dans la fameuse tranche des 18-34 ans  
+• L'accent est mis sur le _storytelling_ visuel  
+• Du contenu de qualite, sans clickbait, assure un meilleur engagement  
+• The Economist a developpe une offre publicitaire dediee dans ses Stories  
+• Resultat : l'audience d'Instagram serait davantage disposee a s'abonner au media  
+  
+Cette strategie va dans le sens du rapport du Reuters Institute Digital News Report 2020, qui souligne que l'usage d'Instagram pour consulter l'actu a double depuis 2018 et va probablement depasser Twitter en 2021.  
+---  
+|  -- Lire [l'article sur Medium](https://medium.com/economist-group-media/how-instagram-helps-the-economist-to-reach-a-new-generation-fbc0fd1bfb37)  
+-- Suivre [le compte Insta](https://www.instagram.com/theeconomist/) de The Economist  
+---  
+Vous recevez cet e-mail car vous êtes inscrit•e via le site   
+[medias.datagif.fr](https://medias.datagif.fr/)   
+  
+🏄‍   
+Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)   
+  
+📪  
+Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)   
+  
+✌️  
+Retrouvez la veille et les projets de Datagif sur   
+[Medium](https://medium.com/Datagif) \- [Twitter](https://twitter.com/datagif) \- [Instagram](https://www.instagram.com/datagif) \- [Datagif.fr](https://datagif.fr)   
+  
+👋   
+[Cliquez-ici](*|UNSUB|*) pour vous désabonner   
+  
+  
+*|IF:REWARDS|* *|HTML:REWARDS|* *|END:IF|*   
+  
+  
+---

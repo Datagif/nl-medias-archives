@@ -1,0 +1,212 @@
+*|MC_PREVIEW_TEXT|*  
+  
+͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿
+
+| | [Ouvrir dans le navigateur](*|ARCHIVE|*)  
+---  
+| ![Médias](https://newsletter.datagif.fr/ext/datagif/img/medias.png)  
+---  
+La veille innovation et design média par DATAGIF  
+  
+| |   
+---  
+  
+| | | Cette semaine on met en lumiere differentes initiatives qui veulent ameliorer les choses. Le plaidoyer en faveur d'un web moins uniforme ; une exploration sonore d'une ville sous les balles ; la visualisation coloree pour comprendre un Covid long ; un hackathon pour developper votre projet. Et puis on vous souhaite aussi vos meilleurs voeux, oui oui, les votres. Allez, c'est parti, mais tout d'abord on va se faire des gros recaps.  
+---  
+  
+| |   
+---  
+  
+| | | 
+
+## 1\. On rembobine
+
+##  Les recaps de l'annee passee continuent d'etre publies, voici la suite de notre selection !  
+  
+---  
+  
+| | | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/496e2df5-375d-5d7a-52eb-c45efcfd3954.jpg)  
+---  
+  
+| | 🛠️ [Rest of World](https://restofworld.org/inside/rest-of-worlds-product-team-looks-back-at-2023/) fait un focus tres centre "produit", puisque l'equipe revient sur leurs longs formats et projets visuels favoris, ainsi que sur les experiences utilisateurs developpees et fonctionnalites preferees. Un joli recap permettant egalement d'etoffer son benchmark en matiere de navigation, ou de page d'equipe bien pensee ! Nous pouvons retrouver le meme type de retrospective chez [The Philadephia Inquirer](https://www.inquirer.com/news/inq2/year-in-interactives-best-visual-stories-20231219.html), execute plus sobrement.  
+  
+📊 Comme pour les annees precedentes, [Bloomberg](https://www.bloomberg.com/graphics/2023-in-graphics/) propose un focus sur les cartes et graphiques interactifs publies en 2023. Au-dela de rassembler une belle collection de visualisation de donnees, la mise en page permet egalement de se rememorer les temps forts de l'annee en un coup d'oeil. [The Wall Street Journal](https://www.wsj.com/business/media/the-year-in-graphics-f3aaf872) se prete egalement a l'exercice, cloturant la page par les favoris de l'equipe.  
+  
+🕵️ [The Upshot](https://www.nytimes.com/interactive/2023/12/30/upshot/2023-year-in-review.html), la branche de dataviz du New York Times, repense le genre du recap et propose une liste des documents qui ont interroge les journalistes, et qui ont declenche des enquetes : en bref, le best of des moments de "aha" ou de "hmm" suscite aupres de la redaction. On adore.  
+  
+📆 [Mediapart](https://www.mediapart.fr/studio/panoramique/l-annee-2023-vue-par-mediapart), qui fete ses 15 ans d'existence, choisit de revenir sur les grands reportages, series ou dossiers et enquetes qui ont marque 2023\. Nous aimons : la DA tres "enquete", la navigation permettant de passer d'un mois a l'autre aisement, la surcouche editoriale pour presenter chaque sujet present dans le recap.  
+---  
+---  
+  
+| |   
+---  
+  
+| | | 
+
+## 2\. Predictologie
+
+## 2024 : qui est in, qui est out, qui sera une meilleure personne ?  
+  
+---  
+  
+| | | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/da9691b4-7a29-1771-34c6-7c456e75c63f.png)](https://www.theatlantic.com/how-to-be-a-better-person-advice-arthur-brooks/)  
+---  
+  
+| | 📈📉 Chaque annee, le Washington Post Style publie [sa liste "in & out"](https://www.washingtonpost.com/style/of-interest/interactive/2023/in-out-list-2024/) des tendances culturelles. La version numerique est l'occasion cette annee de **se moquer gentiment de la mode de l 'intelligence artificielle** en simulant une generation automatisee par un chatbot IA. Bonus chronophage : la page permet egalement de consulter toutes listes archivees depuis 1978 (dans des [formats interactifs innovants](https://www.washingtonpost.com/lifestyle/interactive/2022/in-out-list-2023/) pour les plus recentes)  
+  
+🧘‍♀️ The Atlantic vous propose [un guide de developpement personnel en 31 jours](https://www.theatlantic.com/how-to-be-a-better-person-advice-arthur-brooks/) : un format interactif fort joliment illustre qui vous propose de devoiler une carte par jour menant vers un article de leur rubrique bien-etre.  
+---  
+---  
+  
+| |   
+---  
+  
+| | | | ![](https://newsletter.datagif.fr/ext/datagif/img/mail.png)  
+---  
+Bienvenue dans cette newsletter 👋  
+Nous sommes [une agence de conseil et design](http://datagif.fr/) qui travaille sur des sujets de design d'information. Vous ne suivez pas notre veille ?  
+| [Resoudre cette erreur](https://datagif.fr/newsletter-medias/)  
+---  
+  
+| |   
+---  
+  
+| | | 
+
+## Bonne annee !
+
+## Les voeux sont faits  
+  
+---  
+  
+| | | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/6d3854ef-2040-937d-e595-67fa1b48420c.gif)](https://2024.datagif.fr/)  
+---  
+  
+| | De quoi sera fait 2024 ? De plein de bonnes choses pour vous, on l'espere ! Et pour agrementer votre annee, on vous propose ce catalogue de bonnes idees. La refonte de votre appli ? La creation d'une nouvelle newsletter ? Une nouvelle identite ? **Faites votre _wishlist_ et envoyez-nous votre selection !**  
+---  
+| | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[Faites vos voeux](https://2024.datagif.fr/) avec Datagif !  
+  
+| |   
+---  
+  
+| | | 
+
+## 3\. Audio
+
+## Dans cette petite ville tranquille de l'Ohio, le Washington Post a pose ses micros...  
+  
+---  
+  
+| | | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/6101c55d-112a-cd5b-d489-5b8733e93042.jpg)](https://www.washingtonpost.com/nation/interactive/2023/cincinnati-police-gun-range-lincoln-heights/)  
+---  
+  
+| | Six jour par semaine, les habitants de Lincoln Heights ont le sentiment d'habiter en zone de guerre urbaine. Des coups de feu, incessants, epuisent et stressent cette petite ville sans histoire, majoritairement habitee par une communaute d'afro-americains. La raison : un centre d'entrainement au tir de la police de Cincinnati, grand comme 22 terrains de football.   
+  
+Cet article **met l 'emphase sur l'ambiance sonore perçue dans differents lieux **: dans la rue, dans une creche, dans une maison de retraite... Les boucles sonores enregistrees par la journaliste parlent bien plus qu'un long discours.   
+---  
+| | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[Écouter le quotidien des habitants de Lincoln Heights](https://www.washingtonpost.com/nation/interactive/2023/cincinnati-police-gun-range-lincoln-heights/)  
+  
+| |   
+---  
+  
+| | | 
+
+## 4\. Referencement
+
+## Comment Google uniformise le web  
+  
+---  
+  
+| | | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/d5b3bd33-64af-83ad-55ad-d35d90cc03ae.jpg)](https://www.theverge.com/c/23998379/google-search-seo-algorithm-webpage-optimization)  
+---  
+  
+| | Deux mois apres [son article](https://www.theverge.com/features/23931789/seo-search-engine-optimization-experts-google-results) polemique accusant les experts SEO d'avoir ruine Internet, The Verge creuse **le sujet de l 'uniformisation du web** amenee par le suivi des recommandations Google. Voici donc [une enquete en long format](https://www.theverge.com/c/23998379/google-search-seo-algorithm-webpage-optimization), un peu technique mais tres didactique, qui illustre comment les optimisations a destination du moteur de recherche peuvent mener un blog plutot original a ressembler a n'importe quel autre site et pourquoi il faudrait peut-etre pour les medias se detacher de l'obsession Google. C'est oui.  
+---  
+| | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[Decouvrir la page parfaite (pour Google)](https://www.theverge.com/c/23998379/google-search-seo-algorithm-webpage-optimization) sur The Verge  
+  
+| |   
+---  
+  
+| | | 
+
+## 5\. Infographie
+
+## Quand une journaliste d'information visuelle ecrit a propos de son Covid long  
+  
+---  
+  
+| | | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/a5ada4cd-8e3b-daa5-7ffe-7e0ec13cfe50.jpg)](https://www.nytimes.com/interactive/2023/12/14/opinion/my-life-with-long-covid.html?unlocked_article_code=1.F00.435C.ojkN6YhWx43Q)  
+---  
+  
+| | Giorgia Lupi publie dans les pages interactives du NYT une etude poussee de ses presque 4 ans avec un Covid long. En tant que **journaliste de donn ees**, elle a note scrupuleusement chaque symptome, detaille ses examens, analyse et croise toutes ces infos pour produire un travail d'une rare precision.   
+  
+Et surtout, la direction artistique choisie interpelle : **chaque sympt ome est associe a un trace de peinture**, que l'on retrouve ainsi en fil conducteur du recit. Sur des schemas, dans des tableaux, sur un calendrier... De quoi rendre le sujet bien plus accessible et moins austere qu'il n'y parait.  
+---  
+| | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+Explorer [la visualisation du Covid long](https://www.nytimes.com/interactive/2023/12/14/opinion/my-life-with-long-covid.html?unlocked_article_code=1.F00.435C.ojkN6YhWx43Q)  
+| ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+Et voir [la version imprimee de l'article](https://www.instagram.com/p/C1PjO6hrctQ/) dans le quotidien  
+  
+| |   
+---  
+  
+| | | 
+
+## 6\. Hackathon
+
+## Vous souhaitez developper un projet en 72 heures ? À vos candidatures  
+  
+---  
+  
+| | | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/0c8c0d2d-ee2f-7aef-8db1-0c5b0ea9b7ae.jpg)](https://ipi.media/innovation/media-blend-hackathon/)  
+---  
+  
+| | L'IPI (International Press Institute) organise une nouvelle edition du Media Blend Hackathon :   
+• destine aux medias europeens  
+• par equipe resserree, idealement groupee avec un autre media  
+• pour 3 jours d'acceleration a Sarajevo en mai  
+  
+Pour ce faire, il suffit de repondre a la candidature et se preparer a une session de pitch et ideation en visio, qui fait partie de la selection. Pourquoi ça vaut le coup de s'y interesser ?   
+• vous rencontrez des collegues d'autres pays  
+• vous avez l'opportunite de vous focaliser sur un projet toujours repousse  
+• vous repartez avec des billes pour la suite  
+• les frais de deplacement sont payes  
+• et voici [les projets gagnants de 2023](https://media-blend-hackathon-winners.webflow.io/)  
+---  
+| | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[En savoir plus sur le Media Blend](https://ipi.media/innovation/media-blend-hackathon/)  
+  
+| |   
+---  
+  
+| |   
+---  
+  
+| | Vous etes a chaque numero toujours plus nombreux*ses a nous lire, merci pour votre fidelite ! Pour les retardataires, [relisez nos 8 predictions media pour 2024](https://medium.com/datagif/les-8-predictions-media-de-datagif-pour-2024-e9612db98743) 🔮  
+---  
+  
+| | | ![](http://gallery.mailchimp.com/653153ae841fd11de66ad181a/images/transparent.gif)  
+---  
+  
+| |   
+---  
+  
+| | Vous recevez cet e-mail car vous êtes inscrit•e via le site [datagif.fr](https://datagif.fr/newsletter-medias/)Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)  
+👋 [Cliquez-ici](*|UNSUB|*) pour vous désabonner  
+---  
+  
+| | DATAGIF  
+---  
+  
+| |   
+---

@@ -1,0 +1,213 @@
+*|IF:MC_PREVIEW_TEXT|*  
+  
+͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ 
+
+|  | [Ouvrir dans le navigateur](*|ARCHIVE|*)  
+---  
+| ![Médias](https://newsletter.datagif.fr/ext/datagif/img/medias.png)  
+---  
+La veille innovation et design média par DATAGIF  
+  
+|  | *|MC_PREVIEW_TEXT|*  
+---  
+  
+|  |   
+---  
+  
+|  |  | Qui aurait imagine, en mars 2022, devoir construire un an plus tard des formats anniversaire concernant la guerre en Ukraine ? Pas grand monde. Par contre, les anniversaires d'evenements, ça c'est un concept recurrent.   
+---  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 1\. Évenement
+
+## Premier anniversaire de l'invasion de l'Ukraine par la Russie : l'occasion d'entretenir le devoir de memoire d'un conflit toujours en cours  
+  
+---  
+  
+|  |  | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/70fefb46-5ab2-b801-e4f9-35651ef91716.jpg)  
+---  
+  
+|  | Évidemment, ce type de format s'anticipe, se prepare. Cependant, quand on observe attentivement les mecaniques de ces quelques exemples parmi d'autres, il s'agit de principes aisement reexploitables pour d'autres occasions. De quoi donner des idees ?  
+  
+👏 Die Zeit maitrise [l'exercice de narration + mapbox en regard](https://www.zeit.de/politik/ausland/2023-02/ein-jahr-krieg-ukraine-russland-schauplaetze-chronik-satellitenbilder).  
+◀️ Reuters publie [une retrospective en photos et en cartes](https://www.reuters.com/graphics/UKRAINE-CRISIS/ANNIVERSARY-SURVIVAL/movaklxlmva/).  
+📷 Le Washington Post realise [de tres beaux portraits d'ukrainiens](https://www.washingtonpost.com/world/interactive/2023/ukraine-russia-anniversary-portraits/) ainsi qu'un [format defilant le long de la ligne de front](https://www.washingtonpost.com/world/interactive/2023/russia-ukraine-front-line-map/).  
+🔊 El Pais propose un angle tres original : [ce que racontent 15 000 sirenes anti-aeriennes](https://elpais.com/internacional/2023-02-22/lo-que-15000-alarmas-antiaereas-cuentan-de-la-guerra-en-ucrania.html?rel=buscador_noticias).  
+📝 Le Figaro propose [un tres impressionnant recapitulatif etape par etape](https://www.lefigaro.fr/fig-data/de-l-invasion-russe-a-la-bataille-de-bakhmout-un-an-de-guerre-en-ukraine-raconte-en-cartes-20230222/).  
+🗺️ Le Monde fait [le focus sur le fleuve Dniepr, la ligne de front, avec une visualisation en perspective convaincante](https://www.lemonde.fr/international/article/2023/02/24/le-dniepr-un-fleuve-devenu-ligne-de-front-entre-russes-et-ukrainiens_6163208_3210.html).  
+📱 Francetvinfo propose [un format chapitre richement documente](https://www.francetvinfo.fr/monde/europe/manifestations-en-ukraine/un-an-de-guerre-en-ukraine-grand-recit-kiev-bakhmout-marioupol-zaporijjia.html) ; attention, a consulter de preference sur mobile.  
+🛒 Le Telegraph propose l'etonnant "[_Votre guide essentiel des armes en Ukraine_](https://www.telegraph.co.uk/world-news/ukraine-weapons-tanks-jets-missiles-military-equipment-war-russia/)" : faites votre marche. Bemol : l'article ne propose aucune recirculation, dommage.  
+---  
+---  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 2\. Coulisses
+
+## Le Figaro lance un compte LinkedIn sur la fabrication du media  
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/6c9e62a9-06ec-9774-0271-9d8a89db9e83.jpg)](https://www.linkedin.com/showcase/construire-le-figaro/)  
+---  
+  
+|  | Chaque jour Le Figaro publie plusieurs milliers de contenus sur ses supports numeriques. Depuis quelques mois, le media a lance un compte LinkedIn dedie pour raconter les coulisses des projets menes par les equipes techniques, design et produit. Parcours d'abonnement, developpement d'outils graphiques, structuration des equipes… autant de retours d'experience interessants et utiles sur le fonctionnement et le developpement d'une marque media. Le Figaro se sert egalement de cet espace pour publier ses offres d'emploi, bien mises en valeur dans cet univers. Une ressource a consulter regulierement !  
+---  
+|  | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[Decouvrir le compte LinkedIn du Figaro](https://www.linkedin.com/showcase/construire-le-figaro/)  
+  
+|  |   
+---  
+  
+|  |  |  | ![](https://newsletter.datagif.fr/ext/datagif/img/mail.png)  
+---  
+Bonjour, vous nous decouvrez ? Super, on peut demarrer une relation long terme si vous le souhaitez !  
+| [S'inscrire a la newsletter](https://datagif.fr/newsletter-medias/)  
+---  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 3\. Pedagogie
+
+## Le monde detaille les mecanismes de base de calcul des pensions retraites  
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/de40465b-7af3-b881-166c-3305720777b7.jpg)](https://www.lemonde.fr/les-decodeurs/article/2023/02/02/reforme-des-retraites-quels-sont-les-mecanismes-de-calcul-de-votre-pension_6160237_4355770.html)  
+---  
+  
+|  | Les Decodeurs tentent ce que les auteurs de la reforme des retraites peinent a reussir depuis des mois : l'expliquer clairement. Grace a un format pedagogique, intelligemment editorialise et efficacement illustre, le lecteur comprend tout, depuis la definition des termes de l'equation jusqu'au systeme de calcul des pensions.  
+  
+Cette base acquise, la seconde partie se centre sur les implications de la reforme actuellement debattue. Un belle reussite qui montre qu'encore une fois, le travail journalistique est necessaire pour eclairer le debat public.  
+---  
+|  | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[Tout savoir sur le calcul des pensions retraites avec les Decodeurs](https://www.lemonde.fr/les-decodeurs/article/2023/02/02/reforme-des-retraites-quels-sont-les-mecanismes-de-calcul-de-votre-pension_6160237_4355770.html)  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 4\. Publicite
+
+## La recente campagne de Franceinfo met en avant "l'info juste" tout au long de la journee  
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/c331632b-e3f3-eae6-f08a-a29d2b804f74.jpg)](https://twitter.com/franceinfopro/status/1626521855132684288)  
+---  
+  
+|  | La mecanique de double point de vue est simple mais efficace : d'un cote, la production de l'info ; de l'autre, sa consultation. En mobilite, chez soi, seul ou a plusieurs, l'important est d'avoir acces a l'info juste, a tout moment. Le mobile est omnipresent a l'ecran, et le message du partout - tout le temps redonne au groupe une posture de qualite, face aux medias d'opinion h24.  
+---  
+|  | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+Voir [la campagne en integralite](https://twitter.com/franceinfopro/status/1626521855132684288)  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## Recrutement 👀
+
+## Vous souhaitez travailler avec des medias ?  
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/a7862176-4686-15dd-ca86-c7a1d19354fa.jpg)](https://datagif.fr/job/chef-fe-de-projet-web-conseil-cdi/)  
+---  
+  
+|  | Pour renforcer son equipe conseil et pilotage, avec une forte part d'accompagnement de medias, nous recrutons un.e chef.fe de projet / conseil web en CDI.   
+  
+L'agence travaille entre autres pour Fisheye, Le Parisien, Alternatives Économiques, la revue XXI, la RATP, le Palais de la Porte Doree, la Fnac...  
+---  
+|  | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[Plus de details, postuler, faire tourner 🔀](https://datagif.fr/job/chef-fe-de-projet-web-conseil-cdi/)  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 5. Podcasts
+
+## La revue XXI lance une série de podcasts  
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/63f91e08-fd05-1fdb-dddd-030b669d829a.jpeg)](https://magazine.atavist.com/crushed-piper-rockelle-jentzen-ramirez-squad-youtube-influencers/)  
+---  
+  
+|  | La revue trimestrielle XXI, se lance dans l'aventure du podcast. C'est en tout quatre formats qui seront proposes : 
+
+  * une serie documentaire en plusieurs episodes ;
+  * les coulisses d'un article de la revue racontees par un journaliste ;
+  * un document journalistique sonore livre a l'etat brut ;
+  * la lecture augmentee d'un article par un comedien.
+
+Ces differents formats paraitront de maniere hebdomadaire ou bi mensuelle et accompagneront les lecteurs entre chaque publication de la revue papier. Un premier episode sur les coulisses d'un reportage au Creusot, devenu « hypermarche du shit », raconte par le journaliste Ramses Kefi, est deja paru. Une passionnante plongee de 20 minutes sur le travail et la methode qui se cache derriere l'enquete du journaliste…. Prometteur pour la future offre a venir !  
+---  
+|  | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[Écouter les podcasts XXI](https://open.spotify.com/show/2jMiOwS9oLARKlT8hhbJQX?si=22ac1e330e804ed4&nd=1)  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 6\. Sante mentale
+
+## Rad se demande comment les applis de rencontre affectent notre cerveau  
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/785f04f3-9cf2-2aa5-8469-0dc354acaef4.jpg)](https://www.rad.ca/dossier/amour/499/oui-les-applis-de-rencontre-comme-tinder-jouent-avec-notre-cerveau-voici-comment)  
+---  
+  
+|  | Toujours en pointe dans le traitement decontracte des sujets de sante mentale, Rad, le laboratoire de radio Canada, s'est penche a l'occasion de la Saint Valentin sur les mecanismes neuronaux des applis de rencontre.  
+  
+Se jouant de l'hypermodernite du sujet avec une iconographie tendrement desuete et s'appuyant sur une narration ou alternent experience utilisateurs, eclairage d'experte et etude de cas, la video fait le tour de la question tout en legerete.   
+---  
+|  | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[Visionner la video de Rad](https://www.rad.ca/dossier/amour/499/oui-les-applis-de-rencontre-comme-tinder-jouent-avec-notre-cerveau-voici-comment)  
+  
+|  |   
+---  
+  
+|  |   
+---  
+  
+|  | Et toutes nos felicitations 👶✨ a Clemence et Charly, directeur technique de Datagif et contributeur assidu de cette newsletter !  
+---  
+  
+|  |  | ![](http://gallery.mailchimp.com/653153ae841fd11de66ad181a/images/transparent.gif)  
+---  
+  
+|  |   
+---  
+  
+|  | Vous recevez cet e-mail car vous êtes inscrit•e via le site [datagif.fr](https://datagif.fr/newsletter-medias/)Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)  
+👋 [Cliquez-ici](*|UNSUB|*) pour vous désabonner  
+---  
+  
+|  | DATAGIF  
+---  
+  
+|  |   
+---

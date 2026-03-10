@@ -1,0 +1,239 @@
+*|MC_PREVIEW_TEXT|*  
+  
+͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿
+
+| | [Ouvrir dans le navigateur](*|ARCHIVE|*)  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/ed740b76-2c6f-e391-00f4-9b3254982b64.png)](*|ARCHIVE|*)  
+---  
+  
+| | | ![Médias](https://newsletter.datagif.fr/ext/datagif/img/medias-v2.png)  
+---  
+  
+| 149  
+---  
+  
+| | La veille innovation et design média par Datagif  
+---  
+  
+| | | _La d emocratie meurt dans les tenebres_  
+---  
+La puissante signature du Washington Post n'a jamais ete aussi contemporaine. Plus que jamais, on a besoin d'eclairage, de mise en contexte, d'analyse, de recul, de confrontation. L'information fait peur a ceux qui se pensent tout-puissants. Alors c'est notre role de la rendre toujours plus accessible, lisible, comprehensible, pour toucher une audience toujours defiante. Dans cette edition, on vous partage des exemples qui contribuent a rendre les medias toujours plus differenciants, au service de leur audience. On espere que ça vous inspirera pour vos projets editoriaux !  
+  
+| | | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/dd27fd0a-f659-dbfe-2c8d-0fa69e1c9747.png)  
+---  
+  
+| [Gaetan Duchateau](mailto:gaetan@datagif.fr)  
+---  
+Lead @Datagif  
+  
+| | | **R eecriture**  
+---  
+  
+| **🤐**  
+---  
+  
+| | Aux Etats-Unis, les medias tentent coute que coute de tenir tete a la tornade Trump  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/7b2f8bd7-db5e-485f-4678-cf65bcc295cc.jpg)](https://www.nytimes.com/interactive/2025/03/07/us/trump-federal-agencies-websites-words-dei.html)  
+---  
+L'actualite rejoint la fiction par bien des aspects, voire la depasse dramatiquement. Le glissement autoritaire qu'effectue Trump en ce moment (attaques directes envers la presse, bannissement de couverture de la maison blanche de certains journalistes, remise en question de leur credibilite) va de pair avec sa politique generale. Deux exemples ont retenu notre attention cette semaine :  
+  
+🚫 Trump a edicte une liste de mots interdits dans son gouvernement. Ces mots aussi simples que "femme", "pollution", ou "egalite" sont aux cotes de ses combats regressistes plus assumes, comme "genre", "transgenre" ou "LGBTQ". Les consequences sont desastreuses, car toute autorite finançant des projets portant des valeurs appuyees par ces termes pourra couper court a toute action. Pour illustrer cette mise en application immediate, [le NYT a formalise un article inspire du mode revision dans Word](https://www.nytimes.com/interactive/2025/03/07/us/trump-federal-agencies-websites-words-dei.html). Les anciens textes sont a present barres en rouge, tandis que la bien-pensance Trumpiste ajoute en vert les termes acceptes. Oui, c'est de la censure, ici mise en lumiere et pourtant irremediablement appliquee.   
+-> L'idee maligne bonus : un formulaire de temoignage ouvert aux fonctionnaires, immediatement apres l'article.  
+  
+🔴 Le _fact-checking_ n'a rien de nouveau mais s'impose maintenant en direct, qui plus est pendant les allocutions de POTUS. [CNN a publie dans la foulee d'un discours au congres un article truffe de commentaires sur les allegations de Trump](https://edition.cnn.com/interactive/2025/03/politics/transcript-speech-trump-congress-annotated-dg/). Corrections, contexte, ou bien tout simplement demontage de contre-verites, cet article est un exemple de pedagogie et de journalisme citoyen : en surlignant les passages problematiques, il rend visuel les nombreux derapages de l'homme le plus puissant actuellement vivant.   
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/0a736adc-ebb9-c17c-38f2-7436c245cc5e.jpg)](https://edition.cnn.com/interactive/2025/03/politics/transcript-speech-trump-congress-annotated-dg/)  
+---  
+  
+| | | UX  
+---  
+  
+| 📌  
+---  
+  
+| | Le Washington Post vous permet de suivre des rubriques selon vos preferences  
+---  
+| ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/5c99fbcf-2acf-1718-3c1e-3df0edfefce8.png)  
+---  
+Recemment repere dans [cet article](https://www.washingtonpost.com/technology/2025/02/23/ai-hair-inspo-wedding-stylists-businesses/) (dont nous vous conseillons la lecture tant le sujet prete a sourire), le WaPo propose a ses lecteurs de s'abonner a des rubriques, pour davantage personnaliser leurs recommandations.   
+  
+On aime particulierement pour plusieurs raisons :   
+1️⃣ À l'heure ou l'usage de l'IA par les medias promet une experience de plus en plus personnalisee sur la base de l'analyse du temps de lecture, des articles consultes… le WaPo prend le contre-pied et mise sur du declaratif - un peu comme lorsqu'on se cree un compte Pinterest et qu'on y renseigne nos centres d'interets.   
+2️⃣ Cette fonctionnalite est triple, car elle abonne automatiquement l'utilisateur a la newsletter et aux alertes en lien avec la rubrique suivie - l'utilisateur peut bien sur se desabonner instantanement. Une pratique tres astucieuse pour prolonger l'experience et faire decouvrir d'autres produits et services du media.   
+3️⃣ La fonctionnalite est proposee au sein des articles en cours de lecture… Ou comment personnaliser l'experience utilisateur pendant l'experience meme !  
+  
+Bref, c'est un sans faute.   
+  
+| | | Mais au fait :   
+---  
+Pourquoi cette newsletter ?  
+Voila pres de 7 ans que cette newsletter existe, mais vous ne le savez peut-etre pas : nous ne sommes pas qu'une newsletter. Nous sommes [Datagif](https://datagif.fr/), une agence de strategie et design d'information. Nous avons cree cette newsletter car une partie de nos clients sont des medias, effectivement, et cela nous permet de partager au plus grand nombre la veille que nous faisons en interne. Le but pour nous : identifier les signaux faibles, les tendances dans les evolutions d'usages, les mecaniques UX et design interessantes qui nourriront notre reflexion pour les projets sur lesquels nous sommes impliques. Vous n'imaginez pas comme ça nous rend particulierement efficaces lorsque l'on travaille sur la refonte d'un site ou d'une appli. [Envie d'en savoir plus ?](https://datagif.fr/medias/)  
+  
+| | | Strategie digitale  
+---  
+  
+| 📽️  
+---  
+  
+| | The Verge predit l'Internet en diaporama  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/cb93c2ab-ecf0-9771-571e-8cd67f9331e3.png)](https://docs.google.com/presentation/d/1_Q7ywvZQ9fOhgVmF78MHfvOy51Kc-9d7A4tWUvFg-OY/edit)  
+---  
+[Cette enquete](https://www.theverge.com/press-room/617654/internet-community-future-research) menee par The Verge et Vox Media analyse la fragmentation actuelle d'Internet en interrogeant 2 000 nord-americains sur leur vision des communautes en ligne. Plutot que d'adopter un format classique sur leur site, The Verge a choisi **Google Slides** , reprenant les codes de la presentation d'agence tout en soignant la direction artistique et les illustrations.  
+  
+Un choix qui rend l'etude **fluide, accessible et digeste** , tout en conservant l'identite graphique marquee du media. Et comme on est sympas, voici les cinq enseignements a retenir :  
+  
+1️⃣ Les grandes plateformes comme Google perdent du terrain.  
+  
+2️⃣ Les espaces numeriques echouent a creer du lien social.  
+  
+3️⃣ Le contenu reste le coeur des communautes en ligne, et l'engagement ne passe pas toujours par la participation visible.  
+  
+4️⃣ L'IA divise : pres de la moitie des sondes sont genes par le contenu genere automatiquement.  
+  
+5️⃣ L'avenir est aux communautes reduites et ciblees.  
+[Lire l'etude sur Google Slides](https://docs.google.com/presentation/d/1_Q7ywvZQ9fOhgVmF78MHfvOy51Kc-9d7A4tWUvFg-OY/edit)  
+  
+| | | Le 50/50  
+---  
+Envie d'explorer un sujet ?  
+Faites votre choix, on a fait le tri  
+  
+| | | [ 🏙️ ville](https://datagif.fr/liens/?theme=ville)  
+---  
+  
+| | [🗞️ media](https://datagif.fr/liens/?theme=media)  
+---  
+  
+| | |   
+---  
+Il y 15 jours  
+Entre ces deux themes, votre coeur a balance  
+  
+| | | [🏛️ culture](https://datagif.fr/liens/?theme=culture)  
+---  
+  
+| | [🏆 54%](https://datagif.fr/liens/?theme=climat)  
+---  
+  
+| |   
+---  
+  
+| | | [📊 infographie](https://datagif.fr/liens/?format=infographie)  
+---  
+  
+| | [46%](https://datagif.fr/liens/?theme=tech)  
+---  
+  
+| | | Le lien de Charly, CTO  
+---  
+La datavisualisation du New York Times qui ne passe pas tres bien  
+  
+| | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/0f39c5ef-2fbe-e6df-2936-a941a34c9554.png)  
+---  
+  
+| | Le New York Times a recemment publie [un article interactif](https://www.nytimes.com/interactive/2025/03/01/opinion/trump-administration-first-month.html) notant le premier mois de l'administration Trump, en positionnant les opinions de ses editorialistes sur ses actions autour de deux axes : plus ou moins important et impact plus ou moins negatif. Un format clair et interessant, qu'on pourrait imaginer applique a d'autres sujets, mais qui a immediatement suscite des critiques legitimes [ici](https://bsky.app/profile/usefulnoise.bsky.social/post/3ljdd2d2aks2q) ou [la](https://bsky.app/profile/grgrrn.bsky.social/post/3ljdja5bhwk23) ou encore [la-bas](https://bsky.app/profile/thomaszimmer.bsky.social/post/3ljdcmqjdjs26).  
+  
+L'approche pose question : en cherchant la neutralite et l'objectivite, la visualisation - et surtout le premier graphique mis en avant - donne une impression de mise a plat artificielle, minimisant l'impact reel des decisions et banalisant certaines actions controversees : placer la guerre de Trump envers les personnes trans parmi ses actions les moins consequentes mais avec un impact plutot moyen/bon, vraiment ?  
+  
+Un bon exemple de la façon dont **un format peut fa çonner la perception d'un contenu**. En explorant l'article en detail, on peut y lire des arguments et des opinions plus diverses ou nuancees, mais choisir de resumer le tout dans ce graphique etait une tres tres mauvaise idee.  
+---  
+  
+| | | Carte  
+---  
+  
+| 🗺️  
+---  
+  
+| | The Guardian nous rappelle a quel point une carte commentee est efficace  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/a6d4a5d8-73e2-6ddd-ca9b-7334d931eaa4.png)](https://www.theguardian.com/world/ng-interactive/2025/feb/27/seized-settled-let-how-airbnb-and-bookingcom-help-israelis-make-money-from-stolen-palestinian-land)  
+---  
+Il y a quelques jours, The Guardian publiait un article pour mettre en lumiere comment Airbnb et Booking.com aident des colons israeliens a commercialiser des terres palestiniennes volees. À l'aide d'une carte commentee, et completee par des videos et illustrations, le media permet a ses lecteurs de prendre la mesure du phenomene et de projeter la situation de maniere claire et efficace. Rien de plus a dire : ce template fonctionnera toujours.  
+[Lire l'enquete de The Guardian](https://www.theguardian.com/world/ng-interactive/2025/feb/27/seized-settled-let-how-airbnb-and-bookingcom-help-israelis-make-money-from-stolen-palestinian-land)  
+  
+| | | Le meilleur lien du n°148  
+---  
+  
+| | Élections allemandes  
+---  
+Vous avez ete nombreux a decouvrir le format original de Reuters sur l'affaiblissement du modele economique allemand et sur les consequences electorales outre-Rhin. Le long format interactif a lecture sequencee, dans un ecrin graphique inspire du Bauhaus, semble vous avoir seduit. Nous aussi.  
+[(Re)plonger dans l'article de Reuters](https://www.reuters.com/graphics/GERMANY-ELECTION/ECONOMY/zjpqaqdorpx/)  
+  
+| | | Sante  
+---  
+  
+| 🩺  
+---  
+  
+| | L'acces aux soins decrypte par France Info  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/5ac68adb-f946-b1f9-119b-be639aeb4881.png)](https://www.francetvinfo.fr/sante/carte-generalistes-dentistes-sages-femmes-votre-commune-est-elle-mieux-lotie-que-les-autres-en-matiere-d-acces-aux-soins_7011872.html#xtor=CS2-765-%5Bautres%5D-)  
+---  
+Votre acces aux soins, une chance ou une galere ? Dans certaines regions, trouver un medecin releve du parcours du combattant. France Info a mis au point une [carte interactive](https://www.francetvinfo.fr/sante/carte-generalistes-dentistes-sages-femmes-votre-commune-est-elle-mieux-lotie-que-les-autres-en-matiere-d-acces-aux-soins_7011872.html#xtor=CS2-765-%5Bautres%5D-) pour reveler l'etendue des deserts medicaux, la ou la proximite des professionnels de sante n'est qu'un lointain souvenir. Entrez votre commune, choisissez une specialite, et decouvrez, chiffres a l'appui, si vous etes mieux lotis que la moyenne. Cette vision d'ensemble du territoire alerte sur les inegalites criantes de l'acces aux soins en France.   
+[Et votre commune, elle se classe comment ?](https://www.francetvinfo.fr/sante/carte-generalistes-dentistes-sages-femmes-votre-commune-est-elle-mieux-lotie-que-les-autres-en-matiere-d-acces-aux-soins_7011872.html#xtor=CS2-765-%5Bautres%5D-)  
+  
+| | | ![](https://newsletter.datagif.fr/ext/datagif/img/newsletter.png) Bienvenue  
+---  
+Cette edition vous a ete transferee et vous ne souhaitez pas manquer les autres ? Un clic sur ce bouton suffit !  
+| [Abonnez-vous ](https://datagif.fr/newsletter-medias/)  
+---  
+  
+| | | Positions  
+---  
+  
+| 🗳️  
+---  
+  
+| | The Inquirier affiche clairement qui a vote pour qui  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/14829f41-4789-edbd-8ebd-255fea66a65a.gif)](https://www.inquirer.com/politics/inq2/trump-cabinet-senate-confirmation-votes-fetterman-kim-booker-20250310.html)  
+---  
+Sans rentrer dans les details, on va retenir que le cabinet de Trump est nomme selon des votes des senateurs. Pour suivre quels senateurs ont appuye la candidature des pretendants Trumpistes, le media local de Philadelphie a cree une visualisation on ne peut plus claire des 'pour' et des 'contre' concernant sa circonscription.  
+  
+À chaque candidat, qui a droit a sa fiche bio pour le remettre en contexte, le media affiche d'un cote les senateurs locaux 'pour' et de l'autre les 'contre', avec un effet interessant au defilement : ceux qui changent de camp. Et pour ne pas etre perdus, les lecteurs ont meme droit au "tag" du senateur avec sa tete et son nom dans un cartouche, directement dans le texte.  
+[Le suivi des votes des representants locaux chez le Philadephia Inquirer](https://www.inquirer.com/politics/inq2/trump-cabinet-senate-confirmation-votes-fetterman-kim-booker-20250310.html)  
+  
+| | | Bonus  
+---  
+Toujours plus de liens !   
+🔎 Chaque premier mardi du mois, le New York Times vous invite a une [exploration d'oeuvres d'art ou de photographies](https://www.nytimes.com/interactive/2025/03/03/upshot/ten-minute-challenge-photo.html?unlocked_article_code=1.1k4.r_Jj.7SLM5MwijVYU&smid=bs-share). Prenez le temps d'observer, puis decouvrez leur analyse detaillee.  
+  
+🗺️ Golfe du Mexique, Golfe d'Amerique… Rest Of World demele la [strategie des entreprises de cartographie](https://restofworld.org/2025/gulf-of-mexico-america-google-maps/) sur la denomination de zones selon les pays.  
+  
+📚 [L'univers de Jaime Hernandez](https://www.nytimes.com/interactive/2025/02/27/books/jaime-hernandez-cartoonist.html?referringSource=articleShare&smid=nytcore-ios-share&unlocked_article_code=1.0E4.oLty.2T50h39CVo6P&utm_source=pocket_shared#), auteur de bande dessinee, se devoile dans un format au defilement qui retrace son parcours et ses inspirations.  
+  
+🫁 Plongez dans la [complexite des listes d'attente de transplantation](https://www.nytimes.com/interactive/2025/02/26/us/organ-transplants-waiting-list-skipped-patients.html?rsrc=flt&smid=url-share) grace a une modelisation 3D, un systeme bien plus complexe qu'il n'y parait.  
+  
+👩‍💻 France Info devoile une [cartographie](https://www.francetvinfo.fr/internet/securite-sur-internet/enquete-trackingfiles-comment-la-vie-privee-de-militaires-de-diplomates-et-du-personnel-politique-francais-est-exposee-par-les-donnees-de-geolocalisation_7099947.html) revelatrice de l'exposition des donnees de geolocalisation sur les sites militaires et lieux de pouvoir.  
+  
+📺 La TNT a change : [revivez l'histoire de la redistribution des chaines](https://www.lemonde.fr/les-decodeurs/article/2025/02/28/de-tele-paris-a-c8-comment-meurent-les-chaines-de-television_6569808_4355770.html) et testez vos connaissances avec le quiz final.  
+  
+👀 The Pudding innove avec une [enquete animee](https://pudding.cool/2025/02/middle-school/), ou les portraits des participants prennent vie grace a un subtil clignement des yeux.  
+  
+| | | Et pour finir sur une note positive  
+---  
+🖥️ Nous avons [des postes dispos en location dans notre bureau](https://www.linkedin.com/posts/datagif_datagif-rejoignez-nos-bureaux-activity-7186337725313097730-oayB/?originalSubdomain=fr).   
+  
+✏️ Cette edition a ete preparee par Athenais, Lucie, Charly, Aurore et Gaetan  
+  
+🔥 En ce moment, on travaille entre autres sur :  
+  
+• la refonte d'une newsletter autrefois tres _corporate,_ bientot plus incarnee  
+• l'audit produit/UX d'un media multi-canal present dans plusieurs pays, en pleine evolution  
+• la finalisation de la refonte du site d'un media economique français, apres avoir deploye l'application  
+• la mise en oeuvre d'une nouvelle identite de produits numeriques d'un media d'actu entreprises  
+• le deploiement de la nouvelle identite numerique du fonds europeen FSE+  
+par  
+| [![DATAGIF](https://newsletter.datagif.fr/ext/datagif/img/logo-big.png)](https://datagif.fr)  
+---  
+  
+| | | ![](https://newsletter.datagif.fr/ext/datagif/img/social.png) Retrouvez-nous sur les réseaux  
+---  
+[Medium](https://datagif.medium.com/) [X](https://x.com/datagif) [Bluesky](https://bsky.app/profile/datagif.bsky.social) [Instagram](https://www.instagram.com/datagif/) [Threads](https://www.threads.net/@datagif) [Linkedin](https://www.linkedin.com/company/datagif/) [Datagif.fr](https://datagif.fr/)  
+  
+| | Vous recevez cet e-mail car vous êtes inscrit•e via le site [datagif.fr](https://datagif.fr/newsletter-medias/)Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)  
+👋 [Cliquez-ici](*|UNSUB|*) pour vous désabonner  
+---

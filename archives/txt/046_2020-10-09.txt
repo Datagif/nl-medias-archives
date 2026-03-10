@@ -1,0 +1,130 @@
+---  
+![Médias](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/d060cdc3-f8d4-4207-b9bb-0b8ffda1ca6f.png)  
+La veille innovation et design media par Datagif  
+  
+| *|MC_PREVIEW_TEXT|*  
+---  
+---  
+1\. Dataviz Et si toutes les victimes du Covid habitaient autour de chez vous ?  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/c1838804-0fa7-4ef7-8e85-ac7676af0757.png)  
+---  
+Ce recent format du Washington Post part d'un postulat simple et terrifiant : et si toutes les victimes americaines du Covid-19 habitaient autour de chez vous ?  
+  
+Il suffit de rentrer une adresse postale americaine au hasard pour que l'internaute soit plonge dans une simulation cartographique assez bluffante. Des milliers de points apparaissent progressivement autour de soi sur la carte, en ligne avec l'evolution chronologique de l'epidemie.  
+  
+Point interessant, ce format a ete construit en partenariat avec [Google News Initiative](https://newsinitiative.withgoogle.com/intl/fr/) et [Lupa](https://piaui.folha.uol.com.br/lupa/), une agence de fact-checking bresilienne.  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/84bfd7d4-ffdb-49b8-b003-832c1463846c.gif)  
+---  
+|  —[ ](http://)[Tester ce format](https://www.washingtonpost.com/graphics/2020/national/coronavirus-deaths-neighborhood/) du Washington Post  
+---  
+---  
+2\. Lisibilite Franceinfo revoit sa page article  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/8650877b-d653-44c4-9f18-2bb78b92e86e.png)  
+---  
+La « page article » est LA porte d'entree principale de n'importe quel site d'info. Franceinfo est en train de donner un coup de neuf a la sienne et les changements ne sont pas si anodins :   
+  
+-- Le chapeau passe avant l'image, pour delivrer l'info plus vite sur mobile  
+-- Un gros tri dans les relances pour ne pas perturber la lecture : celles d'en haut disparaissent, celles du bas deviennent plus claires et aerees  
+-- Un bandeau d'alerte pour les articles publies il y a longtemps, afin d'eviter la desinformation involontaire  
+-- Une variante plus impactante pour certains contenus a valeur ajoutee, comme les enquetes ou les infographies  
+  
+Resultat : c'est clair et lisible. Il faut tout de meme preciser que Franceinfo a deux avantages notables : pas de publicite ni de contenus payants…  
+---  
+|  -- [Un exemple](https://www.francetvinfo.fr/economie/emploi/recherche-d-emploi/fonction-publique/diversite-dans-les-hautes-ecoles-nous-avons-le-souhait-d-accueillir-des-eleves-qui-soient-divers-affirme-le-directeur-de-l-ena_4132127.html) de la page article classique  
+-- [Un exemple](https://www.francetvinfo.fr/monde/environnement/infographies-plus-lourds-plus-polluants-plus-dangereux-pourquoi-les-suv-sont-dans-le-retro-viseur-des-ecolos_4105801.html) pour une infographie plus impactante  
+---  
+---  
+3\. Conversations The Athletic s'inspire de Twitter et Instagram  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/9adf001e-6b9e-45d6-a7e3-5b513d01434c.png)  
+---  
+Le media sportif americain The Athletic avait deja un tres bon site : riche, sobre et clair. C'est tellement haut de gamme qu'on se croirait sur un Netflix du sport.  
+  
+Desormais, son application mobile se dote de fonctionnalites dignes de Twitter ou Instagram. L'onglet « Real Time » permet ainsi de suivre des mini-breves sportives, presentees sous forme de Stories. Un deuxieme niveau de lecture permet de suivre les discussions entre les journalistes du media. Bref, le media s'inspire des reseaux sociaux pour presenter l'info differemment et valoriser ses journalistes !  
+---  
+|  -- Plus d'infos dans [ce thread Twitter](https://twitter.com/benwhitelaw/status/1311702871285657601)  
+---  
+---  
+4\. Redesign Le magazine The New Republic se paye un beau lifting  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/6d2cc6f7-c9f0-4509-8235-0e4304e10d7d.png)  
+---  
+Le vieux magazine americain The New Republic etait un peu en deseherence ces quinze dernieres annees. Il est desormais repris en main avec une strategie editoriale solide… et un redesign integral mene par l'agence new-yorkaise Pentagram.  
+  
+Un vent de frais qui fonctionne bien sur le print comme sur le web. Le site est d'ailleurs reorganise autour de 5 grandes verticales qui donnent le ton -- a chacune son nom, sa typo massive et sa couleur fluo !  
+---  
+|  -- [Decouvrir le site](https://newrepublic.com/) de The New Republic  
+---  
+---  
+5. Transparence Un site participatif pour controler l'action des elus locaux  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/8d462d03-f32e-42d9-b0c3-34a50d45d08e.png)  
+---  
+Mediacites lance Radar, un dispositif qui va vous permettre de suivre l'action de votre mairie a Lille, Lyon, Nantes ou encore Toulouse. Un beau projet pour tracker les promesses des elus dans la duree.  
+  
+Nous avons participe a la conception et au design, en lien avec [WeDoData](https://www.wedodata.fr/) pour la partie crowdsourcing.  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/554ae7ec-a93c-424f-998d-dbf5cad75c91.png)  
+---  
+|  -- [Explorez l'outil Radar](https://www.mediacites.fr/radar/suivez-laction-de-vos-elus-locaux/)  
+---  
+---  
+6\. Transcript Le Wall Street Journal ouvre a ses lecteurs un outil initialement conçu pour ses journalistes  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/ec1934ad-9ea8-4b7a-bd06-5e90f20718d7.png)  
+---  
+Cet outil, intitule "TALK 2020", permet de chercher ce que Trump ou Biden ont declare sur n'importe quelle thematique.  
+  
+Developpe par la R&D du journal il y a deja plus d'un an pour un usage interne, il est aujourd'hui accessible aux lecteurs. Tres complet, il permet de s'immerger dans les declarations des candidats avec de la recherche libre, ou par grandes thematiques.  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/fc726e39-1192-4f06-8d55-25d2a8bf8f77.png)  
+---  
+|  [-- Decouvrir l'outil ](https://www.wsj.com/talk2020/ask?q=Putin)[Talk 2020](https://www.wsj.com/talk2020)  
+---  
+---  
+7\. Sponsor Un mix economique audacieux pour le nouveau media sportif Defector  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/f04f7ea3-e7c9-4d40-aa59-2838ebe98bd6.jpg)  
+---  
+En plus de l'abonnement propose seulement en formule annuelle, le nouveau media americain Defector affiche un sponsor unique pour l'ensemble du site. En ce moment c'est une boutique de lunettes. Le logo du lunetier, affiche discretement sur toutes les pages, permet vraisemblablement de s'affranchir de toute autre forme de publicite.  
+  
+Ce genre de sponsoring est interessant : l'emplacement est moins intrusif mais aussi plus noble pour l'annonceur (a notre sens). Reste a savoir combien ça rapporte...  
+---  
+|  -- [Visiter Defector](https://defector.com/)  
+---  
+---  
+8\. Covid-tracker Le cluster de la Maison Blanche sous l'oeil attentif du New York Times  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/88f01578-833d-4fcc-969c-f5c77d940fe4.jpg)  
+---  
+Qui sont les cas-contacts de Donald Trump ? Des l'annonce de sa contamination, le NYT a remonte le fil de ses rencontres.  
+  
+Une timeline permet de visualiser ce parcours et les personnalites contaminees dans son entourage, a l'aide de trois couleurs : rouge (positif), vert (negatif) ou gris (inconnu). Une page-outil qui doit etre particulierement consultee a Washington...  
+---  
+|  -- Suivez [le tracker presidentiel](https://www.nytimes.com/interactive/2020/10/02/us/politics/trump-contact-tracing-covid.html)  
+---  
+---  
+9\. Actu locale Davantage de richesse, de lisibilite, de place aux medias locaux : la refonte d'Actu.fr, menee par Datagif, est en ligne !  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/5ffd7091-93d2-4dc2-80dd-b9645a6400cb.jpeg)  
+---  
+---  
+|  -- Decouvrez la nouvelle version d'[Actu.fr](https://actu.fr/)  
+-- En savoir plus avec [notre article sur Medium](https://medium.com/datagif/un-nouveau-site-pour-actu-fr-f806465afe63)  
+---  
+Vous recevez cet e-mail car vous êtes inscrit•e via le site   
+[medias.datagif.fr](https://medias.datagif.fr/)   
+  
+🏄‍   
+Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)   
+  
+📪  
+Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)   
+  
+✌️  
+Retrouvez la veille et les projets de Datagif sur   
+[Medium](https://medium.com/Datagif) \- [Twitter](https://twitter.com/datagif) \- [Instagram](https://www.instagram.com/datagif) \- [Datagif.fr](https://datagif.fr)   
+  
+👋   
+[Cliquez-ici](*|UNSUB|*) pour vous désabonner   
+  
+  
+*|IF:REWARDS|* *|HTML:REWARDS|* *|END:IF|*   
+  
+  
+---

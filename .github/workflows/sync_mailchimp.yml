@@ -32,7 +32,7 @@ jobs:
           python-version: "3.12"
 
       - name: Install dependencies
-        run: pip install requests html2text
+        run: pip install requests html2text python-dotenv
 
       - name: Run sync script
         env:

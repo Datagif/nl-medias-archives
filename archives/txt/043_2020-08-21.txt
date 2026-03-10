@@ -1,0 +1,109 @@
+---  
+![Médias](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/d060cdc3-f8d4-4207-b9bb-0b8ffda1ca6f.png)  
+La veille innovation et design media par Datagif  
+  
+| *|MC_PREVIEW_TEXT|*  
+---  
+---  
+1\. Predictions À 75 jours de l'election presidentielle aux USA, les predictions vont bon train  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/10a24093-bfdb-4f6b-8c02-c0982de517d8.jpg)  
+---  
+Le media FiveThirtyEight, modele du genre ayant construit sa reputation en s'appuyant sur une methodologie statistique issue du sport, a livre sa tres attendue page d'analyse predictive. Pour le moment et au fil des mises a jour, Biden est majoritairement favori. Le plus impressionnant ? On hesite entre la simulation de 40 000 possibilites pour arriver a ces resultats, ou le style bien decale de mascotte _Fivey Fox_ , qui vous donne des astuces de lecture des graphiques. Et ne manquez pas l'article des coulisses, tres interessant pour en apprendre davantage sur les visualisations abandonnees et les modeles retenus.   
+  
+Dans uns style plus sobre mais tout aussi efficace, The Economist livre egalement sa page de predictions, avec un modele encore plus favorable a Biden. À decouvrir et suivre egalement.  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/035ff3ab-f4ea-4e13-ac0e-d9033c60738a.jpg)  
+---  
+|  -- [La p](https://projects.fivethirtyeight.com/2020-election-forecast/)[age predictive](https://projects.fivethirtyeight.com/2020-election-forecast/) chez FiveThirtyEight  
+-- Son [making-of](https://fivethirtyeight.com/features/how-we-designed-the-look-of-our-2020-forecast/)  
+-- Les predictions de [The Economist](https://projects.economist.com/us-2020-forecast/president)  
+---  
+---  
+2\. Tuto electoral Par courrier ? En avance ? Par procuration ? Les medias americains incitent a aller voter  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/2b407e91-f4e5-4033-b1b2-0b283b6d29d0.jpg)  
+---  
+• NBC News y va franchement : une page titree d'un massif "Plan your vote" (_planifiez votre vote_) donne les cles etat par etat. Cette page tutoriel a pour vocation a rendre l'information variable selon les etats clairement lisible et accessible.  
+  
+• Meme enjeu chez FiveThirtyEight qui joue la carte des illustrations aux couleur pop.   
+  
+• Ces pages d'information concrete sont en concurrence avec des services comme [Google](https://twitter.com/Google/status/1293914146178646016) ou [Facebook](https://www.bloomberg.com/news/articles/2020-08-13/facebook-aims-to-reach-160-million-americans-with-election-hub), qui proposent eux aussi le meme contenu directement dans leurs outils.   
+---  
+|  -- Le tuto de vote [chez NBC News](https://www.nbcnews.com/specials/plan-your-vote-state-by-state-guide-voting-by-mail-early-in-person-voting-election/index.html?cid=sm_npd_ms_tw_ma)   
+-- Et [chez FiveThirtyEight](https://projects.fivethirtyeight.com/how-to-vote-2020/)  
+---  
+---  
+3\. Arbre de decision Doit-on voyager cette annee ?  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/888e7b3e-eb29-4899-9d20-63a04c2c71fd.png)  
+---  
+Sous la forme d'un arbre decisionnel, le New York Times repond a la grande interrogation de l'ete : dois-je partir en voyage cette annee ?  
+  
+À la fin du questionnaire et de maniere tres pedagogique, le lecteur est amene a se poser les bonnes questions sous la forme d'une FAQ qui s'adapte a ses reponses.  
+  
+Et la bonne pratique : la FAQ renvoie vers d'autres articles du media.  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/c4bf632e-c4b2-4712-be32-7c5b408e9044.gif)  
+---  
+|  -- [F](https://www.nytimes.com/interactive/2020/07/31/travel/coronavirus-travel-risk.html?surface=home-living-vi&fellback=false&req_id=417813515&algo=identity&imp_id=635578182&action=click&module=Smarter%20Living&pgtype=Homepage)[aites le test](https://www.nytimes.com/interactive/2020/07/31/travel/coronavirus-travel-risk.html?surface=home-living-vi&fellback=false&req_id=417813515&algo=identity&imp_id=635578182&action=click&module=Smarter%20Living&pgtype=Homepage) du New York Times  
+---  
+---  
+4. Recit L'article qui s'adapte a votre profil  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/058af51b-f731-49b5-a4bb-3176f2e0ab75.png)  
+---  
+Le media Miami Herald propose un article ou l'on peut modifier la trame et le recit en fonction des criteres de tranche d'age, sexe et localite que l'on selectionne.  
+  
+En fonction des criteres retenus, s'affichera l'histoire d'une des victimes du Covid-19 que les journalistes ont compilees dans ce format interactif, completee par des graphiques specifiques aux criteres selectionnes.  
+  
+Point important pour rassurer le lecteur : il est precise a plusieurs reprises  que les donnees ne seront pas stockees.  
+   
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/977bc47e-b822-4537-84ee-20d1ebe36832.png)  
+---  
+|  -- Decouvrir [l'article du Miami Herald](https://www.miamiherald.com/news/coronavirus/article244283112.html)  
+---  
+---  
+5\. Animation 3D Comment se propagent les particules virales dans le metro New Yorkais ?  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/207c4245-d2aa-491b-a3c4-87a30e97aba9.png)  
+---  
+Le New York Times, nous presente par le biais d'une animation 3D les risques encourus en prenant le metro du fait de son systeme de ventilation, qui favorise la diffusion de la covid.  
+  
+D'une efficacite redoutable, l'animation supplante le texte qui l'accompagne dans la comprehension de l'information.  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/a4c45c86-c8a2-4dd7-a58f-5febf4aa63d4.gif)  
+---  
+|  -- [Parcourir l'animation du New York Times](https://www.nytimes.com/interactive/2020/08/10/nyregion/nyc-subway-coronavirus.html)  
+---  
+---  
+6. Reportage photo Le New York Times illustre un sondage sur les changements que connaissent les lieux de travail en proposant un beau reportage photo. Ambiance plantes mortes et villes fantomes  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/067f49a9-60af-45cf-9bf2-eb6639aa8cd5.gif)  
+---  
+|  -- Voir [le reportage photo](https://www.nytimes.com/2020/08/20/style/working-from-home.html?action=click&module=Top%20Stories&pgtype=Homepage)[ du New York Times](https://www.nytimes.com/2020/08/20/style/working-from-home.html?action=click&module=Top%20Stories&pgtype=Homepage)  
+---  
+---  
+7\. Rattrapage En partenariat avec l'incubateur medias [Creatis](https://www.residencecreatis.com/), nous sommes revenus sur les formats medias innovants de ces dernieres semaines. Ideal pour bien preparer votre rentree !  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/23e67857-1a46-4d89-9004-4f3e5f8bf3f5.gif)  
+---  
+---  
+|  -- Rattrapez nos derniers liens [avec le replay du webinar](https://zoom.us/rec/play/tJwvd-uv-G43TNeQtASDAfVwW47pLv6s2icfr6cNmRqxUCVVYwCnbrcaNLff7A5GuT3RSNrZNqF3e2qa)  
+---  
+Vous recevez cet e-mail car vous êtes inscrit•e via le site   
+[medias.datagif.fr](https://medias.datagif.fr/)   
+  
+🏄‍   
+Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)   
+  
+📪  
+Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)   
+  
+✌️  
+Retrouvez la veille et les projets de Datagif sur   
+[Medium](https://medium.com/Datagif) \- [Twitter](https://twitter.com/datagif) \- [Instagram](https://www.instagram.com/datagif) \- [Datagif.fr](https://datagif.fr)   
+  
+👋   
+[Cliquez-ici](*|UNSUB|*) pour vous désabonner   
+  
+  
+*|IF:REWARDS|* *|HTML:REWARDS|* *|END:IF|*   
+  
+  
+---

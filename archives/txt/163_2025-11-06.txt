@@ -1,0 +1,243 @@
+*|MC_PREVIEW_TEXT|*  
+  
+͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿
+
+| | [Ouvrir dans le navigateur](*|ARCHIVE|*)  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/e43d7c17-026c-4c07-ea33-bee27d659573.png)](*|ARCHIVE|*)  
+---  
+  
+| | | ![Médias](https://newsletter.datagif.fr/ext/datagif/img/medias-v2.png)  
+---  
+  
+| 163  
+---  
+  
+| | La veille innovation et design média par Datagif  
+---  
+  
+| | | À quel moment on refond un site  
+---  
+Une question a laquelle notre reponse a evolue au fil du temps. Il y a quelques annees, on etait plutot sur une routine de renouvellement de site tous les 4-5 ans. Mais maintenant on a change totalement notre approche : un site est un outil qui evolue en permanence, par ameliorations subtiles et ciblees. Pour non seulement assurer une qualite toujours au niveau, mais aussi permettre de repondre aux besoins et usages qui evoluent cote publics. En restant alerte sur ce qui se passe, on met a profit notre veille pour nos clients qui nous ont confie leur site. Et vous, quelle est votre approche ?  
+  
+| | | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/dd27fd0a-f659-dbfe-2c8d-0fa69e1c9747.png)  
+---  
+  
+| [Gaetan Duchateau](mailto:gaetan@datagif.fr)  
+---  
+Lead @Datagif  
+  
+| | | Refonte  
+---  
+  
+| 🚀  
+---  
+  
+| | Le media expert b2b mind lance sa nouvelle plateforme digitale  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/f48a3575-ca13-dcba-0463-64e337d40a8b.png)](https://www.mind.eu.com/)  
+---  
+Et on est pas innocent dans l'histoire 😇  
+  
+Lorsque mind nous a confie le travail de refonte de son groupe de sites, les enjeux etaient clairs : revoir totalement l'experience utilisateur (la base) et repondre surtout a des besoins qui ont change (normal).  
+  
+En resume :  
+• mind propose un ensemble de verticales expertes : comment faire beneficier les clients de verticales uniques d'info croisee par d'autres verticales ?  
+• mind dispose de nombreux outils, data, trackers, bases de donnees, newsletters : comment valoriser ces elements differenciants dans l'offre, augmenter leur prise en mains, et permettre aux utilisateurs de trouver les bons contenus ?  
+• beaucoup d'abonnes mind n'utilisent qu'un seul produit editorial (la newsletter) : comment leur faire profiter du reste et decouvrir le site ?  
+• comment simplifier et optimiser le parcours d'acquisition et de connexion pour le rendre unique et securise ?   
+  
+Bon, on reviendra en details sur comment tout cela a ete mis en place. En attendant, vous pouvez vous balader sur le multisite mis en ligne fraichement mardi, et apprecier ce que vous y trouverez !  
+[Explorer les nouveaux sites mind](https://www.mind.eu.com/)  
+  
+| | | Archeologie   
+---  
+  
+| **🦘**  
+---  
+  
+| | À quel point connaissez-vous les 65 000 ans d'histoire de l'Australie ?  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/774e15b1-4c30-7a6d-a432-93370a090e2c.jpg)](https://www.abc.net.au/news/deeptime/)  
+---  
+C'est la question vertigineuse que pose le media australien ABC a son audience. Et les choses n'ont pas ete faites a moitie : l'objectif donne a ete de rassembler tout le savoir transmis sur les cultures precedentes dans un endroit accessible a tout le monde.  
+  
+Un travail monumental d'agregation, pour delivrer un dossier impressionnant decoupe en grandes rubriques :  
+• un aperçu de l'histoire des Premieres Nations ;   
+• une frise chronologique visuelle de l'anciennete de cette histoire ;   
+• des recits ancestraux cartographies ;  
+• des sujets et themes explores en profondeur.   
+  
+Un exemple d'agregation et d'organisation d'information qui merite de s'y perdre !  
+Decouvrir [le dossier geant](https://www.abc.net.au/news/deeptime/) et [ses coulisses](https://www.abc.net.au/news/2025-10-20/deep-time-indigenous-history-introduction/105907302)  
+  
+| | | Climat  
+---  
+  
+| 🌧️  
+---  
+  
+| | Un an apres le phenomene "DANA", le travail de memoire d'El Pais   
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/43106f10-cd4b-433a-729d-01f2bb4df248.gif)](https://elpais.com/espana/2025-10-28/fotos-para-no-olvidar-regreso-a-la-zona-cero-de-la-dana-un-ano-despues.html)  
+---  
+Un an apres la devastation provoquee par le phenomene meteorologique "DANA" a l'origine des pluies diluviennes en Espagne, El Pais offre deux recits complementaires, qui permettent de documenter les crises et nourrir la reflexion sur la gestion des catastrophes :  
+  
+📸 D'un cote, une [galerie interactive](https://elpais.com/espana/2025-10-28/fotos-para-no-olvidar-regreso-a-la-zona-cero-de-la-dana-un-ano-despues.html) permet de comparer les photographies prises juste apres la tempete avec de nouvelles images capturees un an plus tard, revelant les traces persistantes du desastre comme les signes de reconstruction. Les memes cadres, les memes rues et les memes maisons se repondent pour mesurer, en un simple glissement d'image, l'ampleur du temps passe et du travail accompli.  
+  
+👤 De l'autre, une [enquete minutieuse](https://elpais.com/espana/2025-10-26/como-donde-y-a-que-hora-murieron-las-229-victimas-de-la-dana.html) retrace minute par minute, lieu par lieu, comment sont decedees les 229 victimes, pointant les retards d'alerte et les failles dans la gestion de l'urgence.  
+  
+| | | ![](https://newsletter.datagif.fr/ext/datagif/img/newsletter.png) Bienvenue  
+---  
+Eeeeeet bienvenue si vous nous decouvrez ! Tous les 15 jours, l'equipe de [l'agence Datagif](https://datagif.fr/) vous partage gratuitement le meilleur de sa veille innovation et design d'information.  
+| [Bim bam dans ma boite mail ](https://datagif.fr/newsletter-medias/)  
+---  
+  
+| | | Urbanisme  
+---  
+  
+| 🛰️  
+---  
+  
+| | À quoi ressemblait votre maison il y a 10, 50 ou 200 ans ?   
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/46b3c951-74f6-f4bd-20c9-b5255d31ce4d.gif)](https://www.rtbf.be/article/a-quoi-ressemblait-votre-maison-il-y-a-10-50-ou-200-ans-en-wallonie-decouvrez-notre-outil-interactif-11614158)  
+---  
+Si vous avez vu [l'excellente serie sur les veritables inventeurs allemands](https://www.youtube.com/watch?v=iDvPvqImb-4) de ce qui deviendra Google Earth, vous savez que l'effet demo du produit etait systematiquement le meme : chacun voulait voir sa maison vue d'en haut.  
+  
+En Belgique, la RTBF s'est appuyee sur ce meme reflexe pour creer une page toute simple : un comparateur de vue satellite (ou de carte dessinee) d'une bonne partie de la Wallonie. Partant du constat que le site geoportail Wallon ne proposait pas de vue comparative, le media a constitue cette page d'une efficacite redoutable : baladez-vous ou entrez une adresse et comparez les annees. Cette mecanique est imparable pour assurer une forte interaction et un bon temps passe sur l'outil !  
+[Comparer la Wallonie au fil des annees](https://www.rtbf.be/article/a-quoi-ressemblait-votre-maison-il-y-a-10-50-ou-200-ans-en-wallonie-decouvrez-notre-outil-interactif-11614158)  
+  
+| | | Le 50/50  
+---  
+Envie d'explorer un format ?   
+Cliquez sur le tag, tous nos liens sont juste derriere  
+  
+| | | [🎞️ video](https://datagif.fr/liens/?format=video)  
+---  
+  
+| | [🐍 long](https://datagif.fr/liens/?format=long)  
+---  
+  
+| | |   
+---  
+Il y a 15 jours :  
+En perte de reperes ?  
+  
+| | | [🧭 navigation](https://datagif.fr/liens/?feature=navigation)  
+   
+---  
+  
+| | [🏆](https://datagif.fr/liens/?feature=navigation)[65%](https://datagif.fr/liens/?feature=navigation)  
+---  
+  
+| |   
+---  
+  
+| | | [📐 grille](https://datagif.fr/liens/?feature=grille)  
+---  
+  
+| | [35%](https://datagif.fr/liens/?feature=grille)  
+---  
+  
+| | | Tracker  
+---  
+  
+| 🤖  
+---  
+  
+| | Suivre les legislatives neerlandaises sous influence artificielle  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/9f2d1bd7-9432-06fb-6b17-a25e7f7c25b8.png)](https://www.campaigntracker.nl/en/)  
+---  
+Chez Datagif, nous sommes toujours clients des bons trackers politiques. Et [cette initiative](https://www.campaigntracker.nl/en/), menee par une equipe interdisciplinaire d'universitaires neerlandais et allemands, a tout pour plaire : leur CampAIgn Tracker a passe au crible tous les posts publies sur les reseaux sociaux par les partis politiques, candidats, commentateurs et influenceurs pendant les dernieres legislatives neerlandaises, et en a tire des visualisations mises a disposition des medias.  
+  
+[Leur methodologie est transparente](https://www.campaigntracker.nl/en/info.html) : leur algorithme repere les contenus generes par IA, precise s'ils sont etiquetes comme tels, identifie les themes, les personnalites visibles, la tonalite… Une IA qui traque les contenus IA, donc.  
+[Consulter le tableau de bord CampAIgn Tracker](https://www.campaigntracker.nl/en/)  
+  
+| | | Le lien d'Aurore  
+---  
+Les emotions en detail  
+  
+| | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/77d3f694-96cf-11ff-dc3f-eed340345ac9.png)  
+---  
+  
+| | Inspiree par la roue de Plutchik, Anne Bosquet, facilitatrice graphique, [s'est lance le defi de donner des visages a 72 emotions](https://www.linkedin.com/posts/anne-bosquet_72-%C3%A9motions-en-pictos-rigolos-et-faciles-activity-7384453070040244225-tkZ5). Son travail est une pepite de design d'information.  
+  
+Les 6 emotions principales (joie, peur, colere, tristesse, surprise, degout) sont dessinees et declinees en « sous-emotions », avec un systeme graphique de couleurs et de formes. C'est un chouette outil, utile et joli, qui aide a mettre des images sur ce qu'on ressent, tres justement.  
+  
+Rendre simple et lisible des idees complexes c'est tout ce qu'on aime chez Datagif. Bravo Anne 👏  
+---  
+  
+| | | Le meilleur lien de l'edition n°162  
+---  
+  
+| | Le 'Google Actu' de la presse inde  
+---  
+C'est donc le portail des medias independants, lance publiquement par Basta!, qui vous a le plus interesse. On comprend, on est comme vous 🫶   
+[(Re)decouvrir le portail des medias independants de Basta!](https://portail.basta.media/)  
+  
+| | | Decoupage  
+---  
+  
+| 🗳️  
+---  
+  
+| | Redessiner la carte du pouvoir en Californie  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/8926d8e3-d3a4-6ca6-befb-f974df285a18.png)](https://www.srf.ch/news/international/usa/abstimmung-in-kalifornien-kampf-um-die-karte-zeichnen-sie-wie-ein-gerrymandering-profi)  
+---  
+SRF s'empare du casse-tete du redecoupage electoral en Californie avec un article interactif qui mele pedagogie et strategies politiques. Apres avoir pose les enjeux du vote initie par le gouverneur Newsom, le media invite les lecteurs a redessiner eux-memes la carte des circonscriptions, au profit du camp democrate. Une approche maligne pour illustrer les mecanismes de pouvoir et de representation aux États-Unis.   
+[S'essayer au decoupage des circonscriptions](https://www.srf.ch/news/international/usa/abstimmung-in-kalifornien-kampf-um-die-karte-zeichnen-sie-wie-ein-gerrymandering-profi)  
+  
+| | | USA  
+---  
+  
+| **🇺🇸**  
+---  
+  
+| | Trump et la tentation autoritaire  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/85b6ae46-9e89-4f3d-37d2-794d91c2a9f3.png)](https://www.nytimes.com/interactive/2025/10/31/opinion/trump-autocracy-democracy-report.html)  
+---  
+Un recent article du NYT explore les dynamiques qui peuvent conduire a un glissement de la democratie vers l'autocratie et place le mandat du Donald Trump dans cette perspective.   
+  
+Le comite editorial du Times a etabli une liste de 12 indicateurs d'erosion democratique, mesurant l'evolution des institutions cles : separation des pouvoirs, independance de la justice, liberte de la presse, respect des normes. Applique au cas americain, cet outil met en evidence un affaiblissement progressif des garde-fous democratiques, sans effondrement total, mais suffisamment marque pour alerter. On aime particulierement les echelles presentees : _Trump has started to / Trump has_ \- accompagne d'un curseur pour visualiser la trajectoire de recul engagee.   
+[Lire l'analyse du NYT](https://www.nytimes.com/interactive/2025/10/31/opinion/trump-autocracy-democracy-report.html)  
+  
+| | | Bonus  
+---  
+Et pour quelques liens de plus...  
+💰 Deux campagnes de financement à soutenir : Society [lance un hors-série](https://fr.ulule.com/society-x-forbidden-stories/) sur les enquêtes interdites avec Forbidden Stories, pendant que le podcast/compte Instagram Mécréantes veut évoluer en [Problematik](https://fr.ulule.com/problematik-media-queer-lancement/), un nouveau média queer et féministe en accès libre.  
+  
+🎓 Mammouth Media et L’Avenir donnent la parole à des étudiants en journalisme belge en[ publiant trois reportages réalisés en collaboration](https://www.linkedin.com/feed/update/urn:li:activity:7391098921793593344/).  
+  
+📍 L’Echo propose [un long format cartographique](https://multimedia.lecho.be/telephone-localisation/) sur le traçage des téléphones portables en Belgique.  
+  
+📷 L’iconographe du journal de Volkskrant rend [hommage à son père](https://www.volkskrant.nl/kijkverder/v/2025/schallmaier-index-ode-aan-een-vader~v1923887/) dans une mise en abîme photographique pour le 250e épisode de son Schallmaier-Index.  
+  
+🎥 Le New York Times ajoute [un onglet “Watch”](https://www.nytco.com/press/introducing-the-watch-tab/) à son application mobile pour mettre en valeur ses formats vidéo.  
+  
+💥 Les Décodeurs du Monde retracent deux ans de guerre à Gaza dans [une frise chronologique interactive](https://www.lemonde.fr/les-decodeurs/visuel/2025/11/01/du-7-octobre-au-cessez-le-feu-a-gaza-la-chronologie-des-deux-ans-de-guerre-qui-ont-change-le-proche-orient_6650781_4355770.html).  
+  
+🍫 L’avenir du chocolat, ou sa fin ? [Bloomberg](https://www.bloomberg.com/graphics/2025-opinion-future-of-chocolate/) revient sur les menaces industrielles et climatiques qui pèsent sur le marché, et explore ses nouveaux ersatz comme le ChoViva.  
+  
+🦎 Et pour finir, concours de camouflage animalier : le Washington Post propose [un jeu d’identification](https://www.washingtonpost.com/climate-environment/interactive/2025/animal-costume-contest-mimicry/) étonnant sur les déguisements naturels les plus bluffants.  
+  
+| | | Et c'est tout pour l'edition 163  
+---  
+✏️ Un numero prepare par Athenais, Lucie, Charly, Aurore et Gaetan  
+  
+⛵ Cet e-mail a vocation a voyager. Si vous voulez y contribuer, envoyez-le a 2-3 collegues de bureau !  
+par  
+| [![DATAGIF](https://newsletter.datagif.fr/ext/datagif/img/logo-big.png)](https://datagif.fr)  
+---  
+  
+| | | ![](https://newsletter.datagif.fr/ext/datagif/img/social.png) Retrouvez-nous sur les réseaux  
+---  
+[Medium](https://datagif.medium.com/) [X](https://x.com/datagif) [Bluesky](https://bsky.app/profile/datagif.fr) [Instagram](https://www.instagram.com/datagif/) [Threads](https://www.threads.net/@datagif) [Linkedin](https://www.linkedin.com/company/datagif/) [Datagif.fr](https://datagif.fr/)  
+  
+| | Vous recevez cet e-mail car vous êtes inscrit•e via le site [datagif.fr](https://datagif.fr/newsletter-medias/)Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)  
+👋 [Cliquez-ici](*|UNSUB|*) pour vous désabonner  
+---

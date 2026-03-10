@@ -1,0 +1,178 @@
+*|MC_PREVIEW_TEXT|*  
+  
+͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿
+
+| | [Ouvrir dans le navigateur](*|ARCHIVE|*)  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/76026929-6952-7132-56d7-c6b68eed0df3.png)](*|ARCHIVE|*)  
+---  
+  
+| | | ![Médias](https://newsletter.datagif.fr/ext/datagif/img/medias-v2.png)  
+---  
+  
+| 132   
+---  
+  
+| | La veille innovation et design média par Datagif  
+---  
+  
+| | | C'est pareil mais en mieux  
+---  
+Il n'y aurait pas quelque chose de change par ici ? En effet, bien observe. Et plus precisement, vous avez sous les yeux une evolution de notre newsletter. Évolution ? Ces derniers mois, nous avons teste par petites touches des principes un peu differents, imagine quelques nouvelles manieres de vous partager notre veille. Nous avons rassemble nos idees, prototype, pour retenir ce qui nous ressemble le plus, tout en vous apportant un peu de nouveaute bienvenue. C'est donc bel et bien une evolution, en nous appuyant sur ce qui fonctionne bien tout en apportant des principes qui ameliorent votre experience. N'hesitez pas a nous partager ce que vous en pensez (meme pour le classique "c'etait mieux avant") 💙   
+  
+| | | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/dd27fd0a-f659-dbfe-2c8d-0fa69e1c9747.png)  
+---  
+  
+| Gaetan Duchateau  
+---  
+Lead @Datagif  
+  
+| | | Votons  
+---  
+  
+| 🗳️  
+---  
+  
+| | Trois manieres d'interesser l'audience au futur de l'Europe  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/b4b80247-4f99-125b-90ec-4598c0774de2.jpg)](https://www.contexte.com/article/pouvoirs/la-grande-faq-des-europeennes-2024_191907.html)  
+---  
+C'est assez flagrant de constater qu'a chaque elections europeennes, personne ne reçoit les programmes a temps, et personne ne sait pour qui voter ou pire encore, pourquoi voter. Pourtant, les dates sont connues a l'avance et ça n'est pas l'actu qui manque.  
+  
+Nous avons identifie cinq initiatives qui tirent leur epingle du jeu pour aider a y voir plus clair dans cette affaire :  
+• Franceinfo [dresse le bilan tres clair des eurodeputes](https://www.francetvinfo.fr/elections/europeennes/infographies-europeennes-2024-immigration-guerre-en-ukraine-covid-19-comment-ont-vote-vos-eurodeputes-sur-neuf-textes-cles_6568229.html) : qui a vote quoi sur quelques sujets cles, comme le pacte sur l'asile et la migration, la fin des voitures thermiques ou la garantie du droit a l'avortement...   
+• Le Parisien propose a ses lecteurs de [comparer leurs convictions aux votes des deputes sortants](https://www.leparisien.fr/elections/europeennes/elections-europeennes-comparez-vos-convictions-aux-votes-des-deputes-sortants-avec-notre-simulateur-23-05-2024-M5RD5ZTATRCNJDNMTM2DJXB3OM.php) avec un simulateur, pour obtenir un score de proximite avec les partis français representes au Parlement europeen.  
+• Contexte a cree [une enorme FAQ](https://www.contexte.com/article/pouvoirs/la-grande-faq-des-europeennes-2024_191907.html) inspiree de bons [liens](https://datagif.fr/liens/?format=liste)[ vus ici](https://datagif.fr/liens/?format=liste) et forcement, ça nous fait tres plaisir. Car c'est typiquement le format d'article qui rassemble les criteres du combo gagnant : pas complique, informatif, evolutif et reutilisable pour un autre evenement.  
+• Toujours chez Contexte, le traditionnel outil de [comparaison et d'analyse de faisabilite des programmes](https://www.contexte.com/article/pouvoirs/europeennes-2024-quelle-liste-a-le-programme-le-plus-credible_188820.html). Efficace, clair, complet : du tout bon.  
+• Chez Voxe, [la tonalite est plus engagee](https://www.voxe.org/op/elections-europeennes-2024#) : le media rassemble sur une page tout ce qu'il faut savoir sur les reussites du Parlement europeen, pourquoi chaque voix compte et quels sont les enjeux a surveiller.   
+  
+Aux urnes citoyen*es ✌️🗳️  
+  
+| | | Accessibilite  
+---  
+  
+| ♿  
+---  
+  
+| | Comment un media indien rend son site plus accessible  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/6220d574-939c-726b-2736-2bc8a44fb090.gif)](https://www.newslaundry.com/2024/05/01/presenting-newsable-the-newslaundry-website-and-app-are-now-accessible)  
+---  
+Le media independant indien Newslaundry a lance NewsAble, une serie de fonctionnalites et ameliorations pour rendre leur site accessible aux internautes souffrant de handicaps. [Dans un article clair et detaille](https://www.newslaundry.com/2024/05/01/presenting-newsable-the-newslaundry-website-and-app-are-now-accessible), ils montrent que ces evolutions profitent a tous les lecteur*trices et qu'une simple surcouche d'accessibilite ne suffit pas. Il a fallu en realite effectuer un gros travail de refonte. Une initiative soutenue par la Google News Initiative et qui offre un excellent modele a suivre pour les medias français.  
+[Lire le retour d'experience detaille](https://www.newslaundry.com/2024/05/01/presenting-newsable-the-newslaundry-website-and-app-are-now-accessible)  
+  
+| | | ![](https://newsletter.datagif.fr/ext/datagif/img/newsletter.png) On vous a envoye cette newsletter ?  
+---  
+Nous sommes une agence de conseil et de design qui travaille sur des sujets de design d'information et nous envoyons tous les 15 jours une selection de notre veille.  
+| [S'abonner direct](https://datagif.fr/newsletter-medias/)  
+---  
+  
+| | | Service local  
+---  
+  
+| 🚗  
+---  
+  
+| | La Tribune de Geneve affiche une carte en temps reel des travaux et encombrements routiers  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/c7e54b72-a977-9b6c-153a-89346d618577.jpg)](https://www.tdg.ch/les-principaux-chantiers-genevois-en-un-coup-doeil-288391167813)  
+---  
+Quand on arrive en ville, c'est la panique sur les boulevards. En tout cas, en temps de travaux, necessaires pour ameliorer le quotidien et entretenir le tissu urbain. Avec des donnees fournies librement par le canton, le quotidien genevois propose un service impeccable, en lien avec sa mission de media local.  
+  
+Sous la forme d'une carte, Geneve prend des couleurs : deviations, fermetures, ralentissements... Le media apporte a son audience une information certes presente par ailleurs mais surtout bien integree a son actu locale. Revers de la medaille : cette visualisation donne du grain a moudre aux mecontents, qui ne ne se privent pas dans les commentaires. À quand un ensemble d'articles sur "pourquoi les travaux sont necessaires" en contextualisation ?  
+[Prevoir vos deplacements motorises a Geneve](https://www.tdg.ch/les-principaux-chantiers-genevois-en-un-coup-doeil-288391167813)  
+  
+| | | Le 50/50  
+---  
+Selectionnez la thematique de votre choix, on vous genere une liste de liens a ne pas rater  
+On est comme ça, on vous facilite le travail. Cette semaine, deux themes que les plus facetieux considereront comme similaires. Dans les deux cas, vous ne serez pas deçu*es !  
+  
+| | | [🗳️ politique ](https://datagif.fr/liens/?theme=politique&utm_source=newsletter_medias&utm_medium=email&utm_campaign=medias_poll)  
+---  
+  
+| | [🏀 sport](https://datagif.fr/liens/?theme=sport&utm_source=newsletter_medias&utm_medium=email&utm_campaign=medias_poll)  
+---  
+  
+| | | Disparition  
+---  
+  
+| 🪦  
+---  
+  
+| | 38 % des pages web sont inaccessibles une decennie plus tard  
+---  
+Une [etude du Pew Research Center](https://www.pewresearch.org/data-labs/2024/05/17/when-online-content-disappears/) vient nous prouver a quel point le contenu en ligne est ephemere, notamment pour les sites d'infos ou 23% des pages contiennent au moins un lien mort, et ceci peu importe la frequentation du site. Le rapport ne propose pas vraiment d'explications mais on en imagine facilement quelques unes : refonte des sites, manque d'interet pour la conservation des archives, disparition de medias ou volatilite des reseaux sociaux…. La newsletter Le Pave Numerique le rappelait dans [son dernier numero](https://lepavenumerique.substack.com/p/internet-disparait-sous-nos-yeux?utm_source=post-email-title&publication_id=1653266&post_id=145023523&utm_campaign=email-post-title&isFreemail=true&r=4dr78&triedRedirect=true&utm_medium=email) : "Internet disparait sous nos yeux", saluons donc encore l'existence de projets comme [l'Internet Archive](https://web.archive.org/) ou [l'archivage du web français](https://www.bnf.fr/fr/consulter-les-archives-de-linternet) par la BNF.  
+[Consulter l'etude du PEW](https://www.pewresearch.org/data-labs/2024/05/17/when-online-content-disappears/)  
+  
+| | | Le meilleur lien de la precedente edition  
+---  
+  
+| | La pastille audio sur la refonte d'une newsletter reussie  
+---  
+On a regarde les stats de l'edition 131 et notre pastille racontant comment faire un bon brief, les questions a se poser ou les contraintes techniques d'une refonte newsletter a ete largement plebiscitee. Alors pour les retardataires, on vous remet le choix du public !  
+🏆 [Lucie, Charly et Gaetan vous donnent les cles en audio d'une refonte de newsletter reussie](https://www.linkedin.com/feed/update/urn:li:activity:7191831297323925504/)  
+  
+| | | Le lien de Lucie  
+---  
+Vers une installation perenne du mulet ?  
+  
+| | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/c6d7b4bf-43f7-a33a-d665-553c02b8922f.png)  
+---  
+  
+| | Le mulet a fait son grand retour pendant la periode Covid, et nous avons tous observe ce phenomene pensant qu'il retournerait rapidement au placard, avec les joggings et t-shirts trop larges des confinements successifs - bienseance sociale oblige. Que nenni ! nous dit le media australien ABC. Dans un [long format interactif](https://www.abc.net.au/news/2024-05-23/afl-mullet-count-data-analysis/103850072), ABC a analyse les coiffures de tous les joueurs du championnat d'Australie de de football, et force est de constater que 19% des joueurs ont opte pour le mulet.  
+  
+Bon, dans le fond, mulet ou coupe au bol, ce n'est pas ce qui nous interesse vraiment : le media presente differentes dataviz et infographies inedites sur le fond, et surprenantes sur la forme. Ça attise la curiosite, ça fait sourire, ça donne envie de partager l'article, bref, ça marche bien !  
+---  
+  
+| | | Histoire  
+---  
+  
+| 📽️  
+---  
+  
+| | Le format a plusieurs niveaux de lecture du Washington Post  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/40320455-8291-3872-f1f2-aa8202cec453.jpg)](https://www.washingtonpost.com/investigations/interactive/2024/american-indian-boarding-schools-history-legacy/)  
+---  
+La semaine derniere, le Washington Post publiait [une enquete](https://www.washingtonpost.com/investigations/interactive/2024/sexual-abuse-native-american-boarding-schools/) sur les enfants amerindiens separes de leur famille par le gouvernement americain. Un long format edifiant au message important.  
+  
+Le WaPo a accompagne cette publication d'un [article sequence en 9 diapositives](https://www.washingtonpost.com/investigations/interactive/2024/american-indian-boarding-schools-history-legacy/) resumant les politiques americaines visant a "civiliser" les enfants amerindiens. Chaque ecran affiche un fait et est accompagne d'un bouton pour en deployer davantage. Un format malin a deux niveaux pour inciter a la lecture et au partage s'il est, comme ici, supporte par un article plus long et detaille.  
+[Derouler les diapos du Washington Post](https://www.washingtonpost.com/investigations/interactive/2024/american-indian-boarding-schools-history-legacy/)  
+  
+| | | Devinette  
+---  
+  
+| 📈  
+---  
+  
+| | The Guardian rend son audience active avec des graphiques interactifs  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/2f088771-c788-27f6-7082-1fd8a4ed451c.jpg)](https://www.theguardian.com/us-news/ng-interactive/2024/may/22/how-is-the-us-economy-doing-quiz)  
+---  
+Alors en pleine campagne, Donald Trump et Joe Biden affirment tous deux que la plus grande economie du monde sera en danger si l'autre gagne en novembre. Mais alors, comment pensez-vous que le PIB americain a evolue au cours de leur presidence respective ? Quid de l'inflation et du prix a la pompe ? The Guardian interroge son lectorat et l'invite a tracer ses estimations entre 2017 et 2024, pour comparer les impacts des differentes presidences. Une fois l'estimation soumise, le lecteur peut comparer ses courbes aux reels resultats, mais egalement avec celles de l'ensemble des internautes ayant repondu.  
+  
+Un systeme qui n'est certes pas nouveau (vu en France chez Les Decodeurs), mais presente au moins deux avantages : celui de generer de l'engagement au sein meme d'un article, et de rendre attrayant un sujet rapidement barbant.  
+[Faites vos jeux sur The Guardian ](https://www.theguardian.com/us-news/ng-interactive/2024/may/22/how-is-the-us-economy-doing-quiz)  
+  
+| | | Pour aller plus loin  
+---  
+On vous a selectionne quelques liens bonus !  
+Vous voulez voir une belle liste de candidats aux europeennes, [Le Monde](https://www.lemonde.fr/les-decodeurs/article/2024/06/02/qui-sont-les-candidats-aux-elections-europeennes-de-2024_6190102_4355771.html#deffontainesl%C3%A9on) l'a fait pour vous. Le [New York Times](https://www.nytimes.com/interactive/2024/05/14/us/gun-homicides-map.html?geoId=4748000&zoom=10) cree une map interactive pour montrer comment la pandemie de la Covid-19 a transforme la violence armee aux États-Unis.  
+  
+Le media Quotidien vous propose un [nouveau rendez-vous](https://d4hd9.r.sp1-brevo.net/mk/mr/sh/1f8JAEjGcfF85qhq1y4eL5u3sd/t8QqJdZoSw7O), cette fois-ci dans votre boite mail et chaque matin, pour un condense d'infos media "informe et mal eleve".   
+  
+| | | Merci  
+---  
+Cette 132eme edition, dans une forme renouvelee, est l'occasion de vous dire merci. Car a chaque envoi, inquiets de savoir si les liens sont bien choisis, si les thematiques vont parler, si tout cela va susciter des reactions, nous sommes toujours soulages. Par les chiffres, deja, mais aussi vos retours. Cette veille, que l'on pourrait garder pour nous, on a choisi de vous la partager librement. Ce qui fait d'ailleurs que certain*es d'entre vous ne nous connaissent qu'a travers cette newsletter, comme quoi, elle a son utilite 💙  
+par  
+| [![DATAGIF](https://newsletter.datagif.fr/ext/datagif/img/logo-big.png)](https://datagif.fr)  
+---  
+  
+| | | ![](https://newsletter.datagif.fr/ext/datagif/img/social.png) Retrouvez-nous sur les réseaux  
+---  
+[Medium](https://datagif.medium.com/) [X](https://x.com/datagif) [Bluesky](https://bsky.app/profile/datagif.bsky.social) [Instagram](https://www.instagram.com/datagif/) [Threads](https://www.threads.net/@datagif) [Linkedin](https://www.linkedin.com/company/datagif/) [Datagif.fr](https://datagif.fr/)  
+  
+| | Vous recevez cet e-mail car vous êtes inscrit•e via le site [datagif.fr](https://datagif.fr/newsletter-medias/)Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)  
+👋 [Cliquez-ici](*|UNSUB|*) pour vous désabonner  
+---

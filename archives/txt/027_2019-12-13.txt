@@ -1,0 +1,116 @@
+---  
+![Médias](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/d060cdc3-f8d4-4207-b9bb-0b8ffda1ca6f.png)  
+La veille innovation et design media par Datagif  
+  
+| *|MC_PREVIEW_TEXT|*  
+---  
+---  
+1\. Top Un palmares au design hypnotique  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/31d7f46c-c324-4012-9ba7-1ee2735e6068.gif)  
+---  
+Avec la fin de l'annee viennent les classements. Bloomberg n'y echappe pas et vient de publier son palmares annuel des 50 personnalites qui ont fait l'annee. Comme d'habitude, le design est assez deglingo :  
+  
+● Une mecanique simple mais osee : l'ecran est divise en deux, au scroll une partie va vers le haut, l'autre vers le bas  
+● Les photos sont traitees a la Warhol : niveau de gris sur des aplats de couleurs  
+● Des proportions tres genereuses (surtout sur les grands ecrans)  
+● Des animations en boucle automatique, pour un effet hypnotique  
+---  
+|  -- _The Bloomberg 50_   de cette annee [est ici](https://www.bloomberg.com/features/2019-bloomberg-50/)  
+-- Celui de l'annee derniere (pour comparaison) est a retrouver [ici](https://www.bloomberg.com/features/2018-bloomberg-50/)  
+---  
+---  
+2\. Partage de compte Chez Le Monde, la fete est finie  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/b2c840f9-fa87-40a9-b7c1-9b9861263c0e.jpg)  
+---  
+Ça y est, Le Monde limite desormais le partage d'identifiants pour un meme compte abonne. A la maniere de Netflix ou Spotify, un seul appareil peut desormais se connecter simultanement a un meme compte. La suite logique serait de developper une offre d'abonnement "famille", comme le teste Le Figaro depuis quelques mois...  
+---  
+|  -- Via un tweet de [Loris Guemart](https://twitter.com/lorisguemart/status/1202297360564535301)  
+---  
+---  
+3\. Photo Le gratin d'Hollywood reuni dans un impressionnant portfolio  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/de0a83fd-2a54-43f2-88f4-c3e04493da0c.png)  
+---  
+![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/b68a0c2d-cd82-4da8-ab30-d4eb97a3517b.png)  
+---  
+The New York Times Magazine publie un impressionnant portfolio des dix meilleur*e*s acteur*trice*s de l'annee 2019. "Great Perfomers" est un format _one page_ immersif qui n'affiche ni menu ni bouton, mais impose un long scroll dans lequel on croise Lupita Nyong'o, Brad Pitt ou Scarlett Johansson, sous l'objectif tres elegant du photographe Jack Davison.  
+---  
+![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/efa17cbb-6fc7-46f0-91d5-91cbf086b6ba.png)  
+---  
+|  -- Voir la liste des [Great Perfomers](https://www.nytimes.com/interactive/2019/12/09/magazine/best-actors.html) dans The New York Times Magazine  
+---  
+---  
+4\. Edition The Guardian compile ses meilleurs articles de l'annee dans un livre   
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/543c7765-1eee-49d4-b37e-2e8eea9fc23d.png)  
+---  
+Vous ne le saviez peut-etre pas, mais The Guardian edite chaque annee un livre qui rassemble une serie d'articles importants publies pendant l'annee passee. Ça s'appelle "The Bedside Guardian" et c'est un bel exemple de produit derive pour les medias. C'est complementaire avec la production editoriale existante, c'est relativement facile a produire, et ça se vendra bien a Noel. Vendu !  
+  
+A noter : The Guardian essore le concept jusqu'au bout et organise egalement un evenement ou ses journalistes racontent ces sujets de l'annee.  
+---  
+![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/f6d9d6eb-1277-471b-8556-375db8881ab5.jpg)  
+---  
+|  -- [Acheter le livre](https://guardianbookshop.com/the-bedside-guardian-2019-9781916204706.html) du Guardian  
+-- [En savoir plus ](https://membership.theguardian.com/event/the-bedside-guardian-stories-that-made-the-headlines-in-2019-75871207825)sur l'evenement live  
+---  
+---  
+5\. Astuce L'abonnement cadeau, un levier marketing pour Noel  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/21732e7e-bff2-46cb-bf11-cbc9e80bb015.png)  
+---  
+L'abonnement cadeau semble s'imposer comme un levier strategique pour les medias qui souhaitent booster leur portefeuille d'abonnes numeriques.  
+  
+A l'approche de Noel, on voit fleurir ces messages marketing partout sur les sites d'info. Et pas seulement via des campagnes publicitaires, puisque ces offres cadeau s'appuient de plus en plus sur les abonnes existants. Si vous etes abonne au Monde ou chez Les Jours, vous avez ainsi du voir apparaitre un bouton "Offrir un abonnement" dans le header du site, ces dernieres semaines...  
+---  
+|  -- Offrir un abonnement pour [Le Monde](https://abo.lemonde.fr/offre-offrir) ou [L](https://lesjours.fr/abonnement/offrir)[es Jours](https://lesjours.fr/abonnement/offrir)  
+---  
+---  
+6\. Data Les dangers du telephone au volant  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/4403bcab-91a5-47db-82ba-3da780ebc548.gif)  
+---  
+Conduire en telephonant est interdit aux Etats-Unis, ce qui n'empeche pas beaucoup de conducteurs.trices d'outrepasser cette regle de base. Sur 100 conducteurs, environ 19 seraient distraits plus de 20% du temps sur la route.  
+  
+Bloomberg s'empare du sujet avec un traitement data original : l'article represente plusieurs routes fictives, ou les voitures se chevauchent plus ou moins frequemment en fonction du taux de conducteurs distraits.  
+---  
+|  -- [Lire l'article](https://www.bloomberg.com/graphics/2019-distracted-drivers/) de Bloomberg  
+---  
+---  
+7\. BD Le Washington Post adapte le rapport Mueller  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/e940e1ab-4375-4c7e-bf04-d881963e2bfe.png)  
+---  
+[Le rapport Mueller,](https://fr.wikipedia.org/wiki/Affaire_du_Russiagate) du nom du procureur special charge d'enqueter sur les suspicions de collusion entre Trump et la Russie, n'a pas fini d'alimenter la creativite des medias outre-Atlantique.  
+  
+Apres le roman graphique propose cet ete par Insider, le Washington Post presente [une adaptation en BD](https://www.washingtonpost.com/graphics/2019/politics/mueller-report-illustrated/about/), consacree aux accusations d'obstruction a la justice dont le President etats-unien fait l'objet. Plus digeste que les 448 pages du document officiel, le projet, ecrit par le "WaPo" et illustre par l'artiste Jan Feindt, se decline en format papier et en six chapitres sur le Web.  
+---  
+![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/6c5abea9-5a76-4d83-93dd-212e31596044.png)  
+---  
+|  --  À commander [sur papier](https://www.washingtonpost.com/graphics/2019/politics/mueller-report-illustrated/about/#books)  
+--  À consulter [en six chapitres interactifs](https://www.washingtonpost.com/graphics/2019/politics/mueller-report-illustrated/about/)  
+---  
+---  
+8\. Bundle Des medias independants s'associent pour Noel  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/ef0e8cc8-8577-4bd9-951b-ba733000e737.jpg)  
+---  
+StreetPress, Impact(s), Chut, Koi, Rue89 (Lyon, Bordeaux, Strasbourg), Le D'Oc et Le Zephyr : autant de medias qui se reunissent autour d'une offre speciale Noel. Via la plateforme Ulule, vous pourrez acheter ou offrir un pack decouverte de 30 jours pour leurs medias respectifs, et tout cela a prix libre. Une bonne idee pour echapper a la folie materialiste de Noel, et pour soutenir la presse independante.  
+---  
+|  -- Vous cherchiez une idee originale pour un cadeau a 5 € (ou plus) ? [C'est par ici](https://fr.ulule.com/pack-noel-medias/)  
+---  
+Vous recevez cet e-mail car vous êtes inscrit•e via le site   
+[medias.datagif.fr](https://medias.datagif.fr/)   
+  
+🏄‍   
+Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)   
+  
+📪  
+Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)   
+  
+✌️  
+Retrouvez la veille et les projets de Datagif sur   
+[Medium](https://medium.com/Datagif) \- [Twitter](https://twitter.com/datagif) \- [Instagram](https://www.instagram.com/datagif) \- [Datagif.fr](https://datagif.fr)   
+  
+👋   
+[Cliquez-ici](*|UNSUB|*) pour vous désabonner   
+  
+  
+*|IF:REWARDS|* *|HTML:REWARDS|* *|END:IF|*   
+  
+  
+---

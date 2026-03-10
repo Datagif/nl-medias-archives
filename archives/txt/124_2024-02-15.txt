@@ -1,0 +1,240 @@
+*|MC_PREVIEW_TEXT|*  
+  
+͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿
+
+| | [Ouvrir dans le navigateur](*|ARCHIVE|*)  
+---  
+| ![Médias](https://newsletter.datagif.fr/ext/datagif/img/medias.png)  
+---  
+La veille innovation et design média par DATAGIF  
+  
+| |   
+---  
+  
+| | | Penser l'evolution des medias de maniere collaborative : c'est ce que font chaque equipe de media des qu'une nouvelle idee nait, est testee, analysee puis amelioree... c'est ce que l'on fait egalement a notre niveau, en vous partageant un extrait de notre veille avec quelques morceaux choisis que l'on espere inspirants. Et c'est ce que propose la Gaite Lyrique lors d'une journee ouvertes aux journalistes, creatif*ves, professionel*les des medias dont on vous parle en bas de cette edition. Bonne lecture 👋  
+---  
+  
+| |   
+---  
+  
+| | | 
+
+## 1\. Campagne
+
+##  Comment seduire 2000 nouveaux abonne*es  
+  
+---  
+  
+| | | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/d810d8b1-9bcf-7bc4-34ab-a06805b52084.jpg)](https://lesjours.fr/)  
+---  
+  
+| | Les Jours sont [en campagne](https://lesjours.fr/obsessions/vie-jours/ep140-campagne-abonnements-2024/) : recruter 2000 abonne*es supplementaires pour contrer une legere erosion de la base d'abonnement et continuer d'assurer la viabilite du media. Dans une ambiance [compliquee](https://www.newyorker.com/news/the-weekend-essay/is-the-media-prepared-for-an-extinction-level-event) pour les medias, difficile de se projeter. Et pourtant il le faut bien, pour un media dont 98 % des revenus viennent de l'abonnement et dont 70 % des revenus financent la production journalistique.  
+  
+Nous avons ete invites a la conference de presse tenue par Les Jours et nous en retenons surtout le fait que **le m edia communique sur sa _roadmap_  pour illustrer sa dynamique** :  
+• une nouvelle application en developpement  
+• de nouvelles fonctionnalites sur la page article dont un systeme de rattrapage pour restituer une affaire  
+• et une nouvelle newsletter, sorte de mini Les Jours hebdomadaire.  
+  
+C'est une chose relativement rare de connaitre les evolutions produit d'un media et cela contribue, selon nous, a rassurer les possibles abonne*es sur l'usage de leur abonnement. En clair, **financer un m edia qui se developpe plutot que de sauver un media en perdition**.  
+  
+De plus, le media experimente [un abonnement couple avec Canard PC](https://boutique.canardpc.com/common/product-subscription/402) : nous sommes curieux de connaitre les resultats de cette operation !  
+   
+---  
+| | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+Redecouvrir [les articles en acces libre des Jours](https://lesjours.fr/les-jours-en-clair/)  
+  
+| |   
+---  
+  
+| | | 
+
+## 2\. Traduction
+
+## Un micro-detail qui en dit long sur l'attention portee a ses lecteurs*trices  
+  
+---  
+  
+| | | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/ad289d43-e8e2-f354-3a18-3d3bfb69113e.jpg)](https://restofworld.org/2023/chatgpt-problems-global-language-testing/fr/#translate)  
+---  
+  
+| | En naviguant sur le media Rest of World, et notamment sur [ce tres chouette article](https://restofworld.org/2023/chatgpt-problems-global-language-testing/fr/#translate) que nous vous recommandons, _un petit truc_ nous a saute aux yeux : accole a la date de publication, un menu deroulant propose de traduire l'article en français, en espagnol, en chinois ou en allemand. Et **alors que le m edia aurait pu s'arreter a la presentation de cette option anodine, Rest of World va plus loin - et on apprecie**.  
+  
+Un petit encart rouge previent le lecteur que le texte a ete traduit a l'aide de Google Translate et qu'en ce sens, il se peut que le resultat soit imparfait. Un lien amene sur [une page dediee aux traductions](https://restofworld.org/about/translations/), preuve de transparence sur l'aspect experimental du service. De retour dans l'article, apres les trois premiers paragraphes, le media interroge sur la qualite de la traduction, et invite l'audience - si la traduction est jugee mauvaise - a faire ses retours aupres de la redaction. **Ou comment communiquer subtilement sur l 'attention portee a l'experience utilisateur.**   
+  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/49b5c51e-f032-a503-b32e-5ddecab857a7.jpg)  
+---  
+---  
+  
+| |   
+---  
+  
+| | | | ![](https://newsletter.datagif.fr/ext/datagif/img/mail.png)  
+---  
+Oh, bonjour 🙌  
+Nous sommes [une agence de conseil et design](http://datagif.fr/) qui travaille sur des sujets de design d'information. On vous a envoye cette newsletter ?  
+| [S'abonner sans lire la suite](https://datagif.fr/newsletter-medias/)  
+---  
+  
+| |   
+---  
+  
+| | | 
+
+## 3\. Gaza
+
+## Deux longs formats pour rendre hommage aux journalistes tues en Palestine  
+  
+---  
+  
+| | | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/3c897249-7454-994f-6480-8bd714adae28.jpg)](https://www.washingtonpost.com/world/interactive/2024/israel-gaza-war-journalists-killed-cpj/)  
+---  
+  
+| | [Mediapart](https://www.mediapart.fr/studio/panoramique/journalistes-gaza-les-visages-du-carnage) et le [Washington Post](https://www.washingtonpost.com/world/interactive/2024/israel-gaza-war-journalists-killed-cpj/) ont sorti presque en meme temps une page listant **les 81 journalistes tu es a Gaza pour raconter leurs histoires**. Il est interessant de comparer la difference de traitement entre la version française et americaine. Le WaPo privilegie une approche plus sobre, en utilisant le noir et des animations en fondu, tandis que le panoramique de Mediapart met plus en avant les visages des victimes. La ou le media français est exhaustif en detaillant chacune d'entre elles avec un bloc photo-paragraphe tres direct, son homologue americain met en avant quelques portraits choisis, en y incluant videos, graphiques ou images. Bravo egalement a Mediapart pour avoir mis a disposition un [making of](https://www.mediapart.fr/journal/international/110224/journalistes-tues-en-palestine-comment-et-pourquoi-mediapart-enquete).  
+---  
+| | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+Decouvrir le format du [Washington Post](https://www.washingtonpost.com/world/interactive/2024/israel-gaza-war-journalists-killed-cpj/) et [celui de Mediapart](https://www.mediapart.fr/studio/panoramique/journalistes-gaza-les-visages-du-carnage)  
+  
+| |   
+---  
+  
+| | | 
+
+## 4\. Archives
+
+## Le New York Times ressuscite ses animations Flash  
+  
+---  
+  
+| | | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/ee6552ab-37e1-301f-8674-1234b47735a4.png)](https://eagereyes.org/blog/2024/nytimes-web-flash-player)  
+---  
+  
+| | Adobe Flash, abandonne depuis 2017, etait tres utilise autour des annees 2000 pour des jeux marrants, mais aussi par les medias pour proposer des infographies ou pages interactives. Malheureusement, en l'absence de lecteur installe sur nos machines, **ces articles sont devenus inaccessibles**. Sauf que... David Dufresne [a mis en avant](https://twitter.com/davduf/status/1756945986109530392?s=20) une solution proposee par le New York Times : le journal a mis a jour ses anciens articles pour permettre de visionner ces animations grace au lecteur open source [Ruffle](https://ruffle.rs/). Ce qu'on aime :  
+• un tres bon exemple a suivre pour les acteurs les plus anciens du web  
+• l'acces aux archives sans contrainte technique  
+• la joie de retrouver des experimentations, comme [la symphonie de la ligne d'arrivee aux JO](https://archive.nytimes.com/www.nytimes.com/interactive/2010/02/26/sports/olympics/20100226-olysymphony.html?_r=1) selon le chrono des sportif*ves 🎵  
+---  
+| | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+Lire l'article [sur le blog eagereyes.org](https://eagereyes.org/blog/2024/nytimes-web-flash-player)  
+  
+| |   
+---  
+  
+| | | 
+
+## 5\. Newsletter
+
+## Datagif a cree le rendez-vous hebdomadaire "Aero" pour La Depeche  
+  
+---  
+  
+| | | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/dd18eab1-5dfa-ff42-bd8b-71ddab653f40.jpg)](https://www.ladepeche.fr/2023/05/22/la-depeche-aero-infos-exclusives-reportages-interviews-notre-newsletter-sur-laeronautique-va-decoller-11211717.php)  
+---  
+  
+| | Voici les points marquants de ce projet mene pour La Depeche du Midi, dont la verticale aeronautique a marque le demarrage d'un axe de developpement pour le media :  
+  
+• la Depeche du Midi developpe de nouveaux produits editoriaux et la newsletter thematisee est l'un des fers de lance  
+• la premiere newsletter creee **s 'appuie sur une verticale forte** du media, pour etendre le service editorial sur une thematique deja bien installee  
+• nous avons conçu une architecture de la newsletter **dans un esprit de collection** , pour etre exploitee par d'autres verticales  
+• nous avons imagine des composants editoriaux varies pour construire des **newsletters rythm ees**  
+• enfin, nous avons cree une illustration dediee, qui souligne l'identite de la newsletter et sert en point de contact.   
+---  
+| | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+Decouvrir [la newsletter Aero chez La Depeche du Midi](https://www.ladepeche.fr/2023/05/22/la-depeche-aero-infos-exclusives-reportages-interviews-notre-newsletter-sur-laeronautique-va-decoller-11211717.php)  
+  
+| |   
+---  
+  
+| | | 
+
+## 6\. En cadence
+
+## Pour raconter l'histoire d'un tempo qui rythme toute la musique pop d'aujourd'hui, The Washington Post vous fait reviser vos gammes  
+  
+---  
+  
+| | | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/7f6c2c53-ace1-c1c4-3fd8-1aafaa4ad6b1.gif)](https://www.washingtonpost.com/entertainment/interactive/2024/reggaeton-drum-machine-interactive/)  
+---  
+  
+| | Écoutez le _beat_[propose en intro de l'article](https://www.washingtonpost.com/entertainment/interactive/2024/reggaeton-dembow-evolution-timeline/) : il vous evoque forcement quelque chose. Normal, son origine jamaicaine a depasse les frontieres pour devenir**la base de toute la musique pop contemporaine**. Dans une enquete sonore et interactive, l'article retrace l'histoire de ce son des annees 1980 a aujourd'hui, ses derives, ses usages en tous genres (du hip-hop new-yorkais a la pop argentine), avec une pedagogie deconcertante.   
+  
+Le media a pousse l'experience en proposant a son audience de [creer son propre _beat_](https://www.washingtonpost.com/entertainment/interactive/2024/reggaeton-drum-machine-interactive/) s'en inspirant. **C 'est genial, on se surprend a creer des assemblages** et se dire "ah ouais c'est pas mal ça" et rever que Taylor Swift l'utilise dans son prochain hit.   
+---  
+| | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[Ça part en impro](https://www.washingtonpost.com/entertainment/interactive/2024/reggaeton-dembow-evolution-timeline/) chez le WaPo  
+  
+| |   
+---  
+  
+| | | 
+
+## 7\. Culture
+
+## Tout savoir sur les rites lies au demarrage de l'annee du Dragon  
+  
+---  
+  
+| | | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/f26ead0d-2226-9df5-2d24-8becee456f6d.jpg)](https://multimedia.scmp.com/infographics/culture/article/3250661/year-of-the-dragon/index.html)  
+---  
+  
+| | Vous ne saviez pas que nous sommes en ce 15 fevrier le Jour du Cheval ? Ce n'est pas si etonnant, car cette tradition s'inscrit dans les festivites liees au passage du nouvel an lunaire. C'est dans le long format du South China Morning dedie a l'annee du Dragon, que nous l'avons appris. Au-dela des petites anecdotes partagees a l'instar des celebrites nees sous le signe du Dragon, nous apprecions tout particulierement **la frise chronologique horizontale permettant de d elivrer de nombreuses informations sans allonger l'article**. Nous aimons egalement, pour les memes raisons, le calendrier interactif des celebrations presente sous forme de bento.  
+---  
+| | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+En apprendre plus sur [le signe du Dragon](https://multimedia.scmp.com/infographics/culture/article/3250661/year-of-the-dragon/index.html)  
+  
+| |   
+---  
+  
+| | | 
+
+## 8\. Journalisme
+
+## Une journee pour penser l'inclusivite et le futur des medias europeens a Paris  
+  
+---  
+  
+| | | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/9b886e11-b888-d3dd-1abc-3f29c5ba4c47.jpg)](https://www.gaite-lyrique.net/evenement/european-lab-x-the-circle)  
+---  
+  
+| | Jeudi 14 mars, la Gaite Lyrique accueille European Lab (le laboratoire dedie aux rencontres et discussions) et The Circle (projet de cooperation de media en Europe) pour une journee bien remplie. Le but : **e couter, reflechir et travailler en confrontant les horizons** (hors de France donc) des intervenant*es et visiteurs*euses :  
+• defis du reportage transfrontalier  
+• necessite de creer des communautes dans le paysage mediatique  
+• l'ethique d'un journalisme responsable  
+• le role de la technologie dans le façonnement de la democratie...  
+  
+Le tout sous le prisme de l'inclusivite et de la collaboration. Vous y serez ? Nous oui !  
+---  
+| | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+Voir [le programme detaille et s'inscrire gratuitement](https://www.gaite-lyrique.net/evenement/european-lab-x-the-circle)  
+  
+| |   
+---  
+  
+| |   
+---  
+  
+| | Cette newsletter a ete preparee par Lucie, Charly, Gaetan, et relue par Aurore. Et n'oubliez pas, pour retrouver toute notre veille, ça se passe [sur cette grooooooosse page de liens](https://datagif.fr/liens/) !  
+---  
+  
+| | | ![](http://gallery.mailchimp.com/653153ae841fd11de66ad181a/images/transparent.gif)  
+---  
+  
+| |   
+---  
+  
+| | Vous recevez cet e-mail car vous êtes inscrit•e via le site [datagif.fr](https://datagif.fr/newsletter-medias/)Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)  
+👋 [Cliquez-ici](*|UNSUB|*) pour vous désabonner  
+---  
+  
+| | DATAGIF  
+---  
+  
+| |   
+---

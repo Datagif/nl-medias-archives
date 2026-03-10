@@ -1,0 +1,226 @@
+*|MC_PREVIEW_TEXT|*  
+  
+͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿
+
+| | [Ouvrir dans le navigateur](*|ARCHIVE|*)  
+---  
+| ![Médias](https://newsletter.datagif.fr/ext/datagif/img/medias.png)  
+---  
+La veille innovation et design média par DATAGIF  
+  
+| |   
+---  
+  
+| | | Dans cette edition, nous sommes particulierement attentifs a des actions d'engagement, d'implication de l'audience, voire meme de solutions imbriquees dans le contenu editorial. Tout cela contribue fortement a renforcer le lien d'un media avec son audience, tout comme Marsactu, a Marseille, qui offre [un acces gratuit via le wifi](https://marsactu.fr/agora/marsactu-illimite-une-nouvelle-facon-de-lire-votre-journal/) de certains cafes partenaires. Ce sont des petits details qui, mis bout a bout, renforcent l'aspect accessible de ces medias, qui mine de rien se plient en quatre pour leurs lecteurs*trices.   
+---  
+  
+| |   
+---  
+  
+| | | 
+
+## 1\. Participatif
+
+##  Le groupe canadien Post Media met en lumiere des tragedies locales avec une ampleur nationale  
+  
+---  
+  
+| | | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/741c8d06-1838-c7f9-060a-ce1ad93078f8.jpg)](https://ottawacitizen.com/feature/tent-city-nation)  
+---  
+  
+| | Malgre une augmentation notable de l'offre de nouveaux logements, le Canada est en ce moment frappe par une crise du logement sans pareil. Les habitants ont de plus en plus de mal a se loger, les centres d'accueil debordent… les campements de sans-abris se multiplient alors dans tous les pays. Pour illustrer ce phenomene, le groupe de presse canadien [Postmedia](https://www.postmedia.com/brands/) a ouvert un [formulaire](https://docs.google.com/forms/d/e/1FAIpQLSdzrj78bayK-lC01_9entiGW4qQ8Ph0kseS2J0eYQ9ZOi7BbQ/viewform) **permettant a des sans-abris, a leurs amis ou membres de leur famille de raconter leur histoire**.  
+  
+Une fois le temoignage lu et retenu, il est publie dans l'un des differents medias locaux du groupe et est accroche sur un carte [interactive](https://flo.uri.sh/visualisation/16068976/embed). Deux objectifs : illustrer l'ampleur du phenomene et mettre des visages et des histoires sur des statistiques.  
+---  
+| | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[Lire l'article](https://ottawacitizen.com/feature/tent-city-nation) du Ottawa Citizen qui presente la demarche   
+  
+| |   
+---  
+  
+| | | 
+
+## 2\. Indicateurs
+
+## The Guardian veut mettre en avant ses articles les "mieux" lus  
+  
+---  
+  
+| | | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/a955d6f0-a79b-4355-5b4b-b0b337a45d46.jpg)](https://www.theguardian.com/info/2024/feb/28/what-is-the-deeply-read-list)  
+---  
+  
+| | Comme ses concurrents, The Guardian a toujours mis en avant ses articles les plus lus sur sa page d'accueil. Mais ceci revenait souvent a promouvoir uniquement les articles les plus accrocheurs drainent le plus de trafic.  
+  
+Leur nouveau bloc "[Deeply read](https://www.theguardian.com/info/2024/feb/28/what-is-the-deeply-read-list)" promet a l'inverse de mettre en avant des articles selon le temps passe par les lecteurs, pondere par la longueur du texte. La baisse des revenus publicitaires incite a privilegier l'engagement plutot que la course au clic et c'est donc une evolution importante de ce top a laquelle nous assistons. **Une mani ere de valoriser la qualite sur le volume. **  
+---  
+| | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[Lire l'annonce du Guardian](https://www.theguardian.com/info/2024/feb/28/what-is-the-deeply-read-list) sur cette nouvelle fonctionnalite  
+  
+| |   
+---  
+  
+| | | | ![](https://newsletter.datagif.fr/ext/datagif/img/mail.png)  
+---  
+C'est l'edition n°126 mais pour vous c'est peut-etre la premiere.   
+| [Allez go pour s'abonner](https://datagif.fr/newsletter-medias/)  
+---  
+  
+| |   
+---  
+  
+| | | 
+
+## 3\. Outil
+
+## Comment trouver le meilleur endroit pour regarder la prochaine eclipse solaire ?  
+  
+---  
+  
+| | | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/37454d70-7a09-ea58-5e1e-964c7de4e830.jpg)](https://www.bloomberg.com/graphics/2024-solar-eclipse-path-map-cities/)  
+---  
+  
+| | Bloomberg publie [un format cartographique interactif et anime original](https://www.bloomberg.com/graphics/2024-solar-eclipse-path-map-cities/) a l'occasion de l'eclipse solaire totale du 8 avril, observable seulement chez les americains malheureusement. Mais notez l'astuce pour une prochaine eclipse française.  
+  
+L'outil permet a la fois de mieux comprendre ce phenomene grace a une animation de simulation sur le territoire, mais aussi d'**anticiper si votre ville sera aux premi eres loges ou non**. C'est tout simple, visuellement efficace et cela garantit une page avec un fort trafic, chacun*e voulant verifier ce que ça donnera chez soi.  
+---  
+| | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[Consulter](https://www.bloomberg.com/graphics/2024-solar-eclipse-path-map-cities/)[ le guide pour l'eclipse solaire](https://www.bloomberg.com/graphics/2024-solar-eclipse-path-map-cities/) de Bloomberg  
+  
+| |   
+---  
+  
+| | | 
+
+## 4\. Engagement
+
+## Le Telegraph fait evoluer sa home pour apporter plus vite du contenu a l'audience  
+  
+---  
+  
+| | | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/91c7acbf-861c-f234-f36c-fd31645c8776.gif)  
+---  
+  
+| | Ce sont des evolutions subtiles qui permettent progressivement d'ameliorer le produit. Ici, cela se passe dans l'appli de The Telegraph, avec **la volont e de faire remonter le contenu d'un article directement dans la page d'accueil**. Comment ?  
+• en ajoutant un diaporama des visuels presents dans l'article  
+• ou comme dans cet exemple, en isolant les points cles a feuilleter  
+  
+Le tout, vous l'aurez compris, directement naviguable sans entrer dans l'article concerne. Au final, est-ce que l'indicateur d'engagement n'est pas en train de rendre obsolete le nombre de pages vues ? On dirait bien...  
+---  
+| | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+Tester ces evolutions [dans l'appli du Telegraph](https://www.telegraph.co.uk/help/help-with-edition-app/how-to-download/)  
+  
+| |   
+---  
+  
+| | | 
+
+## Making-of
+
+## Mais au fait, comment Julie, designeuse chez Datagif, a pense la creation du site de la revue XXI ? Decouvrez-cela en video✌️  
+  
+---  
+  
+| | | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/f3c0697b-9b3d-f265-88c7-536d755d0e54.jpg)](https://www.linkedin.com/feed/update/urn:li:activity:7167111164064174080/)  
+---  
+  
+| |   
+---  
+| | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[Decouvrir l'interview](https://www.linkedin.com/feed/update/urn:li:activity:7167111164064174080/) en video sur LinkedIn  
+  
+| |   
+---  
+  
+| | | 
+
+## 5\. Dossier
+
+## The Markup dedie un dossier a la censure automatisee  
+  
+---  
+  
+| | | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/801d9b8f-04c9-98dd-6b29-e3a482d5013e.png)](http://https://themarkup.org/automated-censorship/2024/02/25/demoted-deleted-and-denied-theres-more-than-just-shadowbanning-on-instagram)  
+---  
+  
+| | Fin fevrier, le media a publie une enquete revelant qu'Instagram avait retrograde des images de la guerre entre Israel et le Hamas, supprime les legendes sans avertissement et refuse aux utilisateur*trices la possibilite de faire appel. Au-dela du traitement du sujet, The Markup a creuse la question de la censure automatique sur cette plateforme, en proposant deux articles complementaires :  
+• l'un pour presenter de maniere detaillee la [methodologie d'enquete](https://themarkup.org/automated-censorship/2024/02/25/how-we-investigated-shadowbanning-on-instagram) ;  
+• l'autre pour donner des conseils aux utilisateurs[ en cas de _shadowban_](https://themarkup.org/automated-censorship/2024/02/25/what-to-do-if-you-think-youve-been-shadowbanned-on-instagram).  
+  
+Chez Datagif, on aime l'efficacite d'un tel dossier : enquete, methodologie, et conseils concrets 👌  
+---  
+| | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[Plonger dans le dossier](https://themarkup.org/automated-censorship/2024/02/25/demoted-deleted-and-denied-theres-more-than-just-shadowbanning-on-instagram) de The Markup  
+  
+| |   
+---  
+  
+| | | 
+
+## 6\. Échelle
+
+## Plongee dans l'infiniment petit et le futur de la tech  
+  
+---  
+  
+| | | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/636ab312-a1ec-0ff5-14ef-c3e83f16c822.jpg)](https://ig.ft.com/microchips/)  
+---  
+  
+| | Dans un article dedie a la fabrication des puces modernes, le FT propose de reduire peu a peu d'echelle pour finalement se rendre compte de la taille des nouveaux transistors. _Spoiler_ , c'est encore plus petit qu'un globule rouge ! Une entree en matiere tres visuelle et imposee qui embraye ensuite sur un article detaille.  
+---  
+| | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[Jouer avec les echelles de grandeur](https://ig.ft.com/microchips/) du Financial Times   
+  
+| |   
+---  
+  
+| | | 
+
+## 7\. Astuces
+
+## Quand un article entrecoupe sa lecture de bons conseils   
+  
+---  
+  
+| | | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/6ba1efe8-6411-6c41-43d4-5220c0f446a0.jpg)](https://www.washingtonpost.com/climate-solutions/interactive/2024/most-sustainable-jeans/)  
+---  
+  
+| | Le sujet n'est pas anodin : la pollution engendree par la confection des jeans que nous achetons trop souvent est un probleme mondial. Et on oublie que ce pantalon de toutes les armoires a d'abord ete conçu pour durer.   
+  
+The Washington Post s'empare de ce sujet qui n'est certes pas neuf mais cette fois avec une surcouche de solutions. Au fil de l'article, vous retrouvez ainsi des conseils d'achat et d'entretien, pour limiter l'impact carbone de vos fesses.   
+---  
+| | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[Decouvrir les astuces shopping et entretien](https://www.washingtonpost.com/climate-solutions/interactive/2024/most-sustainable-jeans/) du Washington Post  
+  
+| |   
+---  
+  
+| |   
+---  
+  
+| | Cette 126e edition a ete redigee par Lucie, Charly, Gaetan, avec l'aide d'Aurore pour la relecture et les suggestions. On se retrouve dans 15 jours 👋  
+---  
+  
+| | | ![](http://gallery.mailchimp.com/653153ae841fd11de66ad181a/images/transparent.gif)  
+---  
+  
+| |   
+---  
+  
+| | Vous recevez cet e-mail car vous êtes inscrit•e via le site [datagif.fr](https://datagif.fr/newsletter-medias/)Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)  
+👋 [Cliquez-ici](*|UNSUB|*) pour vous désabonner  
+---  
+  
+| | DATAGIF  
+---  
+  
+| |   
+---

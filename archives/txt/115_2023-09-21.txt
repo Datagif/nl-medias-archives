@@ -1,0 +1,144 @@
+*|MC_PREVIEW_TEXT|*  
+  
+͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿
+
+| | [Ouvrir dans le navigateur](*|ARCHIVE|*)  
+---  
+| ![Médias](https://newsletter.datagif.fr/ext/datagif/img/medias.png)  
+---  
+La veille innovation et design média par DATAGIF  
+  
+| |   
+---  
+  
+| | | La newsletter medias a 5 ans 🥳 Et on a voulu marquer le coup. Cette edition un peu speciale vous presente donc ce qui, on l'espere, va devenir un de vos onglets favoris, vers lequel vous reviendrez regulierement : [Liens](https://datagif.fr/liens/). La ressource ultime qui centralise, categorise, filtre toute notre veille.  
+---  
+  
+| |   
+---  
+  
+| | | 
+
+## Liens
+
+## Datagif presente Liens, la page de tous les liens medias de Datagif  
+  
+---  
+  
+| | | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/a2a45ba8-2eaa-a689-fac4-beed1cd90457.gif)](https://datagif.fr/liens/)  
+---  
+  
+| | Depuis 5 ans, nous avons partage dans la newsletter medias plus de 500 liens qui valaient le coup d'oeil. Et au fil du temps, on a observe que plusieurs de nos lecteurs*trices replongeaient peniblement dans les archives ou meme nous envoyaient un petit message pour retrouver une pepite "_mais si, vous savez, l 'article ou..._". Et nous-meme, pour alimenter nos benchmarks, nous replongeons regulierement dans les editions passees.  
+  
+Alors pour simplifier la vie de tout le monde, on a cree une page : [Liens](http://datagif.fr/liens). Cette page vous permet de filtrer les liens presentes, lire une courte presentation et voir un aperçu avant. Par format (audio, tracker, long, infog...), par theme (politique, sport, guerre, sante...), par specificite (interactif, carte, 3D...) : choisissez, combinez, filtrez. Faites-en ce que vous voulez ! Cette page est pour vous.  
+  
+Nous avons nettoye la base des liens casses et des sujets obsoletes, pour ne conserver que ce qui peut vous etre reellement utile au quotidien.  
+  
+La page sera mise a jour regulierement ; il nous reste quelques anciens numeros a eplucher pour reintegrer les liens dans la page, puis nous ajouterons a chaque edition les liens evoques dans la newsletter. C'est donc une page qui evoluera regulierement, une ressource a garder precieusement !  
+  
+On espere sincerement que cela vous sera utile. En tout cas pour nous ça l'est !  
+---  
+| | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+Decouvrez [Liens, la page de tous les liens medias de Datagif](https://datagif.fr/liens/)  
+  
+| |   
+---  
+  
+| | | **✨ La FAQ de la page Liens  ✨**  
+  
+-> C'est vraiment accessible a tout le monde ?  
+Oui.  
+  
+-> Il y a combien de liens ?  
+À l'envoi de cette newsletter, environ 300. Il nous en reste une centaine a ajouter dans les prochains jours.  
+  
+-> Comment choisissez-vous ces liens ?  
+Ils sont issus des 114 precedents numeros de cette newsletter et les prochains seront ceux des futures editions.  
+  
+-> Je peux vous envoyer des liens ?  
+Bien sur, on regarde tout mais sans garantie de publication.  
+  
+-> Je trouve certains liens mal categorises  
+Malgre notre vigilance, il se peut qu'il y ait quelques coquilles de classement, si c'est le cas n'hesitez pas a nous le signaler.  
+  
+-> Il n'y a pas assez de [liens en français](https://datagif.fr/liens/?language=francais)  
+C'est volontaire, on essaye de montrer ce qui se passe ailleurs pour ne pas rester dans nos frontieres. Ça ne signifie pas que l'innovation n'est pas chez nous egalement !  
+  
+-> Pouvez-vous faire une selection a ma place ?  
+Bien sur, et surtout nous pouvons effectuer des recherches au-dela de ce perimetre, de maniere plus fine pour votre projet. Contactez-nous directement a ce sujet !  
+  
+-> Rappelez-moi ce que vous faites au quotidien ?  
+Datagif est [une agence de conseil et design d'information](http://datagif.fr) : nous travaillons sur la strategie et le design de produits numeriques ayant de l'information a valoriser. Meme si nous travaillons beaucoup pour des medias, cela n'est pas exclusif. Des lors qu'il y a du contenu a organiser, mettre en forme, valoriser, c'est dans nos cordes !  
+  
+-> On travaille ensemble ?  
+Parlons-nous ! Il vous suffit de repondre a ce mail.  
+---  
+  
+| |   
+---  
+  
+| | | | ![](https://newsletter.datagif.fr/ext/datagif/img/mail.png)  
+---  
+On vous a transfere ce mail ? Excellente idee. Bienvenue ! Et pour vous abonner, c'est tout simple :  
+| [S'abonner a Medias](https://datagif.fr/newsletter-medias/)  
+---  
+  
+| |   
+---  
+  
+| | | 
+
+## Making of
+
+## Pour les curieux*ses : comment on a fait ça ?  
+  
+---  
+  
+| | | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/69cdc1b3-1c91-6926-e78f-8205181e8c64.jpg)  
+---  
+  
+| | Tout a commence par une discussion en interne, partant du constat que remonter dans nos archives pour alimenter nos benchmarks n'etait pas des plus faciles. Charly a emis l'idee d'une "grosse liste" comme on les aime : quelque chose d'assez brut, facile a naviguer, avec peu de chargement.   
+  
+À partir de la, Florian a rassemble plein d'exemples de "grosses listes" comme on les aime, puis a mene quelques entretiens visio avec des lecteurs et lectrices : quelles sont les habitudes de consultation de la newsletter ? est-ce que vous les gardez de cote pour y revenir ? que pensez-vous des selections que l'on fait de temps en temps ? et que diriez-vous d'une "grosse liste" pour retrouver tous les liens... ?   
+  
+À l'issue de ces entretiens, le concept etait valide, approuve par les entretiens (et meme attendu de pied ferme). PAM a ensuite fait des recherches design sur l'UX / l'UI du projet. Comment l'integrer dans l'environnement Datagif, tout en proposant un service qui pourrait etre autonome ?   
+  
+Enfin, alors que Charly finalisait le developpement de la page et que Leonie et Gaetan finissaient de verifier tous les liens entres, Jeremy et Samuel ont apporte les quelques retouches et finalisation de design pour completer le projet.  
+---  
+---  
+  
+| |   
+---  
+  
+| | | | ![](https://newsletter.datagif.fr/ext/datagif/img/reseaux.png)  
+---  
+Retrouvez la veille et les projets de Datagif sur  
+[Medium](https://datagif.medium.com/) • [X](https://twitter.com/datagif) • [Bluesky](https://bsky.app/profile/datagif.bsky.social) • [Instagram](https://www.instagram.com/datagif/) • [Linkedin](https://www.linkedin.com/company/datagif/) • [Datagif.fr](https://datagif.fr/)  
+  
+  
+| |   
+---  
+  
+| |   
+---  
+  
+| | Voila pour cet interlude un peu particulier. L'occasion egalement de vous remercier pour ces 5 annees d'echanges, de fidelite, de partage des bons liens. Et c'est reparti pour 5 aaaaaaans 🚀  
+---  
+  
+| | | ![](http://gallery.mailchimp.com/653153ae841fd11de66ad181a/images/transparent.gif)  
+---  
+  
+| |   
+---  
+  
+| | Vous recevez cet e-mail car vous êtes inscrit•e via le site [datagif.fr](https://datagif.fr/newsletter-medias/)Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)  
+👋 [Cliquez-ici](*|UNSUB|*) pour vous désabonner  
+---  
+  
+| | DATAGIF  
+---  
+  
+| |   
+---

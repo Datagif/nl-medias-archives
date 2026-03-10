@@ -1,0 +1,221 @@
+*|MC_PREVIEW_TEXT|*  
+  
+͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿
+
+| | [Ouvrir dans le navigateur](*|ARCHIVE|*)  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/eed5c323-a377-5ad6-9b62-55656b375bc5.png)](*|ARCHIVE|*)  
+---  
+  
+| | | ![Médias](https://newsletter.datagif.fr/ext/datagif/img/medias-v2.png)  
+---  
+  
+| 161  
+---  
+  
+| | La veille innovation et design média par Datagif  
+---  
+  
+| | | Garder son identite, quel que soit le support  
+---  
+Un sujet qui nous interpelle regulierement au fil de nos missions : a quel point le design est difficile a garder coherent d'un support a l'autre, et ce pour une meme marque. **L 'utilisateur, lui, s'en fiche de savoir que les reseaux sociaux ne sont pas geres par le meme bureau que le site**, ou que les videos et les newsletters ne sont pas produites par la meme equipe.  
+  
+Pourtant il est indispensable que l'entite presente une coherence, quel que soit le point de contact, pour maintenir force et continuite, dans une journee decoupee en milliers de messages bombardes par des centaines d'emetteurs differents. S'il faut en plus recoller les morceaux d'une marque... Ces sujets de coherence, on aime beaucoup intervenir dessus. Et l'un des derniers en date realise par l'agence, c'est [la creation d'un systeme global pour les newsletters du groupe Ebra](https://www.linkedin.com/feed/update/urn:li:activity:7381667104078323712) : modulaire, adaptable selon les titres, mais avant tout coherent et identifiable immediatement. Si ça vous interesse, repondez simplement a ce mail !   
+  
+| | | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/dd27fd0a-f659-dbfe-2c8d-0fa69e1c9747.png)  
+---  
+  
+| [Gaetan Duchateau](mailto:gaetan@datagif.fr)  
+---  
+Lead @Datagif  
+  
+| | | Cache-cache  
+---  
+  
+| 😶‍🌫️  
+---  
+  
+| | Quand le design est au service de l'information   
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/19b8d8d5-173d-512c-7268-f992d1a28c7c.gif)](https://www.politico.com/interactives/2025/chris-wright-doe-climate-change-report/)  
+---  
+Dans ce un long format interactif, Politico enquete sur un rapport controverse du departement de l'Énergie americain, qui remet en question le consensus scientifique sur le changement climatique. Et de notre cote, on est absolument fan du design de l'article, car il est utilise comme **un outil narratif a part entiere** : a mesure qu'on lit l'article, au defilement, le texte et les images se devoilent - pour traduire visuellement le sujet, entre transparence et revelation. Ici, le design ne decore pas l'article, il en fait partie integrante, et en amplifie la portee.  
+[Devoiler l'enquete de Politico](https://www.politico.com/interactives/2025/chris-wright-doe-climate-change-report/)  
+  
+| | | Une question ?  
+---  
+  
+| 🙋  
+---  
+  
+| | Posez votre question a La Provence, l'IA y repond  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/3dee1f12-a739-3744-708f-f47fd487a1d6.jpg)](https://www.laprovence.com/recherche)  
+---  
+Quelques mois apres "[Ask the Post](https://www.washingtonpost.com/ask-the-post-ai/)", ou [Le Monde](https://www.lemonde.fr/recherche/), La Provence integre l'IA pour r[epondre aux questions de ses lecteurs](https://www.laprovence.com/recherche) a propos de l'actu. Pour le moment cachee au niveau de l'icone de recherche, la fonctionnalite qui pourrait occuper une place plus importante a l'avenir fonctionne en puisant dans les articles disponibles, pour consolider une reponse construite.   
+  
+• le corpus est donc fiable, constitue d'informations ecrites par des humains  
+• les reponses ne sont pas farfelues : pas d'invention constatee dans nos essais  
+• il ne manque plus que la possibilite de partager une reponse (via une modale ?) pour pousser de l'info a ses contacts.   
+[Tester la fonctionnalite chez La Provence](https://www.laprovence.com/recherche)  
+  
+| | | Datagif ✨  
+---  
+Une agence de design d'information  
+Cette newsletter est un aperçu des sujets dont nous discutons avec nos clients. Nous sommes une agence de design d'information, avec pour objectif de creer des objets numeriques utiles, performants et agreables a utiliser. Nous plaçons les utilisateurs*trices au coeur de notre reflexion design : leurs parcours, leurs usages, leurs attentes et les besoins façonnent la maniere dont l'information est consultee, transmise, propagee... Vous voulez en savoir plus ? Repondez-nous, ou [visitez notre site](https://datagif.fr/) 👀  
+  
+| | | Newsletter  
+---  
+  
+| 💌  
+---  
+  
+| | **El Pa is lance 2 newsletters asynchrones**  
+---  
+| ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/cb89fb98-ea6b-e699-f33c-52231ba8748c.png)  
+---  
+Si vous etes un lecteur assidu, vous savez a quel point on aime les newsletters asynchrones : celles qui ne dependent pas de l'actualite, mais qu'on peut suivre tel un feuilleton et qui demarrent a compter de la date de votre inscription.  
+  
+Profitant de la rentree scolaire espagnole, El Pais propose a ses lecteurs de prendre soin d'eux-memes, grace a une newsletter "[Bien dormir](https://elpais.com/estaticos/newsletter/recursos/elpais/ejemplo/DuermeBien.html)", et [une autre dediee a la sante](https://elpais.com/estaticos/newsletter/recursos/elpais/ejemplo/Cuidate.html). Ces deux newsletters sont hebdomadaires, chacune composee de 5 episodes. On ne le repetera jamais assez : ce format est **un excellent moyen d 'attirer des lecteurs au format newsletter** sans crainte pour eux de trop remplir leur boite, car la duree est fixee dans le temps.  
+Lire le premier numero de 💤 _[Duerme bien](https://elpais.com/estaticos/newsletter/recursos/elpais/ejemplo/DuermeBien.html) _et celui de ⚕️[ _Cu idate_](https://elpais.com/estaticos/newsletter/recursos/elpais/ejemplo/Cuidate.html)  
+  
+| | | ![](https://newsletter.datagif.fr/ext/datagif/img/newsletter.png) Bienvenue  
+---  
+Vous arrivez tout juste ? Bienvenue. Tous les 15 jours, l'equipe de [l'agence Datagif](https://datagif.fr/) vous partage gratuitement le meilleur de sa veille innovation et design d'information.  
+| [Ça part en abo gratuit ](https://datagif.fr/newsletter-medias/)  
+---  
+  
+| | | Hommages  
+---  
+  
+| 🫡  
+---  
+  
+| | Le Telegraph pousse en une les hommages des lecteurs  
+---  
+| ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/72050bcb-bad7-626c-7705-f29844f255f9.jpg)  
+---  
+Pour rendre plus vivantes ses necrologies (hum) dans son app, le Telegraph a eu la bonne idee d'ajouter un module horizontal compose d'hommages laisses par les lecteurs. Avec une appreciation (pouce leve / pouce baisse) a la Reddit. C'est malin car ça permet d'engager l'audience sur un sujet d'emotion, avec deux niveaux de participation. Et ça rend sincerement le tout moins froid.   
+[Tester en situation dans l'appli du Telegraph](https://www.telegraph.co.uk/contact-us/download-app/)  
+  
+| | | Le 50/50  
+---  
+Envie d'explorer un sujet ?   
+Cliquez sur le tag, tous nos liens sont juste derriere  
+  
+| | | [🔊 audio](https://datagif.fr/liens/?format=audio)  
+---  
+  
+| | [👀 tracker](https://datagif.fr/liens/?format=tracker)  
+---  
+  
+| | |   
+---  
+Il y a 15 jours :  
+Des artistes par ici ?  
+  
+| | | [🎨 illustration](https://datagif.fr/liens/?format=illustration)  
+   
+---  
+  
+| | [🏆 70%](https://datagif.fr/liens/?format=illustration)  
+---  
+  
+| |   
+---  
+  
+| | | [📸 photo](https://datagif.fr/liens/?format=photo)  
+---  
+  
+| | [30%](https://datagif.fr/liens/?format=photo)  
+---  
+  
+| | | Politique  
+---  
+  
+| 🗣️  
+---  
+  
+| | **L 'art de debattre selon Charlie Kirk**  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/f99af170-1737-1f1e-cbcf-c125bacb4e76.gif)](https://www.nytimes.com/interactive/2025/09/27/us/politics/charlie-kirk-debate.html)  
+---  
+Le New York Times publie une analyse video interactive des techniques de debat (et de manipulation oratoire) de feu Charlie Kirk. Chaque extrait est decortique par des experts : gestuelle, rythme, tactiques rhetoriques… **Le format vertical et la pr esentation en frise de montage** rendent l'ensemble tres clair, et illustrent parfaitement l'essor de ces nouveaux influenceurs politiques formes et formates par les reseaux sociaux.  
+[Voir le format du New York Times](https://www.nytimes.com/interactive/2025/09/27/us/politics/charlie-kirk-debate.html)  
+  
+| | | Le lien de Lucie  
+---  
+"Pas sans elles", a retrouver dans L'Équipe  
+  
+| | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/c6d7b4bf-43f7-a33a-d665-553c02b8922f.png)  
+---  
+  
+| | Connaissez-vous [@eledraws](https://www.instagram.com/eledraws/?hl=fr) \- Ele' pour les intimes ? C'est une de nos colocataires de bureau, mais c'est aussi et surtout une illustratrice dont on admire beaucoup le travail.   
+  
+Cela fait plusieurs semaines que nous avons la chance de l'observer travailler en coulisses sur des projets vraiment tres chouettes et l'un d'entre eux est enfin public : la bande dessinee "Pas sans elles", a retrouver chaque semaine dans le magazine L'Équipe. Vous y rencontrerez Ines, une jeune fille qui affronte, a chaque etape de sa vie, les obstacles qui freinent la pratique sportive feminine.   
+  
+À l'heure ou vous recevez ce mail, deja 2 numeros ont ete publies. La suite, composee de 13 nouvelles planches, est a retrouver chaque mercredi en kiosques, ou sur la [liseuse dediee](https://passanselles.special.lequipe.fr/bd/) !  
+---  
+  
+| | | Le meilleur lien de l'edition n°160  
+---  
+  
+| | L'impact ne vous laisse pas indifferents  
+---  
+Le journalisme d'impact semble vous avoir intrigue ! Si vous l'avez manque, n'hesitez pas, le guide conçu par Disclose et Rembobine est toujours disponible gratuitement juste ici ⬇️  
+[Telecharger le guide](https://guide-journalisme-impact.fr/)  
+  
+| | | Mesures  
+---  
+  
+| 🛍️  
+---  
+  
+| | Les tailles de vetements decortiquees sous toutes les coutures  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/91a33633-34b4-1205-41c2-86ca8f577323.png)](https://www.straitstimes.com/multimedia/graphics/2025/09/womens-clothing-size-guide-singapore/index.html)  
+---  
+Le Straits Times enquete sur les incoherences des tailles de vetements feminins via un format interactif qui analyse l'ecart entre les standards des marques et les morphologies. Le media a collecte 105 temoignages et integre des experiences video pour documenter ce probleme partage par de nombreuses femmes. Ce traitement immersif **transforme une frustration quotidienne en v eritable enquete journalistique**, melant donnees et recits personnels.  
+[Decouvrir l'enquete du Straits Times](https://www.straitstimes.com/multimedia/graphics/2025/09/womens-clothing-size-guide-singapore/index.html)  
+  
+| | | Justice  
+---  
+  
+| ⚖️  
+---  
+  
+| | Suivre l'affaire Pechier sous tous les angles  
+---  
+| ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/5ef05ad5-56d1-bb29-3303-906a0da0e3dc.jpg)  
+---  
+L'Est Republicain consacre [un dossier complet ](https://www.estrepublicain.fr/faits-divers-justice/affaire-pechier)au proces de l'anesthesiste, avec une approche multi-formats : direct, [frise chronologique](https://www.estrepublicain.fr/faits-divers-justice/2022/09/28/affaire-pechier-d-un-mysterieux-arret-cardiaque-aux-32-empoisonnements-reproches-a-l-anesthesiste-les-grandes-dates-de-l-enquete), galerie de videos et [un long format](https://www.estrepublicain.fr/faits-divers-justice/2025/07/06/l-anesthesiste-frederic-pechier-tueur-en-serie-ou-victime-d-une-erreur-judiciaire) realise avec l'outil de contenu [Shorthand](https://shorthand.com/), le tout au sein d'une sous-navigation specifique.  
+  
+Une **approche transversale a encourager** pour un media regional, qui montre ici l'envie de proposer autre chose qu'un simple empilement d'articles.  
+[Consulter le dossier sur L'Est Republicain](https://www.estrepublicain.fr/faits-divers-justice/affaire-pechier)  
+  
+| | | Bonus  
+---  
+Encore un peu de liens pour la route  
+📈 Decouvrez [Chartle](https://chartle.cc/), le jeu quotidien pour deviner les donnees cles d'un pays a partir d'un graphique. 🧮 [Visitez Barcelone](https://www.nytimes.com/interactive/2025/09/24/science/barcelona-architecture-math.html) tout en revisant les mathematiques, une initiative du gouvernement regional catalan. 🐺 Regulation des loups en Suisse : [SRF fait le bilan](https://www.srf.ch/news/schweiz/wolf-im-visier-wolf-in-der-schweiz-wann-ist-schiessen-erlaubt) avec des mises en situation concretes. 📱Comment les villes luttent-elles contre la chaleur ? Un bel [exemple de storyfication](https://www.nytimes.com/interactive/2025/09/25/world/europe/cities-heat-solutions-climate-crisis.html) pour illustrer le sujet. ⚾️ L'analyse des 56 home runs du joueur de Baseball Kyle Schwarber : [un decryptage en 3D et en video](https://www.inquirer.com/phillies/inq2/kyle-schwarber-home-runs-record-season-phillies-20250930.html). 🧑‍💻 Ras-le-bol des miniatures et titres accrocheurs sur YouTube ? [DeArrow](https://dearrow.ajay.app/) est l'extension qu'il vous faut. 🗺️ La [selection des meilleurs restaurants et boutiques de Boston](https://apps.bostonglobe.com/magazine/2025/07/best-of-the-best-restaurants-things-to-do/) selon les journalistes de la redaction du Boston Globes et leurs correspondants. 🗂️ [Le dossier d'El Pais](https://elpais.com/mexico/2025-10-01/20-contenidos-imprescindibles-para-entender-el-primer-ano-de-mandato-de-claudia-sheinbaum.html?mid=DM527698&bid=-661188665) pour decrypter la premiere annee de mandat de Claudia Sheinbaum, la presidente du Mexique.  
+  
+| | | Vous venez de lire l'edition 161  
+---  
+😘 Et merci pour ça !  
+  
+✏️ Un numero prepare par Athenais, Lucie, Charly, Aurore et Gaetan  
+  
+🔀 Une info a partager autour de vous ? Transferez le mail, il n'y a rien de plus simple !  
+  
+   
+par  
+| [![DATAGIF](https://newsletter.datagif.fr/ext/datagif/img/logo-big.png)](https://datagif.fr)  
+---  
+  
+| | | ![](https://newsletter.datagif.fr/ext/datagif/img/social.png) Retrouvez-nous sur les réseaux  
+---  
+[Medium](https://datagif.medium.com/) [X](https://x.com/datagif) [Bluesky](https://bsky.app/profile/datagif.fr) [Instagram](https://www.instagram.com/datagif/) [Threads](https://www.threads.net/@datagif) [Linkedin](https://www.linkedin.com/company/datagif/) [Datagif.fr](https://datagif.fr/)  
+  
+| | Vous recevez cet e-mail car vous êtes inscrit•e via le site [datagif.fr](https://datagif.fr/newsletter-medias/)Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)  
+👋 [Cliquez-ici](*|UNSUB|*) pour vous désabonner  
+---

@@ -1,0 +1,131 @@
+---  
+![Médias](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/d060cdc3-f8d4-4207-b9bb-0b8ffda1ca6f.png)  
+La veille innovation et design media par Datagif  
+  
+| *|MC_PREVIEW_TEXT|*  
+---  
+---  
+1\. Tracker La course aux vaccins continue  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/3b92f4d6-68e7-4c60-9bf3-1dc54da1b0c8.png)  
+---  
+Apres ceux du printemps, voici la deuxieme vague des formats « tracker » ! Cette fois, c'est bien sur la course aux vaccins qui fait l'objet d'un suivi accru. Le sujet se prete bien a la datavisualisation : il s'agit de schematiser les differentes phases d'un processus tres norme, d'expliquer les typologies et l'avancement des differents laboratoires...  
+  
+-- [The Guardian](https://www.theguardian.com/world/ng-interactive/2020/nov/10/covid-vaccine-tracker-when-will-a-coronavirus-vaccine-be-ready) propose certainement le format le plus efficace : des chiffres cles donnent un aperçu macro de l'avancement, puis la liste detaillee de tous les laboratoires dans la course.  
+-- L'approche du [New York Times](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html) est beaucoup plus pointue et s'attarde sur les methodologies utilisees par les labos. Mais on s'y perd un peu... A noter : l'usage  des logos pour incarner les laboratoires.  
+-- [Bloomberg](https://www.bloomberg.com/features/2020-coronavirus-drug-vaccine-status/) mise plutot sur une timeline chronologique. La liste qui suit est toutefois un peu austere.  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/08e9a8d9-1bf2-4796-83b4-5385e56699d8.png)  
+---  
+---  
+2\. Enquete video Une belle investigation sur les reseaux sociaux  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/83de29e2-bdef-4b83-84ca-6b875200cdb2.png)  
+---  
+Le Monde a reconstitue le deroule des evenements qui ont conduit au meurtre de Samuel Paty, en s'appuyant sur les traces laissees par les protagonistes sur les reseaux sociaux.  
+  
+Un tres bon travail d'investigation mis en valeur par une narration visuelle maitrisee. A voir absolument si vous n'avez pas suivi tous les details de cette affaire complexe.  
+---  
+|  -- [Regarder](https://www.lemonde.fr/police-justice/video/2020/11/16/attentat-de-conflans-le-parcours-d-une-rumeur-l-itineraire-du-tueur_6059947_1653578.html) l'enquete du Monde  
+---  
+---  
+3\. Mute Un mode « zero Covid » pour faire une pause  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/3b81f106-636b-4bb6-a1c4-daf417f9b561.png)  
+---  
+Le site d'info locale Mediacites permet desormais aux lecteurs de visualiser sa page d'accueil en masquant tous les articles lies au Covid.  
+  
+Une petite fonctionnalite qui ne cherche pas a nier l'importance de ce sujet, que Mediacites couvre amplement (ils viennent meme d'etre primes pour cela a Medias en Seine !) En revanche, elle tient compte du climat anxiogene auquel contribue inevitablement la couverture mediatique.   
+  
+Avouons-le, ça ne fait pas de mal d'oublier le virus quelques minutes... et cela pourrait meme booster l'engagement de certains lecteurs devenus « allergiques » a l'actualite morose.  
+---  
+|  -- [Decouvrez la homepage « Zero Covid » ](https://www.mediacites.fr/sans-covid/)de Mediacites  
+---  
+---  
+4\. USA Les analyses post-election sont arrivees  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/9be15d7e-3048-41c2-b569-b531d4e177fd.png)  
+---  
+C'est un rituel post-election : les medias americains decortiquent les leçons du scrutin a coup d'infographies et autres formats visuels. Deux exemples reussis chez le New York Times :   
+  
+-- Une analyse de l'evolution des votes a la presidentielle depuis 2008, avec des lignes pour symboliser chaque comte americain. Une façon originale de representer les mouvements de fond dans certaines localites.  
+  
+-- Une cartographie qui tente de repondre a la question « a qui a profite le sursaut de participation electorale ? ». Spoiler : Trump a gagne des voix un peu partout, mais le parti democrate encore plus.  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/6f7a6160-efb0-4abb-a4eb-61d0d8a45c0a.gif)  
+---  
+|  -- [Decouvrir](https://www.nytimes.com/interactive/2020/11/09/us/politics/2016-election-trump-counties.html?action=click&module=Top%20Stories&pgtype=Homepage) la dataviz sur les variations de vote   
+-- [Explorer](https://www.nytimes.com/interactive/2020/11/16/us/politics/election-turnout.html?smid=tw-) la dataviz sur le nouvel electorat de Trump  
+---  
+---  
+5\. Email Apres les newsletters, le retour des alertes ?  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/e20f4842-77c1-4269-bbbf-23ff42a31589.png)  
+---  
+Les newsletters ont le vent en poupe, mais certains medias utilisent aussi des alertes automatisees par mail pour faire revenir les utilisateurs vers leurs contenus.  
+  
+Le site **Axios** a par exemple des alertes thematiques, tandis que le **Wall Street Journal** permet d'etre alerte a chaque publication d'un journaliste precis. Le site **The Information** va encore plus loin et propose toute une palette d'options : un rappel de ses articles sauvegardes le dimanche, une notification des que quelqu'un repond a son commentaire…  
+  
+On serait curieux de connaitre les performances de ces fonctionnalites, notamment le taux de clic et le taux de desinscription…  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/6a374242-bc8f-4f03-b4e1-bffa0c6706a6.png)  
+---  
+|   
+---  
+---  
+6\. Dataviz Le pouvoir du GIF  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/a48c1f70-b55c-435b-b81e-b14c986e6de4.png)  
+---  
+Presque tous les medias produisent des infographies comme jamais pour suivre l'epidemie de Covid-19. En complement des formats ambitieux (dont nous sommes les premiers a raffoler),  des idees plus simples peuvent egalement avoir un fort impact.   
+  
+Cette semaine, Le Parisien en fait la preuve avec ce GIF qui retrace la chronologie des deux vagues de l'epidemie. Simple mais diablement efficace, notamment sur les reseaux sociaux !  
+---  
+|  --  Voir la version animee [sur Twitter](https://twitter.com/LeParisienInfog/status/1326604805398294531)  
+---  
+---  
+7\. Abonnement 20 Minutes se lance dans le grand bain des offres numeriques payantes  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/6ed9f3de-a504-4454-91bd-34343a5ae160.jpg)  
+---  
+Petite revolution pour 20 Minutes, le plus connu des journaux gratuits. Le media lance une offre numerique payante dans son application, baptisee « Turbo ». Pour 2,99 € par mois, elle promet une absence de publicite et... « un acces plus rapide aux contenus ».  
+  
+Un test interessant pour ce media dont le positionnement a toujours ete « d'entree de gamme ». Pourra-t-il convaincre ses lecteurs numeriques de payer façe a une concurrence plus noble... mais aussi plus chere ? L'argument « zero publicite » est interessant ; en revanche, payer pour la « rapidite » de l'application semble un peu poussif...   
+---  
+|  -- [Decouvrir 20 Minutes Turbo](https://www.offremedia.com/20minutes-met-en-ligne-une-version-payante-de-son-appli-plus-rapide-et-sans-publicite)  
+---  
+---  
+8. Communaute NYT Cooking mise sur ses journalistes  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/b496704b-d2c4-4fe5-b9e1-cc140179c7ce.png)  
+---  
+Le site Cooking du New York Times a un paquet de fans, qui n'hesitent pas a echanger des tips dans les commentaires ou a partager leurs recettes favorites sur les reseaux sociaux.  
+  
+Pour booster la communaute, le site met aussi de plus en plus en avant ses journalistes culinaires. Ils ont desormais chacun une page publique qui liste leur « carnet de recettes » personnel. C'est malin et nous ne serions pas etonnes que  tous les utilisateurs puissent bientot faire de meme, a la façon d'un reseau social...  
+---  
+|  -- [Voir un exemple de fiche auteur](https://cooking.nytimes.com/ourcooks/alison-roman/my-recipes) chez NYT Cooking  
+---  
+---  
+9\. Le saviez-vous ? En 2003, CNN publiait des necrologies par erreur...  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/c7b260fc-3a41-41f0-b2b3-78efd0ae51ce.png)  
+---  
+Vous avez sans doute entendu parler du fail de RFI cette semaine ? Bien avant eux, la chaine CNN avait aussi publie par erreur des necrologies sur le Web. C'etait en 2003 et c'etait franchement plus drole puisque les vraies-fausses « necros » etaient melangees entre elles. Resultat : un magnifique portrait d'enterrement du vice-president Dick Cheney, avec en sous-titre « UK's favorite grandmother » (pour la reine Elizabeth)...  
+  
+Merci a Charly, notre directeur technique, pour la trouvaille !  
+---  
+|  -- Le malencontreux fail de RFI [raconte par Le Figaro](https://www.lefigaro.fr/medias/rfi-publie-par-erreur-les-necrologies-de-dizaines-de-personnalites-20201116)  
+---  
+Vous recevez cet e-mail car vous êtes inscrit•e via le site   
+[medias.datagif.fr](https://medias.datagif.fr/)   
+  
+🏄‍   
+Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)   
+  
+📪  
+Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)   
+  
+✌️  
+Retrouvez la veille et les projets de Datagif sur   
+[Medium](https://medium.com/Datagif) \- [Twitter](https://twitter.com/datagif) \- [Instagram](https://www.instagram.com/datagif) \- [Datagif.fr](https://datagif.fr)   
+  
+👋   
+[Cliquez-ici](*|UNSUB|*) pour vous désabonner   
+  
+  
+*|IF:REWARDS|* *|HTML:REWARDS|* *|END:IF|*   
+  
+  
+---

@@ -1,0 +1,207 @@
+*|MC_PREVIEW_TEXT|*  
+  
+͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿
+
+| | [Ouvrir dans le navigateur](*|ARCHIVE|*)  
+---  
+| ![Médias](https://newsletter.datagif.fr/ext/datagif/img/medias.png)  
+---  
+La veille innovation et design média par DATAGIF  
+  
+| |   
+---  
+  
+| | | Derniere edition avant la traditionnelle pause estivale ! Avant de vous retrouver frais et reposes a la rentree, voici notre selection de lectures et decouvertes pour alimenter votre veille. Bonne lecture et bon ete 👋😎  
+---  
+  
+| |   
+---  
+  
+| | | 
+
+## Partages
+
+## Melting-pot de que l'equipe vous recommande chaudement  
+  
+---  
+  
+| | | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/74ad5613-4919-2031-8918-23eb6cc1b84f.jpg)  
+---  
+  
+| | 📖 [La revue Teque](https://www.instagram.com/revueteque/) : "La vie des technologies et nos vies avec elles", ce sont des essais sur notre approche du quotidien. Le [deuxieme numero](https://revue-teque.fr/catalogue/teque-2) avec _Les pi eges de l'attention_ et _Survivre a l'algo_ vous plaira tres certainement.  
+  
+📺 Emily Oberman, directrice artistique chez Pentagram, [raconte la creation des logos](https://www.youtube.com/watch?v=4rkWFY-11XE) Saturday Night Live, Willy Wonka et Warner Records. 40 mn d'etudes de cas et de methodologie de design, a ne pas rater.  
+  
+🐰 La newsletter tech _Le cri du lapin_ , publiee depuis trois ans, a [cesse d'exister](https://lepavenumerique.substack.com/p/coming-soon) pour devenir [_Le pav e numerique_](https://lepavenumerique.substack.com/). Embarquant ses 20 000 abonne*es dans cette nouvelle formule, cette newsletter est un tres bon exemple d'evolution reussie. Une edition toujours gratuite sur la promesse qui a fait sont succes, couplee a une extension payante pour des formats longs sequences en episodes.  
+  
+🛠️ Vous souhaitez vous mettre a jour des nouveautes dans Figma ? [Ce post Medium](https://medium.com/@joeyabanks/everything-new-in-figma-14bbd4cb5064) detaille tout ce que vous devez savoir pour la rentree, dont le fameux 'dev mode'.    
+  
+🌀 Attention, [ce lien sur le design d'interaction](https://rauno.me/craft/interaction-design) est qualifie en interne "_d 'aussi satisfaisant que de l'ASMR_". Avec de nombreuses boucles video, re-decouvrez tous ces details invisibles des interactions numeriques de notre quotidien. C'est tres satisfaisant a regarder, vous etes prevenu*es.  
+  
+⭐ La newsletter [UX Movement](https://uxmovement.substack.com/archive) fait partie de nos petits classiques. Chaque semaine, un sujet est aborde de maniere concise et precise, avec des exemples et contre-exemples. Un des derniers articles : pourquoi les [diagrammes multicolores](https://uxmovement.substack.com/p/why-multi-color-marks-are-inaccessible) sont a proscrire...  
+  
+🌐 Et vous, est-ce que l'internet des annees 2000 vous manque ? Celui avec des limites, des frontieres, du _yolo_ exploratoire... Si oui, nous vous recommandons [cette chronique](https://joanwestenberg.medium.com/i-miss-the-internet-c7e41544a8b9) qui fait le parallele avec la normalisation des reseaux sociaux et leurs deboires que nous subissons.   
+---  
+---  
+  
+| |   
+---  
+  
+| | | 
+
+## Maxi best-of
+
+## Les liens les plus cliques par les abonne*es depuis le debut de l'annee  
+  
+---  
+  
+| | | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/3c94da9b-4c9a-dc04-1159-1077b39f45cc.jpg)  
+---  
+  
+| |   
+1️⃣5️⃣ RTBF : [Des voitures toujours plus grosses](https://www.rtbf.be/article/11174850)  
+  
+1️⃣4️⃣ Le Monde : [Ou partir en 2023 ?](https://www.lemonde.fr/m-styles/visuel/2022/12/09/ou-partir-en-voyage-en-2023-le-palmares-des-20-destinations-du-monde_6153709_4497319.html)  
+  
+1️⃣3️⃣ ABC : [Reconstituez votre identite a partir de donnees volees](https://www.abc.net.au/news/2023-05-18/data-breaches-your-identity-interactive/102175688)  
+  
+1️⃣2️⃣ Reuters : [À la recherche de vie dans les decombres en Turquie](https://www.reuters.com/graphics/TURKEY-QUAKE/SEARCH/klpygdjoapg/)  
+  
+1️⃣1️⃣ The Pudding : [Les _dark patterns_ qui rendent difficile la desinscription](https://pudding.cool/2023/05/dark-patterns/)  
+  
+1️⃣0️⃣ NYT : [Pouvez-vous survivre a cet ete ?](https://www.nytimes.com/interactive/2023/06/02/well/live/summer-risks-quiz.html)  
+  
+0️⃣9️⃣ Washington Post : [La semaine des 4 jours et son simulateur](https://www.washingtonpost.com/business/interactive/2023/four-day-work-week/)  
+  
+0️⃣8️⃣ Reuters : [Pourquoi le sommeil est encore plus important qu'on ne le pense](https://www.reuters.com/graphics/HEALTH-SLEEP/mopakyjmnpa/)  
+  
+0️⃣7️⃣ Le Monde : [Le guide critique des arguments et intox climatosceptiques](https://www.lemonde.fr/les-decodeurs/article/2023/05/08/le-guide-critique-des-arguments-et-intox-climatosceptiques_6172472_4355770.html)  
+  
+0️⃣6️⃣ Washington Post : [Quelle est votre typographie ? Testez ce qui vous correspond](https://www.washingtonpost.com/technology/interactive/2023/best-font-you-test-types-styles/ )  
+  
+0️⃣5️⃣ The Verge : [Accessibilite : a la chasse aux arcs-en-ciel](https://www.theverge.com/23650428/colorblindness-design-ui-accessibility-wordle)  
+  
+0️⃣4️⃣ Le Figaro : [Construire Le Figaro](https://www.linkedin.com/company/construire-le-figaro/)  
+  
+🥉 Axios : [La communication par la couleur de la monarchie britannique](https://www.axios.com/british-royal-family-fashion)  
+  
+🥈 Washington Post : [Ces migrants reviennent au Venezuela apres l'avoir fui](https://www.washingtonpost.com/world/interactive/2023/venezuelans-return/)   
+  
+🥇 The Verge : [La BD interactive Goodnight Phone](https://www.theverge.com/c/23558791/goodnight-phone-comic-interactive-gina-wynbrandt)  
+---  
+---  
+  
+| |   
+---  
+  
+| | | | ![](https://newsletter.datagif.fr/ext/datagif/img/reseaux.png)  
+---  
+Retrouvez la veille et les projets de Datagif sur [Medium](https://datagif.medium.com/) • [Twitter](https://twitter.com/datagif) • [Instagram](https://www.instagram.com/datagif/) • [Datagif.fr](https://datagif.fr/)  
+  
+| |   
+---  
+  
+| | | 
+
+## Refonte
+
+## C'est tout frais : la refonte UX/UI du site de Fisheye par Datagif  
+  
+---  
+  
+| | | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/54366fa9-7644-295f-0c98-46c0dde08c0d.gif)](https://datagif.fr/projet/fisheye-magazine/)  
+---  
+  
+| | Cree en 2013, [Fisheye Magazine](https://fisheyemagazine.fr/) entend raconter, inspirer et reveler la photographie contemporaine. Pour ses 10 ans, le media s'offre une refonte de son site pour developper sa visibilite et valoriser ses savoirs-faire. Place a l'image pour ce nouveau site ! Au programme de cette refonte :  
+  
+✨ une nouvelle structure simplifiee  
+🔀 des entrees par thematiques pour une navigation horizontale  
+🤸‍♂️ une grille souple pour les equipes editos  
+📸 des compositions sur mesure pour valoriser la photo  
+---  
+| | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+Decouvrir en details [le nouveau Fisheye Magazine](https://datagif.fr/projet/fisheye-magazine/)  
+  
+| |   
+---  
+  
+| | | 
+
+## Methodo
+
+## Parmi les liens plebiscites, nos pastilles coulisses qui racontent notre methodo chez Datagif. Voici le recap a date.  
+  
+---  
+  
+| | | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/4ac0bd65-8910-cd00-7ecc-6584b8736570.jpg)  
+---  
+  
+| | • Comment nous realisons [notre veille](https://twitter.com/Datagif/status/1633414909596774402) ?  
+• Quelle est [la duree de vie d'un site](https://twitter.com/Datagif/status/1646421713503281152) ?  
+• Comment on [choisit une typo pour un projet](https://twitter.com/Datagif/status/1614931987256717314) ?  
+• Et [abonnez-vous](https://www.linkedin.com/company/datagif) pour la prochaine : Comment on cree les illustrations ?  
+---  
+---  
+  
+| |   
+---  
+  
+| | | | ![](https://newsletter.datagif.fr/ext/datagif/img/mail.png)  
+---  
+Bienvenue dans cette newsletter 👋  
+Nous sommes [une agence de conseil et design](http://datagif.fr/) qui aime beaucoup travailler avec les medias, et cette veille est faite pour vous <3  
+| [Je m'inscris](https://datagif.fr/newsletter-medias/)  
+---  
+  
+| |   
+---  
+  
+| | | 
+
+## Concours d'ete ✨
+
+## Allez hop, on vous fait gagner de l'INTERNET !  
+  
+---  
+  
+| | | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/cfe52232-b830-3067-a4b9-3c122714d0d7.jpg)  
+---  
+  
+| | **Le pitch**  
+On a change notre deco de bureau. Plus precisement, on a imprime une nouvelle serie de drapeaux, qui habillent nos murs d'un peu d'Internet. Nous avons donc decroche la premiere serie dont nous vous proposons de gagner un des drapeaux. Du beau tissu qui permet a la toile de voler au gre des courants d'air ou des ventilos, parfait pour troner fierement dans un bureau ou un salon. Ou bien ou vous voulez. L'important est que ça vous plaise !   
+  
+**Le brief**  
+Comment jouer ? En repondant a ce mail, indiquez-nous quel est [votre projet favori](https://datagif.fr/projets/) sur notre site + ou vous verriez accroche votre drapeau. On fera un tirage au sort parmi les reponses premiere semaine de septembre 🙌  
+  
+**Les Q/R**  
+Rassurez-vous, on vous fera choisir parmi les drapeaux dispos et vous pourrez soit passer le prendre au bureau, soit le recevoir directement chez vous ✨ (par contre on mettra une alerte Vinted 👀)  
+Bonne chance ✌️  
+---  
+---  
+  
+| |   
+---  
+  
+| |   
+---  
+  
+| | On se retrouve a la rentree avec une pelletee de liens cools et projets a partager. D'ici-la : bon ete 👋  
+---  
+  
+| | | ![](http://gallery.mailchimp.com/653153ae841fd11de66ad181a/images/transparent.gif)  
+---  
+  
+| |   
+---  
+  
+| | Vous recevez cet e-mail car vous êtes inscrit•e via le site [datagif.fr](https://datagif.fr/newsletter-medias/)Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)  
+👋 [Cliquez-ici](*|UNSUB|*) pour vous désabonner  
+---  
+  
+| | DATAGIF  
+---  
+  
+| |   
+---

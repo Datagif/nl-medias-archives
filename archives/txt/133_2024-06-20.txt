@@ -1,0 +1,198 @@
+*|MC_PREVIEW_TEXT|*  
+  
+͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿
+
+| | [Ouvrir dans le navigateur](*|ARCHIVE|*)  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/b6f2e1a3-2e78-da7c-cc87-49fb449349cd.png)](*|ARCHIVE|*)  
+---  
+  
+| | | ![Médias](https://newsletter.datagif.fr/ext/datagif/img/medias-v2.png)  
+---  
+  
+| 133  
+---  
+  
+| | La veille innovation et design média par Datagif  
+---  
+  
+| | | Qui aurait pu predire ?  
+---  
+Pardon, il etait difficile de ne pas placer le mot-cle du moment, qui a eu deux niveaux de stupefaction : le public, mais aussi les editeurs d'actualite, qui ont vu tous leurs plans chamboules. Pour gerer cette actualite soudaine, il a fallu mettre de cote quelques sujets chauds en preparation (au hasard : les J.O., ou le suivi de projets de loi en cours...). Et comment reagir ? C'est la qu'interviennent vos tiroirs, qui regorgent d'idees, d'explorations, de tests, de brouillons : des outils de suivi, des outils de visualisation, des concepts de [_tracking_](https://datagif.fr/liens/?format=tracker) pour suivre une info qui evolue. Mais aussi des directs, des gabarits de graphiques... Tout ça est evidemment difficile a creer de toutes pieces mais se constitue au fil des experimentations, que nous vous encourageons a multiplier des que l'occasion se presente. Et au final, on vous dit "dissolution", vous repondez "10 solutions". Hum, bon, enfin vous avez saisi l'idee.  
+  
+| | | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/dd27fd0a-f659-dbfe-2c8d-0fa69e1c9747.png)  
+---  
+  
+| Gaetan Duchateau  
+---  
+Lead @Datagif  
+  
+| | | Histoire  
+---  
+  
+| 🪖  
+---  
+  
+| | Revivez le debarquement heure par heure chez le Daily Mail  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/676efa33-7713-319a-ba81-0308a1303ee9.gif)](https://www.dailymail.co.uk/news/article-13497447/How-D-Day-unfolded-hour-hour-80th-anniversary-Operation-Overlord-MailOnlines-scintillating-visualisations-recount-daring-mission-liberate-Nazi-occupied-Europe-forensic-detail.html)  
+---  
+Debut juin, nous celebrions les 80 ans de l'evenement qui fit changer le cap de la seconde guerre mondiale. Le **Daily Mail** a profite de cet anniversaire pour publier un article, certes pas des plus jolis, mais particulierement bien amene, **embarquant son audience dans un d eroule minute**.   
+  
+Avec un premier chapitre dedie a la chronologie de la nuit du 5 au 6 juin, l'article detaille les operations, quantifie les hommes et les victimes de chaque cote, pour mettre en lumiere les actions decisives qui dicteront le deroule des jours suivants. La suite valorise des personnalites, des operations plus ou moins connues, mais aussi des inventions... en somme, toute l'energie et l'inventivite deployee depuis des annees pour ce moment precis, dans un format encyclopedique richement documente.   
+[Revivre le D-Day chez le Daily Mail](https://www.dailymail.co.uk/news/article-13497447/How-D-Day-unfolded-hour-hour-80th-anniversary-Operation-Overlord-MailOnlines-scintillating-visualisations-recount-daring-mission-liberate-Nazi-occupied-Europe-forensic-detail.html)  
+  
+| | | Environnement  
+---  
+  
+| ♻️  
+---  
+  
+| | Le plastique c'est pas fantastique  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/96862ccd-25bf-12fb-6bd9-5ff273ab0fd1.jpg)](https://www.washingtonpost.com/climate-environment/interactive/2024/microplastics-air-human-body-organs-spread/)  
+---  
+Le **Washington Post** nous propose ici un article interactif modelisant le parcours de particules de microplastique de tres petite taille, provenant de la degradation de dechets et pouvant etre inhalees. **L 'utilisation du defilement et une intro visuelle s'appuyant sur un changement d'echelle** pour arriver a l'interieur du corps humain sont particulierement edifiante.  
+[Decouvrir l'infiniment petit du plastique chez le Washington Post](https://www.washingtonpost.com/climate-environment/interactive/2024/microplastics-air-human-body-organs-spread/)  
+  
+| | | ![](https://newsletter.datagif.fr/ext/datagif/img/newsletter.png) Oui bonjour ?  
+---  
+Si quelqu'un vous a transfere cette newsletter, c'est que cette personne vous veut du bien. Vous pouvez vous aussi vous abonner et faire ensuite le bien autour de vous.  
+| [S'abonner a la newsletter](https://datagif.fr/newsletter-medias/)  
+---  
+  
+| | | Animaux  
+---  
+  
+| 🐶  
+---  
+  
+| | Le New York Times accompagne le lancement d'un podcast animalier avec article narratif conçu pour le mobile  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/9d2d7924-5336-34ce-d814-0b22213c65d1.gif)](https://www.nytimes.com/interactive/2024/05/31/magazine/dog-animals-death-mortality.html)  
+---  
+Pour accompagner le lancement de son nouveau podcast [Animal, ](https://www.nytimes.com/column/animal-podcast)"_sur la qu ete d'un homme pour se rapprocher des animaux qu'il aime_", le **NYT** publie un long format dont le texte est tire du premier episode du podcast. Dans un ecrin d'abord pense pour le mobile, les lecteurs decouvrent l'histoire du journaliste Sam Anderson (et de ses animaux de compagnie) qui s'interroge : les animaux savent-ils qu'ils vont un jour mourir ? **Les illustrations evoluent au defilement, et transforment un sujet vaste en un bel instant de poesie**. Au-dela du contenu et de l'execution tous deux reussis, la strategie de valorisation du podcast est bien pensee car elle donne envie de decouvrir les episodes suivants, muni d'une paire d'ecouteurs cette fois-ci.  
+[Plonger dans l'histoire de Sam, Mango, Walnut et Moby](https://www.nytimes.com/interactive/2024/05/31/magazine/dog-animals-death-mortality.html)  
+  
+| | | Le 50/50  
+---  
+Selectionnez la thematique de votre choix, on vous genere une liste de liens a ne pas rater  
+Cette semaine, vous etes plutot IA ou climat ?   
+  
+| | | [🤖 IA](https://datagif.fr/liens/?feature=ai&utm_source=newsletter_medias&utm_medium=email&utm_campaign=medias_poll)  
+---  
+  
+| | [🪸 climat](https://datagif.fr/liens/?theme=climat&utm_source=newsletter_medias&utm_medium=email&utm_campaign=medias_poll)  
+---  
+  
+| | | Resultats  
+---  
+Il y a 15 jours  
+Le match de la precedente edition semble avoir ete guide par l'actualite. Certain*es diront que c'etait kiff-kiff.  
+  
+| | | [🗳️ politique ](https://datagif.fr/liens/?theme=politique)  
+---  
+  
+| | [🏆 60% ](https://datagif.fr/liens/?theme=politique)  
+---  
+  
+| |   
+---  
+  
+| | | [🏀 sport ](https://datagif.fr/liens/?theme=sport)  
+---  
+  
+| | [40% ](https://datagif.fr/)  
+---  
+  
+| | | Bon appétit  
+---  
+  
+| 🍖  
+---  
+  
+| | Infiltrez un forum cannibale avec Blick  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/330772fb-7dd9-a414-88ba-e3cfc8dc1fd4.png)](https://storytelling.blick.ch/fr/2024/j-ai-infiltre-un-forum-cannibale/)  
+---  
+Le quotidien suisse **Blick** a recemment publie une enquete sur un forum de discussions pour... cannibales. Oui, ça existe. Sans s'arreter sur le contenu qui vaut malgre tout le detour, nous apprecions tout particulierement le parcours propose tout au long de la lecture : des animations d'un autre temps qui repondent au design du forum en question, **des bulles de conversation  pour le decryptage apporte par les divers specialistes interroge*es**, l'apparition des messages echanges avec les internautes du forum… En bref, l'immersion fonctionne !  
+[Devorer l'enquete de Blick](https://storytelling.blick.ch/fr/2024/j-ai-infiltre-un-forum-cannibale/)  
+  
+| | | 🥇 Le meilleur lien d'il y a 15 jours  
+---  
+  
+| | Comment le media indien Newslaundry a repense son application de maniere accessible  
+---  
+Dans l'edition 132, c'est un lien tres oriente retour d'experience et bonnes pratiques qui a suscite le plus d'interet chez nos abonne*es. Compatibilite des lecteurs d'ecran, recherche vocale, transcriptions, parametres de contraste des couleurs, mode dyslexie et bien plus encore : si vous l'avez rate, on vous repartage tout ça.  
+📱 [N](https://www.linkedin.com/feed/update/urn:li:activity:7191831297323925504/)[ewslaundry repense totalement son app pour devenir accessible](https://www.newslaundry.com/2024/05/01/presenting-newsable-the-newslaundry-website-and-app-are-now-accessible)  
+  
+| | | Le lien de Leonie  
+---  
+La triste histoire du logo de recyclage ♻️  
+  
+| | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/90b0d5e7-c045-0039-fcb7-4fd7905bae18.png)  
+---  
+  
+| | Pour susciter de l'attention sur l'importance du recyclage, notion alors peu commune a l'epoque, Gary Anderson a cree en 1970 ce symbole devenu universel des trois fleches vertes. Dans un article historique tres fouille, [Grist revient sur toute la symbolique du logo](https://grist.org/culture/recycling-symbol-logo-plastic-design/), confrontee a des lobbies d'entreprises le detraquant peu a peu. Car oui, on le retrouve aujourd'hui sans probleme sur des emballages aussi bien recycles (en partie) que recyclables (potentiellement), avec comme toujours une responsabilite deportee sur l'individu.**L 'histoire de la vie et de la petite mort d'un symbole fort**, aussi universel que vide de sens. Il est temps de [faire un tri](https://www.citeo.com/le-mag/faites-le-tri-dans-les-logos-environnementaux) dans les logos.  
+---  
+  
+| | | Methodologie  
+---  
+  
+| 🔊  
+---  
+  
+| | Ça sert a quoi, un design system ?  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/879b24d7-9a55-b72b-12c0-2d62b60c9868.jpg)](https://www.linkedin.com/feed/update/urn:li:activity:7208744694799872000)  
+---  
+Dans la serie des pastilles audio produites par Datagif, voici notre tout dernier sujet : **le design system**. Si cette notion ne vous est pas familiere ou si vous vous interrogez encore sur son utilite, ecoutez donc Julie, Jeremy et Charly en donner tous les avantages, tout en partageant nos bonnes pratiques.   
+[Decouvrir l'interet d'un design system, par Datagif](https://www.linkedin.com/feed/update/urn:li:activity:7208744694799872000)  
+  
+| | | Medias  
+---  
+  
+| 📊  
+---  
+  
+| | Le Reuters Institute publie son etude annuelle sur l'information et les publics (et ça va pas tres fort)  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/3ca28dbc-169e-8f55-c848-41c1e2e32a5d.jpg)](https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2024/dnr-executive-summary)  
+---  
+C'est le rendez-vous incontournable des etudes sur les medias, avec des donnees par pays, par segments de public, et des tendances generales. On vous laisse le soin de [parcourir l'etude dans son integralite](https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2024/dnr-executive-summary), mais voici cependant quelques points saillants qui ont retenu notre attention :  
+  
+🤖 l'audience se dit assez largement mal a l'aise face a du contenu genere principalement par l'IA, mais plutot a l'aise avec du contenu ou l'IA a eu un role contributif ;  
+  
+🤯 les pourcentages de "news fatigue" ne cessent de croitre, passant en France en 5 ans de 37% a 46%, bim. Tout semble etre devenu info, tout le temps, avec des sources de plus en plus floues ;  
+  
+🤷‍♂️ ce qui amene au point suivant : sur de nombreuses plateformes, l'info produite par des journalistes a moins de valeur que du contenu informatif cree (ou repackage) par des influenceurs, personnalites ou autres types de comptes. Pas etonnant que le public se sente submerge d'info. Reste a re-definir ce qu'est une info...   
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/1bae0537-3f61-7950-b675-5d45e2217934.jpg)](https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2024/dnr-executive-summary)  
+---  
+[Explorer en details les resultats de l'etude](https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2024/dnr-executive-summary)  
+  
+| | | Pour aller plus loin  
+---  
+Des petits liens, des petits liens, encore des petits liens...  
+📊 [The Verge](https://www.theverge.com/c/24133822/microsoft-excel-spreadsheet-competition-championship) vous emmene a Las Vegas pour les championnats du Monde d'Excel avec un long format sous forme de tableur retro.  
+  
+🏚️ Vous cherchez a vous loger au Canada ? C'est la crise mais [CBC News ](https://newsinteractives.cbc.ca/features/2024/rentals-affordability-crisis/)propose un calculateur pour identifier le lieu adapte a votre situation financiere. Aisement repliquable dans nos contrees.  
+  
+💡 Le media suisse Le Temps a ajoute quelques modules d'enrichissement de ses articles et [detaille le tout dans un article oriente produit](https://www.letemps.ch/r-evolutions/r-evolutions-comment-lire-nos-modules). Resume, infos contextuelles, mais aussi bloc de transparence : des idees bienvenues pour renforcer la valeur journalistique de l'info.  
+  
+📷 Enfin, on vous parle de deux longs formats photo du New York Times : un pour [montrer les destructions sur le territoire ukrainien](https://www.nytimes.com/interactive/2024/06/03/world/europe/ukraine-destruction.html) et un autre qui permet d'[explorer les ruines du centre historique de Gaza](https://www.nytimes.com/interactive/2024/05/28/arts/gaza-omari-mosque.html), tous les deux mettant en perspective photographies historiques et actuelles des lieux.  
+  
+| | | Entre deux tours  
+---  
+La prochaine edition aura lieu a l'entre-deux tours, que l'on imagine charge en actualite. En attendant, n'hesitez pas a nous faire part de vos observations, bons liens ou questions, de notre cote on continue de travailler a [ameliorer l'internet](https://datagif.fr/) ✨  
+par  
+| [![DATAGIF](https://newsletter.datagif.fr/ext/datagif/img/logo-big.png)](https://datagif.fr)  
+---  
+  
+| | | ![](https://newsletter.datagif.fr/ext/datagif/img/social.png) Retrouvez-nous sur les réseaux  
+---  
+[Medium](https://datagif.medium.com/) [X](https://x.com/datagif) [Bluesky](https://bsky.app/profile/datagif.bsky.social) [Instagram](https://www.instagram.com/datagif/) [Threads](https://www.threads.net/@datagif) [Linkedin](https://www.linkedin.com/company/datagif/) [Datagif.fr](https://datagif.fr/)  
+  
+| | Vous recevez cet e-mail car vous êtes inscrit•e via le site [datagif.fr](https://datagif.fr/newsletter-medias/)Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)  
+👋 [Cliquez-ici](*|UNSUB|*) pour vous désabonner  
+---

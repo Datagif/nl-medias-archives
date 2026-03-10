@@ -1,0 +1,131 @@
+---  
+![Médias](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/d060cdc3-f8d4-4207-b9bb-0b8ffda1ca6f.png)  
+La veille innovation et design media par Datagif  
+  
+| *|MC_PREVIEW_TEXT|*  
+---  
+---  
+1\. Autocompletion Explorez en interactivite la difficulte des internautes a ecrire les noms propres  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/e7d8faeb-8aa2-477f-9a8a-b652d8218024.gif)  
+---  
+Un nouveau format interactif a ete publie par The Pudding : le lecteur est amene a tester sa capacite a epeler le nom d'une celebrite sans se tromper, pour venir ainsi completer des statistiques globales. Ce format s'appuie sur les recherches de [Colin Morris](https://twitter.com/HalfEatenScone/status/1084855992154640388), un developpeur qui a recolte toutes les orthographes possibles de Jake Gyllenhaal sur Reddit, accompagnees du terme "sp?" pour "_spelling?_ ". Autrement dit, toutes les fois ou un internaute n'est pas sur de son coup.  
+  
+L'exercice est plus difficile que vous ne le pensez, testez-vous !  
+---  
+-- Consulter le format interactif [sur ThePudding](https://pudding.cool/2019/02/gyllenhaal/)  
+---  
+2\. Yes, please! Sur les sites Conde Nast, la newsletter occupe une belle place. La preuve avec ce bandeau denue de champ de saisie, mais dote d'une belle accroche et un bouton bien engageant.  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/115b0ec7-f1e8-4f61-ad94-b01674954262.jpg)  
+---  
+-- Vous voulez tester vous-meme le call to action ? Essayez sur [Wired](https://wired.co.uk)  
+---  
+3\. #2020 🔎 « Who's running for president 2020? » : les principaux medias anglo-saxons sont prets  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/3db531da-d42a-4d7d-8007-a2f7d5e23e11.png)  
+---  
+Les principaux medias anglo-saxons ont deja degaine leur article-liste mis a jour au fil des declarations de candidature. Petit tour d'horizon :  
+  
+![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/d555e759-4042-47d5-ab9d-55848a81d113.png)   
+  
+\- Le [NYT](https://www.nytimes.com/interactive/2019/us/politics/2020-presidential-candidates.html?mtrref=undefined) opte pour un tableau tres complet qui fait le point sur qui est dans la course, qui s'en rapproche, et qui a laisse tomber. L'equite prime : le volume d'information, sous forme de listes et citations, est rigoureusement le meme pour chacun des candidats. _Efficace._  
+  
+![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/3843bca5-291c-49bf-9f0f-60e9dc98800e.png)  
+  
+\- Chez [Axios](https://www.axios.com/2020-presidential-election-candidates-announce-running-15472039-9bf49de4-351a-46b3-bdde-b980947b21ea.html), la mecanique est similaire avec un tableau tres clair mais cette fois sans aucun texte complementaire. L'astuce : Axios propose de s'abonner pour recevoir par mail une notification des qu'un.e candidat.e se declare (en realite vous recevrez l'ensemble des news politiques). _Malicieux_.  
+  
+![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/664f628c-0ddc-4802-99fc-40b0c43ad619.png)  
+  
+\- Notre format prefere se trouve chez****[The Guardian](https://www.theguardian.com/us-news/ng-interactive/2019/jan/17/2020-election-candidates-list-democrats-primaries-trump-bernie-sanders-joe-biden-elizabeth-warren-kamala-harris-beto-o-rourke-running) ou l'on trouve un tableau des potentiels candidat.e.s. Comment s'y retrouvent-ils ? Trois criteres : la visite strategique de l'Iowa ou du New Hampshire (ou le vote arrive le plus tot), la promotion d'un livre et la prise en compte dans les sondages nationaux. _Malin_.  
+  
+![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/8c4b42c8-390e-4f1b-a511-dedebe346490.png)  
+  
+\- Du cote du [Washington Post](https://www.washingtonpost.com/graphics/2018/politics/2020-presidential-hopefuls/?noredirect=on&utm_term=.b33dcde25d10), les candidats sont classes selon leurs fonctions politiques actuelles, ce qui eclaire de maniere interessante leur parcours, toujours de maniere concise. De plus, le journal propose une deuxieme page qui permet de commencer a emettre des choix en classant les candidat.e.s en fonction de criteres. Page indispensable au vu du nombre important de candidat.e.s qui se sont deja lances dans la course. _Amusant_.  
+  
+![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/18e6cbe6-62df-4ceb-b866-a9947a4471d5.png)  
+  
+\- Enfin, **[Five Thirty Eight](https://fivethirtyeight.com/tag/2020-digest/) **en association avec **ABC news** est a rebours de toutes ces pages en proposant son « digest ». Chaque semaine dans un format proche de ce qui pourrait etre une newsletter, un journaliste rassemble toutes les infos sur la campagne, de la declaration de candidature aux petites et grandes histoires concernant tel ou tel candidat. _Complet_.  
+  
+**Ce que l 'on retient :**  
+  
+● Deux ans avant le vote,**les principaux m edias sont prets** et la requete Google « Who's running for president 2020? » abonde de resultats.    
+  
+**● La concision :** pour l'ensemble des formats (excepte celui de Five Thirty Eight) chaque media propose volontairement peu de contenu texte.  
+  
+**● L 'equite :** qu'un candidat ait une longue carriere ou non, qu'il ait peu ou beaucoup d'experience, qu'il semble favori ou non, le volume d'information propose pour chacun des candidat.e.s est calibre a l'identique.  
+  
+**● Le design :** il est soigne. Chacun des medias pris en exemple fait simple mais bien. Axios propose un detourage soigne sur fond de couleur, le Guardian comme a chaque fois s'est prepare en proposant un style illustratif unique et dedie a la presidentielle. Et passez votre souris sur les visuels du Washington Post #surprise  
+  
+**● Mobile :**  tout cela est aussi bien pense en mobile comme en desktop. L'experience est la meme sans aucune degradation.  
+---  
+-- On vous parle elections et medias [ici](https://www.eventbrite.fr/e/billets-lheure-medias-2-comment-reussir-la-couverture-des-elections-dans-les-medias-57160998084?utm_source=Unknown+List&utm_campaign=825b652418-EMAIL_CAMPAIGN_2019_02_21_04_26&utm_medium=email&utm_term=0_-825b652418-)  
+---  
+4\. Évenement L'heure Medias #2 le 11 mars : Comment reussir la couverture des elections dans les medias ?  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/b9fee2e5-8c39-418d-9f29-7d77ab81d990.png)  
+---  
+Pour la 2e edition du cycle de conferences mene par Datagif chez Creatis, nous nous plongerons dans les formats specifiques a la couverture des elections.   
+  
+Midterms aux Etats-Unis de 2018, preparation des elections europeennes en mai 2019 : quels dispositifs innovants peut-on mettre en place pour reussir la rencontre entre un media et son audience ?   
+  
+Par le biais d'un benchmark des meilleurs pratiques internationales, Datagif proposera d'explorer le meilleur des trois temps mediatiques d'une election : la campagne, le direct des resultats et l'apres-scrutin.  
+---  
+-- L'inscription est gratuite mais obligatoire via ce [formulaire](https://www.eventbrite.fr/e/billets-lheure-medias-2-comment-reussir-la-couverture-des-elections-dans-les-medias-57160998084?utm_source=Unknown+List&utm_campaign=825b652418-EMAIL_CAMPAIGN_2019_02_21_04_26&utm_medium=email&utm_term=0_-825b652418-&utm_source=Open+Gif+newsletter&utm_campaign=c1a904c3cc-EMAIL_CAMPAIGN_2019_02_26_10_52&utm_medium=email&utm_term=0_2c796db563-c1a904c3cc-490939397)  
+---  
+5\. Courriel Axios ressucite l'alerte par mail  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/cb6c6591-e4e5-43c6-94ab-affe2da24a94.png)  
+---  
+A l'heure ou quasiment tous les medias misent sur les notifications in-app pour booster leurs audiences mobile, les alertes par mail ont-elles toujours un avenir ?  
+  
+Oui, si l'on en croit le site americain Axios, qui vient de lancer un systeme de mails « breaking news », segmente par thematiques. Le canal mail est visiblement strategique pour le public de CSP+ que vise le site.   
+  
+Au passage, Axios maitrise bien son marketing editorial et n'hesite pas a promouvoir la fonctionnalite par son journaliste star Mike Allen, en personne.   
+---  
+-- Pour s'inscrire aux alertes mail d'Axios, [c'est ici](http://link.axios.com/join/5fx/alert-signup?utm_source=breaking_news&utm_medium=email&utm_campaign=alerts_signup)  
+---  
+6\. Cher journal Également chez Conde Nast, le lecteur peut ecrire a une adresse mail pour obtenir des bons plans. Tout n'est pas dans l'article, la suite se passe dans votre boite mail.  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/bf7d03c9-dc46-4205-bb49-dbd59d13e51f.jpg)  
+---  
+-- À tester sur le [Traveller](https://www.cntraveller.com/gallery/top-holiday-destinations-2019)  
+---  
+7\. Audience Quels criteres poussent a lire un article ?   
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/110eb0aa-3a46-4630-819a-2276aac58f19.png)  
+---  
+Le Reuters Institute de l'Universite d'Oxford vient de publier une etude qualitative sur la base de 24 interviews approfondies concernant la pertinence des infos pour les lecteurs. L'approche est interessante et a contre-courant des tendances actuelles puisqu'elle ne s'appuie pas que sur des chiffres et de l'analytique.   
+  
+L'etude s'applique a identifier quels sont les criteres de pertinence pour les lecteurs de news :  
+\- Les informations affectant la vie personnelle du lecteur  
+\- Lorsque l'information comporte un interet pour l'entourage et qu'elle est susceptible d'etre partagee    
+\- Les informations avec un interet recreatif  
+\- Les informations avec un interet civique  
+L'etude conclut sur un conseil aux journalistes d'ecouter aussi leur intuition et non pas uniquement les metrics quand il s'agit d'ecrire un article.   
+---  
+-- Retrouvez la totalite de cette etude [ici](https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2019-02/Schroder_How_relevance_works_for_news_audiences_FINAL.pdf)  
+---  
+8\. Marketing Le Guardian affute ses slogans  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/413d0e4e-b93d-4bec-afe4-69e1d2af148c.jpg)  
+---  
+Le Guardian mise de plus en plus sur les donations des lecteurs pour soutenir son modele de journalisme en acces libre. Les parcours de donation et de membership sont ainsi de plus en plus visibles sur le site, du header jusqu'a la page article (quitte a occuper beaucoup de place a l'ecran).   
+  
+Mais ce sont surtout les messages «  call-to-action » qui sont de plus en plus efficaces, en jouant habilement sur la fibre philanthropique des lecteurs. Au lieu d'insister sur d'eventuels avantages client, le Guardian tente de responsabiliser les lecteurs sur le plan de l'ethique et du collectif. En temoigne ce super slogan : « Free for those who can't afford it / Supported by those who can ».   
+---  
+-- Le site du Guardian (truffe de messages marketing), [a voir ici](https://www.theguardian.com/uk)  
+Vous recevez cet e-mail car vous êtes inscrit•e via le site   
+[medias.datagif.fr](https://medias.datagif.fr/)   
+  
+🏄‍   
+Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)   
+  
+📪  
+Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)   
+  
+✌️  
+Retrouvez la veille et les projets de Datagif sur   
+[Medium](https://medium.com/Datagif) \- [Twitter](https://twitter.com/datagif) \- [Instagram](https://www.instagram.com/datagif) \- [Datagif.fr](https://datagif.fr)   
+  
+👋   
+[Cliquez-ici](*|UNSUB|*) pour vous désabonner   
+  
+  
+*|IF:REWARDS|* *|HTML:REWARDS|* *|END:IF|*   
+  
+  
+---

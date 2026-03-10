@@ -1,0 +1,107 @@
+---  
+![Médias](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/d060cdc3-f8d4-4207-b9bb-0b8ffda1ca6f.png)  
+La veille innovation et design media par Datagif  
+  
+| *|MC_PREVIEW_TEXT|*  
+---  
+---  
+📈 Dataviz et decryptages visuels On sait que le virus avance de façon exponentielle, mais c'est quand meme plus parlant avec des graphiques ou des illustrations…  
+|  • Si vous avez une passion pour les mappemondes, le **New York Times**  a toute [une flopee de cartes](https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html) mises a jour en continu pour suivre l'epidemie partout dans le monde  
+  
+• Le **Washington Post**  a fait un travail remarquable de [visualisation pedagogique](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/) sur l'importance de la "distanciation sociale" (traduit egalement [en français](https://www.washingtonpost.com/graphics/2020/health/corona-simulator-french/))  
+  
+• Le **New York Times  **publie aussi : [pourquoi le virus est si coriace](https://www.nytimes.com/interactive/2020/03/11/science/how-coronavirus-hijacks-your-cells.html?action=click&module=Top%20Stories&pgtype=Homepage) ; un [simulateur terrifiant](https://www.nytimes.com/interactive/2020/03/16/upshot/coronavirus-best-worst-death-toll-scenario.html) qui le projette comme la premiere cause de mortalite aux USA pour 2020 ; une visualisation des [professions les plus exposees](https://www.nytimes.com/interactive/2020/03/15/business/economy/coronavirus-worker-risk.html)  
+  
+• **ProPublica**  explore les [scenarios de saturation des hopitaux](https://t.co/3nDbjJibjI?amp=1) aux Etats-Unis, avec un simulateur au niveau local  
+  
+• Une page pleine d'infographies chez [**SCMP**](https://multimedia.scmp.com/infographics/news/china/article/3047038/wuhan-virus/index.html)  
+  
+• La chaine de contamination expliquee en infographie par [**Reuters**](http://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.html) et [**NZZ**](https://www.nzz.ch/panorama/wie-der-fasching-die-epidemie-in-deutschland-beschleunigte-ld.1545287)  
+  
+• **Le Monde**  nous** ** rappelle [le niveau de contagiosite](https://www.lemonde.fr/les-decodeurs/article/2020/02/20/2019-ncov-un-virus-peu-contagieux-et-dont-la-letalite-est-plutot-faible_6030246_4355770.html) du virus  
+  
+• **Le Figaro**  tracke egalement [l'avancee de l'epidemie](https://www.lefigaro.fr/fig-data/coronavirus-tableau-monde/), avec la particularite d'utiliser des petites courbes tres parlantes par pays. Le Figaro utilise aussi [ses Stories](https://amp.lefigaro.fr/story/coronavirus--ces-nouvelles-questions-que-lon-se-pose-13265) pour delivrer les infos cles sur mobile  
+---  
+|   
+---  
+---  
+⏱ Lives en temps reel Avec un monde qui bascule litteralement d'heure en heure, les pages "live" des sites d'info n'ont presque jamais ete autant sollicitees.  
+|  • Le [format "live"](https://www.lemonde.fr/planete/live/2020/03/19/coronavirus-suivez-en-direct-le-3e-jour-de-confinement-en-france-et-l-evolution-dans-le-monde_6033622_3244.html) du **Monde**  demontre toujours son efficacite, en facilitant a la fois le rattrapage de l'info et la participation des lecteurs (ce qui est toujours loin d'etre la norme ailleurs)  
+  
+• Le flux "[en direct](https://www.francetvinfo.fr/en-direct/)" de **Franceinfo  **continue d'etre a la pointe de l'actu en temps reel… meme si on se retrouve parfois noyes dans les interventions (souvent farfelues) des internautes  
+  
+• La palme revient au **New York Times**  qui cumule au moins [4 "lives" en continu](https://twitter.com/maxloisel/status/1239654215888355330?s=20) depuis plusieurs semaines pour couvrir tous les aspects de la crise (et ils n'ont meme pas l'air en surchauffe.) A noter : les lives du NYT sont mis a jour en continu mais dans une structure similaire a un article classique, pour privilegier le contexte plutot que l'approche chronologique  
+---  
+|   
+---  
+---  
+🧰 Guides pratiques Comment centraliser les informations pratiques ? Certains medias ont particulierement reflechi au packaging de ces contenus.  
+|  • Le **New York Times  **met le paquet avec un [dashboard centralise](https://t.co/DgulTQAcvU?amp=1) et des tonnes d'articles pratiques, qui ont desormais [leur emplacement fixe](https://twitter.com/maxloisel/status/1237503584238895104) sur la page d'accueil du site (et ça tourne en permanence)  
+  
+• Le site du New York Times possede egalement un tres bon maillage : depuis un article, une barre de raccourcis mise a jour en continu est disponible, tandis qu'un [bloc "ressource"](https://twitter.com/ff_ff/status/1238368816561901571?s=20) apparait en bas de nombreux articles  
+  
+• **Le Monde**  a egalement couvert tous les angles imaginables ("[Comment faire ses courses ?](https://www.lemonde.fr/planete/article/2020/03/17/ne-pas-toucher-son-visage-rester-a-distance-des-autres-clients-comment-faire-ses-courses-par-temps-de-coronavirus_6033426_3244.html)" ; "[Quelles contagiosite et letalite ?](https://www.lemonde.fr/les-decodeurs/article/2020/02/20/2019-ncov-un-virus-peu-contagieux-et-dont-la-letalite-est-plutot-faible_6030246_4355770.html)" ; "[Le port du masque est-il efficace ?](https://www.lemonde.fr/planete/article/2020/03/02/coronavirus-le-port-du-masque-de-protection-est-il-une-mesure-efficace_6031541_3244.html)"…) On note le tres bon maillage editorial : les articles les plus importants sont mis en avant en bas de tous les articles sur le sujet  
+  
+• **Le Monde  **a egalement reutilise son tres bon format "Questions/Reponses", bien construit et dote d'un moteur de recherche  
+  
+• Chez **Le Figaro** , [une colonne fixe](https://twitter.com/benjaminferran/status/1239222211514376199) centralise les infos cles sur la page d'accueil (dont le fameuse attestation de sortie a imprimer)  
+  
+• Pendant ce temps, ne pas oublier que [**Google**](https://twitter.com/evascaz/status/1239332609022296065?s=20)**,**[**Facebook**](https://twitter.com/maxloisel/status/1240895212064575488?s=20)**,**[**Spotify**](https://twitter.com/Hugo_nldz/status/1240741388398059526?s=20) (et quasiment tous les autres reseaux sociaux) court-circuitent les medias en redirigeant vers des liens pratiques, souvent de sources officielles  
+---  
+|   
+---  
+---  
+💭 Dispositifs participatifs Les sites d'info se montrent de plus en plus a l'ecoute de leurs lecteurs en ces circonstances exceptionnelles -- et c'est tres bien comme ça.  
+|  **• Mediapart** a mis en place une adresse mail pour les [lanceurs d'alerte](https://twitter.com/Mediapart/status/1239974077256716292) et une autre pour [recolter les temoignages de confinement](https://blogs.mediapart.fr/mathieu-magnaudeix/blog/190320/alairlibremediapartfr-racontez-nous-votre-quotidien-sous-le-coronavirus)  
+  
+**• Mediacites** debraye son dispositif municipales [en mode Coronavirus](https://www.mediacites.fr/coronavirus/) et c'est tres bien : questions, temoignages, articles dedies, toujours sous un angle local… (Datagif a collabore avec Mediacites)  
+  
+**• France Inter** a [votre ecoute coute que coute](https://www.franceinter.fr/societe/coronavirus-france-inter-a-votre-ecoute), avec une hotline dediee  
+  
+**• Le Parisien** repond [aux questions des lecteurs](http://www.leparisien.fr/societe/coronavirus-posez-nous-vos-questions-nous-y-repondrons-18-03-2020-8282631.php)  
+  
+**• **Le **New York Times  **incite les lecteurs [a envoyer leurs videos](https://twitter.com/maxloisel/status/1238015770011086848?s=20) depuis chez eux, avec des consignes precises  
+---  
+|   
+---  
+---  
+Et bien plus encore... Notre best-of continue sur Medium !  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/16678d46-7cbd-4882-91c7-e56d69ecff72.png)  
+---  
+Notre "best-of" du coronavirus [continue sur Medium ](https://medium.com/datagif/coronavirus-les-meilleures-innovations-chez-les-m%C3%A9dias-en-ligne-8b4fdd660a0f):   
+  
+• Recits et series editoriales  
+• Newsletters  
+• Videos  
+• Reseaux sociaux  
+• Podcasts  
+• Initiatives solidaires  
+• Pour les enfants  
+• Marketing et acces au contenu  
+  
+Sauvegardez l'article, nous le mettrons a jour regulierement. Et envoyez-nous vos suggestions, via [Twitter](http://twitter.com/datagif) ou par retour de mail ! 👋  
+---  
+|  -- **[L](https://www.lemonde.fr/les-decodeurs/article/2020/03/03/le-petit-guide-pour-tout-comprendre-aux-elections-municipales_6031697_4355770.html)[ire la suite sur Medium ](https://medium.com/datagif/coronavirus-les-meilleures-innovations-chez-les-m%C3%A9dias-en-ligne-8b4fdd660a0f)**  
+---  
+Vous recevez cet e-mail car vous êtes inscrit•e via le site   
+[medias.datagif.fr](https://medias.datagif.fr/)   
+  
+🏄‍   
+Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)   
+  
+📪  
+Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)   
+  
+✌️  
+Retrouvez la veille et les projets de Datagif sur   
+[Medium](https://medium.com/Datagif) \- [Twitter](https://twitter.com/datagif) \- [Instagram](https://www.instagram.com/datagif) \- [Datagif.fr](https://datagif.fr)   
+  
+👋   
+[Cliquez-ici](*|UNSUB|*) pour vous désabonner   
+  
+  
+*|IF:REWARDS|* *|HTML:REWARDS|* *|END:IF|*   
+  
+  
+---

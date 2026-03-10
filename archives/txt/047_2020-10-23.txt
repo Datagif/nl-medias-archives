@@ -1,0 +1,141 @@
+---  
+![Médias](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/d060cdc3-f8d4-4207-b9bb-0b8ffda1ca6f.png)  
+La veille innovation et design media par Datagif  
+  
+| *|MC_PREVIEW_TEXT|*  
+---  
+---  
+1\. Logo Quel symbole pour #Election2020 ?  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/ae080430-ce40-4048-a938-6d376c0fa593.jpeg)  
+---  
+Pour les grandes echeances electorales, les sites media proposent une avalanche de formats… La plupart utilisent alors un marqueur graphique pour regrouper tous leurs contenus et marquer le coup, sur tous les supports.  
+  
+L'election presidentielle americaine est toujours un moment interessant a ce niveau. Certains medias utilisent le meme symbole dans la duree (le Washington Post a le meme etoile depuis 2012) ; d'autres changent chaque annee, avec plus ou moins de bon gout. On notera le logo de Fox News, qui trompete « Democracy 2020 » sans la moindre ironie.  
+---  
+|  -- [Lire notre thread](https://twitter.com/ff_ff/status/1316349758693310464?s=20)  
+---  
+---  
+2. Data Un recap efficace de l'epidemie de Covid-19  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/7abcdd0a-14c2-42d9-a72f-8322c7a58b0c.png)  
+---  
+Comme de nombreux medias, Le Figaro a produit une belle synthese visuelle qui revient sur la trajectoire de l'epidemie de Covid-19. Le long format est ici particulierement immersif, avec des animations 3D et un recit bien construit.  
+  
+Une initiative tres prometteuse, meme si l'on peine a comprendre pourquoi les codes graphiques habituels du Figaro ne sont pas du tout presents.  
+---  
+|  -- [Explorer le format](https://www.lefigaro.fr/fig-data/covid-19/) du Figaro  
+---  
+---  
+3\. Tracking Rien de mieux qu'une bonne liste pour couvrir la presidence Trump  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/3ca4d90e-0680-4b5f-bf1d-096648d3de66.png)  
+---  
+Les formats les plus « efficaces » pour couvrir la presidence Trump sont souvent ceux qui jouent sur l'effet visuel d'accumulation, pour exprimer l'ampleur inedite de sa corruption, son incompetence, sa grossierete...  
+  
+Quelques exemples :  
+-- [La liste des mensonges du president](https://www.washingtonpost.com/graphics/politics/trump-claims-database/?itid=lk_inline_manual_4) (Washington Post)  
+-- [La liste des mensonges du president, sur papier](https://twitter.com/HaleyAHackney81/status/879962816727404544?s=20) (New York Times)  
+-- [La liste des mensonges a propos du Covid-19](https://www.theatlantic.com/politics/archive/2020/10/trumps-lies-about-coronavirus/608647/) (The Atlantic)  
+-- [La liste des petites ou grandes choses que Trump a mis a mal](https://washingtonpost.com/graphics/2020/outlook/siskind-list-trump-norms/) (Washington Post)  
+-- [La liste des 75 actions anti-environnement](https://www.theguardian.com/us-news/ng-interactive/2020/oct/20/trump-us-dirtier-planet-warmer-75-ways) (The Guardian)  
+-- Bonus : [la base de donnees](https://www.bloomberg.com/features/trump-daily/) de Bloomberg pour filtrer tous ses articles sur Trump  
+---  
+|   
+---  
+---  
+4\. Pedago Rad s'attaque aux elections americaines  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/f161efaa-23c6-42bd-9445-dc6b224756a7.png)  
+---  
+À travers 5 videos pedagogiques et disons-le, bien accrocheuses, le media canadien Rad couvre des sujets basiques et des enjeux societaux plus precis (la defiance de la police a Chicago, les jeunes indecis...).  
+  
+Tout cela avec la signature du media : aller a la rencontre des individus et rendre accessible des sujets pointus pour un public jeune. Comme d'habitude, le design est aussi tres reussi : on accrocherait bien certaines illustrations dans notre salon.  
+---  
+|  -- Consulter [le dossier chez Rad](https://www.rad.ca/dossier/elections-americaines-2020)  
+---  
+---  
+5\. Narration Un long format qui coche toutes les cases  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/ea6ea4be-9ac3-4bb5-bdd7-cf726757dfa7.jpeg)  
+---  
+Le site d'info tech The Verge publie une longue enquete sur les promesses envolees du geant chinois de l'electronique Foxconn. La firme devait implanter une usinie et creer des milliers d'emplois aux Etats-Unis, sauf que rien ne s'est passe comme prevu…  
+  
+Une enquete ordinaire mais conçue habilement pour le web :   
+\- Une introduction visuelle en quelques phrases cles  
+\- Un resume des revelations assez tot dans la page  
+\- Des visuels et de documents factuels pour rythmer l'article  
+\- Une DA sur-mesure  
+---  
+|  -- [Lire l'enquete](https://www.theverge.com/21507966/foxconn-empty-factories-wisconsin-jobs-loophole-trump) de The Verge  
+---  
+---  
+6\. Biais La derniere experimentation de The Pudding  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/d4c10c16-5bad-407e-8620-e2def8f259b4.jpg)  
+---  
+Le principe est simple : The Pudding vous propose une photo aleatoire (en couleur ou en noir et blanc), et vous demande d'estimer l'annee du cliche. Spoiler : les photos sont souvent perçues comme plus vieilles lorsqu'elles sont montrees en noir et blanc, comme le prouvent les resultats affiches a la fin de l'experience.  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/2dc0084a-ea4f-423d-a241-add6ce1c7d24.jpg)  
+---  
+|  -- Faites l'experience [chez The Pudding](https://pudding.cool/2020/10/photo-history/)  
+---  
+---  
+7\. Explications Le casse-tete des bulletins de vote aux Etats-Unis  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/5146b868-18c8-47ee-b524-e7f7c713e846.jpeg)  
+---  
+Le New York Times a sorti un petit article visuel assez eclairant sur les problemes de depouillement qui pourraient avoir lieu lors des prochaines elections americaines.   
+  
+Problemes de signatures, de cases mal cochees : de nombreux bulletins de vote pourraient etre consideres comme invalides pour des motifs plutot douteux… Les illustrations animees du NYT sont tres parlantes et laissent entrevoir la gravite du phenomene.  
+---  
+|  -- [Explorer le recit visuel](https://www.nytimes.com/interactive/2020/10/19/opinion/election-vote-by-mail-rejections.html) du NYT  
+---  
+---  
+8\. Simulateur À 11 jours de l'election presidentielle americaine, faites vos jeux !  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/5bcfb674-ea66-4a20-a629-dd3e3683112a.jpg)  
+---  
+Le media FiveThirtyEight, tres porte sur les statistiques, a realise un outil permettant de vous preter au jeu des predictions. Repartissez les Etats entre Trump et Biden, pour voir les probabilites de victoire s'affiner au fur et a mesure pour chaque candidat. Une bonne façon de mesurer quels Etats peuvent faire la difference...  
+  
+Le Monde a egalement publie son propre simulateur, qui se focalise sur 15 Etats pivots. Un format efficace et plus accessible pour les lecteurs français.  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/5cf12935-06c7-444f-8e6d-277667472427.png)  
+---  
+|  -- [Distribuer les cartes](https://projects.fivethirtyeight.com/trump-biden-election-map/) chez[ ](https://projects.fivethirtyeight.com/trump-biden-election-map/)FiveThirtyEight  
+-- [Tester le simulateur](https://www.lemonde.fr/les-decodeurs/article/2020/10/22/simulez-le-resultat-de-l-election-presidentielle-americaine-dans-les-15-etats-strategiques_6057000_4355770.html) du Monde  
+---  
+---  
+9\. Portraits Un reportage photo efficace  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/15c19a65-34eb-43bc-9ea0-c43175529229.gif)  
+---  
+Dans ce beau format, le Washington Post nous plonge aux cotes des deux tiers d'Americains qui ne peuvent pas travailler a distance.  
+  
+Un article simple a base de photos, qui fonctionne particulierement bien grace a des effets de defilement au scroll.  
+---  
+|  -- [Decouvrir](https://www.washingtonpost.com/graphics/2020/road-to-recovery/24-hours-with-american-workers/) le reportage du Washington Post  
+---  
+---  
+10\. Coulisses L'image 3D la plus celebre de 2020  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/6dde5179-1ee8-4faf-a141-1487f8f853a7.png)  
+---  
+Le magazine Wallpaper nous fait decouvrir les coulisses de la creation de cette representation 3D reprise dans le monde entier.  
+  
+Alissa Eckert, l'illustratrice medicale a l'origine du visuel nous parle de son metier, au croisement de la science et du design, et des implications d'un projet si particulier. De quoi rappeler l'importance du visuel pour rendre tangibles des sujets complexes.  
+---  
+|  -- Lire [l'interview](https://www.wallpaper.com/design/design-emergency-alissa-eckert-designs-covid-19-illustration) d'Alissa Eckert   
+---  
+Vous recevez cet e-mail car vous êtes inscrit•e via le site   
+[medias.datagif.fr](https://medias.datagif.fr/)   
+  
+🏄‍   
+Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)   
+  
+📪  
+Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)   
+  
+✌️  
+Retrouvez la veille et les projets de Datagif sur   
+[Medium](https://medium.com/Datagif) \- [Twitter](https://twitter.com/datagif) \- [Instagram](https://www.instagram.com/datagif) \- [Datagif.fr](https://datagif.fr)   
+  
+👋   
+[Cliquez-ici](*|UNSUB|*) pour vous désabonner   
+  
+  
+*|IF:REWARDS|* *|HTML:REWARDS|* *|END:IF|*   
+  
+  
+---

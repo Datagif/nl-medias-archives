@@ -1,0 +1,132 @@
+---  
+![Médias](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/d060cdc3-f8d4-4207-b9bb-0b8ffda1ca6f.png)  
+La veille innovation et design media par Datagif  
+  
+| *|MC_PREVIEW_TEXT|*  
+---  
+---  
+1\. Classement Qui sont les celebrites les plus « interessantes » en 2020 ?  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/fe5ba880-c2af-4728-b542-80ad179bd803.png)  
+---  
+Voila une demande etonnante de la part du New York Times, qui sollicite ses lecteurs afin de classer la pertinence des celebrites. Ce n'est pas si futile quand on y pense : faut-il classer les nouveaux influenceurs avant ou apres les politiques ? Et quid des ecrivains reacs ? Qui raconte le mieux notre epoque ?  
+  
+Sur la forme, c'est assez genial, avec une mecanique de ranking inspire de la plateforme Reddit. Le vote est desormais clos, vous pouvez donc decouvrir le classement final.  
+---  
+|  -- [Decouvrez le classement ](https://www.nytimes.com/interactive/2020/09/14/style/most-famous-people-in-america.html#beyond-sports)sur le New York Times  
+---  
+---  
+2\. Refonte Un nouveau site ambitieux pour Usbek & Rica  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/2965fe82-0810-4857-beb0-9538cd8d4146.png)  
+---  
+Usbek & Rica, le « media qui explore le futur », a sorti recemment une nouvelle mouture de son site web. La strategie numerique a ete revue de fond en comble pour donner plus de place a l'interactivite et aux contributions externes.  
+  
+Le resultat se rapproche donc d'un « media-plateforme » gratuit, avec pele-mele :   
+-- un flux qui melange articles, tribunes et contenus de marque  
+-- une rubrique d'entraide intitulee « SOS »  
+-- des jeux-concours  
+-- le grand retour des commentaires...  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/c46964f5-ae2c-402e-856f-5aaa81188879.png)  
+---  
+|  -- [Decouvrir le site](https://usbeketrica.com/fr) d'Usbek&Rica  
+---  
+---  
+3\. Visualisations Les medias americains mettent en images les feux de foret de la cote Ouest  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/b887983c-d8e6-4f14-8922-bd2c264cc279.gif)  
+---  
+Pour couvrir les feux de foret qui ravagent le pays, les medias americains ont realise des mises en scene visuelles assez percutantes.  
+  
+Reuters mise ainsi sur des vues satellites, le New York Times sur un reportage photo, tandis que le Los Angeles Times privilegie des data visualisations. Des formats complementaires pour temoigner des degats causes au niveau individuel et a l'echelle du pays.  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/1b40159c-7a8b-47c4-8130-6513f913228f.gif)  
+---  
+|  -- Explorer [les data visualisations](https://www.latimes.com/projects/california-fires-damage-climate-change-analysis/) du LAT  
+-- Decouvrir [le reportage](https://graphics.reuters.com/CALIFORNIA-WILDFIRES/xegvboxrypq/index.html) de Reuters  
+-- Decouvrir le [reportage ](https://www.nytimes.com/interactive/2020/09/15/magazine/climate-crisis-migration-america.html) du NYT  
+---  
+---  
+4\. Outil The Markup cree un outil pour detecter les trackers  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/b47a77f6-2c2e-416e-9166-c21574a85324.png)  
+---  
+On vous avait deja parle du site d'investigation The Markup, tres en pointe sur les question de technologie et de surveillance. Le media publie des enquetes de qualite… mais pas seulement ! Il vient ainsi de sortir un outil a destination du grand public, qui permet de scanner n'importe quel site web et de detecter les trackers en tout genre. Une façon maline de montrer son expertise et son utilite.   
+  
+(Attention si vous testez l'outil : les resultats peuvent etre fausses pour les sites europeens, grace a notre reglementation RGPD plus stricte).  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/e32c09f5-2e76-4708-b8d8-00687bf98b5d.png)  
+---  
+|  [-- Decouvrir l'outil Blacklight](https://themarkup.org/blacklight/)  
+---  
+---  
+5. Making-of Buzzfeed revele l'affaire 'FinCEN'. Le making-of est tout aussi interessant que les resultats  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/dbf7fae3-ca8c-4090-ac06-3b363194f74a.jpg)  
+---  
+L'affaire « FinCEN » secoue en ce moment le monde de la finance. BuzzFeed News a recolte des milliers de documents compromettants et publie une longue enquete. Le media a egalement lance un podcast dedie a l'affaire. Ideal si vous ne voulez pas tout lire.  
+  
+Mais ce qui a surtout retenu notre attention, c'est l'article qui raconte les coulisses de l'enquete. L'enorme volume de documents est bien decrit, en le comparant par exemple au nombre de mots dans des romans celebres. La demarche permet surtout de mieux comprendre le caractere inedit de cette affaire et de valoriser le travail journalistique.  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/e955e83a-6ab6-4bf0-b47f-f247a2cecce3.jpg)  
+---  
+|  -- [L'enquete avec son intro tl;dr](https://www.buzzfeednews.com/article/jasonleopold/fincen-files-financial-scandal-criminal-networks?bftwnews&utm_term=4ldqpgc)  
+-- [Le podcast](https://www.buzzfeednews.com/article/buzzfeednews/first-episode-fincen-files-podcast)  
+-- [L'article making-of](https://www.buzzfeednews.com/article/jsvine/fincen-files-explainer-data-money-transactions)  
+---  
+---  
+6\. Viralite Le New York Times fait des filtres pour Instagram  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/65ad0c8d-1d6e-462a-8e00-7ef81e1c5c15.jpg)  
+---  
+Le partenariat entre le New York Times et Facebook/Instagram s'accroit. Le media va exploiter l'outil Spark AR de la plateforme afin de creer des fameux « filtres » en realite augmentee. Ils seront bien sur lies a l'actualite, pour projeter les internautes dans des scenes immersives. Par exemple : visualiser la pollution, les particules des feux californiens ou bien feter l'anniversaire du droit de vote des femmes aux Etats-Unis.  
+  
+L'interet pour le NYT : se distinguer de la concurrence sur les reseaux sociaux et rayonner, puisque les filtres sont accessibles a n'importe quel utilisateur d'Instagram. Une nouvelle façon plutot maline de diffuser de l'information et de sensibiliser des nouveaux publics...  
+---  
+|  -- [Tester les filtres Instagram](https://www.instagram.com/nytimes/) sur l'onglet dedie   
+-- Plus d'infos [chez Axios](https://www.axios.com/new-york-times-facebook-augmented-reality-0973fa9e-ffcc-4a68-91ec-ffb77d757745.html)  
+---  
+---  
+7\. Storytelling Le vaccin en dessins  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/3fe6161d-7ac5-414e-8fd9-96004032dbf0.png)  
+---  
+Reuters Graphics publie un article interessant a base de dessins animes pour expliquer le fonctionnement du virus Covid-19 et des differents types de vaccin possibles. Le virus y est represente comme un personnage mi-humain mi-alien.  
+  
+Une narration efficace, meme si on se prendrait presque d'amitie pour ce virus trop mignon…  
+---  
+|  -- [Lire l'article](https://graphics.reuters.com/HEALTH-CORONAVIRUS/VACCINE/yzdpxqxnwvx/index.html) de Reuters  
+---  
+---  
+8\. Plateformisation L'application Radio France s'ouvre a Arte Radio et RFI  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/fde87863-e576-41cc-b593-dac77baec732.jpeg)  
+---  
+Nouveaute sur l'application Radio France qui agrege desormais des contenus d'Arte Radio et RFI. Une belle collaboration qui permet a Radio France d'enrichir ses contenus et renforcer son statut de reference, tout en faisant rayonner ses partenaires. Une strategie de « plateformisation » qu'on observe de plus en plus chez les medias en ligne...  
+---  
+|  -- [Telecharger l'application](https://www.radiofrance.fr/application-mobile-radio-france) Radio France  
+---  
+---  
+9\. Elections Les reseaux sociaux, toujours plus incontournables  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/4766c83f-c4b9-456f-9bab-4c56f886b6a0.png)  
+---  
+Ce n'est pas nouveau : les grandes plateformes sont de plus en plus active lors des elections, pour inciter les citoyens a aller voter, ou meme pour leurs delivrer des infos de base. Google et Facebook le faisaient deja tres bien ; desormais c'est Instagram, Snapchat (et bientot TikTok?) qui s'y mettent aux Etats-Unis… Une enieme façon de court-circuiter les medias mainstream.  
+---  
+|  --[ Decouvrir le dispositif electoral](https://about.fb.com/news/2020/08/launching-voting-information-center/) d'Instragram et Facebook  
+-- [Lire l'analyse d'Axios](https://www.axios.com/snapchat-400000-people-registered-vote-ae9064a1-72c0-4eef-924d-d1e0d7bc95f2.html) sur Snapchat  
+---  
+Vous recevez cet e-mail car vous êtes inscrit•e via le site   
+[medias.datagif.fr](https://medias.datagif.fr/)   
+  
+🏄‍   
+Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)   
+  
+📪  
+Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)   
+  
+✌️  
+Retrouvez la veille et les projets de Datagif sur   
+[Medium](https://medium.com/Datagif) \- [Twitter](https://twitter.com/datagif) \- [Instagram](https://www.instagram.com/datagif) \- [Datagif.fr](https://datagif.fr)   
+  
+👋   
+[Cliquez-ici](*|UNSUB|*) pour vous désabonner   
+  
+  
+*|IF:REWARDS|* *|HTML:REWARDS|* *|END:IF|*   
+  
+  
+---

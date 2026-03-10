@@ -1,0 +1,165 @@
+*|MC_PREVIEW_TEXT|*  
+  
+͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿
+
+| | [Ouvrir dans le navigateur](*|ARCHIVE|*)  
+---  
+| ![Médias](https://newsletter.datagif.fr/ext/datagif/img/medias.png)  
+---  
+La veille innovation et design média par DATAGIF  
+  
+| |   
+---  
+  
+| | | Bonjour 👋 Alors, avez-vous prevu tous vos cadeaux ? Il vous manque des idees ? Ces medias vous proposent [de belles grosses listes](https://mailchi.mp/datagif/medias-newsletter-5911434?e=\[UNIQID\]) d'idees 🎁  
+  
+Pour cette derniere edition de l'annee, on a rassemble trois grands sujets traites par les medias de maniere interessante :  
+• Les recap de l'annee (classique et efficace 👌)  
+• Noel (oh oh oh)  
+• La guerre Hamas - Israel (qui reste fortement presente)  
+• Et bonus : a la fin de cette newsletter, la selection medias de l'equipe ✨  
+  
+Bonne lecture et bonnes fetes !  
+---  
+  
+| |   
+---  
+  
+| | | 
+
+## ⏪ Retour sur 2023
+
+##  Le mois de decembre est propice aux recaps en tout genres et l'exercice est souvent l'occasion de valoriser le travail journalisitique accompli  
+  
+---  
+  
+| | | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/5a297482-7b51-b0bf-74ec-67ba6317dcde.jpg)  
+---  
+  
+| | En voici une selection non exhaustive a consulter au coin d'une cheminee :  
+  
+📊 2023 en interactions : le Philadelphia Inquirer a rassemble tous ses formats originaux [dans un tres beau diapo / sommaire](https://www.inquirer.com/news/inq2/year-in-interactives-best-visual-stories-20231219.html) ; on vous recommande egalement les resultats de la [Pudding Cup](https://pudding.cool/pudding-cup/) : un appel a projets dataviz avec un palmares tres cool (dont une [comparaison visuelle](https://mag-text.vercel.app/) des unes de Vogue)  
+  
+🙋‍♀️ 2023 en portraits : le Guardian publie son traditionnel [top 100](https://www.theguardian.com/football/ng-interactive/2023/dec/19/the-100-best-male-footballers-in-the-world-2023) des joueurs de foot : un gabarit bien rentabilise depuis qu'il existe ; cote NYT, ce sont[ les morts notables de l'annee](https://www.nytimes.com/interactive/2023/obituaries/notable-deaths.html) qui sont reunies avec a chaque fois un lien vers l'article necro ; chez Forbes, en parallele du classique "30 under 30", ce formidable article du [mur de la honte avec les 10 personnes les moins fiables](https://www.forbes.com/sites/forbesunder30team/2023/11/28/hall-of-shame-the-10-most-dubious-people-ever-to-make-our-30-under-30-list/?sh=a397f0973798) a etre apparues dans le top du media : quelle ironie !  
+  
+🎨 2023 en introspection : le Guardian revient [en 6mn16](https://www.theguardian.com/media/ng-interactive/2023/dec/19/how-we-covered-2023) sur sa couverture de cette annee particuliere (un bon argument pour renforcer l'adhesion au media par son audience). The Verge liste ses productions visuelles avec de tres belles [illustrations](https://www.theverge.com/c/24006724/2023-art-illustrations-photography-verge-roundup), idem chez le [Washington Post](https://www.washingtonpost.com/lifestyle/interactive/2023/favorite-washington-post-illustrations-2023/).  
+  
+👀 2023 en edito : on est ultra fan de [la "jealousy list" de Bloomberg](https://www.bloomberg.com/features/2023-jealousy-list/), qui revient chaque annee sur les articles lus ailleurs que le media aurait aime publier, avec chaque annee un effort de DA sur cette grosse liste ; The Verge revient dans un gros dossier sur la decadence progressive de Twitter depuis le rachat de Musk ([allez le voir rien que pour les gifs](https://www.theverge.com/c/23972308/twitter-x-death-tweets-history-elon-musk)). D'ailleurs, six mois apres que NPR ait quitte Twitter, [le constat est sans appel](https://niemanreports.org/articles/npr-twitter-musk/) : aucun effet ressenti sur le trafic. Ouch.  
+---  
+---  
+  
+| |   
+---  
+  
+| | | 
+
+## 🎄 Noel
+
+## Sapins excentriques, cookies exotiques et impact energetique  
+  
+---  
+  
+| | | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/b298cee8-a776-4058-27e0-4ccfd0c233a9.jpg)  
+---  
+  
+| | C'est bientot l'heure ou le bon vieillard descend et on a concocte de quoi reorienter les debats familiaux qui s'enliseraient apres 3 heures de repas :  
+  
+🎄 Un [long format](https://www.washingtonpost.com/travel/interactive/2023/unique-christmas-trees-us/) du Washington Post proposant une galerie 3D exposant les 9 sapins les plus originaux d'Amerique (dont un de 10 metres tout en lego 🧱)  
+  
+🍪 Les cookies c'est [bientot la fin](https://www.newsletter.mediarama.io/p/fin-des-cookies-tiers-il-est-temps) pour nos sites web, mais si vous preferez les vrais, on vous laisse decouvrir plus de 300 recettes recensees par le WaPo dans ce [guide interactif filtrable](https://www.washingtonpost.com/food/interactive/2023/cookie-recipes-holiday/). Nom nom nom !  
+  
+🔋 [Quel est l'impact carbone des fetes ?](https://www.lemonde.fr/les-decodeurs/article/2023/12/10/quel-est-l-impact-carbone-des-fetes-sapin-buche-cadeaux-ou-se-cache-le-co_6204962_4355770.html#) C'est la question que se posent Les decodeurs du Monde dans cette data-visualisation un poil culpabilisante mais vous permettant de decouvrir notamment que le livre est le cadeau le plus ecoresponsable et que, environnementalement, il vaut mieux picoler que de reprendre de la buche glacee.  
+---  
+---  
+  
+| |   
+---  
+  
+| | | | ![](https://newsletter.datagif.fr/ext/datagif/img/mail.png)  
+---  
+Bienvenue dans cette newsletter 👋  
+Nous sommes [une agence de conseil et design](http://datagif.fr/) qui travaille sur des sujets de design d'information. Pour suivre notre veille, un seul bouton :  
+| [Ça part 🔥](https://datagif.fr/newsletter-medias/)  
+---  
+  
+| |   
+---  
+  
+| | | 
+
+## 🔍 Enquete
+
+## Le Reuters et l'AFP publient des enquetes complementaires sur la mort du journaliste Issam Abdallah  
+  
+---  
+  
+| | | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/6382a066-6be6-93e4-0b22-54d8600edb4e.jpg)  
+---  
+  
+| | Le 13 octobre dernier, deux frappes successives ont touche un groupe de journalistes venus couvrir les affrontements transfrontaliers entre l'armee israelienne et des groupes armes dans le sud du Liban, causant six blesses et la mort d'Issam Abdallah, journaliste de l'agence Reuters. Des lors, les interrogations emergent : qui est a l'origine de ces tirs ? Les journalistes etaient-ils visibles et identifiables ? Voire, etaient-ils vises ?  Plusieurs medias ont mene l'enquete, dont Reuters, et l'AFP aux cotes du collectif d'enqueteurs independants Airwars, specialise dans l'impact des conflits sur les civils. 
+
+  * Le premier a publie un long format, [reconstituant le recit detaille de la tragedie](https://www.reuters.com/graphics/ISRAEL-LEBANON/JOURNALIST/akveabxrzvr/index.html). Sur la base des differentes photos et videos prises sur les lieux par differents medias, Reuters contextualise les evenements grace a une carte et des images annotees minute par minute. L'enquete est egalement completee par une trentaine de temoignages cles. 
+  * Du cote de l'AFP, l'enquete et le recit sont semblables mais se presentent differemment : [les differentes images sont mises les unes en regard des autres](https://showcase.afp.com/pages/journalistes-tue-et-blesses-au-liban-pourquoi-l-enquete-de-l-afp-designe-l-armee-israelienne_609/), permettant une visualisation 360° du deroule des faits. 
+
+Notons que l'AFP a declare que les preuves rassemblees par Reuters confirmaient sa propre analyse de l'incident.  
+---  
+---  
+  
+| |   
+---  
+  
+| | | 
+
+## 💛 Gros likes
+
+## Toute l'equipe de Datagif a rassemble quelques lectures que chacun*e affectionne particulierement  
+  
+---  
+  
+| | | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/37467299-d3c7-2693-b2fa-44d57b44ef40.jpg)  
+---  
+  
+| | 🎧 Jonas suit de pres [la newsletter](https://radiolab.org/newsletter) de Radiolab, qui donne du contexte a ses productions de podcasts. Samuel quant a lui ne manque aucun episode du [Rebond](https://open.spotify.com/show/4WzlokfcU9Gudnhx8Rvs6o?si=995243a0bc86416c), ou Enzo Lefort invite des athletes pour parler de leur quotidien. De son cote Lucie suit le podcast "[Anatomie d'un conflit](https://www.radiofrance.fr/franceinter/podcasts/anatomie-d-un-conflit)" cree par France Inter qui retrace les origines et les grandes etapes du conflit israelo-palestinien en revenant sur des dates cles.  
+  
+📖 Lucie s'est plongee dans la revue [Kometa](https://kometarevue.com/), depuis son lancement, avec un regard deporte enrichissant, moins occidental. Charly affectionne la revue [Teque](https://revue-teque.fr/), au format livre de poche qui regroupe des essais sur les nouvelles technologies et leurs rapports avec nos vies. Gaetan aime bien flaner sur [Rad](https://ici.radio-canada.ca/info/rad), le laboratoire journalistique de Radio Canada ; car comme son nom l'indique, c'est un labo avec plein d'idees testees regulierement. Aurore aime bien offrir la publication [Forets](https://lareleveetlapeste.fr/produit/forets/) de La Releve et la Peste, tres cool sur le fond et la forme.  
+  
+📬 Vous ne savez pas quoi manger ? Abonnez-vous a [Belly](https://belly-media.com/newsletter-belly-media/), Aurore est conquise. Vous voulez prendre le rire au serieux ? Charly vous recommande la newsletter [HAHA](http://revuehaha.fr/) avec un systeme de club payant qui ajoute du contenu exclusif, encore assez rare en France. Un peu comme [Le Pave Numerique](https://lepavenumerique.substack.com/) dont Gaetan ne manque aucun numero : une newsletter tech et numerique tres editorialisee (un gros plus) qui propose une formule gratuite et des contenus payants.   
+---  
+---  
+  
+| |   
+---  
+  
+| | | | ![](https://newsletter.datagif.fr/ext/datagif/img/reseaux.png)  
+---  
+Retrouvez la veille et les projets de Datagif sur  
+[Medium](https://datagif.medium.com/) • [X](https://twitter.com/datagif) • [Bluesky](https://bsky.app/profile/datagif.bsky.social) • [Instagram](https://www.instagram.com/datagif/) • [Linkedin](https://www.linkedin.com/company/datagif/) • [Datagif.fr](https://datagif.fr/)  
+  
+  
+| |   
+---  
+  
+| |   
+---  
+  
+| | C'est aussi l'occasion pour nous de vous partager notre bilan : 22 editions cette annee, vous etes a chaque envoi toujours plus nombreux*ses a nous lire, avec un taux d'ouverture tres bon qui reste stable : merci ! 🙌 Cette annee nous avons egalement mis en ligne notre page [Liens](https://datagif.fr/liens/) : tous les bons liens de la newsletter depuis sa creation et vos retours sont tres motivants.   
+  
+Et comme vous le savez, cette newsletter est un aperçu de la veille que nous effectuons pour nos clients et leurs projets. [Datagif](https://datagif.fr/) est une agence de design d'information, qui travaille sur des projets d'identite, de conception et de design de produits numeriques (sites, newsletters, reseaux sociaux...). Nous pouvons vous accompagner dans vos projets selon vos besoins, n'hesitez pas a simplement repondre a ce mail. Bonnes fetes ! 🎄  
+---  
+  
+| | | ![](http://gallery.mailchimp.com/653153ae841fd11de66ad181a/images/transparent.gif)  
+---  
+  
+| |   
+---  
+  
+| | Vous recevez cet e-mail car vous êtes inscrit•e via le site [datagif.fr](https://datagif.fr/newsletter-medias/)Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)  
+👋 [Cliquez-ici](*|UNSUB|*) pour vous désabonner  
+---  
+  
+| | DATAGIF  
+---  
+  
+| |   
+---

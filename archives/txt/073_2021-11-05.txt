@@ -1,0 +1,156 @@
+---  
+![Médias](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/d060cdc3-f8d4-4207-b9bb-0b8ffda1ca6f.png)  
+La veille innovation et design media par Datagif  
+  
+| *|MC_PREVIEW_TEXT|*  
+---  
+---  
+1\. COP26 L'occasion parfaite pour faire le plein de formats interessants !  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/c48c01ef-c407-776c-397b-a67284c4be84.jpg)  
+---  
+Quelques formats vulgarisent et aident a mieux saisir les enjeux  :  
+  
+⬆️ Bloomberg Green [recapitule chaque jour sur Instagram](https://www.instagram.com/p/CV1JniNB_zn/) les points positifs, negatifs ou neutres des echanges  
+  
+🌍 France Info [recapitule les differents interets des pays](https://www.francetvinfo.fr/monde/environnement/cop26/cop26-sceptiques-jusqu-au-boutistes-submerges-on-vous-presente-les-six-grandes-familles-de-pays-des-negociations-climatiques_4787445.html), associee a une DA plutot sympa  
+  
+⏳ Bloomberg [presente une chronologie des evenements passes](https://www.bloomberg.com/graphics/2021-emissions-turning-point/?srnd=green) en s'appuyant sur une dataviz interactive, et propose des pistes pour s'en sortir  
+  
+⚖️ Le Washington Post [permet de comparer les faits](https://www.washingtonpost.com/climate-environment/interactive/2021/climate-pledges-cop26/) d'un coup d'oeil  
+  
+🖍️ Le Financial Times [veut vous faire dessiner des graphiques](https://www.ft.com/content/e9884cee-bb85-4fae-9ae9-7d3edf26c35d?shareType=nongift), un dispositif particulierement efficace  
+---  
+[![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/1bc9879f-b597-522b-2656-ded81d96e459.gif)](https://www.ft.com/content/e9884cee-bb85-4fae-9ae9-7d3edf26c35d?shareType=nongift)  
+---  
+|  D'autres enfin, plus immersifs, se focalisent sur des sujets en particuliers :  
+  
+🐒 Reuters [denonce la deforestation](https://graphics.reuters.com/GLOBAL-DEFORESTATION/RAINFOREST/klvykzrbxvg/index.html) a grands coups d'illustrations 3D et de data-visualisation  
+  
+🌊 Pour terminer, plongee en immersion avec France Info qui [emploie son recent format de reportages photos](https://www.francetvinfo.fr/monde/environnement/montee-des-eaux/en-france-la-crise-climatique-est-la-immersion-dans-ces-villes-menacees-par-la-monteedeseaux_4808679.html) sur la montee des eaux  
+---  
+---  
+2\. Accessibilite Imaginer le podcast sans son  
+|  [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/5db52bbc-4bce-7da9-e2b8-814e3c66b740.jpg)](https://voxmedia.github.io/vc-tracfone-more-than-this/)  
+---  
+Vox a decide d'accompagner chaque episode de son nouveau podcast _More Than This_ d'une retranscription immersive, pour proposer une alternative plus allechante qu'un simple bloc de texte a celles et ceux qui ne peuvent pas -- ou ne veulent pas -- l'ecouter.  
+  
+Avec un jeu sur la typographie pour distinguer les voix, une disposition sur la page qui reprend le rythme du dialogue, et une direction artistique soignee, l'experience de lecture cherche a restituer les emotions et l'univers de la version audio. Un bel effort pour rendre le podcast plus accessible et le faire vivre intelligemment dans un monde de texte.  
+---  
+|  -- [Voir](https://voxmedia.github.io/vc-tracfone-more-than-this/) sur le site de Vox  
+---  
+---  
+3\. Enquete Une nouvelle immersion dans l'assaut du Capitole  
+|  [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/1898c38d-aec4-23e4-e8a0-a035e44efbec.gif)](https://www.washingtonpost.com/politics/interactive/2021/jan-6-insurrection-capitol/)  
+---  
+The Washington Post sort son enquete detaillee sur les evenements du Capitole de janvier dernier avec un long format segmente en trois parties : Avant, Pendant et Apres.  
+  
+Le format s'ouvre avec un recapitulatif efficace des evenements et des protagonistes impliques. Puis chaque segment s'articule sur une chronologie toujours presente a l'ecran, rendant le travail journalistique apprehensible dans son ensemble.   
+  
+Malgre la densite d'information delivree, le format reussit a rester lisible grace aux efforts d'UX qui facilitent la navigation et synthetisent les informations cles avec des "_keys findings_ ".  
+---  
+[![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/ad506ee0-8022-ed0f-819e-3a23eb9fb0ef.jpg)](https://www.washingtonpost.com/politics/interactive/2021/jan-6-insurrection-capitol/)  
+---  
+|  -- [Se plonger](https://www.washingtonpost.com/politics/interactive/2021/jan-6-insurrection-capitol/) dans le travail du WaPo  
+---  
+---  
+4\. Évenement L'Équipe s'echauffe pour les Jeux de 2024  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/d3115869-083d-559d-7481-a5a339051b62.png)  
+---  
+Pour celebrer les J-1000 avant le lancement des Jeux olympiques en France, L'Equipe voit les choses en grand avec un numero collector exceptionnel en noir et blanc et une maquette dans l'esprit de [celle de 1924](https://unes-et-photos.lequipe.fr/unes/photo/l-equipe/1924-06-16) (on apprecie les bords superieurs arrondis des visuels).  
+  
+Cette serie de 20 articles thematiques mixant histoire et preparation des jeux de Paris a egalement ete publiee sur le site.  
+---  
+|  -- Decouvrir le dispositif [sur le site de l'Équipe](https://explore.lequipe.fr/Tous-sports/Article/Pierre-de-coubertin-honore-aux-jo-1924-et-ecarte-apres/1293174)  
+---  
+---  
+5\. Newsletters Sortir de sa bulle  
+|  [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/355b866e-996d-6ae7-9e99-2c2f3051f229.jpg)](https://thesample.ai/)  
+---  
+L'outil The Sample vous propose de decouvrir de maniere quotidienne de nouvelles newsletters a partir de vos centres d'interets.  
+  
+À l'inscription, il suffit de selectionner les thematiques qui vous interessent pour recevoir chaque jour une nouvelle newsletter que l'on peut noter pour ameliorer les recommandations.  
+  
+Efficace, l'outil nous permet ensuite de s'inscrire en un clic a la newsletter reçue ! Une sorte d'offre decouverte semi-guidee, qui laisse pas mal de place aux bonnes surprises.  
+---  
+|  -- [Decouvrir](https://thesample.ai/) The Sample  
+---  
+---  
+6\. FAQ On est decidement toujours aussi fans de ce format  
+|  [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/92296a80-2f3e-d1c9-cbb4-c829b1f6f6b8.jpg)](https://projects.fivethirtyeight.com/covid-19-updates/)  
+---  
+Five Thirty Eight sort une nouvelle FAQ sur le Covid pour nous aider a prendre des decisions au quotidien en se basant sur les etudes scientifiques.  
+  
+Bien illustree, contextualisee avec la date de la derniere mise a jour, des questions SEO-compatibles avec renvois vers le site et le tout chapitre, bref, toutes les bonnes pratiques reunies en un seul format !   
+---  
+|  -- [Explorer](https://projects.fivethirtyeight.com/covid-19-updates/) la FAQ de Five Thirty Eight  
+---  
+---  
+7\. Story Par un enchainement de titres de films, le New York Times publie le soir d'Halloween une petite histoire qui fait peur en story Instagram : malin !  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/f8e73ade-68c9-61fe-057c-f16424385e61.jpg)  
+---  
+---  
+8\. Complotisme Le Guardian confronte les theories du complot a la sorcellerie  
+|  [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/07b93ddb-e6b5-076e-8497-4acf3c02a082.jpg)](https://www.theguardian.com/world/ng-interactive/2021/oct/26/why-people-believe-covid-conspiracy-theories-could-folklore-hold-the-answer)  
+---  
+Dans un article tres pragmatique qui explore la theorie du complot Bill Gates + 5G + Covid-19 = 🤯, le Guardian tire un fil plutot original : la sorcellerie. Points communs et mecaniques de croyance similaires sont illustres par des schemas que l'on pourrait penser tires d'un panneau de liege. Tout cela pour eduquer habilement aux dangereuses ficelles des theories du complot.   
+---  
+[![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/4c1dbc6d-f7c1-d3e5-a924-f0eb38fe0aea.jpg)](https://www.theguardian.com/world/ng-interactive/2021/oct/26/why-people-believe-covid-conspiracy-theories-could-folklore-hold-the-answer)  
+---  
+|  -- Explorer ce format original [chez le Guardian](https://www.theguardian.com/world/ng-interactive/2021/oct/26/why-people-believe-covid-conspiracy-theories-could-folklore-hold-the-answer)  
+---  
+---  
+9\. Intro Pour illustrer son article dedie aux panneaux de jardins qui fleurissent aux USA suite a une creation devenue virale, le NYT propose un generateur de slogans ironiques prets a l'emploi. Faites votre choix !  
+|  [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/9f8086f8-abdf-8ef0-456f-c5c9818c3c05.jpg)](https://www.nytimes.com/2021/10/29/arts/in-this-house-yard-signs.html)  
+---  
+|  -- [Generez votre panneau de jardin](https://www.nytimes.com/2021/10/29/arts/in-this-house-yard-signs.html)  
+---  
+---  
+10\. Mobile Une nouvelle application plus personnalisee pour L'Orient-Le Jour  
+|  [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/b1b2d830-b018-9b84-4774-29b223439baa.jpg)](https://www.lorientlejour.com/app)  
+---  
+Apres la refonte du site internet, notre collaboration avec le premier media libanais francophone L'Orient-Le Jour se poursuit avec la refonte de l'application mobile. L'accent a ete mis sur une experience personnalisee, tant par les sujets que par les possibilites qu'offrent une application native, comme les notifications personnalisables. Un travail qui s'appuie sur la reflexion et le design menes par l'agence quelques mois auparavant pour la refonte du site.   
+---  
+|  -- Decouvrir et [installer l'app (iOS ou Android)](https://www.lorientlejour.com/app)  
+---  
+---  
+11\. Recrutement Datagif recrute un.e chef.fe de projet web UX  
+|  [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/9f3f3069-1021-edc0-73c9-32a00eb7c6bd.jpg)](https://datagif.fr/job/ux-projet-web-cdi/)  
+---  
+Le coeur du metier est d'apporter de l'intelligence aux projets :  
+  
+👂 en comprenant les enjeux d'un client  
+💡 en alimentant la reflexion par du benchmark et du conseil sur les directions possibles  
+📐  en realisant des recherches UX puis les parcours utilisateurs  
+👀 en contribuant a l'ensemble des productions UX de l'agence  
+🧶 en etant garant de la bonne coherence de l'idee au fil du projet.  
+  
+Si vous avez une experience solide en UX pour exprimer vos idees et voulez suivre un projet de bout en bout, cette annonce vous correspond.  
+---  
+|  -- [Consulter l'annonce](https://datagif.fr/job/ux-projet-web-cdi/) (et la passer autour de vous  🙌)   
+---  
+---  
+Allez, meme si tous les chemins menent a Rome, on se revoit plus probablement dans la prochaine edition ! 👋  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/1b088274-2c7b-9cec-205e-50ee2a64b5e2.gif)  
+---  
+Vous recevez cet e-mail car vous êtes inscrit•e via le site   
+[medias.datagif.fr](https://medias.datagif.fr/)   
+  
+🏄‍   
+Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)   
+  
+📪  
+Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)   
+  
+✌️  
+Retrouvez la veille et les projets de Datagif sur   
+[Medium](https://medium.com/Datagif) \- [Twitter](https://twitter.com/datagif) \- [Instagram](https://www.instagram.com/datagif) \- [Datagif.fr](https://datagif.fr)   
+  
+👋   
+[Cliquez-ici](*|UNSUB|*) pour vous désabonner   
+  
+  
+*|IF:REWARDS|* *|HTML:REWARDS|* *|END:IF|*   
+  
+  
+---

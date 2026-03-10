@@ -1,0 +1,206 @@
+|  | [Ouvrir dans le navigateur](*|ARCHIVE|*)  
+---  
+| ![Médias](https://newsletter.datagif.fr/ext/datagif/img/medias.png)  
+---  
+La veille innovation et design média par DATAGIF  
+  
+|  | *|MC_PREVIEW_TEXT|*  
+---  
+  
+|  |   
+---  
+  
+|  |  | [Datagif recrute](https://datagif.fr/job/chef-fe-de-projet-web-conseil-cdi/) ! Vous etes interesse.e ? Vous connaissez quelqu'un qui pourrait l'etre ? On compte sur vous pour transferer, relayer, faire savoir : nous avons hate de rencontrer la prochaine personne qui apportera son savoir-faire a l'equipe 🙌  
+---  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 1\. IA
+
+## Un amour de Chat GPT  
+  
+---  
+  
+|  |  | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/973706d1-18c2-1325-e74e-5dc113e73e23.jpg)  
+---  
+  
+|  | Dans notre numero [#99](https://datagif.fr/newsletter-medias/?campaign_id=a71b968d9f), on vous avait parle du [format interactif](https://www.washingtonpost.com/technology/interactive/2022/ai-image-generator/) du WaPo sur Dall-E. Le New York Times leur repond avec une interface similaire mais de façon exclusivement ludique : [cette page](https://www.nytimes.com/interactive/2023/02/13/opinion/valentines-day-chatgpt.html) vous permet de generer une carte de Saint-Valentin grace a l'agent conversationnel Chat GPT. L'objectif ici est clairement plus viral que didactique et nous rappelle la mode tres _web 1.0_ des generateurs de messages type [Pipotron](http://www.lepipotron.com/), mais survitaminee a l'IA. De notre cote, on vous envoie donc [cette carte](https://www.nytimes.com/interactive/2023/02/13/opinion/valentines-day-chatgpt-share.html?dataset=2&index=405 ) « platonique, a destination d'un beguin non partage, dans le style d'un mari Instagram ».  
+---  
+|  | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[Envoyer](https://www.nytimes.com/interactive/2023/02/13/opinion/valentines-day-chatgpt.html) votre carte de Saint-Valentin a votre amoureux*se  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 2\. Infolettre
+
+## Vous n'etiez pas au festival de l'infolettre ? Dommage ! Seance de rattrapage.  
+  
+---  
+  
+|  |  | ![Festival de l'infolettre - 2023 - Photo : Creatis](https://mcusercontent.com/42d1f60e448215132ba30db60/images/844b0872-a544-3d17-1324-fbf052264dd0.jpg)  
+---  
+  
+|  | Tout debut fevrier s'est tenu le premier [festival de l'infolettre](https://www.instagram.com/reel/Cor_u8doCZr/?igshid=YmMyMTA2M2Y=) organise par l'accelerateur medias Creatis au Ground Control, a Paris. Tables rondes, pitchs, conferences : tout etait pense pour valoriser et democratiser ce formidable format qu'est l'infolettre.  
+  
+Gaetan, directeur des projets et de la strategie chez Datagif, a tenu le micro pendant une heure pour assener la bonne parole en matiere de prototypage :   
+• tester, beaucoup, tout le temps  
+• mais pas que le design : son positionnement, son audience cible...  
+• observer ce qui existe par ailleurs et pas seulement en newsletters  
+• ne pas hesiter a questionner ce que l'on fait et faire evoluer ce qui ne fonctionne pas  
+• un produit n'est jamais reellement fini : il evolue au cours de sa vie  
+---  
+|  | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[Si vous souhaitez organiser une masterclass sur le sujet dans votre redaction, contactez-nous !](https://datagif.fr/contact/)  
+  
+|  |   
+---  
+  
+|  |  |  | ![](https://newsletter.datagif.fr/ext/datagif/img/mail.png)  
+---  
+Vous decouvrez cette infolettre suite a un transfert ? Bienvenue ! Et n'hesitez pas a la transmettre a votre tour 🙌  
+| [S'inscrire a la newsletter](https://datagif.fr/newsletter-medias/)  
+---  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 3\. Illustration
+
+## L'impressionnant long format illustre de Reuters sur le seisme en Turquie et en Syrie  
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/9126c42d-9c0e-4c2a-3709-73b8eea29e65.jpg)](https://www.reuters.com/graphics/TURKEY-QUAKE/SEARCH/klpygdjoapg/)  
+---  
+  
+|  | Le seisme de magnitude 7,8 qui a frappe le centre de la Turquie et le nord-ouest de la Syrie debut fevrier s'avere le plus meurtrier de la decennie. Reuters s'est empare de cette actualite tragique pour proposer un long format illustre. L'objectif ? Comprendre comment les equipes de recherche et de sauvetage tentent de trouver les survivants dans les zones touchees par la catastrophe. Les (tres belles) illustrations commentees qui accompagnent le texte mettent en lumiere le processus ultra methodique mis en place, indispensable pour assurer le sauvetage rapide des rescapes qui ne peuvent survivre plus de quelques jours sous les decombres.  
+---  
+|  | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[Decouvrir le long format de Reuters](https://www.reuters.com/graphics/TURKEY-QUAKE/SEARCH/klpygdjoapg/)  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 4\. Mecanique
+
+## Le South China Morning Post (SCMP) s'essaye a un portrait interactif de Pele façon Homme de Vitruve  
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/6116b0dd-6b95-dfbf-4882-a3ad2ef324aa.jpg)](https://multimedia.scmp.com/infographics/sport/article/3208740/pele/index.html)  
+---  
+  
+|  | Le footballeur de legende s'est eteint il y a quelques mois et le SCMP a pris le temps de decortiquer son style de jeu imbattable. À l'aide d'illustrations decoupees etape par etape, le media vous donne les cles de comprehension des mouvements qui ont propulse l'homme au stade d'idole.   
+  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/8a2b7c74-c0dc-45a3-ff74-99ac57ac443d.gif)  
+  
+Un format etonnant, documente et joliment illustre, qui seduira assurement un public plus large que les amateurs de football.   
+---  
+|  | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+Tout savoir sur [les exploits de Pele chez le South China Morning Post](https://multimedia.scmp.com/infographics/sport/article/3208740/pele/index.html)  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## Recrutement 🚨
+
+## Datagif recrute un.e chef.fe de projet / conseil web en CDI  
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/55eb5e5b-d185-b8e6-6fd7-abf2eda67309.jpg)](https://datagif.fr/job/chef-fe-de-projet-web-conseil-cdi/)  
+---  
+  
+|  | Enjeux • solutions • recommandations • coordination et suivi de production • au sein d'une equipe baignee de culture web 🌐  
+  
+L'agence travaille entre autres pour la RATP, le Palais de la Porte Doree, la Fnac, Le Parisien, Alternatives Économiques, la revue XXI...  
+---  
+|  | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[Plus de details, postuler, faire tourner 🔀](https://datagif.fr/job/chef-fe-de-projet-web-conseil-cdi/)  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 5. Credits
+
+## L'astucieuse valorisation des credits de The Atavist  
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/47c4b49b-70aa-b4b6-1c53-38dab9c31460.gif)](https://magazine.atavist.com/crushed-piper-rockelle-jentzen-ramirez-squad-youtube-influencers/)  
+---  
+  
+|  | Le magazine The Atavist publie chaque mois un tres long recit illustre. Le dernier en date, sur le milieu des adolescents influenceurs, nous a permis de remarquer un petit detail interessant.  
+  
+Au-dela du recit, des illustrations qui l'accompagnent et de la possibilite d'ecouter l'article en audio, c'est la mise en avant des credits qui a attire notre attention. Alors que ces derniers passent souvent inaperçus car relayes tout en bas des articles, le parti pris est ici de les remonter sous le chapo, sans pour autant qu'ils retardent l'acces au contenu. Le clic sur le numero de l'edition permet ainsi de derouler la description de l'auteur et le nom de tous les acteurs ayant participe a la creation et la mise en ligne de l'article. Astucieux et valorisant !  
+---  
+|  | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[Decouvrir la mise en avant des credits par The Atavist](https://magazine.atavist.com/crushed-piper-rockelle-jentzen-ramirez-squad-youtube-influencers/)  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 6\. Sports
+
+## Retour sur le Super Bowl avec le NYT  
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/eed917c2-de0a-8842-8491-87ba1345457c.jpg)](https://www.nytimes.com/interactive/2023/02/13/sports/football/kadarius-toney-punt-return-super-bowl-chiefs.html)  
+---  
+  
+|  | Comme tous les ans, les medias americains proposent des formats innovants pour le Super Bowl. Cette annee, on apprecie particulierement la [foire aux questions](https://www.nytimes.com/interactive/2023/02/08/sports/football/super-bowl-lvii.html) du New York Times, avec son design skeuomorphe en accordeon rappelant directement le terrain de football. Pour rappel, le gabarit FAQ est en recyclage permanent chez le NYT, ce qui justifie son investissement de depart il y a plusieurs annees.  
+  
+Post-match, ils ont egalement propose un [long format](https://www.nytimes.com/interactive/2023/02/13/sports/football/kadarius-toney-punt-return-super-bowl-chiefs.html) decortiquant image par image une des actions clefs du match, un dispositif facilement imaginable pour d'autres sports.  
+---  
+---  
+  
+|  |   
+---  
+  
+|  |   
+---  
+  
+|  | Merci pour votre fidelite au fil des editions ! Pour rappel, nous travaillons sur un outil qui vous permettra de naviguer dans nos archives : ça avance 🤓  
+  
+✌️ Vous reflechissez a un projet de refonte ou nouveau produit media ? [Nous echangeons volontiers avec vous](https://datagif.fr/medias/) ☕  
+---  
+  
+|  |  | ![](http://gallery.mailchimp.com/653153ae841fd11de66ad181a/images/transparent.gif)  
+---  
+  
+|  |   
+---  
+  
+|  | Vous recevez cet e-mail car vous êtes inscrit•e via le site [datagif.fr](https://datagif.fr/newsletter-medias/)Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)  
+👋 [Cliquez-ici](*|UNSUB|*) pour vous désabonner  
+---  
+  
+|  | DATAGIF  
+---  
+  
+|  |   
+---

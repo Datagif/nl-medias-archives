@@ -1,0 +1,152 @@
+---  
+![Médias](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/d060cdc3-f8d4-4207-b9bb-0b8ffda1ca6f.png)  
+La veille innovation et design media par Datagif  
+  
+| *|MC_PREVIEW_TEXT|*  
+---  
+---  
+1\. Refonte Une nouveau site audacieux pour le magazine Tablet  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/6947a4bb-0e7d-4b98-bcba-099c1fdabda5.png)  
+---  
+Vouloir mimer l'esthetique des journaux print pour l'appliquer au design web est une aventure bien souvent perilleuse (on a deja vu des drames…). Mais la recente refonte du site americain Tablet, designee par l'agence Pentagram, marque une exception.  
+  
+**Ce que l 'on aime :**  
+● la navigation originale, avec un bouton « explore » qui permet de visualiser les sommaires de chaque verticale d'un coup d'oeil  (un peu comme si on feuilletait le journal)  
+● la construction par verticales thematiques  
+● de bons choix typographiques qui donnent du caractere  
+● la teinte de fond des pages et la pointe de rouge qui vient appuyer la ou c'est necessaire  
+● l'usage de filets, encadres et aplats : le parfait dosage, juste comme il faut  
+  
+Conseil : regardez la version mobile, c'est encore mieux !  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/d900e260-be74-4d7d-b12d-73e55c1bccd3.png)  
+---  
+|  -- Decouvrir la [nouvelle version du magazine Tablet](https://www.tabletmag.com/)  
+---  
+---  
+2\. Coronavirus Le New York Times vous aide a garder la (bonne) distance  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/1b46365f-a92c-4019-a4ae-aa5b730825c6.png)  
+---  
+Un concept d'ordinaire peu connu est sur toutes les levres depuis quelques semaines : la distanciation sociale. Pour rendre cette « distance » tangible, le New York Times fait d'une pierre deux coups au sein d'un meme article interactif :  
+  
+**●** il compare comment le virus se propage en schema anime, avec plusieurs scenarios (differentes distances, avec ou sans masques).  
+**●**  sur smartphone, il permet de visualiser en realite augmentee la distance a respecter autour de soi quand on sort, a l'aide de cercles concentriques. [Un peu gadget ?](https://twitter.com/TurcanMarie/status/1250365912340979713?s=20) Pas tant que ça : aux Etats-Unis, la distance reglementaire (1,8m) n'est pas forcement evidente...  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/9e42aaf8-1a02-440d-b105-61ce822fe647.png)  
+---  
+|  -- Un article et une experience du [New York Times](https://www.nytimes.com/interactive/2020/04/14/science/coronavirus-transmission-cough-6-feet-ar-ul.html?action=click&module=Top%20Stories&pgtype=Homepage)  
+---  
+---  
+3\. Grand messe Le retour des programmations lineaires ?  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/b8150624-5600-456b-8a74-2eabeaa91609.jpeg)  
+---  
+On le sait, la television et la radio connaissent un franc succes pendant cette crise du coronavirus. Chez les medias en ligne, le retour a une programmation de contenus plus « lineaire » semble egalement emerger, souvent via les reseaux sociaux.   
+  
+Le New York Times donne ainsi rendez-vous a ses lecteurs quotidiennement pour des live participatifs avec ses journalistes sur Twitter. En France, le magazine Grazia organise egalement des rendez-vous video sur Instagram avec des celebrites ou influenceuses. Une façon de renouer avec une  experience collective, qui pourrait bien se prolonger apres la sortie du confinement.  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/c5275cfe-5234-4f5b-b57b-46b5b6b32ee4.png)  
+---  
+|  -- Voir [le compte Instagram de Grazia](https://www.instagram.com/grazia_fr/?hl=fr)  
+-- Voir [le compte Twitter de NYT Opinion](https://twitter.com/nytopinion/status/1248685918682308610?s=20)  
+---  
+---  
+4\. UX Le site d'info Axios inaugure son application mobile  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/5c86786d-a1b2-4550-af4f-860601664463.jpeg)  
+---  
+Le site d'info americain Axios a inaugure hier son application mobile. C'est un franc succes : l'interface est simple, intuitive et tire parti des forces de ce media pointu.  
+  
+On retient notamment :  
+● la place centrale des newsletters incarnees par certains journalistes d'Axios, qui sont integrees dans l'application comme des « channels » que l'on peut suivre.   
+● le principe des articles a deplier (qui a bizarrement disparu du site web d'Axios lors de son recent redesign).  
+---  
+|  -- Voir l'application Axios sur [iOS](https://apps.apple.com/app/apple-store/id1464917429) ou [Android](https://play.google.com/store/apps/details?id=com.axios.axios)  
+---  
+---  
+5\. Illustrations Vulgariser la modelisation d'une pandemie... en BD  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/6b447b80-2217-45c7-9731-f0c6f389c427.jpg)  
+---  
+Prevoir le futur sur la base de modeles mathematiques, ça n'est pas evident a materialiser. Le media americain FiveThirtyEight, adepte des statistiques, s'en sort pourtant tres bien avec un format BD assez iconoclaste, publie sur son site.  
+  
+Le recit tend a montrer qu'il n'existe pas un seul modele mais plusieurs, en fonction des variables utilisees. Il prend ainsi l'analogie d'une recette de tarte aux pommes : il en existe plein, avec plus ou moins de pommes, de sucre... et chacun defend sa version.   
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/cac8e478-3e4e-490a-baf0-ceeac0a3da34.jpg)  
+---  
+|  -- À lire [chez FiveThirtyEight](https://fivethirtyeight.com/features/a-comic-strip-tour-of-the-wild-world-of-pandemic-modeling)  
+---  
+---  
+6\. Personnalisation Une page d'accueil qui s'adapte subtilement au lecteur  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/9beadc25-ee46-464a-9d7f-d27721a47f1b.jpeg)  
+---  
+Parmi ses multiples innovations liees au Covid-19, le New York Times a ajoute cette semaine une nouvelle zone sur sa page d'accueil : elle compile en temps reel des breves issues des multiples pages « live » du Times.  
+  
+Ce qui retient notre attention est une petite fonctionnalite en apparence anodine : la zone est legerement personnalisee en fonction de ce que vous avez deja consulte precedemment. Un marqueur rouge s'affiche ainsi si une nouvelle mise a jour a ete faite sur un article deja consulte.  
+  
+Un detail dynamique qu'on a l'habitude de voir sur les reseaux sociaux, mais beaucoup moins chez les sites d'info…   
+---  
+|  -- [Lire les explications](https://twitter.com/johnmichael_mur/status/1249848641340219393?s=20) d'un developpeur du NYT  
+---  
+---  
+7\. Jeux Le New Yorker passe ses mots croises en mode collaboratif  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/077f5109-2e47-4b7c-88a3-062b99f997f6.jpg)  
+---  
+Les mots croises du New Yorker sont une institution aux Etats-Unis. En temps ordinaire, beaucoup tentent de les remplir a plusieurs, sur un coin de table. Dans le contexte du confinement, le magazine vient de sortir une fonctionnalite habile : on peut dorenavant y jouer en ligne a deux, sur la meme grille, dans le respect parfait des regles de distanciation sociale.  
+  
+Cette fonctionnalite sera certainement appreciee par les aficionados, alors que les applications de jeux connaissent un certain succes chez les medias. Parfait pour un petit challenge intello, en alternance avec Animal Crossing...  
+---  
+|  -- L'annonce de cette nouveaute [sur le site du New Yorker](https://www.newyorker.com/crossword/puzzles-dept/introducing-partner-mode-crosswords-for-the-age-of-social-distancing)  
+---  
+---  
+8\. Data Chomage : des graphiques pour rendre compte du choc  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/4237972d-18cf-448d-b414-2a6113ec13c5.png)  
+---  
+La hausse du taux de chomage aux Etats-Unis, en l'espace de quelques jours, est saisissante. Pour en rendre compte, le New York Times n'a pas hesite a visualiser les chiffres de façon "choc", que ce soit sur son site ou dans son edition papier.  
+  
+L'occasion de remarquer qu'on a peu l'habitude de voir des statistiques s'inviter aussi fortement a la Une de nos medias ecrits...  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/726039d2-8697-4749-992a-18b29b67c959.png)  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/7bd540bf-beb8-478a-9e2a-c4d35e9e2c9e.jpeg)  
+---  
+|  -- Voir [les chiffres](https://www.nytimes.com/interactive/2020/03/26/upshot/coronavirus-millions-unemployment-claims.html) sur le site du NYT  
+---  
+---  
+Pour aller plus loin... On continue la liste des meilleurs formats Covid-19 sur Medium !  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/16678d46-7cbd-4882-91c7-e56d69ecff72.png)  
+---  
+Notre "best-of" du coronavirus [continue sur Medium ](https://medium.com/datagif/coronavirus-les-meilleures-innovations-chez-les-m%C3%A9dias-en-ligne-8b4fdd660a0f):   
+  
+• Recits et series editoriales  
+• Newsletters  
+• Videos  
+• Reseaux sociaux  
+• Podcasts  
+• Initiatives solidaires  
+• Marketing et acces au contenu  
+• Et bien plus encore...  
+  
+Sauvegardez l'article, nous le mettrons a jour regulierement. Et envoyez-nous vos suggestions, via [Twitter](http://twitter.com/datagif) ou par retour de mail ! 👋  
+---  
+|  -- [Lire la suite sur Medium ](https://medium.com/datagif/coronavirus-les-meilleures-innovations-chez-les-m%C3%A9dias-en-ligne-8b4fdd660a0f)  
+---  
+Vous recevez cet e-mail car vous êtes inscrit•e via le site   
+[medias.datagif.fr](https://medias.datagif.fr/)   
+  
+🏄‍   
+Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)   
+  
+📪  
+Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)   
+  
+✌️  
+Retrouvez la veille et les projets de Datagif sur   
+[Medium](https://medium.com/Datagif) \- [Twitter](https://twitter.com/datagif) \- [Instagram](https://www.instagram.com/datagif) \- [Datagif.fr](https://datagif.fr)   
+  
+👋   
+[Cliquez-ici](*|UNSUB|*) pour vous désabonner   
+  
+  
+*|IF:REWARDS|* *|HTML:REWARDS|* *|END:IF|*   
+  
+  
+---

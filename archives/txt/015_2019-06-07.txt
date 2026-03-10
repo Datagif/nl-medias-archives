@@ -1,0 +1,87 @@
+---  
+![Médias](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/d060cdc3-f8d4-4207-b9bb-0b8ffda1ca6f.png)  
+La veille innovation et design media par Datagif  
+  
+| *|MC_PREVIEW_TEXT|*  
+---  
+---  
+1\. Podcasts L'ebullition continue en France  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/f99a2a9b-3398-4adc-980c-d94766953f05.jpg)  
+---  
+La mode des podcasts ne se dement pas en France, en tout cas si l'on en juge les initiatives du secteur. On note recemment :   
+  
+**■** RTL qui lance (enfin) 5 podcasts natifs, s'appuyant sur des figures mainstream comme Alain Duhamel ou Mac Lessgy. Nous n'avons pas encore ecoute… mais Le Monde les recommande chaudement.  
+  
+**■** Le service Majelan, initie par Matthieu Gallet, est enfin lance -- non sans remous puisqu'il agrege sans autorisation des milliers de podcasts. On pourrait le qualifier de «  Netflix du podcast », a la difference qu'il est quasiment integralement gratuit. La competition risque d'etre feroce avec Spotify/Apple/Google ! A noter : le design est tres inspire d'un de ces concurrents...  
+---  
+|  -- En savoir plus sur [les podcasts de RTL](https://www.lemonde.fr/culture/article/2019/05/28/rtl-se-lance-dans-le-podcast-natif_5468682_3246.html), et [tester le service d'ecoute Majelan](https://www.majelan.com/index.html)   
+---  
+---  
+2\. Guide Plongez dans le grand bain des lectures estivales avec le New York Times  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/dbf01b37-3914-41da-87ef-8fa4b4a35b03.gif)  
+---  
+On le sait, le New York Times a les moyens de developper des formats originaux. En voici un nouveau, qui a la particularite d'etre assez simple et de valoriser de jolies illustrations.  Il compile les meilleures livres a lire cet ete, avec une introduction sympathique qui montre un lecteur plonger dans une piscine, a mesure que l'on scrolle sur la page. Effet garanti, a tester sur mobile notamment. Le reste de la page est plus calme, avec des regroupements thematiques faciles a parcourir. On aime.    
+---  
+|  -- Plongez dans [le guide de lectures d'ete du New York Times](https://www.nytimes.com/interactive/2019/books/summer-reading.html)  
+---  
+---  
+3\. Portraits La Croix a la rencontre des oublies des medias  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/d92aa152-4d4b-4f21-86f1-4d60d369e7c8.jpg)  
+---  
+Belle initiative de La Croix, qui a envoye un de ses journalistes sillonner la France a la rencontre de ses habitants. Resultat : une serie de portraits de citoyens aux vies « ordinaires », souvent peu representes dans les grands medias.  
+  
+Seul regret : dommage qu'un tel projet se retrouve un peu etrique en version web. On aurait aime une mise en scene plus genereuse et jouant sur les photos. Un manque de flexibilite technique qui dessert toujours le web par rapport au print…  
+---  
+|  -- Explorer [le dossier "Ils meritent d'etre dans le journal"](https://www.la-croix.com/France/meritent-detre-journal) de La Croix  
+---  
+---  
+4\. Data Quelle personnalite publique est la plus associee a votre ville selon Wikipedia ?  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/00c9999c-c819-4e75-a2db-06dc976b47b0.jpg)  
+---  
+Le media americain The Pudding nous epate regulierement avec ses data-visualisations qui explorent des sujets de societe inattendus, voire farfelus. La derniere production en date exploite la popularite des personnalites publiques sur Wikipedia. The Pudding a analyse quelle personnalite etait la plus associee a chaque ville aux Etats-Unis et au Royaume-Uni. Cela donne deux cartes etonnantes, ou les noms des villes sont remplaces par des noms de celebrites.  
+  
+Si ce format ne nous raconte rien de plus, il demontre que l'on peut toujours trouver des angles interessants avec des donnees en open source.  
+---  
+|  -- Explorer la carte [version UK](https://pudding.cool/2019/06/people-map-uk/), et la carte [version US](https://pudding.cool/2019/05/people-map/)  
+---  
+---  
+5\. Engagement Et si on valorisait les meilleurs commentaires ?  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/019936eb-a40f-4d8b-8b35-c27fe64d0661.png)  
+---  
+Le format "Courrier des lecteurs" est vieux comme le monde... Et pourtant il se faisait assez rare ces dernieres annees sur les sites d'info. Certains medias le remettent desormais au gout du jour sur le Web. Le Guardian publie ainsi regulierement des articles qui compilent les meilleurs commentaires en reaction a une actualite. Un format facile a produire et qui valorise les lecteurs les plus engages.  
+  
+**■  Le moins :** la mise en forme du Guardian est malheureusement trop proche d'un article normal -- difficile de distinguer ce qui emane d'un journaliste ou pas. Un template adapte permettrait de clarifier tout cela, tout en valorisant les contributions.  
+**■  Le plus :** cercle vertueux ! La mise en avant de commentaires intelligents incitera les lecteurs a reagir, mais aussi a soigner leurs ecrits… La meilleure reponse au deluge de trolls ?  
+---  
+|  -- Un exemple de compilation de commentaires, suite a la demission de Theresa May, [a lire ici chez The Guardian](https://www.theguardian.com/politics/2019/may/24/good-riddance-readers-react-to-theresa-may-resignation)  
+---  
+---  
+6\. Live Des GIFs pour suivre les matchs de foot  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/cb74a4e0-c0cc-4127-a828-07718d56f83f.gif)  
+---  
+Loin de nous d'etre des fans de football… Et pourtant un recent match nous a permis de decouvrir que Le Monde a developpe tout une serie de GIFs reutilisables pour ses lives footbalistiques. Les journalistes les utilisent pour annoncer chaque action marquante. Le tout avec une direction artistique sympa, qui renforce et rafraichit l'image du journal.  
+---  
+|  -- Pour voir les GIFs en situation, ça se passe [sur ce live du Monde](https://www.lemonde.fr/sport/live/2019/05/29/chelsea-arsenal-suivez-en-direct-la-finale-de-la-ligue-europa_5469299_3242.html)  
+---  
+Vous recevez cet e-mail car vous êtes inscrit•e via le site   
+[medias.datagif.fr](https://medias.datagif.fr/)   
+  
+🏄‍   
+Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)   
+  
+📪  
+Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)   
+  
+✌️  
+Retrouvez la veille et les projets de Datagif sur   
+[Medium](https://medium.com/Datagif) \- [Twitter](https://twitter.com/datagif) \- [Instagram](https://www.instagram.com/datagif) \- [Datagif.fr](https://datagif.fr)   
+  
+👋   
+[Cliquez-ici](*|UNSUB|*) pour vous désabonner   
+  
+  
+*|IF:REWARDS|* *|HTML:REWARDS|* *|END:IF|*   
+  
+  
+---

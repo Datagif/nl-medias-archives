@@ -1,11 +1,13 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
 fetch_archives.py
 Récupère toutes les campagnes Newsletter Médias depuis Mailchimp
 et les sauvegarde en HTML et TXT.
 
 Usage :
-    MAILCHIMP_API_KEY=xxx MAILCHIMP_LIST_ID=xxx python fetch_archives.py
+    cp .env.example .env  # puis remplir les valeurs
+    python fetch_archives.py
 
 Variables d'environnement :
     MAILCHIMP_API_KEY   Clé API Mailchimp
@@ -18,6 +20,9 @@ import re
 import sys
 import time
 import html2text
+from dotenv import load_dotenv
+
+load_dotenv()
 import requests
 from datetime import datetime
 from pathlib import Path
@@ -42,7 +47,7 @@ h2t.body_width   = 0  # pas de retour à la ligne forcé
 
 def extract_number(title: str) -> str | None:
     """Extrait le numéro de campagne depuis le titre, ex: '#170 • 05.03.26' -> '170'"""
-    m = re.match(r"#(\d+)\s*[•·]", title)
+    m = re.match(r"#(\d+)\s*[•·●]", title)
     return m.group(1) if m else None
 
 
@@ -51,7 +56,7 @@ def is_valid_campaign(campaign: dict) -> bool:
     status     = campaign.get("status") == "sent"
     list_id    = campaign.get("recipients", {}).get("list_id") == LIST_ID
     title      = campaign.get("settings", {}).get("title", "")
-    has_bullet = "•" in title or "·" in title
+    has_bullet = "•" in title or "·" in title or "●" in title
     return status and list_id and has_bullet
 
 
@@ -68,7 +73,7 @@ def get_campaigns() -> list[dict]:
                 "offset": offset,
                 "status": "sent",
                 "list_id": LIST_ID,
-                "fields": "campaigns.id,campaigns.status,campaigns.settings.title,"
+                "fields": "total_items,campaigns.id,campaigns.status,campaigns.settings.title,"
                           "campaigns.recipients.list_id,campaigns.send_time",
             },
         )
@@ -79,7 +84,7 @@ def get_campaigns() -> list[dict]:
             break
         campaigns.extend(batch)
         offset += len(batch)
-        if offset >= data.get("total_items", 0):
+        if len(batch) < 100:
             break
     return campaigns
 
@@ -102,7 +107,7 @@ def make_filename(number: str, send_time: str) -> str:
         date_str = dt.strftime("%Y-%m-%d")
     except Exception:
         date_str = "0000-00-00"
-    return f"{number}_{date_str}"
+    return f"{number.zfill(3)}_{date_str}"
 
 
 def main():

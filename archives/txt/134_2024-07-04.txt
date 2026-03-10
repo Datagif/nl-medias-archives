@@ -1,0 +1,211 @@
+*|MC_PREVIEW_TEXT|*  
+  
+͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿
+
+| | [Ouvrir dans le navigateur](*|ARCHIVE|*)  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/dd3bafd1-318d-5e61-3f59-686d50ecce99.png)](*|ARCHIVE|*)  
+---  
+  
+| | | ![Médias](https://newsletter.datagif.fr/ext/datagif/img/medias-v2.png)  
+---  
+  
+| 134  
+---  
+  
+| | La veille innovation et design média par Datagif  
+---  
+  
+| | | Respirations.  
+---  
+Dans cette avalanche de depeches, tweets, petites phrases, derapages, contre-verites, analyses, nous vous proposons une petite pause de 15 minutes. Notre objectif premier etait de ne vous partager que des liens bon esprit, voire marrants, mais c'est un echec. Malgre tout, notre selection de la semaine regorge de bonnes idees et on espere que cela vous inspirera a tous les niveaux (forme, contenu, technique) et vous fera sortir un moment la tete de l'eau. Bonne lecture 👋  
+  
+| | | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/dd27fd0a-f659-dbfe-2c8d-0fa69e1c9747.png)  
+---  
+  
+| Gaetan Duchateau  
+---  
+Lead @Datagif  
+  
+| | | Legislatives  
+---  
+  
+| 🗳️  
+---  
+  
+| | Une couverture en catastrophe  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/e5f1a506-b950-c1be-eb4e-a0edc42deebb.gif)](https://lacouleurdurn.datagif.fr/)  
+---  
+Aucun media ne peut se permettre de passer outre ce chamboulement d'actu auquel nous assistons. La plupart reutilise des gabarits deja employes par ailleurs. Dans cet ensemble, voici trois liens qui meritent le detour :  
+  
+📊 Le Monde sort le grand jeu avec tout un espace dedie sur son site et appli. Outre le fil d'actu, le direct, et les papiers d'analyse, on retrouve des outils de suivi ([trackers](https://datagif.fr/liens/?format=tracker)) pour apprehender l'evolution d'une situation mouvante : une page de [rapports de force](https://www.lemonde.fr/les-decodeurs/article/2024/07/02/legislatives-2024-quelle-configuration-politique-dans-les-triangulaires-annoncees_6245961_4355770.html) selon les triangulaires, ou encore [une liste des desistements](https://www.lemonde.fr/les-decodeurs/article/2024/07/02/legislatives-2024-pour-faire-barrage-au-rn-195-candidats-et-candidates-se-sont-deja-desistes-suivez-le-decompte-en-temps-reel_6245837_4355771.html) (ou non 🤡). Avec ces pages mises a jour au fil de l'actu, cela fait de bons carrefours d'audience.  
+  
+📍 Contexte rend accessible [sa carte des 577 circonscriptions](https://www.contexte.com/article/pouvoirs/carte-des-legislatives-2024_193466.html), constituee d'une granularite telle qu'elle est decrite comme utilisee par les militant*es pour identifier les "points chauds", de possibles zones de bascule. Un outil precis qui demontre le savoir-faire du media en la matiere.  
+  
+☑️ À l'etranger, l'election ne passe pas inaperçue. On pourrait pointer quelques unes que vous avez surement vues (Il Manifesto : _[Veni Vidi Vichy](https://ilmanifesto.it/cdn-cgi/image/width=1400,format=auto,quality=85/https://static.ilmanifesto.it/2024/07/il_manifesto_del_2_luglio_2024_cover.jpg)_  ; The Economist : _[France's Center Cannot Hold](https://www.economist.com/media-assets/image/20240629_DE_US.jpg)_) mais notre attention se porte surtout sur un detail UX chez le NYT : pour l'audience ne comprenant rien au systeme electoral français, [cet article recapitule les points cles](https://www.nytimes.com/2024/07/01/world/europe/france-election-national-rally.html#link-4260b111) dans une succession de paragraphes. Le point positif : il est introduit par un systeme d'ancres, pour un sommaire en un coup d'oeil.  
+  
+🟤 La couleur du RN : c'est ce que l'on a voulu verifier avec notre outil mis a jour a l'occasion des legislatives. [Quelle couleur employee](https://lacouleurdurn.datagif.fr/) dans une selection de medias TV, print et web pour representer le parti extremiste ? Ce que l'on observe : ça tire un peu trop sur le bleu.  
+  
+| | | Metro  
+---  
+  
+| 🚇  
+---  
+  
+| | The Philadelphia Inquirer publie la chronologie de la SEPTA  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/1ae36aef-2064-e391-c5d2-d58a68531e58.jpg)](https://www.inquirer.com/transportation/inq2/septa-funding-fiances-history-timeline-shapiro-20240626.html)  
+---  
+Dans un article pedagogique dedie au financement de la SEPTA, l'autorite regionale de transport public en Pennsylvanie, le Philadelphia Inquirer revient sur les politiques etatiques et federales qui ont façonne la capacite de l'agence a financer ses differentes lignes tout au long de son histoire. Pendant que les lecteurs (re)decouvrent les evenements structurants de la SEPTA, trois lignes de metro s'animent et suivent le defilement pour representer une frise chronologique. Un systeme visuel simple et efficace !  
+[Voyager dans l'histoire de la SEPTA](https://www.inquirer.com/transportation/inq2/septa-funding-fiances-history-timeline-shapiro-20240626.html)  
+  
+| | | ![](https://newsletter.datagif.fr/ext/datagif/img/newsletter.png) Merci !  
+---  
+Vous qui lisez cette newsletter depuis d'innombrables editions, nous vous remercions pour les transferts que vous faites a vos contacts 🙌 Et si vous arrivez suite un a un transfert, merci pour votre abonnement !  
+| [S'abonner a la newsletter](https://datagif.fr/newsletter-medias/)  
+---  
+  
+| | | Memoire  
+---  
+  
+| ⏳  
+---  
+  
+| | Grand-Format illustre le passage de temoin entre plusieurs generations  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/71ebed8a-c0cb-089b-71f1-1525e912f0c7.jpg)](https://grand-format.net/residences/passage-de-temoins/)  
+---  
+Nous fetions il y a peu les 80 ans du debarquement. Mais que reste-t-il de cette memoire ? Et comment ces souvenirs ont-ils ete transmis au fil des generations ? Le media normand a "_tent e de derouler le fil de la memoire, ses meandres, ses silences, ses trous noirs_" en proposant un long format, presente sous forme de carnet de bord illustre, et complete de portraits, de verbatims, audios, archives… Un format ressources complet, au chapitrage bien pense.  
+[Plonger dans les memoires du debarquement](https://grand-format.net/residences/passage-de-temoins/)  
+  
+| | | Le 50/50  
+---  
+Selectionnez la thematique de votre choix, on vous genere une liste de liens a ne pas rater  
+Le choix determinant de la semaine  
+  
+| | | [📸 photo](https://datagif.fr/liens/?format=photo)  
+---  
+  
+| | [🔊 audio](https://datagif.fr/liens/?format=audio)  
+---  
+  
+| | | Resultats  
+---  
+Il y a 15 jours  
+Deux sujets brulants, mais celui qui tue un peu plus vite l'autre l'a vraisemblablement emporte.  
+  
+| | | [🤖 IA](https://datagif.fr/liens/?theme=politique)  
+---  
+  
+| | [🏆 53% ](https://datagif.fr/liens/?theme=politique)  
+---  
+  
+| |   
+---  
+  
+| | | [🪸 climat ](https://datagif.fr/liens/?theme=climat)  
+---  
+  
+| | [47% ](https://datagif.fr/)  
+---  
+  
+| | | Climat  
+---  
+  
+| 🥵  
+---  
+  
+| | Trois outils pour suivre de pres les projections de temperatures  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/584ffe1b-5c71-167b-3d05-deb4e9bf1a8b.jpg)](https://pudding.cool/2024/06/climate-zones/)  
+---  
+🌆 CBC a mis en place [un tableau de bord climatique](https://newsinteractives.cbc.ca/features/2023/climate-dashboard/fr/) pour suivre au plus pres les anomalies dans sa ville. Meme si l'outil n'est reserve qu'au Canada, il donne a reflechir pour l'adapter localement.   
+  
+☀️ The Pudding a publie une etude sur les [variations de moyennes de temperatures dans les villes d'ici 2070](https://pudding.cool/2024/06/climate-zones/) et l'impact sur les saisons. Une vue d'ensemble qui anticipe, classe et compare des changements drastiques.  
+  
+🌡️ Le Washington Post affiche [un indicateur d'exposition dangereuse a la chaleur](https://www.washingtonpost.com/weather/interactive/2023/heat-waves-map-us-tracker/). Avec un selecteur au coeur de l'article, l'audience peut identifier dans sa propre localite les risques sur la semaine a venir. Un outil pertinent, local et perenne car branche sur la base de donnees des alertes meteo.   
+  
+| | | 🥇 Le meilleur lien d'il y a 15 jours  
+---  
+  
+| | Debarquement  
+---  
+C'est le long format du Daily Mail qui a suscite le plus de clics chez vous dans la precedente edition. Cet article assez exceptionnel retrace le deroule minute du debarquement du 6 juin 1944, agremente de segments de contexte enrichis.   
+🫡 [Re-derouler le debarquement en Normandie](https://www.dailymail.co.uk/news/article-13497447/How-D-Day-unfolded-hour-hour-80th-anniversary-Operation-Overlord-MailOnlines-scintillating-visualisations-recount-daring-mission-liberate-Nazi-occupied-Europe-forensic-detail.html)  
+  
+| | | Le lien de Jonas  
+---  
+Une bibliotheque d'illustrations  
+  
+| | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/0ce39fb0-c6f2-b1a2-23ec-8d70d9767c81.png)  
+---  
+  
+| | Pour couvrir les [elections generales britanniques](https://www.theguardian.com/politics/general-elections) de 2024, le journal The Guardian s'est constitue [une bibliotheque d'illustrations en papier decoupe a la main](https://www.itsnicethat.com/features/the-guardian-election-editorial-graphic-design-illustration-spotlight-140624). L'idee etait de renouer avec un style authentique, concret, a l'inverse de la tendance de la creation par l'IA. Dans [cette interview chez It's Nice That](https://www.itsnicethat.com/features/the-guardian-election-editorial-graphic-design-illustration-spotlight-140624), l'equipe du Guardian nous explique les coulisses de creations de ces images, de leur selection a leur decoupage, pour constituer un systeme modulable. Le defi etait d'explorer une variete de façons de representer une « Grande-Bretagne brisee » et comment reparer cette confiance deterioree, piece par piece… Alors, pari tenu ?  
+---  
+  
+| | | IA  
+---  
+  
+| 🎙️  
+---  
+  
+| | Un commentateur sportif vous recapitule les JO rien que pour vous  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/07abc236-df0b-9ddd-6eb8-99666f929ee8.jpg)](https://www.nbcsports.com/pressbox/press-releases/peacock-unveils-personalized-olympic-recaps-featuring-the-voice-of-legendary-sports-announcer-al-michaels-generated-with-a-i)  
+---  
+Le service de streaming Peacock (NBC) propose un nouveau concept de resume sportif quotidien sur mobile et web : une compilation personnalisee des meilleurs moments de la journee, narree par la voix du commentateur sportif star Al Michaels. Ce dernier a prete sa voix pour qu'une IA mouline et produise le resume, comme si Michaels vous parlait directement. Vivement la version française avec Nelson Monfort et Philippe Candeloro...  
+[Lire le communique de presse de Peacock](https://www.nbcsports.com/pressbox/press-releases/peacock-unveils-personalized-olympic-recaps-featuring-the-voice-of-legendary-sports-announcer-al-michaels-generated-with-a-i)  
+  
+| | | Comfort-food  
+---  
+  
+| 🥪  
+---  
+  
+| | New York City pris en sandwich  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/88d6a168-6d3d-1237-e4d6-95418a8e6586.gif)](https://www.nytimes.com/interactive/2024/dining/best-nyc-sandwiches.html)  
+---  
+Si vous en avez assez de la politique, des guerres ou du climat, le New York Times propose un long format appetissant sur les sandwichs pour vous remonter le moral. Les 57 meilleurs casse-dalles de la grosse pomme ont ete selectionnes et photographies avec soin par la redaction, puis enrobes dans une direction artistique rappelant le [meilleur site Internet](https://rotatingsandwiches.com/)[ de 2023](https://rotatingsandwiches.com/), selon les [Tiny Awards](https://tinyawards.net/2023).  
+[Devorer un BLT de NYC chez le NYT](https://www.nytimes.com/interactive/2024/dining/best-nyc-sandwiches.html)  
+  
+| | | Pourcentages  
+---  
+  
+| ⚖️  
+---  
+  
+| | La Washington Post illustre les sondages  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/aab96203-8342-0120-4737-49230b787bee.jpg)](https://www.washingtonpost.com/politics/interactive/2024/undecided-voters-views-2024-election/)  
+---  
+Est-ce que les electeurs des etats cles aux USA partagent vos priorites ? C'est l'angle choisi par le WaPo pour nous presenter les sondages relatifs aux elections presidentielles americaines. Tout au long de l'article, le lecteur est invite a repondre a des questions pour comparer son avis avec celui des electeurs. Si le fond n'est pas nouveau, le traitement graphique a retenu notre attention : les resultats des sondages sont simplement illustres apres chaque reponse.  
+[Comparer son avis a celui des electeurs americains](https://www.washingtonpost.com/politics/interactive/2024/undecided-voters-views-2024-election/)  
+  
+| | | Pour aller plus loin  
+---  
+Petite selection de liens qui vont bien  
+🚨 Disclose fait appel a son audience : devenez lanceur d'alerte ! Rien de totalement nouveau mais on apprecie [la newsletter dediee](https://4zuwl.r.a.d.sendibm1.com/mk/mr/sh/WCQ2JVG6VR6HbIQo3apCaopxlw35DRLe/6ApfbZkZlDFr%20style=) qui montre que n'importe qui peut en effet avoir des infos a partager.  
+  
+🫠 365 $ : c'est ce qu'a depense 404 Media pour faire repliquer son site et le remplir automatiquement de contenu plagie genere par IA. À lire absolument pour [saisir l'enfer vers lequel on se dirige](https://www.404media.co/i-paid-365-63-to-replace-404-media-with-ai/).  
+  
+🍿 La video-reportage du Monde qui decortique "_Comment Europe 1 a caviard e les derapages politiques de l'emission « On marche sur la tete » de Cyril Hanouna_" [vaut largement le detour](https://www.dailymotion.com/video/x9140h0). Avec des reconstitutions en 3D du studio qui enfoncent le clou.   
+  
+👀 Dans les coulisses de la redaction de Ouest-France, le soir du premier tour des legislatives : [12 minutes pour saisir les enjeux de la fabrication d'un quotidien](https://www.linkedin.com/posts/edouard-reis-carona-0a3814b7_l%C3%A9gislatives-2024-dans-les-coulisses-de-activity-7214297448565870593-BnJQ?utm_source=share&utm_medium=member_desktop) pendant un tel evenement.  
+  
+| | | Allez, c'est tout pour aujourd'hui  
+---  
+On se retrouve dans 15 jours avec : une France toute changee, et des JO sur le point de demarrer. Est-on pret ? Aucune idee.  
+par  
+| [![DATAGIF](https://newsletter.datagif.fr/ext/datagif/img/logo-big.png)](https://datagif.fr)  
+---  
+  
+| | | ![](https://newsletter.datagif.fr/ext/datagif/img/social.png) Retrouvez-nous sur les réseaux  
+---  
+[Medium](https://datagif.medium.com/) [X](https://x.com/datagif) [Bluesky](https://bsky.app/profile/datagif.bsky.social) [Instagram](https://www.instagram.com/datagif/) [Threads](https://www.threads.net/@datagif) [Linkedin](https://www.linkedin.com/company/datagif/) [Datagif.fr](https://datagif.fr/)  
+  
+| | Vous recevez cet e-mail car vous êtes inscrit•e via le site [datagif.fr](https://datagif.fr/newsletter-medias/)Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)  
+👋 [Cliquez-ici](*|UNSUB|*) pour vous désabonner  
+---

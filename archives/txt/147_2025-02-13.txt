@@ -1,0 +1,203 @@
+*|MC_PREVIEW_TEXT|*  
+  
+͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿
+
+| | [Ouvrir dans le navigateur](*|ARCHIVE|*)  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/94cd59d7-6c21-44c6-a41e-ae06644357c8.png)](*|ARCHIVE|*)  
+---  
+  
+| | | ![Médias](https://newsletter.datagif.fr/ext/datagif/img/medias-v2.png)  
+---  
+  
+| 147  
+---  
+  
+| | La veille innovation et design média par Datagif  
+---  
+  
+| | | Ok, on fait quoi avec l'IA ?  
+---  
+Navre de remettre une couche sur le sujet qui occupe deja beaucoup trop l'espace public, mais force est de constater que nous n'en sommes qu'au debut. L'IA est un outil, et non un probleme. Le probleme c'est ce que cet outil permet de faire en etant utilise de maniere abusive... On vous en parle plus bas. En attendant on reste persuade d'une chose : il faut informer clairement l'audience de ce qui est genere via IA ou non. Et les contenus "faits a la main" vont gagner en valeur, en esperant qu'ils ne deviennent pas des exceptions.  
+  
+| | | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/dd27fd0a-f659-dbfe-2c8d-0fa69e1c9747.png)  
+---  
+  
+| Gaetan Duchateau  
+---  
+Lead @Datagif  
+  
+| | | IA generative  
+---  
+  
+| 🤖  
+---  
+  
+| | Sites automatises, journalistes assistes : l'IA embete l'info française  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/19d5caf0-0696-d2b9-1f40-96084ebda913.jpg)](https://next.ink/153613/enquete-plus-de-1-000-medias-en-francais-generes-par-ia-polluent-le-web-et-google/)  
+---  
+Nous avions deja relaye [une enquete similaire](https://www.404media.co/i-paid-365-63-to-replace-404-media-with-ai/) du site 404 Media [il y a un an](https://datagif.fr/newsletter-medias/?campaign_id=3a33b9ce9c), mais cette fois-ci, c'est arrive en France : les usines a contenu genere par IA proliferent. [Une enquete en plusieurs volets](https://next.ink/153613/enquete-plus-de-1-000-medias-en-francais-generes-par-ia-polluent-le-web-et-google/) menee par _Next_ en collaboration avec _[CheckNews](https://www.liberation.fr/checknews/faux-redacteurs-vrais-profits-comment-lintelligence-artificielle-parasite-linfo-20250206_J3FTICH7JREN7DF5RSCY76VKR4/)_ revele l'existence de plus de 1 000 sites d'actualite francophones entierement automatises, conçus pour capter du trafic et inonder Google d'articles sans reelle valeur editoriale. Derriere ces plateformes : des redacteurs fictifs, des contenus generes en masse et une rentabilite dopee par l'automatisation.  
+  
+💡 **La bonne id ee** : _Next_ en a profite pour developper une [extension navigateur](https://next.ink/165310/comment-reconnaitre-les-sites-dinfos-generes-par-des-ia/) qui affiche un message d'alerte sur les sites identifies comme GenAI.  
+  
+Pendant ce temps, l'IA s'infiltre aussi dans les redactions, de maniere plus ou moins encadree. [_Lib eration_ publie les temoignages anonymes de journalistes](https://www.liberation.fr/checknews/jai-ecrit-20-lignes-et-chatgpt-ma-fait-les-40-autres-comment-lia-modifie-les-pratiques-des-journalistes-20250208_KRQVNECQGRCVNLGZO2JUXCC45I/) - souvent jeunes - qui l'utilisent au quotidien pour accelerer leur production. Gain de temps ou derive du metier ? C'est le bon moment pour _RSF_ et _l 'Alliance_ de sortir [SpinozIA](https://rsf.org/fr/rsf-et-l-alliance-lancent-le-rapport-spinoza-un-usage-responsable-de-lia-est-possible-dans-les), un prototype d'outil IA ethique conçu pour encadrer ces pratiques.  
+[Lire l'enquete de _Next_ et _Lib eration_](https://next.ink/153613/enquete-plus-de-1-000-medias-en-francais-generes-par-ia-polluent-le-web-et-google/)  
+  
+| | | Une journee avec...  
+---  
+  
+| 🚴  
+---  
+  
+| | Immersion dans le monde des livraisons à domicile   
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/979f83b0-bc8c-c423-e059-817ddf8ae79b.png)](https://www.nytimes.com/interactive/2025/01/29/world/asia/china-delivery-driver.html)  
+---  
+Le New York Times experimente un format vertical pour nous faire decouvrir le quotidien d'une livreuse de repas. On suit Liu Chunyan pendant une journee, heure par heure, entre livraisons, imprevus et demandes particulieres.  
+  
+L'article alterne textes et videos avec un petit plus : l'evolution de ses gains (frais inclus) au fil des etapes. On decouvre les difficultes du metier, les relations avec les clients et l'impact des plateformes de livraison. Un format interessant, qui pourrait devenir un rendez-vous edito, meme si l'integration sur grand ecran pourrait etre amelioree.  
+[Une journée dans la peau de Liu Chunyan](https://www.nytimes.com/interactive/2025/01/29/world/asia/china-delivery-driver.html)  
+  
+| | | ![](https://newsletter.datagif.fr/ext/datagif/img/newsletter.png) Oh, bonjour !  
+---  
+Cette newsletter vous a ete transferee ? Merci a votre contact 🫶  
+| [Clic clic l'abonnement ](https://datagif.fr/newsletter-medias/)  
+---  
+  
+| | | UX  
+---  
+  
+| 🔒  
+---  
+  
+| | "Pour les abonnes uniquement" : et si on essayait une strategie d'acquisition minimaliste ?  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/b6c17b24-d1df-5ded-1e91-d138baa35fa5.png)](https://www.fastcompany.com/)  
+---  
+Le media d'affaire [Fast Company](https://www.fastcompany.com/) adopte une strategie d'acquisition encore rare dans le secteur : celle du '_less is more '_. Sur l'accueil, pas de marqueur jaune a cote de chaque article reserve aux abonnes, mais une discrete mention "Premium". Pas non plus d'encart ou de gros bandeaux d'appels a abonnement. À la place, une section editorialisee "Pour les abonnes uniquement". Une strategie peu agressive, qui s'appuie sur le faire envie - assez proche de celle de The Ken dont nous vous parlions deja dans le [numero #137](https://mailchi.mp/datagif/132-cest-pareil-mais-en-mieux-5911518?e=b3dff74558) de notre newsletter.   
+[Tester cette strategie de Fast Company](https://www.fastcompany.com/)  
+  
+| | | Radis cool  
+---  
+  
+| 👾  
+---  
+  
+| | Cozy Games : quand le jeu vidéo rime avec bien-être  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/25cb7d46-6aff-b679-19cb-304de904cdca.png)](https://www.reuters.com/graphics/VIDEO-GAMES/MENTAL-HEALTH/akpeewkqgpr/)  
+---  
+Loin des jeux video stressants et competitifs, Reuters explore le phenomene des jeux de simulation de vie avec un article interactif. Sur la base de recherches recemment publiees, le media nous invite a incarner un radis et a decouvrir un univers paisible ou regnent la tranquillite et la bienveillance. Jardinage, decoration, entraide entre voisins... L'experience, conçue comme un jeu, presente les aspects relaxants des _Cozy Games_. L'article met en avant l'avis d'experts qui soutiennent leurs bienfaits sur la gestion du stress. Un format ludique et informatif qui demontre par la forme que le jeu video peut aussi etre synonyme de relaxation et de bien-etre.   
+[Envie de vous detendre ?](https://www.reuters.com/graphics/VIDEO-GAMES/MENTAL-HEALTH/akpeewkqgpr/)  
+  
+| | | Le 50/50  
+---  
+Envie d'explorer un sujet ?  
+Faites votre choix, on a fait le tri  
+  
+| | | [📝 liste](https://datagif.fr/liens/?format=liste)  
+---  
+  
+| | [🏀 sport](https://datagif.fr/liens/?theme=sport)  
+---  
+  
+| | |   
+---  
+La semaine dernière  
+Deux sujets complementaires au coude a coude  
+  
+| | | [🌦️ climat](https://datagif.fr/liens/?theme=climat)  
+---  
+  
+| | [🏆 55%](https://datagif.fr/liens/?theme=climat)  
+---  
+  
+| |   
+---  
+  
+| | | [💾 tech](https://datagif.fr/liens/?theme=tech)  
+---  
+  
+| | [45%](https://datagif.fr/liens/?theme=tech)  
+---  
+  
+| | | Francophonie  
+---  
+  
+| 🇫🇷  
+---  
+  
+| | Quel français parlez-vous ?  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/a3ab4229-08ec-2687-691e-e91dbea77f4f.png)](https://www.24heures.ch/france-suisse-belgique-ce-test-vous-dit-dou-vous-etes-689978624847)  
+---  
+Le media suisse 24 heures a developpe un "calculateur de dialecte" en mesure de situer geographiquement vos origines. Trois pays sont pris en compte : la Suisse, la Belgique et la France. Et force est de constater que le test fonctionne tres bien, nous avons tous ete surpris par la precision de l'outil ! Au-dela de la performance, nous pouvons saluer l'ensemble de l'experience proposee : des illustrations creees pour le quizz jusqu'a la representation des resultats tres lisible. En bref, un beau produit.   
+[Faire le test de la francophonie](https://www.24heures.ch/france-suisse-belgique-ce-test-vous-dit-dou-vous-etes-689978624847)  
+  
+| | | Le meilleur de lien de la précèdente édition  
+---  
+  
+| | L'enquete Rest of World sur WhatsApp  
+---  
+Vos doigts ont massivement appuye sur le lien dedie a cette enquete sur comment WhastApp a mange le monde (rien que ça), que nous avions appreciee pour sa direction artistique en pate a modeler (oui, vous avez bien lu).  
+[Vous l'avez rate ? Le revoici !](https://restofworld.org/2024/how-whatsapp-for-business-changed-the-world/)  
+  
+| | | Influence  
+---  
+  
+| ⚡  
+---  
+  
+| | Les podcasts mascu, l'arme fatale de Trump  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/6eb2cefc-21e0-a245-0ea6-41e4571c9f43.gif)](https://www.bloomberg.com/graphics/2025-youtube-podcast-men-for-trump/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTczNzU1ODA1NCwiZXhwIjoxNzM4MTYyODU0LCJhcnRpY2xlSWQiOiJTUUhRVDFUMEcxS1cwMCIsImJjb25uZWN0SWQiOiJFNzAxNENGQzIzNTI0MzU0QTVENUY2QkREMDAxOEU3NiJ9.GsfUMyUBAmYSDrhZnFpIDBs7BX2TjK4tcDg0IXDRKpM&leadSource=uverify%20wall)  
+---  
+C'est un sacre decryptage mediatique que propose Bloomberg tant sur le fond que la forme. Il a ete reconnu que Barron [a joue un role determinant](https://www.telegraph.co.uk/us/news/2024/10/07/barron-trump-key-to-donald-election-victory-2024/) dans la strategie media de la campagne de son pere en privilegiant des prises de parole chez des podcasteurs masculins, jeunes et conservateurs, plutot que des des medias classiques.   
+  
+Bloomberg a decortique 2000 videos de 9 podcasteurs pour souligner la presence d'elements de langage proches de ceux du Donald, dont l'influence a ete favorisee par une moderation debridee de Spotify et YouTube... Allez consulter l'article, qui mele habilement donnees, extraits et analyse critique : ça n'est pas tres rassurant.  
+[Decouvrir le decryptage data chez Bloomberg](https://www.bloomberg.com/graphics/2025-youtube-podcast-men-for-trump/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTczNzU1ODA1NCwiZXhwIjoxNzM4MTYyODU0LCJhcnRpY2xlSWQiOiJTUUhRVDFUMEcxS1cwMCIsImJjb25uZWN0SWQiOiJFNzAxNENGQzIzNTI0MzU0QTVENUY2QkREMDAxOEU3NiJ9.GsfUMyUBAmYSDrhZnFpIDBs7BX2TjK4tcDg0IXDRKpM&leadSource=uverify%20wall)  
+  
+| | | Sports  
+---  
+  
+| **🦅**  
+---  
+  
+| | **Super Bowl LIX : The Inquirer s 'envole pour la victoire des Eagles **  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/a35816aa-3561-cefc-0a72-bd03d3b89800.jpg)](https://www.inquirer.com/eagles/inq2/eagles-fans-broad-street-celebration-super-bowl-20250210.html)  
+---  
+Chaque annee, le Super Bowl est l'occasion de mettre en avant des formats XXL. Cette fois, ce sont les Eagles de Philadelphie qui ont decroche le trophee, et notre regard s'est naturellement tourne vers _The Philadelphia Inquirer_. Le quotidien local, toujours excellent sur les formats interactifs, a su s'adapter rapidement a l'actualite avec [une couverture immersive des celebrations sur Broad Street](https://www.inquirer.com/eagles/inq2/eagles-fans-broad-street-celebration-super-bowl-20250210.html), avant et apres le sacre, dans un format 360° simple mais efficace. [Notre autre article selectionne](https://www.inquirer.com/eagles/inq2/eagles-play-cooper-dejean-pick-six-analysis-play-20250211.html) revient sur l'interception decisive de (Lee) Cooper DeJean, un bel exemple de format deja existant mais reutilisable rapidement. Touchdown ! 🏈  
+[Plonger dans _The Philadelphia Inquirer_](https://www.inquirer.com/eagles/inq2/eagles-fans-broad-street-celebration-super-bowl-20250210.html)  
+  
+| | | Bonus  
+---  
+Des bons liens a cliquer sans vergogne  
+📱 C'est fou ce que 4 chiffres peuvent raconter sur vous. Le media australien ABC [fait le point de maniere pedagogique](https://www.abc.net.au/news/2025-01-28/almost-one-in-ten-people-use-the-same-four-digit-pin/103946842) sur les codes PIN les plus fragiles.  
+  
+ℹ️ Toujours au coin astuces, le WaPo [utilise son encart au sein du gabarit article](https://www.washingtonpost.com/technology/2025/01/25/reset-instagram-algorithm-titktok-fyp-youtube/) pour afficher des captures d'ecran commentees (pour ameliorer votre fil Insta, tout benef).  
+  
+🍫 Phosphore coupe le papier et [se reinvente en ligne](https://www.bayard-jeunesse.com/abonnement-phosphore.html). Par necessite certainement, mais les commentaires ne sont pas tendres sur le temps d'ecran ajoute au public ado (du temps de qualite dirons-nous). La nouvelle formule se consulte [au format _stories_](https://magazines.phosphore.com/1-donald-trump-revient-dans-le-game/24), sur un site dedie.  
+  
+🔵 C'est quoi les liens les plus partages sur Bluesky ? [Avec cet outil](https://theblue.report/), vous pouvez dorenavant le savoir.  
+  
+🏠 PBS explore la maniere dont les groupes Facebook locaux ont [comble le vide laisse par les medias ruraux disparus](https://www.rmpbs.org/blogs/community-action/facebook-groups-news-deserts-colorado). C'est pas comme ça qu'on viendra a bout de Facebook 🙃  
+  
+| | | Bim bam boum  
+---  
+On est tout bon pour aujourd'hui. Cette lecture vous aura ete utile ? On l'espere. En tout cas n'hesitez pas a nous le faire savoir !  
+  
+Une edition preparee par Lucie, Athenais, Charly, Gaetan, corrigee par Aurore.  
+par  
+| [![DATAGIF](https://newsletter.datagif.fr/ext/datagif/img/logo-big.png)](https://datagif.fr)  
+---  
+  
+| | | ![](https://newsletter.datagif.fr/ext/datagif/img/social.png) Retrouvez-nous sur les réseaux  
+---  
+[Medium](https://datagif.medium.com/) [X](https://x.com/datagif) [Bluesky](https://bsky.app/profile/datagif.bsky.social) [Instagram](https://www.instagram.com/datagif/) [Threads](https://www.threads.net/@datagif) [Linkedin](https://www.linkedin.com/company/datagif/) [Datagif.fr](https://datagif.fr/)  
+  
+| | Vous recevez cet e-mail car vous êtes inscrit•e via le site [datagif.fr](https://datagif.fr/newsletter-medias/)Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)  
+👋 [Cliquez-ici](*|UNSUB|*) pour vous désabonner  
+---

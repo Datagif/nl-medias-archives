@@ -1,0 +1,136 @@
+---  
+![Médias](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/d060cdc3-f8d4-4207-b9bb-0b8ffda1ca6f.png)  
+La veille innovation et design media par Datagif  
+  
+| *|MC_PREVIEW_TEXT|*  
+---  
+---  
+1\. Identite Le magazine The Atlantic se paye un nouveau look  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/c17f4a92-e778-415c-98ef-13238bdab095.gif)  
+---  
+The Atlantic a revu de fond en comble son identite graphique, et c'est franchement reussi !  
+  
+-- Le nouveau logo et la gamme typographique assument un penchant retro et un brin elitiste... qui colle finalement bien a ce magazine d'idees.  
+-- La lettre "A" sert desormais d'embleme au magazine. Un gimmick deja employe par de nombreux medias, mais ici tres assume en rouge.  
+-- A noter : l'application mobile a aussi pris un serieux coup de jeune. On apprecie l'onglet "Today", qui sert de briefing quotidien, avec un design qui souligne habilement l'editorialisation du format (gros coup de coeur pour le "Good morning" manuscrit).   
+  
+Jetez aussi un coup d'oeil a la video qui explique la vision creative derriere ce redesign. C'est un cas d'ecole de redesign multi-supports comme on en voit peu chez les medias.  
+---  
+![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/18dc9609-896f-45c4-9a71-0637f9446a20.jpg)  
+---  
+|  -- Decouvrez [la video et l'article](https://www.theatlantic.com/newlook/) qui expliquent tous ces changements  
+-- Testez[ l'application mobile](https://apps.apple.com/fr/app/the-atlantic-magazine/id397599894) de The Atlantic  
+---  
+---  
+2\. Data Le Figaro examine les tendances chromatiques de la Fashion Week  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/df33ff03-d3ff-46fc-8821-0fb0a986540d.gif)  
+---  
+Qui a dit que la dataviz, c'etait forcement des chiffres ? La cellule Fig Data du Figaro sort des sentiers battus avec un chouette format pour analyser les tendances de la derniere Fashion Week. La methodologie est originale : les photos des defiles ont ete passees a la moulinette algorithmique pour extraire les couleurs predominantes des tenues.   
+  
+Le resultat fait son petit effet, avec une palette de couleurs animee pour chaque marque. On aime aussi l'idee de rassembler les tenues sous forme de collage video.  
+---  
+|  -- [Decouvrir l'article](https://www.lefigaro.fr/fig-data/couleur-defiles/) chez Le Figaro  
+---  
+---  
+3\. Engagement Et si on editorialisait legerement les commentaires ?  
+|  Le Wall Street Journal teste depuis plusieurs mois une piste simple mais originale pour ameliorer la qualite de ses commentaires (qui sont au passage reserves aux abonnes).  
+  
+En l'occurence, les journalistes ouvrent desormais la discussion avec une question destinee aux lecteurs. Un investissement editorial qui ne coute pas grand chose, mais qui ne peut pas faire de mal…  
+---  
+![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/049bdd11-68e7-4fbe-8502-cdee577b6656.png)  
+---  
+|  -- [En savoir plus](https://digiday.com/uk/the-wall-street-journal-tightens-comments-strategy-to-stimulate-higher-quality-debate/) sur la strategie du Wall Street Journal en matiere de commentaires  
+---  
+---  
+4\. Streaming Wars Un outil interactif pour comparer Netflix et ses nouveaux concurrents  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/fb98c844-a10e-4c14-b426-0e5ea74b261e.png)  
+---  
+Vous en avez forcement entendu parler : Netflix sera bientot concurrence par Disney+, Apple TV+, HBO Max et consorts… Difficile de s'y retrouver pour les consommateurs.   
+  
+Heureusement, le New York Times a eu la bonne idee de decrypter le sujet avec un format facile et personnalise. L'article vous impose de repondre a 6 questions sur vos gouts en matiere de cinema et series TV.  A chaque etape, le Times vous recommande quel service serait le plus adapte a vos preferences. Et la chute de l'article vous donne la facture pour tous les services cumules. On comprend aisement que, non, cette concurrence ne semble vraiment pas soutenable.  
+---  
+![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/fdc447d1-a118-4142-b852-03f7b52c1416.png)  
+---  
+|  -- Decouvrir [le guide du streaming video](https://www.nytimes.com/interactive/2019/11/10/arts/television/what-to-stream.html) chez le New York Times  
+---  
+---  
+5\. Pour l'amour du print Cahier Central passe a la vitesse superieure  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/7b2fb75f-5027-4960-9eb2-03785f192c1c.gif)  
+---  
+Nous vous en parlions en avril dernier pour son lancement  : Cahier Central propose de recevoir chaque mois un magazine independant, deniche par l'equipe. Simple et efficace, la promesse fonctionne (nous sommes parmi les heureux abonnes).  
+  
+Le service lance desormais une campagne de crowdfunding pour diversifier son offre. Au programme : des abonnements thematiques et une ouverture a des revues internationales. À noter que Cahier Central a rejoint la promotion 2020 de l'incubateur media Creatis, pour accelerer son developpement.   
+---  
+|  -- Pour vous abonner a Cahier Central et ses revues inde, [c'est par ici](https://www.kisskissbankbank.com/fr/projects/cahier-central)  
+---  
+---  
+6\. Miam  C'est bientôt Thanksgiving ! [🦃](http://)  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/e2f1ad46-cd87-4fbf-aea3-349abf2d894a.gif)  
+---  
+Les Americains ne rigolent pas avec Thanksgiving. Le New York Times l'a bien compris et met le paquet cette annee, avec 2 idees interessantes.  
+  
+La premiere est **un guide pratique** pour reussir l'evenement quand on a une petite cuisine. La journaliste food Alison Roman livre tous ses secrets, au fil d'un long article tres bien edite. On y trouve des astuces sous forme de checklist, des photographies allechantes, et le tout renvoie bien sur vers les fiches recettes du site "Cooking" du NYT. Pour les perfectionnistes, une video de 37 minutes resume le tout sur YouTube.  
+  
+La deuxieme est **un v eritable outil pour planifier son menu**. Vous choisissez plusieurs criteres (nombre de convives, temps disponible…) et l'outil vous propose des recettes adaptees. C'est malin, c'est gourmand, c'est croquant.  
+---  
+|  --  Si vous disposez de trois jours pour preparer un diner, [decouvrez la methode d'Alison Roman](https://www.nytimes.com/interactive/2019/dining/alison-roman-thanksgiving.html?action=click&module=Top%20Stories&pgtype=Homepage)  
+-- Ou essayez l'outil ["Thanksgiving Menu Planner"](https://www.nytimes.com/interactive/2019/dining/alison-roman-thanksgiving.html?action=click&module=Top%20Stories&pgtype=Homepage) sur le site Cooking  
+---  
+---  
+7\. Habillages TV Parler d'habillages TV dans un podcast ? C'est l'exploit releve par **LeNodal.com** , fameux site dedie aux identites televisuelles en tout genre. Dans [le dernier episode](https://podcasts.apple.com/fr/podcast/lenodal-le-podcast/id1482647646), les contributeurs passionnes du site se penchent sur les coulisses des sequences "breaking news" a la television.   
+---  
+8\. Elections Le bilan du scrutin presidentiel au Canada  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/d62975ce-02ff-42fe-bc18-4206bd25fc60.png)  
+---  
+Les elections federales canadiennes ont eu lieu le mois dernier, et Radio-Canada a degaine un dispositif plutot reussi pour analyser les resultats. Le media public a ainsi publie 2 decryptages en format "scrollytelling" (les elements s'animent au scroll) :   
+  
+-- **Une analyse des r esultats** dans les circonscriptions cles, a base de cartographie  
+  
+-- **Un d ecryptage du systeme electoral** canadien face a d'autres modes de scrutin, et l'impact theorique sur les resultats  
+---  
+|  -- Voir [les resultats en cartes](https://ici.radio-canada.ca/info/2019/elections-federales/resultats-cartes-vainqueur-perdant-partis-circonscriptions/)  
+-- Voir [le decryptage sur les modes de scrutin](https://ici.radio-canada.ca/info/2019/elections-federales/mode-scrutin-proportionnelle-mixte-compensatoire/)  
+---  
+---  
+9\. Churn Comment limiter la desinscription de votre newsletter ? Le portail d'info britannique InYourArea propose une astuce originale : si vous avez clique sur le lien de desinscription, il vous suggere un rythme de publication plus leger (ici hebdomadaire). Efficace pour fideliser sans spammer.  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/06a6eca5-7bd7-4f27-969d-12dd48b3af4f.jpg)  
+---  
+---  
+10\. Climat Un dispositif complet sur la crise climatique  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/23fec65a-c6ce-4042-b84d-cf242150bdf8.png)  
+---  
+Le Washington Post s'empare du changement climatique a travers un dispositif ambitieux. Le site propose 6 longs reportages visuels, organises par pays : Etats-Unis, Canada, Uruguay, Siberie, Quatar et Japon...  
+  
+Sur la forme :   
+-- Un bel usage du photo-reportage (la nature qui se dechaine est malheureusement tres photogenique 😬)  
+-- des graphiques animes qui montrent l'ampleur et la vitesse du phenomene  
+-- des mini-documentaires video, a grand renfort d'explications scientifiques (comme sur le permafrost siberien)  
+  
+Detail malin a noter : le Washington Post a pense a son audience europeenne et permet de convertir toutes les temperatures Fahrenheit en Celsius a l'interieur des articles !  
+---  
+![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/c7aee82d-b3bd-488a-b4c9-b7852010aee7.gif)  
+---  
+|  -- Un dossier du Washington Post [a lire ici](https://www.washingtonpost.com/graphics/2019/world/climate-environment/climate-change-japan-pacific-sea-salmon-ice-loss/)  
+---  
+Vous recevez cet e-mail car vous êtes inscrit•e via le site   
+[medias.datagif.fr](https://medias.datagif.fr/)   
+  
+🏄‍   
+Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)   
+  
+📪  
+Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)   
+  
+✌️  
+Retrouvez la veille et les projets de Datagif sur   
+[Medium](https://medium.com/Datagif) \- [Twitter](https://twitter.com/datagif) \- [Instagram](https://www.instagram.com/datagif) \- [Datagif.fr](https://datagif.fr)   
+  
+👋   
+[Cliquez-ici](*|UNSUB|*) pour vous désabonner   
+  
+  
+*|IF:REWARDS|* *|HTML:REWARDS|* *|END:IF|*   
+  
+  
+---

@@ -1,0 +1,261 @@
+*|MC_PREVIEW_TEXT|*  
+  
+͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿
+
+| | [Ouvrir dans le navigateur](*|ARCHIVE|*)  
+---  
+| ![Médias](https://newsletter.datagif.fr/ext/datagif/img/medias.png)  
+---  
+La veille innovation et design média par DATAGIF  
+  
+| |   
+---  
+  
+| | | La fin d'annee arrive a grands pas et on voit fleurir les traditionnels articles de listes et selections de cadeaux. Laissez-nous encore quelques semaines et on vous partage le meilleur de ce format aussi incontournable que puissant en termes de trafic. En attendant, voila de quoi cliquer toute la matinee !  
+---  
+  
+| |   
+---  
+  
+| | | 
+
+## 1\. Climat
+
+##  Visualiser l'evolution des temperatures ville par ville depuis votre naissance  
+  
+---  
+  
+| | | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/e04dcc7a-2ed8-4ed8-78dd-46f5d1e70d0d.png)](https://s.ouest-france.fr/assets/rechauffement/index.html)  
+---  
+  
+| | Le Monde avait deja [publie](https://www.lemonde.fr/les-decodeurs/article/2023/08/21/comparez-la-temperature-du-jour-avec-celle-des-annees-precedentes-dans-votre-ville_6170620_4355771.html#7280) un outil similaire permettant de comparer la meteo du jour avec celles des annees precedentes, la RTBF montrait les changements a venir [dans les communes belges](https://rtbfmedia.be/rtbfinfo/climat/index.html) ; c'est au tour de Ouest France de proposer un outil interactif sur l'evolution probable des temperatures dans votre commune jusqu'a la fin du siecle. On apprecie notamment l'utilisation tres visuelle et desormais imposee du graphique du "code-barre" des temperatures par annee... Et evidemment, l'orientation locale, avec la possibilite de partager la fiche recapitulative de sa ville.  
+---  
+| | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[Consulter la data-visualisation interactive](https://s.ouest-france.fr/assets/rechauffement/index.html) de Ouest-France  
+  
+| |   
+---  
+  
+| | | 
+
+## 2\. Business
+
+## Taylor Swift bientot enseignee en cours d'economie ?  
+  
+---  
+  
+| | | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/1ad110e7-a84c-17f3-1265-767ca04b5c84.jpg)  
+---  
+  
+| | C'est un cas d'ecole qui semble faire date. La tournee "Eras's Tour" de la chanteuse fait changer de mains des milliards de dollars et forcement, ça interesse les rubriques eco d'un certain nombre de medias.   
+  
+• [The Washington Post vous propose donc de revoir le concept de l'economie au sens large](https://www.washingtonpost.com/business/2023/10/13/taylor-swift-eras-tour-money-jobs/), sous l'angle Taylor Swift. Rien que ça. L'article qualifie la tournee de ruee vers l'or et decortique a l'aide d'une direction artistique tres _Switftie_ les cles du succes.  
+• Pour un contenu proche, [Bloomberg a choisi l'angle visuel des colliers de perles](https://www.bloomberg.com/graphics/2023-taylor-swift-net-worth-billionaire/), _goodies_ distribues lors des concerts. Un decalage graphiquement ose mais tres parlant.   
+---  
+---  
+  
+| |   
+---  
+  
+| | | 
+
+## 3\. Mise en situation
+
+## Mettez-vous dans la peau d'un*e journaliste enquetant sur les algorithmes  
+  
+---  
+  
+| | | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/040c1914-7602-71cb-47a7-991fb581ecfb.jpg)](https://algorithmwatch.github.io/can-you-break-the-algorithm/#/)  
+---  
+  
+| | L'ONG berlinoise [AlgorithmWatch](https://algorithmwatch.org/en/) propose un jeu d'investigation dont vous etes le heros ayant pour objectif d'expliquer aux journalistes les complexites des systemes bases sur les algorithmes de recommandation, comme les reseaux sociaux.  
+  
+Cette experience d'a peu pres une demi-heure est une excellente reutilisation du moteur du precedent jeu "[Le Bon, la Brute et le Comptable](https://jplusplus.github.io/the-accountant/fr.html#/)" et a ete realisee avec l'aide de nos voisins de bureau [The Pixel Hunt,](https://www.thepixelhunt.com/fr/) specialise dans la production de _newsgames_.  
+---  
+| | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[Jouer a casser l'algorithme de "TikTube"](https://algorithmwatch.github.io/can-you-break-the-algorithm/#/)  
+  
+| |   
+---  
+  
+| | | 
+
+## 👀 Bureaux
+
+## Vous etes independant*e et en avez marre de parler a votre chat ? On vous comprend.  
+  
+---  
+  
+| | | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/af588b66-6470-7099-a50f-709ef2a57a22.jpg)  
+---  
+  
+| | On met a disposition quelques postes dans notre bureau a Paris dans le 11e, metro Charonne.  
+  
+• location au poste : 350€/mois par poste  
+• dans un bureau de 16m2, avec 4 postes au total  
+• emplacement fixe avec bureau et casier  
+• 2 salles de reunions  
+• fibre  
+• cuisine avec the et cafe a disposition  
+• la vie de bureau partagee avec Datagif ✨  
+  
+👀 Interesse*e ? Contactez-nous : contact@datagif.fr  
+---  
+---  
+  
+| |   
+---  
+  
+| | | 
+
+## 4\. Melting pot
+
+## Ça faisait longtemps, voici une selection non thematisee de liens qu'on a trouve cools cette semaine  
+  
+---  
+  
+| | | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/44b1d259-e990-b9b4-ff64-dd6c02bc4969.jpg)  
+---  
+  
+| | 😍 The Greats par le NYT Style Magazine : quatre portraits, et un detail qui tue : [le logo du magazine en curseur](https://www.nytimes.com/interactive/2023/10/19/t-magazine/greats-latifah-bening-prada-taylor.html) par-dessus les portraits.  
+  
+🗓️ Vous cherchez l'inspiration d'une frise chronologique bien fichue ? [Celle-ci dediee a l'histoire des influenceurs](https://www.washingtonpost.com/technology/interactive/2023/influencers-timeline-money-blogs-tiktok-youtube/) est un bon point de depart.  
+  
+💢 Qui soutient qui ? Le Monde a cree [le tableau croise ultime](https://www.lemonde.fr/les-decodeurs/article/2023/10/30/israel-palestine-qui-soutient-qui-qui-est-l-ennemi-de-qui-la-complexe-mosaique-des-relations-diplomatiques-au-proche-orient_6196637_4355771.html) pour s'y retrouver dans le conflit Palestine-Israel pas si binaire.  
+  
+🔭 Ce que le telescope James Webb a apporte a l'humanite, raconte avec des photos du cosmos et [un touchant traite illustratif au trait](https://www.nytimes.com/interactive/2023/11/05/magazine/james-webb-space-telescope.html).  
+  
+💧 [Le meme traite au crayon blanc](https://www.washingtonpost.com/world/interactive/2023/gaza-israel-water-crisis/), cette fois pour evoquer la penurie d'eau a Gaza.  
+  
+🍴 Et enfin, comment battre le _reservation game_ dans [un article pedagogique tout en pixel art façon Pokemon sur Gameboy Color](https://www.nytimes.com/interactive/2023/10/23/dining/restaurant-reservations-nyc.html). Un melange qui marche a la perfection.  
+---  
+---  
+  
+| |   
+---  
+  
+| | | 
+
+## 5\. Dataviz
+
+## Le Washington Post dedie une serie d'articles aux tueries de masse aux US  
+  
+---  
+  
+| | | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/990eb1eb-9c19-17ee-9867-8c1876c64067.jpg)](https://www.washingtonpost.com/nation/interactive/mass-shootings/)  
+---  
+  
+| | Depuis la fin du mois d'octobre, le Washington Post a consacre une serie de 4 articles pour traiter des tueries de masse par armes a feu. [Qui](https://www.washingtonpost.com/nation/interactive/mass-shootings/?itid=lk_inline_manual_1) sont les victimes (avec leur nom, leur age, leur lien avec le meurtrier) ? [Quelles armes](https://www.washingtonpost.com/nation/interactive/mass-shootings/mass-killings-no-gun/?itid=inline_explore-series-victims-to-others) ont ete utilisees ? [Quel est le profil ](https://www.washingtonpost.com/nation/interactive/mass-shootings/shooters/?itid=inline_explore-series-victims-to-shooters)des assassins ? [Ou](https://www.washingtonpost.com/nation/interactive/mass-shootings/where-in-us-america/?itid=inline_explore-series-victims-to-locations) ces tueries ont-elles lieu ? Pour repondre a ces questions, le media americain propose plusieurs **repr esentations graphiques interactives bien pensees**, permettant dans le meme temps de briser certaines idees reçues.   
+---  
+| | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[Explorer le dossier complet](https://www.washingtonpost.com/nation/interactive/mass-shootings/) chez le Washington Post  
+  
+| |   
+---  
+  
+| | | | ![](https://newsletter.datagif.fr/ext/datagif/img/mail.png)  
+---  
+Bienvenue dans cette newsletter 👋  
+Nous sommes [une agence de conseil et design](http://datagif.fr/) qui travaille sur des sujets de design d'information. Pour suivre notre veille, un seul bouton :  
+| [Woop woop](https://datagif.fr/newsletter-medias/)  
+---  
+  
+| |   
+---  
+  
+| | | 
+
+## 6\. Animation
+
+## Walt Disney Studios fete ses 100 ans  
+  
+---  
+  
+| | | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/ed60b02f-8f7d-1353-4d3e-ef19e235006c.gif)](https://www.reuters.com/graphics/DISNEY-100/HISTORY/znvnzmzgjvl/)  
+---  
+  
+| | Pour l'occasion, Reuters revient sur l'histoire du mythique studio et sur les evolutions que l'entreprise a du mettre en place pour traverser les ages. Qu'il s'agisse des illustrations, de l'animation, ou meme du materiel technique, le media londonien decortique l'epopee de Walt Disney Studios dans un **long format aussi narratif qu 'immersif**.   
+---  
+| | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[Plonger dans l'histoire](https://www.reuters.com/graphics/DISNEY-100/HISTORY/znvnzmzgjvl/) des studios Walt Disney  
+  
+| |   
+---  
+  
+| | | | ![](https://newsletter.datagif.fr/ext/datagif/img/reseaux.png)  
+---  
+Retrouvez la veille et les projets de Datagif sur  
+[Medium](https://datagif.medium.com/) • [X](https://twitter.com/datagif) • [Bluesky](https://bsky.app/profile/datagif.bsky.social) • [Instagram](https://www.instagram.com/datagif/) • [Linkedin](https://www.linkedin.com/company/datagif/) • [Datagif.fr](https://datagif.fr/)  
+  
+  
+| |   
+---  
+  
+| | | 
+
+## 7\. Pedagogie
+
+## Les elections du conseil municipal de Philadelphie en pizza  
+  
+---  
+  
+| | | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/19c3540c-fa14-9e48-5853-60c3a29f34e7.jpg)](https://www.inquirer.com/politics/election/inq2/philadelphia-city-council-at-large-election-explained-pizza-20231102.html)  
+---  
+  
+| | Des pizze pour les democrates, des sandwichs pour les republicains et des bretzels pour le parti progressiste, c'est ainsi que le Philadelphia Inquirer a schematise le deroule des elections du conseil municipal de la plus grande ville de Pennsylvanie. Une maniere ludique de **simplifier un processus qui para it bien complexe**. Et parce que le media local ne fait pas les choses a moitie, il propose egalement a son lectorat un [petit guide](https://www.inquirer.com/politics/election/inq2/at-large-philadelphia-city-council-candidates-2023-20231017.html) synthetique et bien pense pour l'aider a faire un choix eclaire lors du suffrage a venir.   
+---  
+| | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[Comprendre le deroule des elections](https://www.inquirer.com/politics/election/inq2/philadelphia-city-council-at-large-election-explained-pizza-20231102.html) du conseil municipal de Philadephie et avoir faim ensuite  
+  
+| |   
+---  
+  
+| | | 
+
+## 8\. Ultra local
+
+## De l'importance de valoriser les micro-quartiers  
+  
+---  
+  
+| | | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/90c2d41d-b3ed-78d2-01c6-7d7988d90914.jpg)](https://www.nytimes.com/interactive/2023/upshot/extremely-detailed-nyc-neighborhood-map.html)  
+---  
+  
+| | Tout a commence avec une interrogation : pourquoi dans Google Maps, un endroit de New York s'appelle "Little Yemen" ? Apres investigation, il s'agit d'une contribution individuelle, validee par la plateforme. En decembre 2022, le NYT [a demande a ses lecteurs](https://www.nytimes.com/interactive/2022/12/02/upshot/draw-your-nyc-neighborhood.html) de definir leurs quartiers. Presque un an plus tard, [le resultat est passionnant](https://www.nytimes.com/interactive/2023/upshot/extremely-detailed-nyc-neighborhood-map.html) : les frontieres sont parfois floues, parfois nettes, parfois definies par une rue ou un parc, parfois symboliques.   
+  
+Cet exemple New-Yorkais cherche a montrer la variete (et l'importance !) des noms des micro-quartiers, pour illustrer la diversite et la richesse culturelle des populations qui les habitent. Mais en realite, cela fonctionne avec toute zone geographique restreinte. La methodologie [detaillee dans un article a part](https://www.nytimes.com/interactive/2023/10/29/upshot/new-york-neighborhood-guide.html) raconte parfaitement l'approche et**l 'envie de creer un meilleur lien avec l'audience du media**. À reproduire aisement dans n'importe quelle ville !  
+---  
+| | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+Perdez-vous [dans les micro-quartiers de New York](https://www.nytimes.com/interactive/2023/upshot/extremely-detailed-nyc-neighborhood-map.html)  
+  
+| |   
+---  
+  
+| |   
+---  
+  
+| | 🔵 Vous avez ete nombreux*ses a rejoindre Bluesky suite a nos partages de codes, de nouveaux sont disponibles donc si l'aventure vous tente ecrivez-nous !  
+---  
+  
+| | | ![](http://gallery.mailchimp.com/653153ae841fd11de66ad181a/images/transparent.gif)  
+---  
+  
+| |   
+---  
+  
+| | Vous recevez cet e-mail car vous êtes inscrit•e via le site [datagif.fr](https://datagif.fr/newsletter-medias/)Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)  
+👋 [Cliquez-ici](*|UNSUB|*) pour vous désabonner  
+---  
+  
+| | DATAGIF  
+---  
+  
+| |   
+---

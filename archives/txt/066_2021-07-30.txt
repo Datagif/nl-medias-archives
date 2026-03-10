@@ -1,0 +1,107 @@
+---  
+![Médias](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/d060cdc3-f8d4-4207-b9bb-0b8ffda1ca6f.png)  
+La veille innovation et design media par Datagif  
+  
+| *|MC_PREVIEW_TEXT|*  
+---  
+---  
+1\. JO Des medailles a gogo [🥇](https://emojiterra.com/fr/medaille-dor/)  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/7d8eee41-8e62-053d-43c2-f4b8ac2848fa.png)  
+---  
+Les Jeux Olympiques, c'est avant tout de la competition et du chauvinisme. La plupart des sites d'info proposent ainsi un suivi des fameuses medailles. Nos preferes :   
+  
+-- Chez le [Washington Post](https://www.washingtonpost.com/sports/olympics/interactive/2021/olympic-medal-count-results/?itid=sf_olympics_olympics-top-table) : une page sobre et editorialisee pour eviter l'overdose de chiffres  
+  
+-- A l'inverse, [Bloomberg](https://www.bloomberg.com/graphics/tokyo-2020-summer-olympics-medal-count/) nous sort un dashboard tres complet avec un decoupage par jour + un gros focus sur la comparaison dans le temps avec les precedentes editions   
+  
+-- [FiveThirtyEight](https://projects.fivethirtyeight.com/olympics-medal-count/) pour l'angle "prediction", qui confronte les resultats aux projections statistiques de victoire  
+  
+-- [The Guardian](https://www.theguardian.com/sport/ng-interactive/2021/jul/26/tokyo-2020-olympics-full-medal-table) propose un tableau a tiroirs assez simple et efficace (meme chose chez [Le Figaro](https://www.lefigaro.fr/sports/jeux-olympiques/tokyo-2020/medailles))   
+  
+-- [L'Equipe](https://www.lequipe.fr/jeux-olympiques-ete/page-tableau-des-medailles/par-pays) a la bonne idee d'afficher le classement par athletes  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/1b50ad73-61b7-f521-ca16-428ec27890ca.png)  
+---  
+---  
+2. JO  Un couloir de nage dans vos Stories  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/55d776ab-06bb-d6b1-62ad-0bea85113f62.png)  
+---  
+Le New York Times a eu une idee geniale pour raconter les epreuves de natation des JO. Le journal reconstitue les courses avec des animations 3D ultra-precises, en accelere.   
+  
+L'idee est simple mais l'execution sans doute tres complexe techniquement. En tout cas, le resultat est saisissant sur Instagram et sur le site du journal. Meme plus besoin d'avoir les droits de retransmission tele !  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/f2b38e53-f2ad-e125-9a27-af62e359cd2f.gif)  
+---  
+|  -- Voir l'animation sur le site [du NYT](https://www.nytimes.com/2021/07/25/sports/olympics/ariarne-titmus-400m-freestyle-beats-ledecky.html)  
+---  
+---  
+3\. JO L'effet « wahou »  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/186f08f6-b989-07d6-9675-0f7160fed914.png)  
+---  
+Les Jeux Olympiques sont toujours l'occasion pour certains medias d'experimenter des formats immersifs, a la recherche du fameux effet « wahou ».  
+  
+Cette annee, on a bien aime ce format 3D du [New York Times](https://www.nytimes.com/interactive/2021/sports/olympics/dalilah-muhammad-track.html), qui decrypte la technicite de 4 athletes. Mais aussi le [Washington Post](https://www.washingtonpost.com/sports/olympics/interactive/2021/sport-climbing-brooke-raboutou-augmented-reality/) qui nous plonge sur un mur d'escalade en realite augmentee (a tester depuis son mobile).  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/7790a530-47f3-55fe-9977-0b8da5bada05.png)  
+---  
+---  
+4\. Audio La nouvelle plateforme web de Radio France  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/d634a942-9148-264e-c96b-38cddb93d8f8.jpg)  
+---  
+Dans la lignee de sa tres bonne application mobile, Radio France vient de mettre en ligne sa nouvelle plateforme d'ecoute web, en version beta. Un site commun a toutes les stations qui brille par sa simplicite d'utilisation et sa fluidite.  
+  
+Le site beta se concentre pour l'instant sur les usages principaux de la radio : le direct accessible en un clic, la grille des programmes du jour, ou encore un raccourci vers le dernier flash de Franceinfo. La navigation entre les stations est aussi bien pensee. On se demande juste ce qu'il va advenir des sites de chaque chaine desormais...  
+---  
+|  -- Visiter la nouvelle plateforme de [Radio France](https://www.radiofrance.fr/)  
+---  
+---  
+5\. Incendies Des donnees precieuses  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/701867b2-5556-66fe-d618-8661b3c9afb9.gif)  
+---  
+Synonyme d'incendies de forets, l'ete devient invivable dans l'ouest des États-Unis ou au Canada.  
+  
+Pour informer les populations a risque, les medias americains developpent des outils de suivi, tant sur la propagation des feux que sur la qualite de l'air. On relevera ainsi le tracker du [New York Times](https://www.nytimes.com/interactive/2021/us/wildfires-air-quality-tracker.html?referringSource=articleShare), visuellement tres reussi. Mais aussi celui du [San Francisco Chronicle](https://www.sfchronicle.com/projects/california-fire-map/) ou encore de [BuzzFeed](https://www.buzzfeednews.com/article/peteraldhous/2021-wildfire-maps-data). Des donnees qui risquent de devenir malheureusement precieuses en France aussi...  
+---  
+---  
+6\. Detail Des recommandations cousues main  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/f56a5dee-7ee8-4c55-5ddd-16080b8beff5.png)  
+---  
+Le Washington Post a recemment eu la bonne idee de distinguer ses blocs de recommandations editorialisees avec un petit label « Hand Curated » (selectionne a la main). Une volonte de souligner l'editorialisation,  a l'heure ou les medias en ligne proposent a leurs lecteurs des suggestions souvent automatiques et pas toujours pertinentes.  
+---  
+---  
+7\. Tech Les embeds : un risque pour les medias ?  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/316b33f8-903d-f58f-b081-5598b807c6fb.jpeg)  
+---  
+Nombreux sont les medias qui ont recours a des "embeds" dans leurs articles. Que ce soit pour des dataviz, des videos ou autre, ces services externes peuvent faciliter la vie des journalistes... mais presentent aussi des risques a long terme.  
+  
+D'abord pour la duree de vie des contenus : les services utilises ne sont pas immortels et vos contenus peuvent disparaitre du jour au lendemain. D'apres [La Revue des Medias](https://larevuedesmedias.ina.fr/gaza-sderot-conservation-webdocumentaire-memoire-internet-flash), deux tiers des 1200 formats enrichis produits par Le Monde entre 2010 et 2018 ne sont desormais plus fonctionnels.  
+  
+Mais pire, ces petits bouts de code sont maitrises par des tiers et peuvent se transformer en tout et n'importe quoi... Des medias americains comme le Washington Post [viennent d'en faire l'experience](https://www.vice.com/en/article/qj8xz3/a-defunct-video-hosting-site-is-flooding-normal-websites-with-hardcore-porn) depuis qu'un site porno a rachete le vieux service de video VidMe. Imaginez si cela devait arriver a Dailymotion dans quelques annees...  
+---  
+---  
+C'est tout pour aujourd'hui ! (Si vous nous lisez en vacances, eteignez tout de suite ce telephone !!!)  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/08319a7d-517d-0afe-3248-d7835bf1ee68.gif)  
+---  
+---  
+Vous recevez cet e-mail car vous êtes inscrit•e via le site   
+[medias.datagif.fr](https://medias.datagif.fr/)   
+  
+🏄‍   
+Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)   
+  
+📪  
+Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)   
+  
+✌️  
+Retrouvez la veille et les projets de Datagif sur   
+[Medium](https://medium.com/Datagif) \- [Twitter](https://twitter.com/datagif) \- [Instagram](https://www.instagram.com/datagif) \- [Datagif.fr](https://datagif.fr)   
+  
+👋   
+[Cliquez-ici](*|UNSUB|*) pour vous désabonner   
+  
+  
+*|IF:REWARDS|* *|HTML:REWARDS|* *|END:IF|*   
+  
+  
+---

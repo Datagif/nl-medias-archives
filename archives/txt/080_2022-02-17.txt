@@ -1,0 +1,218 @@
+|  | [Ouvrir dans le navigateur](*|ARCHIVE|*)  
+---  
+|  ![Médias](https://newsletter.datagif.fr/ext/datagif/img/medias.png)  
+---  
+La veille innovation et design média par DATAGIF  
+  
+|  | *|MC_PREVIEW_TEXT|*  
+---  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 1\. Deformation
+
+## The Pudding analyse la representation alteree des femmes dans 380 000 titres d'articles  
+  
+---  
+  
+|  |  |  [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/7c373a31-ff4d-4d15-2503-f8535a90b416.jpg)](https://pudding.cool/2022/02/women-in-headlines/)  
+---  
+  
+|  | L'enquete est impressionnante et richement illustree de graphiques revelateurs. Meme si elle ne couvre que des medias anglophones, elle permet d'illustrer des tendances de fond, en evolution sur 15 ans. En synthese :  
+• les titres concernants des femmes tirent davantage vers le sensationnel  
+• les adjectifs pejoratifs genres diminuent  
+• les adjectifs de force et succes augmentent  
+• les adjectifs dramatiques restent constants  
+---  
+|  |  ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+Explorez l'enquete [chez The Pudding](https://pudding.cool/2022/02/women-in-headlines/)  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 2\. RGPD
+
+## Haro sur les transferts de donnees personnelles 🇪🇺  
+  
+---  
+  
+|  | La nouvelle a fait l'effet d'une bombe : la CNIL [condamne](https://twitter.com/CNIL/status/1491692277709815810) l'utilisation de Google Analytics. Depuis quelques temps, ce genre de decisions se multiplient en Europe, voici quelques lectures pour s'y retrouver :  
+  
+1️⃣ [Numerama](https://www.numerama.com/tech/849669-4-questions-pour-comprendre-ce-que-la-cnil-reproche-a-google-analytics.html) vous explique ce qu'implique cette annonce  
+2️⃣ Une analyse de la part de [Mediapart](https://www.mediapart.fr/journal/france/100222/la-cnil-juge-que-google-analytics-viole-la-legislation-europeenne), pour mieux comprendre les consequences de l'arret _Schrems II_  
+3️⃣ Encore Google : un site web a ete condamne en Allemagne pour avoir piste ses visiteurs [via Google Fonts](https://web.developpez.com/actu/330644/Un-site-Web-condamne-a-une-amende-par-un-tribunal-allemand-pour-avoir-divulgue-l-adresse-IP-d-un-visiteur-via-Google-Fonts-le-proprietaire-du-site-risque-une-peine-de-prison-en-cas-de-recidive/)  
+4️⃣ En Belgique, c'est l'[IAB](https://www.rtbf.be/article/l-autorite-de-protection-des-donnees-declare-que-la-publicite-en-ligne-viole-le-rgpd-10928033), organisation regroupant les acteurs de la publicite en ligne, qui s'est fait taper sur les doigts pour violation du RGPD  
+5️⃣ Souvenez-vous : il y a deux semaines, Meta menaçait de fermer ses services en Europe suite a la reglementation europeenne. Puis en fait non, on avait [mal compris](https://www.blogdumoderateur.com/facebook-instagram-fermeront-pas-europe-meta-explique/)  
+6️⃣ [Les Echos](https://www.lesechos.fr/tech-medias/hightech/lutilisation-de-google-analytics-enfreint-le-droit-europeen-selon-la-cnil-1386157) vous previennent : « L'interdiction de Google Analytics, ce n'est que le debut. C'est presque anecdotique »  
+7️⃣ En attendant, si vous etes un utilisateur de "GA", le [Blog du Moderateur](https://www.blogdumoderateur.com/google-analytics-rgpd-que-faire/) vous dit quoi faire.  
+---  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 3\. Visualisation
+
+## Repenser le tableau des médailles  
+  
+---  
+  
+|  |  |  [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/8c4b3745-67da-fd5b-8d86-04728b0878da.gif)](https://www.nytimes.com/interactive/2022/02/07/upshot/which-country-leads-olympic-medal-count.html)  
+---  
+  
+|  | C'est le retour des Jeux Olympiques, et avec eux de l'inenarrable question du tableau des medailles : comment faire le compte pour etablir le classement des pays ? Que vaut une medaille d'or, d'argent ou de bronze ? Si la solution consiste generalement a s'arreter aux medailles d'or, le New York Times rouvre le debat de maniere inventive avec une serie de graphiques qui permet de visualiser a quoi ressemblerait le classement avec d'autres modes de calculs.  
+  
+Le grand-format, impressionnant de maitrise et de simplicite, propose deux possibilites : determiner d'emblee le poids a accorder a chaque medaille et observer le resultat sur le classement qui se met a jour automatiquement, ou survoler les graphiques de chaque pays pour voir se modifier la ponderation des medailles, et avec elle le classement. Le moyen ideal d'obtenir en toute bonne foi le calcul le plus favorable au pays qu'on soutient.  
+---  
+|  |  ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+Explorez [le poids des medailles chez le New York Times](https://www.nytimes.com/interactive/2022/02/07/upshot/which-country-leads-olympic-medal-count.html)  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 4\. Recyclage
+
+## Les JO sont le bon moment pour ressortir les formats qui fonctionnent  
+  
+---  
+  
+|  |  |  [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/a4ac4836-97cc-4b5d-0d05-e1926fe04c02.jpg)](http://%20https//qz.com/2126051/entry-level-costs-of-starting-a-winter-olympic-sport/)  
+---  
+  
+|  | En voici deux exemples particulierement probants :   
+• Vous revez de devenir champion.ne olympique ? Si l'on part du principe que vous avez le talent, quel est le cout d'acces aux differentes disciplines ? [Un article melant chiffres et illustrations y repond chez Quartz](http:// https://qz.com/2126051/entry-level-costs-of-starting-a-winter-olympic-sport/), qui avait realise exactement le meme exercice pour les [JO d'ete](https://qz.com/2039725/costs-to-play-pentathalon-canoe-slalom-and-other-olympic-sports/).   
+• Creer un tableau des medailles necessite de le rentabiliser sur plusieurs editions ; c'est le cas de Bloomberg, [qui propose un outil complet](https://www.bloomberg.com/graphics/beijing-2022-winter-olympics-medal-count/), lisible et illustre par ses icones que l'on adore, dans la continuite des jeux d'ete !  
+---  
+---  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 5\. Quiz
+
+## Est-ce que le burn-out vous guette ?  
+  
+---  
+  
+|  |  |  [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/ec23077c-c122-1807-0cb7-ef35055a26f6.gif)](https://www.wsj.com/articles/symptoms-job-work-burnout-quiz-diagnose-yourself-11644024407)  
+---  
+  
+|  | Le Wall Street Journal s'inquiete de la sante mentale ses lecteur*rices : grace a un test rapide en six questions, le media americain propose de determiner le risque de burn-out auquel on est le plus expose*e. Sentiment d'inutilite, epuisement, detachement face au travail... Les resultats du test, en plus de donner des conseils pour faire face a ces situations, sont l'occasion de detailler les differents types de burn-outs. Un format accessible pour traiter le sujet (moins drole) de l'epuisement professionnel.  
+---  
+|  |  ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+Faites le test [sur le site du Wall Street Journal](https://www.wsj.com/articles/symptoms-job-work-burnout-quiz-diagnose-yourself-11644024407)  
+  
+|  |   
+---  
+  
+|  |  |  |  ![](https://newsletter.datagif.fr/ext/datagif/img/reseaux.png)  
+---  
+Retrouvez la veille et les projets de Datagif sur [Medium](https://datagif.medium.com/) • [Twitter](https://twitter.com/datagif) • [Instagram](https://www.instagram.com/datagif/) • [Datagif.fr](https://datagif.fr/)  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 6\. Dossier
+
+## Un ensemble d'articles immersifs sur la peur des athletes aux jeux olympiques  
+  
+---  
+  
+|  |  |  [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/0c5b114e-c459-3bd0-64f3-5b54a8d5a847.gif)](https://www.nytimes.com/interactive/2022/sports/olympics/athletes-winter-injuries.html)  
+---  
+  
+|  | Dans un ensemble de cinq articles, le New York Times explore des questions fondamentales qui inquietent tout athlete. Ce qui a retenu notre attention : l'usage intelligent de la video, parfois sous forme de portrait, parfois de maniere immersive, pour appuyer le propos. Un dossier tres bien ficele, en support de l'actualite des jeux.  
+---  
+|  |  ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+Decouvrez les cinq grandes peurs des athletes [chez le NYT](https://www.nytimes.com/interactive/2022/sports/olympics/athletes-winter-injuries.html)  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 7\. Cartes
+
+## Troupes, bases militaires : Reuters illustre l'agitation Russe le long des frontieres ukrainiennes sur fond de vues satellite avant / apres  
+  
+---  
+  
+|  |  |  [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/1bcaac62-0a72-7741-ae1b-6010ff64be6e.gif)](https://graphics.reuters.com/RUSSIA-UKRAINE/dwpkrkwkgvm/)  
+---  
+  
+|  |   
+---  
+|  |  ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+Visualisez ce format aussi simple qu'inquietant [chez Reuters](https://graphics.reuters.com/RUSSIA-UKRAINE/dwpkrkwkgvm/)  
+  
+|  |   
+---  
+  
+|  |  |  |  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/4f7b21e7-fe59-d0ba-433a-75db5becf4d4.png)  
+---  
+On vous a transfere cette newsletter et vous n'etes pas encore inscrit.e ? Vous etes a un clic de resoudre cela :  
+|  [S'abonner a la newsletter](https://datagif.fr/newsletter-medias/)  
+---  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 8\. Abonne.e.s
+
+## À chaque lecteur ou lectrice, sa diversite de contenus  
+  
+---  
+  
+|  |  |  [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/191b5ff0-5409-b3d9-51f7-d57a7ad1f0e1.jpg)](https://www.nytimes.com/subscription/truth/independent-life)  
+---  
+  
+|  | C'est ce que l'on retient de la tres juste campagne d'abonnement du NYT : cinq portraits d'abonne.es, a travers une selection d'articles qui racontent les multiples facettes de leurs personnalites. C'est tres malin, efficace et bien realise, notamment avec les videos qui accompagnement le dispositif.  
+---  
+|  |  ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+Decouvrez la campagne [chez le NYT](http:// https://www.nytimes.com/subscription/truth/independent-life)  
+  
+|  |   
+---  
+  
+|  |   
+---  
+  
+|  | Et voici pour l'edition n°80, particulierement tournee vers l'international. Vous souhaitez echanger avec nous sur un projet, refonte, un nouveau produit media ? [Nous echangerons volontiers avec vous](https://datagif.fr/medias/) 👀  
+---  
+  
+|  |  |  ![](http://gallery.mailchimp.com/653153ae841fd11de66ad181a/images/transparent.gif)  
+---  
+  
+|  |   
+---  
+  
+|  | Vous recevez cet e-mail car vous êtes inscrit•e via le site [datagif.fr](https://datagif.fr/newsletter-medias/)Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)  
+👋 [Cliquez-ici](*|UNSUB|*) pour vous désabonner  
+---  
+  
+|  | DATAGIF  
+---  
+  
+|  |   
+---

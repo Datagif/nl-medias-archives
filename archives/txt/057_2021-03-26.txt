@@ -1,0 +1,137 @@
+---  
+![Médias](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/d060cdc3-f8d4-4207-b9bb-0b8ffda1ca6f.png)  
+La veille innovation et design media par Datagif  
+  
+| *|MC_PREVIEW_TEXT|*  
+---  
+---  
+1\. SAD! Bloomberg decortique la faillite de l'empire Trump  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/5ed6aafa-a71e-447f-8b8d-eec4385ae5bc.gif)  
+---  
+Comment la fortune du celebre _golden boy_  a-t-elle pu fondre de 3 a 2,3 millards de dollars en quelques annees ? Immobilier, hotels, golfs, aviation, divertissement, livres : Bloomberg passe au crible chaque secteur d'activite du magnat.  
+  
+Le tout est presente de façon tres digeste, avec des focus successifs au scroll accompagnes d'une note sur cinq. Un format terriblement plus efficace qu'un article classique.   
+---  
+|  -- Plongez [dans la faillite annoncee](https://www.bloomberg.com/graphics/2021-donald-trump-net-worth-business/) de Donald Trump  
+---  
+---  
+2\. Redac Les credits enfin valorises   
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/fcc37c43-916c-4c19-8dd9-acde71d75ae1.jpeg)  
+---  
+Ca peut sembler un detail mais les credits sont generalement peu valorises sur les sites media. Ils cristallisent pourtant beaucoup d'enjeux chez les medias en ligne, notamment l'implication croissante de profils non-journalistes (designers, developpeurs, producers...). Au-dela de la simple reconnaissance, c'est aussi un petit detail qui peut renforcer la perception du journalisme de qualite.  
+  
+Chez Franceinfo, certains longs formats sont accompagnes de (longs) credits qui tiennent compte de toutes les competences impliquees. Depuis peu, les pages des extraits video TV affichent egalement des credits relatifs a l'emission... mais aussi un lien visible pour contacter le mediateur de l'info de France TV. Tres bonne idee !  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/44883dd9-a9e4-4b53-879f-52c91efdae4d.png)  
+---  
+|  -- Voir [un exemple de page video](https://www.francetvinfo.fr/sante/maladie/coronavirus/covid-19-la-course-aux-autotests-est-lancee_4337007.html) chez Franceinfo  
+---  
+---  
+3\. Vaccins Un Suedois de 64 ans peut-il se faire vacciner ?  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/ae20a512-854e-437d-88e5-d632b6104ccf.gif)  
+---  
+Simple et efficace : le New York Times illustre les disparites d'eligibilite au vaccin a travers le monde, sous la forme d'une liste tres brute. Une bonne idee visuelle qui marche aussi bien en version web qu'en video declinee pour les reseaux sociaux.  
+  
+L'occasion d'apprendre que si l'on dispose de 13 000 $, de 3 semaines et de plus de 65 ans, il suffit tout simplement de filer aux Émirats Arabes Unis...  
+---  
+|  -- [Decouvrir le format](https://www.nytimes.com/interactive/2021/03/19/world/covid-vaccine-inequality.html) du New York Times  
+-- [Voir la video](https://twitter.com/nytimes/status/1372959721448161282?s=20)  
+---  
+---  
+4. Éco-conception Les sites media sont-ils _green_ ?  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/b5d027aa-3e8c-4444-b883-0f9169e327ec.jpg)  
+---  
+Le site [Journalism.design](https://journalism.design/) vient de publier un classement d'une centaine de sites d'information selon leur [ecoIndex](http://www.ecoindex.fr/quest-ce-que-ecoindex/), un outil automatise qui mesure la performance environnementale d'une page web.  
+  
+Resultat sans trop de surprise : peu de bons eleves, exceptes quelques sites specialises. Il n'est pas ici question de distribuer des bonnets d'ane mais d'alerter sur la mauvaise  experience utilisateur generale des sites media : vitesse, poids des pages, mauvaise accessibilite... Des parametres qui n'influent pas que sur l'empreinte ecologique mais egalement sur les revenus, l'image du media, ainsi que son SEO. Google en tient de plus en plus compte avec ses [Core Web Vitals](https://web.dev/vitals/).  
+---  
+|  -- [Voir le classement](https://journalism.design/featured/classement-ecoindex-des-sites-de-presse/#) chez Journalism.Design  
+-- Lire le nouveau [guide d'eco-conception de services numeriques](https://eco-conception.designersethiques.org/guide/) par Designers Éthiques  
+---  
+---  
+5\. UX Un mode « resume » bien pratique  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/41fcf713-2bcf-4f63-b255-92edd890895b.png)  
+---  
+Insider (anciennement Business Insider) a recemment refondu son application mobile. L'interface est tres bien construite mais on apprecie surtout une nouvelle fonctionnalite : le « Summary Mode ».   
+  
+En l'activant sur la page d'accueil, les articles a la une passent en mode « resume », a base de bullets points. Simplification de la pensee ? On dirait plutot que c'est une astuce bienvenue pour les internautes presses (qui sont nombreux a se contenter de lire les titres).   
+  
+Et Insider est bien malin : cette fonctionnalite tres pratique sera bientot reservee aux abonnes payants... Dommage, l'appli n'est plus telechargeable depuis la France.  
+---  
+|   
+---  
+---  
+6\. Engagement Du vrai debat dans les commentaires ?  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/b9154512-d672-4861-8395-8d03e5474c02.png)  
+---  
+Ne parlez plus de commentaires, mais plutot de "debats" : c'est en tout cas la promesse du service Logora, une jeune startup française incubee par Ouest-France. Les lecteurs sont incites a se positionner face a une question (liee au sujet de l'article), le tout dans une interface legerement "gamifiee".  
+  
+Et c'est une bonne surprise si l'on regarde le resultat chez  Ouest-France ou  Capital : les contributions sont riches, plus structurees, et bien moderees. Une bonne reponse au far-west des commentaires, qu'experimentait deja le Wall Street Journal depuis 2019 en posant une question directe aux lecteurs a la fin de certains articles.  
+  
+Sans aller jusqu'au cote binaire "oui / non" de Logora, d'autres services de commentaires comme OpenWeb (utilise par Telerama) permettent facilement a la redaction de contribuer a la discussion.  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/088de987-bf9e-409f-aef8-9abb0d720635.jpeg)  
+---  
+|  -- Voir [un exemple de debat](https://www.ouest-france.fr/espace-debat/debats/reconfinements-locaux-les-nouvelles-mesures-sanitaires-sont-elles-pertinentes) chez Ouest-France  
+-- Decouvrir les services [Logora](https://logora.fr/fr) ou [OpenWeb](https://www.openweb.com/community-feed/)  
+---  
+---  
+7\. Vroum Un guide allechant chez L'Equipe  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/b9700b86-4e3f-47e1-ad32-4aad722cb36b.png)  
+---  
+La F1 fait sa rentree aujourd'hui : l'occasion parfaite pour L'Équipe de proposer son guide pour tout savoir des enjeux de cette saison. Le journal propose une introduction assez reussie avec des cards visuelles pour presenter les ecuries. On peut toutefois regretter que les fiches derriere soient beaucoup plus fades...  
+---  
+|  -- Decouvrez [le guide F1](https://www.lequipe.fr/special/Formule-1/guide/v5/f1-2021/) de L'Equipe  
+---  
+---  
+8\. Outil Planifier sa vaccination aux Etats-Unis  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/9074e54f-bfd3-46a7-b3bb-27dd4ac08c4e.gif)  
+---  
+NBC News deploie le grand jeu pour informer sur la campagne de vaccination, avec un format complet et tres utile.  
+  
+En renseignant quelques champs (localisation, age et occupation), on accede a de nombreuses informations personnalisees : eligibilite, centres de vaccination les plus proches, les demarches administratives, des informations locales et l'avancement de la campagne de vaccination.  
+  
+L'outil est d'ailleurs carrement le premier lien visible dans le menu de NBC News. Une belle mise en avant pour un outil d'utilite publique.  
+---  
+|  -- Tester [le guide de vaccination](https://www.nbcnews.com/specials/plan-your-vaccine/?language=english&state=AL) de NBC News  
+---  
+---  
+Bientot... On vous prepare une edition 100% audio  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/5f1f6951-32c9-4ed7-8a33-4d1073b37a48.png)  
+---  
+A l'occasion du numero 200 de la newsletter Hyperradio de Radio France, nous nous associons avec Hyperradio pendant 2 semaines pour explorer les nouveaux usages de l'audio dans les medias numeriques. Au programme :  
+  
+**• La semaine prochaine : **la newsletter Hyperradio explorera quelques sons 3D, podcasts et experimentations narratives pour les innovations qui font la radio de demain.  
+  
+**•**  **Dans deux semaines :** notre newsletter Medias explorera les experiences narratives et initiatives audio chez les medias issus de la presse ecrite.  
+---  
+|  -- [Inscrivez-vous](https://hyperradio.radiofrance.com/newsletter/) a Hyperradio  
+---  
+---  
+Et c'est tout pour aujourd'hui !   
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/b87a9326-7693-4eec-8e24-49e065f55780.gif)  
+---  
+Bon week-end a tous  👋  
+---  
+Vous recevez cet e-mail car vous êtes inscrit•e via le site   
+[medias.datagif.fr](https://medias.datagif.fr/)   
+  
+🏄‍   
+Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)   
+  
+📪  
+Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)   
+  
+✌️  
+Retrouvez la veille et les projets de Datagif sur   
+[Medium](https://medium.com/Datagif) \- [Twitter](https://twitter.com/datagif) \- [Instagram](https://www.instagram.com/datagif) \- [Datagif.fr](https://datagif.fr)   
+  
+👋   
+[Cliquez-ici](*|UNSUB|*) pour vous désabonner   
+  
+  
+*|IF:REWARDS|* *|HTML:REWARDS|* *|END:IF|*   
+  
+  
+---

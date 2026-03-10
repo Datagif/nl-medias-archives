@@ -1,0 +1,120 @@
+---  
+![Médias](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/d060cdc3-f8d4-4207-b9bb-0b8ffda1ca6f.png)  
+La veille innovation et design media par Datagif  
+  
+| *|MC_PREVIEW_TEXT|*  
+---  
+---  
+1\. Storytelling Un decryptage visuel indispensable sur le confinement  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/78f3bd81-e6eb-4517-8f93-1b6c55143ddf.jpg)  
+---  
+Le Monde a publie cette semaine un nouveau format efficace pour faire le point sur l'utilite du confinement, avec une narration pedagogique et tres visuelle.  
+  
+L'article, qui se presente comme une "Story" mobile-first, expose point par point pourquoi le confinement est indispensable.  Meme si tomber malade ne vous enverra probablement pas aux urgences, seul un confinement collectif permet d'endiguer la propagation du virus. Les exemples chiffres sont assez parlants : 104 nouveaux contamines malgre le confinement, contre 1820 sans confinement.  
+A envoyer d'urgence a toute personne qui pense "faire attention" ou "ne pas risquer grand-chose" en sortant.  
+---  
+|  -- A lire en desktop ou mobile [sur le site du Monde](https://www.lemonde.fr/les-decodeurs/visuel/2020/04/02/coronavirus-a-quoi-sert-le-confinement_6035266_4355770.html)  
+---  
+---  
+2\. Lifestyle Les guides de confinement : comment sortir du lot ?  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/8b2a6487-44fa-43eb-88fd-26ac309768ea.gif)  
+---  
+La couverture mediatique est entree dans une sorte de deuxieme phase avec le confinement : desormais, il s'agit tout autant d'accompagner le quotidien des Français que de les alerter sur la gravite de la crise.  
+  
+Tous les sites d'info se mettent donc a produire des recommandations (de plus ou moins bonne facture) pour s'occuper chez soi. Tout comme les recits de confinement, on commencerait presque a faire une overdose...  
+  
+Le New York Times (encore lui) fait les choses bien et differemment avec :  
+-- Une page permanente "**At Home** ", incarnee par Sam Sifton, qui compile une poignee de recommandations chaque jour (culture, recettes, conseils…)  
+-- Une mise en avant originale sur la homepage, avec un carousel qui tourne en aleatoire  
+  
+Voila une bonne idee que de creer un espace permanent dedie aux recommandations lifestyle. Dans le meme genre, on regrette que le New Yorker n'ait pas ressuscite sa page "**The New Yorker Recommends** ", qui etait tres efficace...  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/f1f95fd5-33dc-4532-a755-35b1de58afb8.png)  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/1fcd4e23-cf38-40e5-a44b-0f7a3887aa21.png)  
+---  
+|  -- La page "[At Home](https://www.nytimes.com/spotlight/at-home?action=click&module=Top%20Stories&pgtype=Homepage&contentCollection=AtHome)" du New York Times  
+-- La page "[Recommends](https://www.newyorker.com/recommends/everything)" du New Yorker  
+---  
+---  
+3\. Abonnement Comment gagner des abonnes avec des articles en acces libre  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/bec2b633-3538-484b-8ca7-b125b8305561.jpeg)  
+---  
+Plusieurs medias americains annonce des chiffres records d'abonnement numerique, malgre avoir passe leurs articles sur le coronavirus en acces libre. C'est le cas de The Atlantic qui rapporte avoir conquis 36 000 nouveaux abonnes (et des audiences record) en mars, porte par l'absence de paywall.  
+  
+On note que certains medias ont en effet soigne leur effort de marketing editorial. Les articles du Guardian ou du New Yorker arborent par exemple des messages habiles, pour solliciter le soutien des lecteurs en cette periode difficile.  
+  
+"Trust has never mattered more" souligne le bandeau jaune du Guardian : c'est vrai, et ça ne coute rien de le rappeler.  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/6c074b2b-7abe-4dea-abbb-c8c532deb384.jpeg)  
+---  
+|  -- Voir les sites du [Guardian](https://www.theguardian.com/international) et du [New Yorker](https://www.newyorker.com/)  
+---  
+---  
+4\. Raccourcis Des bandeaux speciaux sur les pages d'accueil  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/3fe901f5-86ff-435c-83f9-68670841ec58.png)  
+---  
+Franceinfo est un des rares medias français qui a fait l'effort de customiser sa page d'accueil en ces temps de crise. On y trouve desormais un bandeau special qui redirige vers les contenus principaux sur le coronavirus.  
+  
+C'est clair et efficace, un peu comme chez le media espagnol El Pais.  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/47eddfb9-b51f-4e07-ba9f-45d5b3e22bd2.png)  
+---  
+|  -- Voir les pages d'accueil de [Franceinfo](https://www.francetvinfo.fr/) et de [El Pais](https://elpais.com/)  
+---  
+---  
+5\. Raccourcis (bis) Dans les articles, tout le monde copie l'UX du New York Times  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/0ac20f7f-91b8-464f-98ca-608f9c536045.png)  
+---  
+Face a l'enjeu d'organiser un grand volume d'info sur le coronavirus, de nombreux sites d'info americains ont emprunte une tres bonne idee du New York Times : ajouter un bandeau de raccourcis fixes sur leurs articles, actualises tres regulierement par la redaction.  
+  
+Le systeme etait apparu chez le Times bien avant le coronavirus (on vous en parlait en septembre) ; on le retrouve desormais chez le Wall Street Journal, The New Yorker ou encore Vanity Fair.  
+  
+Ce bandeau fixe permet de faciliter le rattrapage pour les lecteurs, et il est adaptable aux moyens editoriaux de chaque redaction :  
+-- Chez [Vanity Fair](https://www.vanityfair.com/news/2020/04/inside-trumps-decision-to-back-off-of-his-easter-coronavirus-miracle#intcid=recommendations_default-popular_fe45bef4-58dd-4cce-91b0-1c818cb7aac5_popular4-1), chaque lien est un simple article   
+-- Chez le [New Yorker](https://www.newyorker.com/news/letter-from-trumps-washington/the-coronavirus-is-the-worlds-only-superpower), il redirige vers des dossiers thematiques  
+-- Chez le [New York Times](https://www.nytimes.com/2020/04/02/nyregion/ny-coronavirus-usns-comfort.html?action=click&module=Top%20Stories&pgtype=Homepage) on y trouve des articles et une myriade de trackers et pages sur-mesure...  
+---  
+|   
+---  
+---  
+Pour aller plus loin... On continue la liste des meilleurs formats Covid-19 sur Medium !  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/16678d46-7cbd-4882-91c7-e56d69ecff72.png)  
+---  
+Notre "best-of" du coronavirus [continue sur Medium ](https://medium.com/datagif/coronavirus-les-meilleures-innovations-chez-les-m%C3%A9dias-en-ligne-8b4fdd660a0f):   
+  
+• Recits et series editoriales  
+• Newsletters  
+• Videos  
+• Reseaux sociaux  
+• Podcasts  
+• Initiatives solidaires  
+• Marketing et acces au contenu  
+• Et bien plus encore...  
+  
+Sauvegardez l'article, nous le mettrons a jour regulierement. Et envoyez-nous vos suggestions, via [Twitter](http://twitter.com/datagif) ou par retour de mail ! 👋  
+---  
+|  -- [Lire la suite sur Medium ](https://medium.com/datagif/coronavirus-les-meilleures-innovations-chez-les-m%C3%A9dias-en-ligne-8b4fdd660a0f)  
+---  
+Vous recevez cet e-mail car vous êtes inscrit•e via le site   
+[medias.datagif.fr](https://medias.datagif.fr/)   
+  
+🏄‍   
+Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)   
+  
+📪  
+Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)   
+  
+✌️  
+Retrouvez la veille et les projets de Datagif sur   
+[Medium](https://medium.com/Datagif) \- [Twitter](https://twitter.com/datagif) \- [Instagram](https://www.instagram.com/datagif) \- [Datagif.fr](https://datagif.fr)   
+  
+👋   
+[Cliquez-ici](*|UNSUB|*) pour vous désabonner   
+  
+  
+*|IF:REWARDS|* *|HTML:REWARDS|* *|END:IF|*   
+  
+  
+---

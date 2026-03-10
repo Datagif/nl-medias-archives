@@ -1,0 +1,183 @@
+*|MC_PREVIEW_TEXT|*  
+  
+͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿
+
+| | [Ouvrir dans le navigateur](*|ARCHIVE|*)  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/cc6e1b7d-cd2a-c574-9a61-0ad9f5f0e360.jpg)](*|ARCHIVE|*)  
+---  
+  
+| | | ![Médias](https://newsletter.datagif.fr/ext/datagif/img/medias-v2.png)  
+---  
+  
+| 142  
+---  
+  
+| | La veille innovation et design média par Datagif  
+---  
+  
+| | | Alerte au bullshit  
+---  
+Le contexte politique mondial fait que clairement, on se dirige vers une periode compliquee. Alors il est necessaire de s'armer correctement pour continuer de delivrer une info claire, verifiee, malgre toutes les attaques subies par des detracteurs un peu trop enerves.  
+  
+Dans cette edition, on vous partage plein de bonnes pratiques pour maintenir la relation de confiance avec votre audience, moteur indispensable a la motivation et la qualite.   
+  
+PS : on recrute (tout en bas).  
+  
+| | | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/dd27fd0a-f659-dbfe-2c8d-0fa69e1c9747.png)  
+---  
+  
+| Gaetan Duchateau  
+---  
+Lead @Datagif  
+  
+| | | IA  
+---  
+  
+| 💩  
+---  
+  
+| | Bullshit O'Meter, un outil pour voir comment l'IA transforme l'actualite  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/993975d5-48f1-ad24-a906-bbc427ade185.png)](https://bullshitometer.news/)  
+---  
+Le media australien Crikey a cree un outil permettant de constater a quel point il est possible, grace a l'IA, de transformer et polariser une information factuelle en une actualite sensationnelle.  
+  
+Crikey propose de revoir 6 articles en lien avec les elections presidentielles americaines, et de les orienter plutot a gauche, ou a droite, selon comment "vous souhaitez deformer le monde". Un commentaire argumente accompagne la reecriture generee et met en exergue le champ lexical utilise, pointe les citations tronquees… Un outil qu'on apprecierait presque d'avoir comme une extension, pour accompagner chacune de nos lectures 😉  
+[Tester le Bullshit O'Meter de Crickey](https://bullshitometer.news/)  
+  
+| | | Carte  
+---  
+  
+| 🗺️  
+---  
+  
+| | StreetPress cartographie la presence de l'extreme droite et de ses groupuscules radicaux   
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/aca20a83-b851-fd35-8cf1-3e4b4bfe5033.gif)](https://cartofaf.streetpress.com/)  
+---  
+Il y a un an, [StreetPress annonçait](https://riposte-extremedroite.streetpress.com/) lancer la "plus grande enquete participative sur l'extreme droite en France". L'objectif ? Recenser les sections locales ou groupuscules actifs, enqueter sur les membres qui les composent, et devoiler la logistique qui permet leur maintien. Pour l'heure, le media en a recense plus de 320, presents dans plus de 130 villes en France. Le premier volet de l'enquete a donne naissance a la CartoFaf, une map permettant de localiser les sections et groupuscules radicaux, et de les incarner. Que sont ces groupes, que revendiquent-ils ? Qui en sont les personnes principales ? Combien d'adherents leur sont connus ? Quels faits notables leur sont attribues ? Le resultat est pointu, bluffant (et effrayant). De [premiers contenus lies au sujet ont ete publies](https://www.streetpress.com/sujet/1731001149-comment-extreme-droite-gagne-terrain-france-carte-interactive-video-groupuscules-radicaux) - d'autres sont attendus, on a hate de voir la suite !  
+[Decouvrir qui sont les FAF pres de chez vous](https://cartofaf.streetpress.com/)  
+  
+| | | ![](https://newsletter.datagif.fr/ext/datagif/img/newsletter.png) Passe le mail a ton voisin  
+---  
+Cette edition vous a plu ? Envoyez-la a vos contacts qui ne la connaissent pas encore ! Et pour les nouveaux*elles :   
+| [Abonnez-vous 🙌 ](https://datagif.fr/newsletter-medias/)  
+---  
+  
+| | | Personnalisation  
+---  
+  
+| 🇨🇦  
+---  
+  
+| | Un fil d'actualite qui s'adapte a vos interets sur Radio Canada  
+---  
+| ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/4b9bfe9f-4511-24f1-6034-42808a411eaa.png)  
+---  
+Ce n'est pas forcement le premier media a proposer ce service a ses utilisateurs, mais on apprecie cette nouvelle fonctionnalite du site d'infos Radio Canada. Elle est [tres bien presentee](https://ici.radio-canada.ca/info/mon-fil), incite le lecteur a se creer un compte et surtout son interface est bien pensee et intuitive, en permettant de facilement suivre ses centres d'interets ou ses journalistes preferes. En plus d'une selection manuelle classique, la personnalisation du fil est aussi semi-automatisee via l'IA en se basant sur l'historique de navigation ou les articles favoris de l'utilisateur.  
+[Personnaliser votre fil d'infos sur Radio Canada](https://ici.radio-canada.ca/info/mon-fil)  
+  
+| | | Le 50/50  
+---  
+Envie d'explorer un format ?  
+Faites votre choix, on a fait le tri  
+  
+| | | [💶 économie](https://datagif.fr/liens/?theme=economie)  
+---  
+  
+| | [🔈 audio](https://datagif.fr/liens/?format=audio)  
+---  
+  
+| | | Votre favori  
+---  
+Il y a 15 jours  
+On peut comprendre.  
+  
+| | | [🎞️ video](https://datagif.fr/liens/?format=video)  
+---  
+  
+| | [🏆 64%](https://datagif.fr/liens/?feature=illustration)  
+---  
+  
+| |   
+---  
+  
+| | | [📝 liste](https://datagif.fr/liens/?format=liste)  
+---  
+  
+| | [36 %](https://datagif.fr/liens/?theme=economie)  
+---  
+  
+| | | Article ?  
+---  
+  
+| 🏠  
+---  
+  
+| | C'est quoi une bonne page article ? Comment bien la reflechir et l'ameliorer ? On vous dit tout !  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/d486762a-04cc-4606-7062-7332aa908176.jpg)](https://www.linkedin.com/posts/datagif_la-page-article-souvent-sous-estim%C3%A9e-activity-7260213582544408578-EkQ4/)  
+---  
+Nouvelle pastille sonore dans notre serie sur les bonnes pratiques de l'internet, cette fois pour faire le focus sur une page essentielle mais souvent mal-traitee : la page article. Veritable page d'accueil, elle doit combiner a la fois une excellente lisibilite avec une proposition de poursuite de lecture pertinente. Ça tombe bien, c'est notre travail de faire en sorte qu'elle soit reussie !  
+[Écouter la pastille sonore dediee a la page article](https://www.linkedin.com/posts/datagif_la-page-article-souvent-sous-estim%C3%A9e-activity-7260213582544408578-EkQ4/)    
+  
+| | | 🇺🇸 Le meilleur lien de l'edition 141  
+---  
+  
+| | Le guide d'elections de Radio Canada  
+---  
+La grosse FAQ doublee de schemas, cartes, frise chronologique de Radio Canada a retenu votre attention. C'est vrai que la page, hyper claire, fait figure d'exemple lors d'une election presidentielle. À garder en tete pour la prochaine !  
+[Consulter la page chez Radio Canada](https://ici.radio-canada.ca/info/2024/guide-elections-presidentielles-etats-unis/)  
+  
+| | | Le lien de Gaetan  
+---  
+Les meilleurs liens de l'election americaine 2024  
+  
+| | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/dd27fd0a-f659-dbfe-2c8d-0fa69e1c9747.png)  
+---  
+  
+| | C'est devenu un rendez-vous : a chaque election, nous guettons les bons liens a rassembler et partager. Comme on est sympa, a chaque fois on les trie et les partage. Voici donc toute fraichement finalisee notre selection de bons liens trouves lors de cette election US 2024. De bonnes idees, du recyclage malin, des basiques qui marchent toujours : [faites le plein de veille editoriale](https://medium.com/datagif/%EF%B8%8F-%C3%A9lection-us-2024-1001-fa%C3%A7ons-ou-presque-de-traiter-%C3%A9ditorialement-une-%C3%A9lection-ou-tout-5596002c2479) !  
+---  
+  
+| | | Lent format  
+---  
+  
+| 🐌  
+---  
+  
+| | Les secrets derriere une seule image d'un film d'animation  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/541fe9a5-db61-2df4-ab57-49539e613de3.jpg)](https://www.nytimes.com/interactive/2024/10/31/movies/memoir-of-a-snail-adam-elliot.html)  
+---  
+"Memoires d'un escargot" est un film en pate a modeler qui sort bientot sur nos ecrans et a notamment remporte le 1er prix a Annecy. Pour cette occasion, [le New York Times a interviewe](https://www.nytimes.com/interactive/2024/10/31/movies/memoir-of-a-snail-adam-elliot.html) son realisateur Adam Elliot en lui demandant d'expliquer la somme de travail titanesque necessaire a l'elaboration des personnages et objets de decor. Son recit est presente habilement en baladant le lecteur sur une seule photo du film, une maniere simple et interactive de mettre en valeur ses propos.  
+[Explorer les Memoires d'un escargot](https://www.nytimes.com/interactive/2024/10/31/movies/memoir-of-a-snail-adam-elliot.html)  
+  
+| | | Bonus  
+---  
+Allez hop parce que ça fait toujours plaisir  
+🤖 Il se passe quoi dans votre vie si vous confiez toutes les decisions du quotidien a une IA ? [Cette journaliste a fait le test](https://www.nytimes.com/interactive/2024/11/01/technology/generative-ai-decisions-experiment.html ) dans un article gonzo.   
+  
+🦕 Le media Wired publie [une histoire orale de l'histoire de son site](https://www.wired.com/story/we-were-wrong-oral-history-hotwired/ ), qui remonte au debut des annees 1990. Des nerds au style bien normcore temoignent de cette formidable epopee. À lire !  
+  
+⏳ Le soir de l'election de Trump, une capture d'ecran toutes les 10 minutes du site du NYT. Principe simple, [animation folle](http:// https://x.com/AmCaW/status/1854239946653020500).   
+  
+✏️ [Datagif recrute un*e UX/UI senior](https://datagif.fr/job/ux-ui-designer-web/). Qui fera partie de l'equipe et aura acces aux coulisses de cette newsletter par extension ? Peut-etre vous 🫵  
+  
+| | | Dans un mois c'est Noel.  
+---  
+Oui enfin presque, mais on se comprend. Ça veut surtout dire boucler les sujets de fin d'annee, preparer les marronniers de la rentree... Et pour nous : lister nos predictions de l'annee prochaine 🔮. En attendant, [est-ce qu'on s'est plante pour 2024](https://medium.com/datagif/les-8-predictions-media-de-datagif-pour-2024-e9612db98743) ?   
+  
+Une edition preparee par Lucie, Charly, Gaetan, avec l'aide d'Aurore.  
+par  
+| [![DATAGIF](https://newsletter.datagif.fr/ext/datagif/img/logo-big.png)](https://datagif.fr)  
+---  
+  
+| | | ![](https://newsletter.datagif.fr/ext/datagif/img/social.png) Retrouvez-nous sur les réseaux  
+---  
+[Medium](https://datagif.medium.com/) [X](https://x.com/datagif) [Bluesky](https://bsky.app/profile/datagif.bsky.social) [Instagram](https://www.instagram.com/datagif/) [Threads](https://www.threads.net/@datagif) [Linkedin](https://www.linkedin.com/company/datagif/) [Datagif.fr](https://datagif.fr/)  
+  
+| | Vous recevez cet e-mail car vous êtes inscrit•e via le site [datagif.fr](https://datagif.fr/newsletter-medias/)Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)  
+👋 [Cliquez-ici](*|UNSUB|*) pour vous désabonner  
+---

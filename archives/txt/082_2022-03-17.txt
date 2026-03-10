@@ -1,0 +1,243 @@
+|  | [Ouvrir dans le navigateur](*|ARCHIVE|*)  
+---  
+| ![Médias](https://newsletter.datagif.fr/ext/datagif/img/medias.png)  
+---  
+La veille innovation et design média par DATAGIF  
+  
+|  | *|MC_PREVIEW_TEXT|*  
+---  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 1\. Sondages
+
+## On a planche sur un projet R&D qui devrait vous faire gagner du temps  
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/0b01d4c8-abda-f797-26d8-aa3be8f58634.gif)](https://twitter.com/Datapolls_2022)  
+---  
+  
+|  | Nous vous presentons [Datapolls 2022](https://twitter.com/Datapolls_2022). Le principe est simple mais a necessite de combiner plusieurs technologies et principes. En s'appuyant sur les sondages agreges par [NspPolls](https://github.com/nsppolls/nsppolls), des que l'un d'eux est disponible Datapolls 2022 :  
+• cree automatiquement une animation video qui traduit les donnees dans un canevas pre-determine  
+• la publie ensuite (toujours automatiquement) sur un compte Twitter.   
+  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/292443f0-266e-bf0a-e180-4165b171531f.jpg)  
+  
+L'objectif de ce projet : maitriser de bout en bout la faisabilite d'un canevas video alimente par des donnees mises a jour automatiquement, jusqu'a la publication. Les applications de ce principe sont nombreuses :   
+• elections legislatives  
+• les resultats aux jeux olympiques Paris 2024  
+• tout evenement ou information reposant sur des donnees !  
+Et evidemment, tout cela fonctionne egalement en visuels statiques : l'animation est une evolution de ce principe.   
+  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/5aa7f81d-a1ee-eccf-6384-31f6512ae01a.jpg)  
+  
+N'hesitez pas a nous contacter si cela vous donne des idees ! En attendant, vous pouvez consulter l'evolution des candidat*es en video sur le compte de Datapolls 2022.  
+---  
+|  | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+Voir les videos generees automatiquement [sur Datapolls 2022](https://twitter.com/Datapolls_2022)  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 2\. Guerre en Ukraine
+
+## Suivre les sanctions contre la Russie  
+  
+---  
+  
+|  |  | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/59df05a7-8a09-b682-f15a-6608a3c92372.jpg)  
+---  
+  
+|  | Alors que la liste des sanctions prises envers la Russie continue de s'allonger, les medias proposent de nouvelles façons de suivre l'evolution de la situation, et de clarifier les consequences de ces decisions : qui visent-elles ? comment affectent-elles la Russie ? et les pays qui les adoptent ?  
+  
+• La ou Correctiv a opte pour un format dense avec un [tracker sous forme de dashboard](https://correctiv.org/en/latest-stories/2022/03/01/sanctions-tracker-live-monitoring-of-all-sanctions-against-russia/), Reuters a joue la carte de la simplicite en regroupant l'ensemble des sanctions dans un [tableau chronologique](https://graphics.reuters.com/UKRAINE-CRISIS/SANCTIONS/byvrjenzmve/). Un bon moyen d'offrir une vue d'ensemble d'une situation qui evolue rapidement tout en creant un portail d'acces vers d'autres articles.  
+  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/0962ad37-2970-cad6-816d-f8142185a6c2.jpg)  
+  
+• De son cote, le Washington Post [explore les consequences d'un embargo sur le petrole russe](https://www.washingtonpost.com/business/2022/03/08/russia-oil-imports-ban/), dans un format tres eclairant qui decompose proportionnellement les exports de la Russie par pays importateur. Il detaille egalement comment pourrait etre comble le manque cree par les sanctions. Simple et efficace, on aime !  
+---  
+---  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## Recrutement
+
+## [Datagif recrute un.e chef.fe de projet web en CDI pour rejoindre son equipe](https://datagif.fr/job/chef-fe-de-projet-web-cdi/).  
+  
+---  
+  
+|  |  | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/06c848ca-16fd-8356-89d9-cc2e8960e593.jpg)  
+---  
+  
+|  | Si vous connaissez quelqu'un de parfait pour ça, n'hesitez pas a lui [transmettre le lien](https://datagif.fr/job/chef-fe-de-projet-web-cdi/) !  
+---  
+---  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 3\. Transparence
+
+## Les medias etrangers s'adaptent pour continuer d'informer en Russie  
+  
+---  
+  
+|  |  | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/1232507e-b372-a955-153b-8eb0d5f432bc.jpg)  
+---  
+  
+|  | En parallele de la saisissante couverture en Ukraine, deux initiatives portees sur la Russie ont retenu notre attention :  
+  
+• [le Washington Post](https://twitter.com/farhip/status/1499948364988829700?s=21) a retire les dates et signatures des articles ecrits par ses correspondants en Russie pour les proteger de represailles : du jamais vu, dans un contexte ou les medias poussent vers toujours plus de transparence  
+• le [Dagens Nyheter](https://www.dn.se/om/news-in-russian/) en Suede, [Politiken](https://politiken.dk/News_in_Russian/) au Danemark et le [Helsingin Sanomat](https://www.hs.fi/newsinrussian/) en Finlande, cooperent pour fournir sur leurs sites et via Telegram des articles traduits en russe sur la guerre en Ukraine. Dans chaque article, les medias se renvoient les uns vers les autres, dans un but de couverture la plus large possible et de transparence aupres du peuple russe  
+---  
+---  
+  
+|  |   
+---  
+  
+|  |  |  | ![](https://newsletter.datagif.fr/ext/datagif/img/reseaux.png)  
+---  
+Retrouvez la veille et les projets de Datagif sur [Medium](https://datagif.medium.com/) • [Twitter](https://twitter.com/datagif) • [Instagram](https://www.instagram.com/datagif/) • [Datagif.fr](https://datagif.fr/)  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 4\. Classement
+
+## La Society for News Design partage ses laureats  
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/6cff6c4c-7d47-c931-b8d0-3816b19af168.jpg)](https://snd.org/best-of-design-competitions/2020-best-of-digital-design-results/)  
+---  
+  
+|  | Alerte _benchmark_ ! On a suivi cette semaine les resultats de la 43e edition du concours de la Society for News Design qui recompense le meilleur du journalisme en ligne. L'occasion de revenir sur les grands-formats qui ont marque 2021, avec les medias americains en tete de liste, mais aussi de nombreuses pepites a decouvrir. On en a pioche quelques unes :  
+  
+🏠 Le Straits Times [revient sur 20 ans d'evolution des logements a Singapour](https://www.straitstimes.com/multimedia/graphics/2021/12/millennial-hdb-design-singapore/index.html)  
+🏊‍♀️ Le media australien ABC News [nous plonge dans la peau d'un*e juge olympique](https://www.abc.net.au/news/2021-08-03/tokyo-olympics-diving-australia-test-your-score-against-a-judge/100241794)  
+💉 Et si vous lisez le danois, DR [explique le fonctionnement des vaccins a ARN messager](https://www.dr.dk/viden/webfeature/rna-scroller)  
+---  
+|  | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+Parcourir l'ensemble des resultats [sur le site de la SND](https://snd.org/best-of-design-competitions/2020-best-of-digital-design-results/)  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 5\. Éco-conception
+
+## Le Monde se met au vert 💚  
+  
+---  
+  
+|  | La semaine derniere, Sacha Morard, le directeur technique du site du Monde [communiquait](https://twitter.com/SachaMorard/status/1502282527070998536) sur un effort plutot rare chez les medias français : l'optimisation de l'impact carbone de ses pages web.  
+  
+Plus specifiquement, Le Monde montre sa volonte d'ameliorer sensiblement et de maniere chiffree la consommation energetique de ses produits numeriques cote client, et pas juste au niveau des serveurs. Évidemment, communiquer sur cet aspect s'expose aussi a recevoir quelques critiques, parfois legitimes, sur le caractere perfectible des ameliorations (quid des nombreuses requetes dues a la publicite et sur les traceurs qui sont les elements les plus energivores ?) mais un grand bravo pour la transparence. N'hesitez pas a [lire les reponses](https://www.linkedin.com/feed/update/urn:li:activity:6907949716395454464/) du CTO sur son post Linkedin et la precision technique de ce premier [cas pratique](https://marmelab.com/blog/2022/01/27/greenframe-lemonde-reduction-impact-carbone.html).  
+---  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 6\. Presidentielle
+
+## La Coree du Sud vient d'elire son nouveau president, et les chaines de tele s'en sont donne a coeur joie pour illustrer la course a la victoire. Ce thread [rassemble les mises en scene les plus WTF](https://twitter.com/theapjournalist/status/1501588231715901440?s=21) ; on a hate (et peur) de voir si ça va inspirer les medias français.  
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/5236a8cd-5a2e-db69-afb8-ae9d1d8f845e.gif)](https://twitter.com/theapjournalist/status/1501588231715901440?s=21)  
+---  
+  
+|  |   
+---  
+---  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 7\. Automatise
+
+## Un bot qui publie des captures d'ecran regulieres des pages d'accueil de differents medias : c'est la bonne idee de Ben Welsh, un data-journaliste americain, qui a lance [@newshomepages](https://twitter.com/palewire/status/1502679775973834752?s=20&t=h8T7GAVYoDxZg29da_cL1A) cette semaine 🤖  
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/8ba5a00f-be40-e842-9aab-305fc7242ce1.jpg)](https://twitter.com/palewire/status/1502679775973834752?s=20&t=h8T7GAVYoDxZg29da_cL1A)  
+---  
+  
+|  |   
+---  
+---  
+  
+|  |   
+---  
+  
+|  |  |  | ![](https://newsletter.datagif.fr/ext/datagif/img/mail.png)  
+---  
+On vous a transfere ce mail ? Ne manquez rien de notre veille !  
+| [S'inscrire a la newsletter](https://datagif.fr/newsletter-medias/)  
+---  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 8\. Magazine
+
+## Le podcast Le gout de M devient un trimestriel papier  
+  
+---  
+  
+|  |  | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/9419ea1d-9bcf-851d-8110-2173b50323e1.jpg)  
+---  
+  
+|  | Depuis trois saisons la productrice Geraldine Sarratia explore la gastronomie en podcast a travers une personnalite et son histoire. "Le Gout de M", c'est desormais une extension a part entiere de M le magazine du Monde en devenant un supplement trimestriel. Pour celebrer ce passage de l'audio au papier, l'edition s'offre quatre couvertures sur le theme de la transmission. La _culture food_ a toutes les sauces, pour le plus grand plaisir des lecteurs et des annonceurs.  
+---  
+|  | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[Decouvrir le sommaire](https://www.instagram.com/p/Ca9FI7OIwbq/) en video sur Instagram  
+  
+|  |   
+---  
+  
+|  |   
+---  
+  
+|  | Merci pour votre interet renouvele chaque semaine. Vous souhaitez echanger avec nous sur un projet, refonte, un nouveau produit media ? [Nous echangerons volontiers avec vous](https://datagif.fr/medias/) 👀  
+---  
+  
+|  |  | ![](http://gallery.mailchimp.com/653153ae841fd11de66ad181a/images/transparent.gif)  
+---  
+  
+|  |   
+---  
+  
+|  | Vous recevez cet e-mail car vous êtes inscrit•e via le site [datagif.fr](https://datagif.fr/newsletter-medias/)Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)  
+👋 [Cliquez-ici](*|UNSUB|*) pour vous désabonner  
+---  
+  
+|  | DATAGIF  
+---  
+  
+|  |   
+---

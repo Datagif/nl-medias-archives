@@ -1,0 +1,225 @@
+|  | [Ouvrir dans le navigateur](*|ARCHIVE|*)  
+---  
+| ![Médias](https://newsletter.datagif.fr/ext/datagif/img/medias.png)  
+---  
+La veille innovation et design média par DATAGIF  
+  
+|  | *|MC_PREVIEW_TEXT|*  
+---  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 1\. Metavers
+
+## Le Monde plonge dans les vieux cartons de l'Internet  
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/2b4d17fe-5f2e-fa77-be62-3f01685beb5b.gif)](http://https://www.lemonde.fr/pixels/visuel/2022/06/10/le-deuxieme-monde-de-canal-des-1997-le-pionnier-francais-du-metavers_6129767_4408996.html)  
+---  
+  
+|  | Le Metavers de Zuckerberg ? Les internautes assez vieux pour se souvenir de la "netiquette" savent que Canal Plus et Cryo avaient deja tout invente en 1997 avec "Le Deuxieme Monde".  
+  
+Le Monde revient sur ce pionnier des mondes virtuels en interrogeant ses createurs et participants, 25 ans apres. Le traitement est tres bien adapte au sujet avec plein de petits clins d'oeil d'interface qui nous replongent dans l'ambiance de l'Internet des modem 56k : lecteur video façon Windows Media Player, enchainement façon salon de discussion avec la police d'epoque... tout ce que les moins de 20 ans ne peuvent pas connaitre 👴  
+---  
+|  | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+Lire [le grand format du Monde](https://www.lemonde.fr/pixels/visuel/2022/06/10/le-deuxieme-monde-de-canal-des-1997-le-pionnier-francais-du-metavers_6129767_4408996.html)  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 2\. Personnalisation
+
+## L'appli Juice propose une experience sonore personnalisee   
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/908b3663-c65c-e2e6-a0f6-c190b035da8f.jpg)](https://juice.tech/)  
+---  
+  
+|  | Lancee il y a peu et beneficiant depuis quelques semaines d'une interface plus intuitive, l'appli française Juice tente de reussir la ou de nombreux medias se sont aventures avec plus ou moins de succes : la personnalisation de l'offre d'information. Puisant a la fois dans des articles ecrits (donc lus par voix de synthese) et des reportages audio issus d'antenne radio ou de podcasts, l'appli compose une selection de l'actu sur la base des criteres definis par l'utilisateur.  
+  
+Ce que l'on en retient :  
+• une proposition originale, parfois deroutante lors du passage d'un contenu lu a un contenu conçu pour l'audio (comprenant les annonces antenne et pubs)  
+• une harmonie globale recherchee, par des transitions audio et un habillage sonore global  
+• une posture positive et constructive de la part de l'equipe de Juice, avec un ton avenant  
+• une demarche dans la veine de [Flint](https://flint.media/) en newsletter, [TF1](https://www.tf1info.fr/pour-vous/) avec le JT personnalise ou encore Mon Daily chez Spotify, melant actu et musique  
+---  
+|  | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+Tester Juice [sur Android ou iOS](https://juice.tech/)  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 3\. Newsletter estivale
+
+## Le Philadelphia Inquirer fait une promotion originale de sa newsletter d'ete  
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/902cd5e9-18be-f8c4-5361-af30ef031dd6.jpg)](https://www.inquirer.com/things-to-do/jersey-shore/inq2/sea-turtle-scavenger-hunt-game-jersey-shore-20220527.html)  
+---  
+  
+|  | Dediee a la cote Atlantique prisee de son lectorat, cette newsletter ephemere beneficie d'une page d'inscription totalement dans l'esprit du lieu. Avec une illustration vous invitant a trouver 25 tortues cachees façon "Ou est Charlie", l'heure est a la detente. 
+
+
+  
+---  
+|  | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+Chercher [les 25 tortues et decouvrir la newsletter](https://www.inquirer.com/things-to-do/jersey-shore/inq2/sea-turtle-scavenger-hunt-game-jersey-shore-20220527.html)  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 4\. Grand format
+
+## L'Équipe propose une selection interessante de portraits  
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/f32bdaf9-7968-c5e5-eb5a-198c0efb7dd5.jpg)](https://www.lequipe.fr/explore/wf76-un-jour-en-bleu/)  
+---  
+  
+|  | Ce n'est pas un seul long format, mais bien six portraits de joueurs de differentes generations que le journal propose dans son nouveau dossier dedie aux bleus selectionnes une seule fois. On salue ici le defi d'avoir pu adopter une structure de format long generalement mono-page a une navigation plus eclatee.  
+---  
+|  | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+Decouvrir le mini-site "Un jour en Bleu" [sur L'Équipe Explore](https://www.lequipe.fr/explore/wf76-un-jour-en-bleu/)  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 5\. Pedagogie
+
+## Le marche des donnees de localisation explique clairement  
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/230c70f9-29dd-da4e-df46-a2c52fe17648.jpg)](https://themarkup.org/the-breakdown/2022/02/24/who-is-policing-the-location-data-industry#2022-app-store-illustrated-explainer_numbered-list)  
+---  
+  
+|  | Nous sommes nombreux.ses a autoriser l'acces a nos donnees de localisation aux applications pour leur permettre de fonctionner et peu a comprendre comment ces applications en tirent un benefice.  
+  
+Cet article de The Markup permet de comprendre ce marche avec son decoupage par questions, marque de fabrique du media. Le plus : une serie d'illustrations qui permet de comprendre globalement les enjeux pour un premier niveau rapide de lecture.  
+---  
+|  | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+Decouvrir [l'article avec sa synthese illustree](https://themarkup.org/the-breakdown/2022/02/24/who-is-policing-the-location-data-industry#2022-app-store-illustrated-explainer_numbered-list)  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 6. Debris spatiaux 🛰️
+
+## 
+
+Le syndrome de Kessler en 3D  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/6cf142ed-0fe1-8184-2d52-d37294cf6ef0.gif)](https://ig.ft.com/space-debris/)  
+---  
+  
+|  | Si vous avez vu Gravity, vous savez que chaque debris peut provoquer des collisions, et de nouveaux debris intraçables. Un paradoxe, car l'humanite envoie des objets de maniere exponentielle, fait des tests d'explosions dans l'espace et developpe le tourisme spatial. Sur ce constat, le Financial Times explore un sujet pas si trivial, puisqu'a terme les debris humains peuvent creer un dome impenetrable et faire de la terre une prison.  
+  
+Dans un format tres pedagogique et richement anime en 3D, vous explorez le sujet comme si vous y etiez.   
+---  
+|  | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+Decouvrir la dechetterie spatiale [chez le FT](https://ig.ft.com/space-debris/)  
+  
+|  |   
+---  
+  
+|  |  |  | ![](https://newsletter.datagif.fr/ext/datagif/img/mail.png)  
+---  
+On vous a transfere cette newsletter ?  
+Pour la recevoir tous les 15 jours dans votre boite mail :  
+| [S'inscrire a la newsletter](https://datagif.fr/newsletter-medias/)  
+---  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 7.  Enquete
+
+## 
+
+Pourquoi une telle difference entre l'oral et l'ecrit dans la langue anglaise?  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/3868130e-13b5-314f-cc3d-73e7b7b66c86.jpg)](https://graphics.reuters.com/USA-SPELLINGBEE/GRAPHIC/klvykoogzvg/index.html)  
+---  
+  
+|  | Pleine de subtilites de prononciation, la langue anglaise est parfois un supplice a porter a l'ecrit. Une lettre peut provoquer plusieurs sons et les sons peuvent etre provoques par differentes lettres. Les americains en ont meme fait un jeu, appele "spelling bee", ou le but est d'epeler les mots prononces par une tierce personne devant un public.  
+  
+Reuters s'est penche sur la question, dans un long format que tous les collegiens de France auraient interet a consulter tellement sa narration et sa construction vous tiennent en haleine.  
+---  
+|  | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+Redecouvrir [les subtilites de la langue anglaise chez Reuters](https://graphics.reuters.com/USA-SPELLINGBEE/GRAPHIC/klvykoogzvg/index.html)  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 8\. Participatif
+
+## Une astuce pour engager l'audience chez 20 Minutes Suisse  
+  
+---  
+  
+|  |  | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/5f09cc27-bbca-00c5-dd84-d403e1c6e496.jpg)  
+---  
+  
+|  | La mise en place de ce systeme chez 20 minutes version suisse et allemande n'est pas recente mais a attire recemment notre attention. Avec l'eternelle question de l'interaction sociale hebergee sur son propre support (site, app) ou deportee (sur Facebook notamment), vient la question de la moderation.  
+  
+La solution imaginee ici s'appuie sur les reactions que l'on retrouve notamment sur Facebook, pour donner une couleur au commentaire. Detestable, juste, inutile, sympa... l'audience peut qualifier les commentaires et ainsi leur donner une representation visuelle. De quoi depasser le classique et binaire pouce en l'air ou baisse, tout en proposant un "tri visuel" au lectorat desireux de s'immiscer dans cet espace de parole.   
+---  
+|  | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+Voir [en situation chez 20 Minutes Suisse](https://www.20min.ch/fr)  
+  
+|  |   
+---  
+  
+|  |   
+---  
+  
+|  | Merci d'avoir lu cette edition que l'on espere rafraichissante 😎. Vous reflechissez a un projet ? [Nous echangerons volontiers avec vous](https://datagif.fr/medias/) ✌️  
+---  
+  
+|  |  | ![](http://gallery.mailchimp.com/653153ae841fd11de66ad181a/images/transparent.gif)  
+---  
+  
+|  |   
+---  
+  
+|  | Vous recevez cet e-mail car vous êtes inscrit•e via le site [datagif.fr](https://datagif.fr/newsletter-medias/)Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)  
+👋 [Cliquez-ici](*|UNSUB|*) pour vous désabonner  
+---  
+  
+|  | DATAGIF  
+---  
+  
+|  |   
+---

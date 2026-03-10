@@ -13,6 +13,11 @@
 
 export default {
   async fetch(request, env) {
+    // Mailchimp vérifie le webhook avec un GET avant de l'activer
+    if (request.method === "GET") {
+      return new Response("OK", { status: 200 });
+    }
+
     // Vérification méthode
     if (request.method !== "POST") {
       return new Response("Method Not Allowed", { status: 405 });

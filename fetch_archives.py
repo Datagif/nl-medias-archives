@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
 fetch_archives.py
 Récupère toutes les campagnes Newsletter Médias depuis Mailchimp
@@ -46,7 +47,7 @@ h2t.body_width   = 0  # pas de retour à la ligne forcé
 
 def extract_number(title: str) -> str | None:
     """Extrait le numéro de campagne depuis le titre, ex: '#170 • 05.03.26' -> '170'"""
-    m = re.match(r"#(\d+)\s*[•·]", title)
+    m = re.match(r"#(\d+)\s*[•·●]", title)
     return m.group(1) if m else None
 
 
@@ -55,7 +56,7 @@ def is_valid_campaign(campaign: dict) -> bool:
     status     = campaign.get("status") == "sent"
     list_id    = campaign.get("recipients", {}).get("list_id") == LIST_ID
     title      = campaign.get("settings", {}).get("title", "")
-    has_bullet = "•" in title or "·" in title
+    has_bullet = "•" in title or "·" in title or "●" in title
     return status and list_id and has_bullet
 
 
@@ -83,8 +84,7 @@ def get_campaigns() -> list[dict]:
             break
         campaigns.extend(batch)
         offset += len(batch)
-        total = data.get("total_items", 0)
-        if total and offset >= total:
+        if len(batch) < 100:
             break
     return campaigns
 

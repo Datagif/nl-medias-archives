@@ -1,0 +1,134 @@
+---  
+![Médias](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/d060cdc3-f8d4-4207-b9bb-0b8ffda1ca6f.png)  
+La veille innovation et design media par Datagif  
+  
+| *|MC_PREVIEW_TEXT|*  
+---  
+---  
+1\. Storytelling Les temoignages sonores  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/ab2c0c55-a7a2-4c43-81c2-5f227c502604.png)  
+---  
+On observe de plus en plus de longs formats qui integrent des elements audio. Cela peut notamment servir a donner du relief a des temoignages.  
+  
+-- On trouve ainsi des formats entierement composes de pastilles audio, comme [cet article de FiveThirtyEight](https://fivethirtyeight.com/audio-features/when-women-run/#main) ou des elues americaines temoignent sur leur experience politique en tant que femmes.  
+  
+-- Ces temoignages peuvent aussi etre parsemes dans un article plus classique : [le Washington Post](https://www.washingtonpost.com/graphics/2019/politics/iowa-state-fair-candidate-recognition/) a par exemple interroge des electeurs pour savoir s'ils reconnaissaient les visages des candidats a la presidentielle. C'est plus drole en l'entendant.  
+  
+-- [Cette enquete du NYT](https://www.nytimes.com/interactive/2021/01/26/opinion/trump-qanon-washington-capitol-hill.html?campaign_id=94&emc=edit_owr_20210131&instance_id=26606&nl=sunday-best&regi_id=69559041&segment_id=50721&te=1&user_id=fcc2eb8abb7b68f66c3a28cd8035806c) sur la mouvance complotiste QAnon inclut aussi des passages surlignes dans le texte, qui sont lisibles en audio. Ces passages immersifs s'integrent assez bien dans la lecture. L'introduction a base de quelques verbatims sonores est aussi tres efficace, comme dans [cette autre page du NYT](https://www.nytimes.com/interactive/2021/02/04/parenting/working-moms-coronavirus.html) sur les meres a l'heure du Covid.  
+---  
+---  
+2\. Lecture Les articles audio sont partout  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/ca4b8c52-3d04-489f-8642-4fb300e99086.png)  
+---  
+C'est une des grandes tendances chez les sites d'info : permettre une lecture des articles en mode audio. Pratique quand on est en mobilite ou qu'on fait la cuisine. Dans la pratique, il existe plusieurs modeles :  
+  
+-- **La lecture automatique** par une voix robotique (comme chez L'Express ou Bloomberg). C'est le choix du volume mais pas vraiment de la qualite : malgre les avancees des technologies "text-to-speech", il est toujours franchement penible d'ecouter un robot lire un article pendant 10 minutes.  
+  
+-- **La lecture humaine** , comme chez le New Yorker. Les articles peuvent etre lus par des comediens ou par le journaliste lui-meme. Ça fait toute la difference, mais c'est difficilement industrialisable. Signe des temps : l'application americaine Audm, qui s'etait specialisee sur ce creneau, a ete [rachetee cette annee](https://techcrunch.com/2020/03/23/the-new-york-times-company-acquires-audm-an-app-that-turns-longform-journalism-into-audio/) par le New York Times...  
+---  
+---  
+3\. Opinion La bonne idee de Tortoise : des editos audio façon « boite vocale ». Dans l'appli du media et sur les reseaux sociaux.  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/68de2a0b-f54e-4b5f-8220-dde8a8e4e908.gif)  
+---  
+|  -- [Voir un exemple](https://twitter.com/tortoise/status/1239234906397396993?s=20) chez Tortoise  
+---  
+---  
+4\. Storytelling L'audio qui repose  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/a2e7eef3-96de-4c9e-8f9a-4611b38782bc.png)  
+---  
+Le format audio peut aussi avoir des vertus... relaxantes. Pour faire baisser le niveau de stress d'une periode agitee, certains medias n'hesitent pas a proposer un moment de detente a leurs lecteurs.  
+  
+-- Pendant le confinement, le Guardian proposait ainsi [un long format](https://www.theguardian.com/environment/ng-interactive/2020/may/20/relax-to-the-sounds-of-british-wildlife) permettant d'ecouter la nature, et notamment les animaux caracteristiques de la biodiversite britannique. Un imagier interactif qui constitue une fenetre de respiration plus que bienvenue.  
+  
+-- De son cote, le NYT avait imagine un format « [Distractor](https://www.nytimes.com/interactive/2020/10/30/style/election-stress-relief.html) » dans l'attente des resultats de l'election presidentielle de 2020. Cette page regroupait un flux infini de sons et videos, alternant entre moments de calme (bruit de pluie, musiques douces) et curiosites. Effet ASMR garanti.  
+---  
+---  
+5\. Podcasts Place a la curation  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/aaf39d68-5f2a-43b9-b441-d2d12708a655.png)  
+---  
+S'il y a bien un point sur lequel nous sommes tous d'accord, c'est l'incroyable difficulte que l'on a a naviguer dans les applications de podcasts et a denicher la future perle incontournable.  
+  
+Les medias peuvent alors jouer un role de curation, comme Slate qui a  recemment lance [Slate Audio](https://www.slate.fr/audio/), une plateforme de recommandation ou des journalistes selectionnent leurs podcasts et episodes preferes. Pas d'algorithme, que de la selection argumentee et des playlists editorialisees. Le site [Podmust](https://podmust.com/fr/) propose aussi un principe similaire.  
+  
+Reste une grande limite a ces initiatives : les amateurs de podcasts vont-ils vraiment jongler entre des plateformes d'ecoute et des plateformes de recommandation separees, au quotidien ?   
+---  
+---  
+6\. Marketing Les « conference calls » reservees aux abonnes  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/57a47d09-2445-4e63-bab1-abd6dc61265f.png)  
+---  
+Et si l'audio servait aussi a renforcer les interactions entre medias et lecteurs ? Plusieurs medias anglo-saxons ont experimente l'idee des "conference calls" reservees a leurs abonnes. [Quartz](https://qz.com/re/membership-conference-calls/), The Information, The New York Times ont The Atlantic ont tous teste l'idee.  
+  
+Une façon pas idiote d'engager les lecteurs. L'organisation peut cependant s'averer chaotique comme le raconte [cet article du Nieman Lab](https://www.niemanlab.org/2018/05/the-new-york-times-is-ramping-up-conference-calls-for-subscribers-that-are-run-a-little-like-radio-shows/). Bientot la meme chose sur Clubhouse ?  
+---  
+---  
+7. Storytelling Et la musique alors ?  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/8d414206-db09-42b0-85c7-db56dbb20f5c.png)  
+---  
+Quand il s'agit de parler de musique dans un long format, il peut etre interessant de mobiliser de l'audio...  
+  
+-- Cela peut passer par l'integration d'extraits de chansons comme ce [classement du New York Times ](https://www.nytimes.com/interactive/2021/03/10/magazine/jd-beck-domi.html)qui les fait defiler au scroll. Encore plus impressionnant du cote de [The Pudding](https://pudding.cool/projects/music-history/) qui explore le top 5 du Billboard des annees 60 a aujourd'hui. Les extraits changent au fur et a mesure que la timeline avance, nous permettant d'enchainer les hits.  
+  
+-- D'autres articles sont de veritables analyses data, comme [cet article de FiveThirtyEight](https://projects.fivethirtyeight.com/clinton-trump-hip-hop-lyrics/) qui explore toutes les references a Donald Trump dans les paroles des rappeurs, extraits a l'appui.  
+  
+-- Youtube et Spotify sont souvent sollicites dans ces formats, en tant que player ou comme outil d'analyse. The Pudding est meme alle jusqu'a developper [une IA tres drole qui critique vos gouts musicaux ](https://pudding.cool/2020/12/judge-my-spotify/)en se connectant a votre compte Spotify.   
+---  
+---  
+8\. Comeback La webradio, une valeur sure pour la presse ecrite ? De Monocle jusqu'aux Inrocks et au Times britannique, ce support semble se developper...  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/bdf15ea7-92b8-4288-9d52-9eff792c6966.png)  
+---  
+|  -- [Voir le nouveau site](https://www.lesinrocks.com/) des Inrocks  
+-- [Voir la radio](https://www.thetimes.co.uk/) du journal The Times  
+---  
+---  
+9\. Hype Clubhouse et Spaces : un terrain de jeu prometteur ?  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/05c64a20-7feb-40b9-94dd-b467f9eed081.png)  
+---  
+On fete ce mois-ci le premier anniversaire de Clubhouse, le reseau social ~~the place to be~~  qui bouscule tous les cadors de la tech avec ses conversations audio. Tous les autres veulent leur part du gateau : Twitter, Facebook, Discord, Spotify...  
+  
+Et forcement, Clubhouse suscite aussi l'engouement de certains medias. Des medias comme L'Equipe ou Insider y organisent des sortes de conferences-debats, tandis  que Yahoo Finance met en exergue ses reporters stars. BFM Business a aussi experimente des « rooms » pour debriefer ses emissions TV.  
+  
+Bref, chacun cherche le bon positionnement afin de toucher son public de niche. À moins que la hype ne retombe rapidement ?  
+---  
+---  
+10\. Remember RIP les assistants vocaux ?  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/ae14bad7-ce07-449c-ba26-258a3305af2c.png)  
+---  
+Il y a quelques annees, les medias s'exstasiaient sur le potentiel des assistants vocaux (Alexa, Google Assistant...) et lançaient des bots "intelligents" pour consulter l'info par la voix.  
+  
+Qu'en reste-t-il ? Difficile a dire... Les ventes de ces appareils ont bien decolle en France mais les usages reels semblent patiner, surtout pour les medias. Pour le moment, ces joujous semblent surtout utiles pour mettre un minuteur, consulter la meteo ou bien... ecouter la radio ou un podcast. Bref, encore une jolie bulle entretenue par les GAFA.  
+---  
+---  
+C'est tout pour cette edition speciale audio !  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/4f5fdf58-c332-4fe7-87c1-c089127dfa69.gif)  
+---  
+Nous vous donnons rendez-vous ce vendredi 16 avril a 11h pour partager en direct nos liens en compagnie de Hyperradio et French Tech Central. [Inscrivez-vous !](https://www.eventbrite.fr/e/billets-nouveaux-usages-de-laudio-dans-les-medias-numeriques-radiofrance-datagif-148360671763)  
+  
+Et pour suivre toute l'innovation audio, ne manquez pas de vous inscrire a [la newsletter](https://hyperradio.radiofrance.com/newsletter/) **Hyperradio** , chez nos amis de Radio France !  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/5f1f6951-32c9-4ed7-8a33-4d1073b37a48.png)  
+---  
+|  -- [Je m'inscris a Hyperradio](https://hyperradio.radiofrance.com/newsletter/)  
+-- [Lire l'edition #200](https://hyperradio.radiofrance.com/veille/hyperradio-la-200eme/) de la newsletter Hyperradio  
+---  
+Vous recevez cet e-mail car vous êtes inscrit•e via le site   
+[medias.datagif.fr](https://medias.datagif.fr/)   
+  
+🏄‍   
+Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)   
+  
+📪  
+Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)   
+  
+✌️  
+Retrouvez la veille et les projets de Datagif sur   
+[Medium](https://medium.com/Datagif) \- [Twitter](https://twitter.com/datagif) \- [Instagram](https://www.instagram.com/datagif) \- [Datagif.fr](https://datagif.fr)   
+  
+👋   
+[Cliquez-ici](*|UNSUB|*) pour vous désabonner   
+  
+  
+*|IF:REWARDS|* *|HTML:REWARDS|* *|END:IF|*   
+  
+  
+---

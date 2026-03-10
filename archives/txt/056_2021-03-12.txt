@@ -1,0 +1,141 @@
+---  
+![Médias](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/d060cdc3-f8d4-4207-b9bb-0b8ffda1ca6f.png)  
+La veille innovation et design media par Datagif  
+  
+| *|MC_PREVIEW_TEXT|*  
+---  
+---  
+1\. Culture Et si les medias organisaient mieux leurs recommandations ?  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/4439d71e-3e1c-468c-b778-57d6f5e2e328.png)  
+---  
+Pour une fois, voici un petit format simple en provenance du New York Times ! Le journal a publie recemment un guide des meilleurs livres de Toni Morrison, qui nous a bien inspire. Une page bien structuree ou les journalistes culturels du NYT ont classes leurs recommandations par humeur.  
+  
+Voila un format utile pour les lecteurs lambdas : ceux qui ne savent pas par ou commencer dans la bibliographie d'un auteur. Car il n'y a pas que les dernieres sorties dans la vie : les medias pourraient jouer ce role de guide et d'inspiration, au meme titre que les libraires. Ces petits guides seraient adaptables a bien d'autres champs culturels. On parie que ce serait un bon moyen de valoriser l'expertise de curation, et que ce serait meme une bonne strategie d'audience et de SEO...  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/429b4d87-4f76-47b4-9d7a-99d2341c0edc.png)  
+---  
+|  -- [Explorer le guide](https://www.nytimes.com/interactive/2021/books/best-toni-morrison-books.html) du New York Times  
+---  
+---  
+2\. Paiement S'abonner sans quitter l'article  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/2e141044-21c7-449f-bf31-5d99a19d4bb7.gif)  
+---  
+Klarna, licorne suedoise de la « fin-tech », est devenue il y a quelques jours la start-up europeenne la mieux valorisee.  
+  
+Quel rapport avec les medias ? Tout simplement parce que Klarna est utilise par des medias nordiques comme Dagens Nyheter, depuis des annees. Son service permet notamment de s'abonner sans meme quitter un article, grace a un formulaire de paiement integre. De quoi enlever une bonne partie de la friction dans la prise d'abonnement.  
+  
+L'entreprise française Poool propose un service similaire depuis quelques mois. Une bonne recette a tester pour les medias français ?  
+---  
+|  -- [Tester le formulaire](https://www.dn.se/ekonomi/har-far-sjukskoterskorna-hogst-lon-under-pandemin/) chez Dagens Nyheter  
+-- [En savoir plus](https://blog.poool.fr/proposer-le-paiement-dans-le-paywal-cest-desormais-possible/) chez Poool  
+---  
+---  
+3\. Video Jeff Bezos, ce radin  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/7c967282-fdd8-40ec-b8ea-bf9410c05356.gif)  
+---  
+Bloomberg nous propose une enquete sur les actions de philanthropie de Jeff Bezos et de son ex-compagne dans une enquete video foisonnante.  
+  
+On aime evidemment la direction artistique tres lechee et quasi-kitsch, qui tranche avec le style assez homogene adopte par les autres medias video. Ces principes graphiques sont d'ailleurs repris dans l'article qui accompagne la video. Avec une chronologie du plus bel effet, qui vaut le coup d'oeil.  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/26633f2e-76f2-410a-9028-6b68b2ff9c83.png)  
+---  
+|  -- [Voir la video](https://www.youtube.com/watch?v=jZCocp8bhWE) de Bloomberg  
+-- [Lire le long format](https://www.bloomberg.com/features/2021-bezos-scott-philanthropy/#:~:text=Bezos%20announces%2042%20recipients%20of,fund%20to%20about%20%24300%20million.)  
+---  
+---  
+4\. UX Un media specialise qui vaut le coup d'oeil  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/ed70fa75-f653-47ef-9ffa-835122c85280.png)  
+---  
+Connaissez-vous Decrypt, ce jeune media specialise sur les cryptomonnaies ? On est loin d'etre des experts en la matiere mais leur site et leur application mobile sont assez interessants.  
+  
+Les contenus y sont notamment repartis par formats, qui repondent a  differents besoins : les news chaudes d'un cote, les guides pratiques de l'autre, en passant par les longs formats... La dimension "apprentissage" y est naturellement tres developpee, vu la complexite du sujet.  
+  
+Dans l'application, on apprecie aussi le Top 5 sur la page d'accueil, qui incite a tout lire avec une echelle qui s'incremente. Et evidemment, Decrypt prepare sa propre cryptomonnaire pour monetiser ses contenus. Pour le coup, ça devrait plaire a son audience mais c'est moins pertinent pour les autres medias...  
+---  
+|  -- Decouvrez [le site](https://decrypt.co/?) et surtout [l'application mobile](https://apps.apple.com/us/app/decrypt-bitcoin-crypto-news/id1508494821#?platform=iphone) de Decrypt  
+---  
+---  
+5\. Usages Une etude notable sur les pratiques d'info en ligne  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/97eff717-b87e-4073-a499-a397cb22f8bc.jpeg)  
+---  
+Comment les Français s'informent-ils vraiment en ligne ? La Fondation Descartes y repond avec une etude basee sur un panel representatif de 2372 internautes, dont l'activite numerique a ete enregistree pendant un mois.  
+  
+L'etude confirme des phenomenes bien connus mais souleve aussi des enseignements plus inattendus :  
+  
+•  Les Français passeraient **seulement 3% de leur temps de connexion** a s'informer chez les medias. Ca donne 5 minutes par jour en moyenne, et c'est moins que... la pornographie.  
+•**   Une grande disparite d'usages** : 5% des participants sont des "accros" a l'info (plus de 10 heures d'info sur les 30 jours) mais 17% n'ont pas consulte un seul media en ligne !  
+•  Le "**papillonage** " entre les differents medias est bien connu mais il serait proportionnel au temps passe. Plus on s'interesse a l'info, plus on diversifie ses sources. Les bulles de filtre sont moins evidentes que prevu.  
+•  Les **sources jug ees "non fiables"** representent 5% du temps total d'information, mais 39% des participants y auraient ete expose au moins une fois Seul angle mort de l'etude : les "feeds" des reseaux sociaux n'ont pas pu etre comptabilises dans cette etude. De quoi nuancer les conclusions sur la desinformation.   
+---  
+|  -- [Lire la synthese](https://www.lemonde.fr/les-decodeurs/article/2021/03/08/les-internautes-consacrent-seulement-3-de-leur-temps-a-l-information-et-beaucoup-moins-a-la-desinformation_6072332_4355770.html) du Monde  
+---  
+---  
+6\. Serie Des mini-dossiers sur le racisme  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/df73a33f-ad89-4407-aeb7-e85b9d07e4cf.png)  
+---  
+Le pure-player Axios a lance recemment une serie thematique sur le racisme, intitulee « Hard Truths ». La promesse est simple : couvrir chaque mois un aspect precis du racisme encore omnipresent aux USA, par exemple sur le logement ou l'education.  
+  
+Bien sur, le format est innovant : chaque mini-dossier rassemble des articles avec une navigation facile de gauche a droite.  
+  
+La direction artistique est aussi tres soignee et... reflechie. Axios a utilise la police de caractere [MARTIN](https://www.vocaltype.co/history-of/martin), largement inspiree par la greve des eboueurs (majoritairement noirs) de Memphis en 68. Le sens du detail jusqu'au bout.  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/a1027eeb-3ab0-46ca-8d67-07962ffb73b3.png)  
+---  
+|  -- [Decouvrir la serie Hard Truths](https://www.axios.com/hard-truths) d'Axios  
+---  
+---  
+7\. Resiliation Sommes-nous bien au XXIe siecle ?  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/9868e609-daa9-4a29-a036-71f8b2b3001c.gif)  
+---  
+Vous connaissez peut-etre l'organisme [Opquast](https://www.opquast.com/), qui propose une [checklist ](https://checklists.opquast.com/fr/assurance-qualite-web/)de reference sur l'experience utilisateur optimale des sites web.  
+  
+On aimerait faire un petit focus sur la [regle n°19](https://checklists.opquast.com/fr/assurance-qualite-web/les-comptes-ou-abonnements-ouverts-en-ligne-peuvent-etre-fermes-par-le-meme-moyen), qui concerne bien des medias. Elle stipule : « _Les comptes ou abonnements ouverts en ligne peuvent etre fermes par le meme moyen ». _Une bonne pratique evidente, pas forcement respectee par certains medias ou la lettre recommandee de resiliation est encore obligatoire.  
+  
+On y voit pourtant trois avantages : conforter la confiance dans le media, s'eviter un bouche a oreille negatif, et _in fine_  booster les abonnements en limitant une peur de l'engagement souvent justifiee. De meme pour la creation de compte a tout crin, qui irrite plus d'un utilisateur.  
+---  
+---  
+8\. Mobile Un widget qui prend le contre-pied de l'info  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/c283fd74-1ae2-47cc-bf51-c81390728d9a.png)  
+---  
+Depuis quelques temps, Apple permet d'ajouter des « widgets » sur l'ecran d'accueil de ses iPhones et iPads. Comme beaucoup de medias, The Guardian s'est recemment emparee de cette fonctionnalite strategique pour son application mobile.  
+  
+Mais contrairement aux autres, le widget du Guardian n'annonce pas les dernieres infos du moment. Il privilegie une contre-proposition plus « zen » : des belles photos d'actu. Malin !  
+---  
+|  -- [En savoir plus](https://www.theguardian.com/help/insideguardian/2021/feb/11/the-guardian-launches-photos-of-the-day-widget) chez The Guardian  
+---  
+---  
+9\. Memoire À l'approche de la date anniversaire de declaration de pandemie par l'OMS, MSNBC rend hommage aux victimes sur Twitter  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/dc880261-a539-4035-8b82-b79d81132851.jpg)  
+---  
+MSNBC alimente son thread progressivement, en presentant des portraits de victimes a travers les anecdotes et temoignages de proches. S'il n'y a pas d'article pour le moment, on imagine qu'il arrivera probablement en cloture du thread.   
+---  
+|  -- Decouvrir [le thread de MSNBC](https://twitter.com/MSNBC/status/1369309464856297487)  
+---  
+---  
+Et c'est tout pour aujourd'hui !   
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/1ce86904-8ed4-46e5-9592-1e2eaac6efbb.gif)  
+---  
+Bon week-end et a dans deux semaines  👋  
+---  
+Vous recevez cet e-mail car vous êtes inscrit•e via le site   
+[medias.datagif.fr](https://medias.datagif.fr/)   
+  
+🏄‍   
+Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)   
+  
+📪  
+Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)   
+  
+✌️  
+Retrouvez la veille et les projets de Datagif sur   
+[Medium](https://medium.com/Datagif) \- [Twitter](https://twitter.com/datagif) \- [Instagram](https://www.instagram.com/datagif) \- [Datagif.fr](https://datagif.fr)   
+  
+👋   
+[Cliquez-ici](*|UNSUB|*) pour vous désabonner   
+  
+  
+*|IF:REWARDS|* *|HTML:REWARDS|* *|END:IF|*   
+  
+  
+---

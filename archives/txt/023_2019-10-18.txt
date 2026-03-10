@@ -1,0 +1,94 @@
+---  
+![Médias](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/d060cdc3-f8d4-4207-b9bb-0b8ffda1ca6f.png)  
+La veille innovation et design media par Datagif  
+  
+| *|MC_PREVIEW_TEXT|*  
+---  
+---  
+1\. Feed Changement radical chez Quartz  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/30302738-b01b-43d6-be5d-36de34bd847f.png)  
+---  
+Quartz n'a pas attendu que sa homepage et son appli soient obsoletes avant d'operer quelques changements… et on aime beaucoup les nouvelles moutures du site et de l'appli, dorenavant sous forme de feed. Mis a jour en permanence au fil de la journee, ce brief (avec une vraie fin) permet aussi la mise en avant de blocs d'une selection de commentaires et donc de la communaute Quartz.  
+  
+Sobre, simple, efficace, il amene aussi un ton plus incarne par la redaction, moins froid, que l'on connaissait deja avec l'excellente newsletter [Quartz Obsession](https://qz.com/emails/quartz-obsession/). Detail qui fait toute la difference : si votre appareil est regle en dark mode, le site et l'appli le detectent et adaptent le fond automatiquement.  
+---  
+![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/a6e2436d-f791-4bed-9508-1efde01894d9.jpg)  
+---  
+|  -- La nouvelle home, [a voir ici](https://qz.com/)  
+-- L'explication des changements par Quartz, [ici](https://qz.com/1724663/putting-members-at-the-heart-of-quartz/)  
+---  
+---  
+2\. Video Le Monde publie un long format video : 15 minutes d'enquete sur le cas d'un Gilet Jaune blesse a Bordeaux  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/050937bb-a700-4959-92f8-212698db1f94.jpg)  
+---  
+15 interviews, la modelisation 3D des rues, l'analyse de nombreuses images, ont permis a deux journalistes video du Monde de revenir sur une blessure a la tete d'un manifestant par un tir de LBD. En completant leur enquete par des images d'illustration, des schemas, des chronologies heure par heure, les deux journalistes parviennent a proposer un format complet et passionnant.  
+  
+Ces elements pourraient fonctionner dans un article plus classique, mais au vu des resultats sur la [chaine Youtube](https://www.youtube.com/user/LeMonde/videos) du media, la strategie du Monde de developper des sujets specifiquement en video depuis plus d'un an semble porter ses fruits.   
+---  
+|  -- [Voir l'enquete video ](https://www.lemonde.fr/police-justice/video/2019/10/17/gilets-jaunes-comment-un-policier-a-tire-au-lbd-40-dans-la-tete-d-un-manifestant_6015828_1653578.html)(en acces libre 👍)  
+---  
+---  
+3\. Queen's speech Une analyse comparative des discours prononces par la reine d'Angleterre (mais ecrits par les Premiers ministres)  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/35864dc4-faa0-463b-bfbc-bcfe4e854d6c.png)  
+---  
+Le principe est simple : vous surlignez un mot, un groupe de mots ou une phrase du tout dernier discours de la reine et immediatement vous decouvrez combien de fois ces mots ou phrases ont ete deja prononces dans les 100 ans de discours precedents. Belle idee 👏.  Bon design 👏. Bon developpement 👏. Que demander de plus (a part le depart de Boris Johnson) ?  
+---  
+|  -- Le dernier discours de la reine compare sur les 100 dernieres annees, [a lire chez The Guardian](https://www.theguardian.com/politics/ng-interactive/2019/oct/14/how-unusual-language-boris-johnson-first-queens-speech?CMP=twt_gu&utm_medium=&utm_source=Twitter#Echobox=1571058757)  
+---  
+---  
+4\. 🍑🍑 Double impeachment a la une  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/2048c900-0af0-492b-a8ca-9b9cfcc4b273.png)  
+---  
+Ces deux unes, sorties toutes deux la semaine derniere sont probablement dues au hasard de la bonne idee au meme moment… le symbole de la peche etant [desormais un symbole admis](https://www.theguardian.com/technology/shortcuts/2019/oct/02/peachy-the-emoji-thats-become-a-political-statement) de la demande de destitution de Donald Trump. Guardian Weekly et New York Magazine ont en commun d'avoir une tres bonne direction artistique, alors pourquoi choisir ?  
+---  
+---  
+5\. Panel « America in One Room », les visages de l'electorat US  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/5334120a-fc37-4701-b957-e5c606f6de6b.png)  
+---  
+La couverture de la presidentielle US par le New York Times est remarquable. On ne compte plus les formats de briefs pre-debats, de live, de syntheses et analyses post-debats. Cette semaine, on retient cette bonne idee : la couverture du rassemblement "America in One Room" organise par le Center for Deliberative Democracy (le centre de recherche civique de l'Universite de Stanford).  
+  
+Imaginez reunir le temps d'un week-end un panel de 526 personnes representant sociologiquement ce que sont les electeurs des États-Unis et les faire discuter entre elles. Le but ? Simplement voir comment les discussions evoluent sur differents sujets relatifs a l'election. Le compte rendu en ligne donne un article passionnant a lire mais malheureusement trop court. Quant a la version papier… admirez cette superbe une composee par l'ensemble des portraits !  
+---  
+![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/330fa0e7-51d4-404a-a437-00a9263e81b4.png)  
+---  
+|  --  L'article qui raconte "America in One Room" [par le New York Times](https://www.nytimes.com/interactive/2019/10/02/upshot/these-526-voters-represent-america.html)  
+-- [Cet article](https://www.nytimes.com/2019/10/14/upshot/photographing-voters.html) raconte les coulisses des photographies des panelistes   
+---  
+---  
+6\. Recap La semaine derniere nous etions a Medias en Seine, et c'etait bien.   
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/782ffdc1-cddf-4b95-a832-797cbbb79be7.jpg)  
+---  
+Nous avons assiste a des discussions passionnees sur les modeles economiques des medias en ligne, suivi un atelier sur la production video pour les reseaux sociaux de BBC News, ecoute les evolutions recentes des notions de confiance et de transparence, explore le fact-checking semi-automatise en pleine expansion, vu un aperçu de la strategie de contenu "off-platform" du New York Times... et bien sur glane plein d'autres informations interessantes sur l'univers media.  
+---  
+|  -- [Notre thread recap sur Medias en Seine ici !](https://twitter.com/Datagif/status/1181470636687921152)  
+---  
+---  
+7\. Municipales 2020 Mediacites lance une campagne pour financer son dispositif exceptionnel de couverture electorale  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/0a973e85-84c9-4fc2-a4d8-942665ae3d49.jpg)  
+---  
+Nous accompagnons l'equipe de Mediacites sur le sujet des Municipales 2020. Premiere etape du projet, donner de la visibilite au media d'enquete local via une campagne de financement. Les differents paliers fixes par Mediacites vont permettre de renforcer leur equipe et mettre en place des moyens de fact-checking, enquetes et evenements dans les 4 grandes villes couvertes par Mediacites : Lille, Lyon, Nantes et Toulouse. Pour une fois qu'un media s'investit autrement que sur la simple carte des resultats... !  
+---  
+|  -- Contribuez a la couverture des municipales par Mediacites [en participant ici ](https://www.mediacites.fr/campagne/)  
+---  
+Vous recevez cet e-mail car vous êtes inscrit•e via le site   
+[medias.datagif.fr](https://medias.datagif.fr/)   
+  
+🏄‍   
+Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)   
+  
+📪  
+Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)   
+  
+✌️  
+Retrouvez la veille et les projets de Datagif sur   
+[Medium](https://medium.com/Datagif) \- [Twitter](https://twitter.com/datagif) \- [Instagram](https://www.instagram.com/datagif) \- [Datagif.fr](https://datagif.fr)   
+  
+👋   
+[Cliquez-ici](*|UNSUB|*) pour vous désabonner   
+  
+  
+*|IF:REWARDS|* *|HTML:REWARDS|* *|END:IF|*   
+  
+  
+---

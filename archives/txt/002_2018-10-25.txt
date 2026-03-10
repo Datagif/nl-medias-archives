@@ -1,0 +1,82 @@
+---  
+![Médias](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/d060cdc3-f8d4-4207-b9bb-0b8ffda1ca6f.png)  
+La veille innovation et design media par Datagif  
+  
+| *|MC_PREVIEW_TEXT|*  
+---  
+---  
+1\. Immersion Une plongee interactive a la frontiere americano-mexicaine  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/1db7ad73-755d-4fc5-9bc1-6d318ce57016.png)  
+---  
+En plein debat sur la recrudescence de l'immigration illegale aux Etats-Unis, le Washington Post explore le sujet avec un format immersif tres convaincant. Le lecteur est plonge dans une vue satellite 3D de la frontiere avec le Mexique, ponctuee de courtes explications et immersions sur le terrain. Une façon creative de retablir les faits sur un sujet souvent fantasme. Et en plus, c'est fluide !  
+---  
+-- Explorer la frontiere avec [le Washington Post](https://www.washingtonpost.com/graphics/2018/national/us-mexico-border-flyover/)  
+---  
+2\. Publicite Le Washington Post s'interesse a la pub au sein de son User Lab  
+|  Probleme : comment continuer a en tirer du profit sans en rajouter des tonnes ? Et surtout : comment garder l'objectif principal de transformer un visiteur en abonne (plutot que de le perdre sur une publicite ?).  Plutot que de l'abolir, le Post a bien conscience que la pub est encore une source de revenus non negligeable. Mais aussi une source d'ennui pour ses lecteurs.   
+  
+D'ou la naissance de ce "User Lab", compose de 4 personnes, au sein des locaux du Post. En faisant assister des lecteurs assidus a des focus groups, ils ont ainsi pu trouver le mot ideal pour le contenu sponsorise ("from", plutot que "brought to you by" comme sur la plupart des medias) et developper de nouveaux formats publicitaires juges moins intrusifs. Ce lab est un exemple de plus de la transformation du Washington Post depuis que Jeff Bezos y a massivement investi vers une plateforme ultra optimisee.   
+---  
+-- Tout savoir sur le User Lab du Washington Post [chez Digiday](https://digiday.com/media/washington-post-advertiser-subscriber-demands/)  
+---  
+3\. Trolling Le Monde se permet (a juste titre) de troller Mario  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/82472498-ebc3-48ec-ad32-8625e8605765.jpg)  
+---  
+Pour son test du jeu video "Super Mario Party" sorti tout recemment, la verticale Pixels du Monde ne s'est pas collee au format article habituel compose de paragraphes et captures d'ecran. L'equipe a developpe un format qui reprend le principe de base du jeu : lancer le de, lire des instructions, et ainsi de suite. Sauf que tout cela est lourd, long, penible. À l'image du jeu, selon le journaliste. Un test un peu meta, avec quelques bonnes blagues, qui vous decouragera donc avec succes de jouer a ce nouveau Mario Party.  
+---  
+-- Le test troll de Mario Party, [c'est par ici](https://www.lemonde.fr/pixels/visuel/2018/10/18/test-interactif-lancez-les-des-pour-evaluer-super-mario-party_5371369_4408996.html)  
+---  
+4\. Futur John Micklethwait, redacteur en chef de Bloomberg, parle du futur des medias  
+|  Quand on gere 2300 journalistes dans 146 redactions sur tous les supports papier et numerique possibles, il vaut mieux connaitre son cap. Et le bon. Voici une synthese de la vision de John Micklethwait :  
+  
+• La personnalisation du contenu selon le lecteur est une sorte d'Eldorado jamais atteint.  
+  
+• Les lecteurs passent sans probleme d'un sujet a l'autre sans autre lien que l'actu.   
+  
+**•** Les generateurs automatiques d'articles aident a gagner du temps pour poser le 'quoi'. Les journalistes ont de la valeur ajoutee sur le 'pourquoi'.  
+  
+• Les news generees automatiquement permettent d'atteindre l'ultra local, en ne se reposant que sur des faits.  
+  
+**• **TicToc de Bloomberg, a ete cree en partenariat avec Twitter pour un public qui a besoin de l'actu chaude et verifiee sur une plateforme ou tout se mele.  
+  
+**• **Le futur de la presse ? Du contenu plus digital, plus personnalise, plus automatise, pour lequel le lecteur aura paye. "Et esperons-le : moins de _fake news_."  
+---  
+-- [Lire l'interview complete](https://medium.com/global-editors-network/bloombergs-micklethwait-future-of-news-to-be-more-digital-personalised-automated-paid-for-9d6460e757f4) de John Micklethwait, redacteur en chef de Bloomberg News.  
+---  
+5\. Money Un fonds pour le "membership"  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/ac93805a-ce66-47c3-be4c-411dc4396b81.png)  
+---  
+L'adhesion a le vent en poupe ! Un fonds de 700 000 $ a ete lance par [the Membership Puzzle Project](https://membershippuzzle.org/articles-overview/launching-news-fund) pour soutenir et encourager les medias souhaitant s'orienter vers ce business model.   
+Les projets devront donc s'appuyer sur le modele de l'adhesion, qui repose sur la construction d'un lien privilegie avec les lecteurs pour le convaincre de financer et de s'impliquer dans le media (comme le Guardian l'a fait avec succes). Les projets selectionnes peuvent couvrir differents aspects du process : les modalites de participation, les strategies d'inclusion, les metriques ou les outils technologiques pour le mettre en place.   
+La France est identifiee comme une region d'interet pour recueillir des candidatures.  
+---  
+-- Plus d'infos sur le fonds et les candidatures sur[ ](https://membershippuzzle.org/articles-overview/launching-news-fund)[Membership Puzzle Project](https://membershippuzzle.org/fund/)  
+---  
+6\. Week-end "This Saturday in the Guardian". Le tweet bien pense \+ bien designe qui presente l'edition print du week-end.  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/5ce9c5cb-3d54-4c6d-9b42-75ee5108c144.png)  
+---  
+Petit nouveau du cote du Guardian : le magazine-supplement The Guardian Weekly qui vient completer l'offre week-end deja bien fournie. Ce que l'on aime beaucoup ici c'est la petite anim punchy comme il faut qui vient presenter le journal et toute sa collection de supplements de l'offre week-end (y compris Weekly donc).  
+---  
+-- Un tweet-anim a voir [ici](https://twitter.com/guardian/status/1053259216050282496)  
+Vous recevez cet e-mail car vous êtes inscrit•e via le site   
+[medias.datagif.fr](https://medias.datagif.fr/)   
+  
+🏄‍   
+Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)   
+  
+📪  
+Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)   
+  
+✌️  
+Retrouvez la veille et les projets de Datagif sur   
+[Medium](https://medium.com/Datagif) \- [Twitter](https://twitter.com/datagif) \- [Instagram](https://www.instagram.com/datagif) \- [Datagif.fr](https://datagif.fr)   
+  
+👋   
+[Cliquez-ici](*|UNSUB|*) pour vous désabonner   
+  
+  
+*|IF:REWARDS|* *|HTML:REWARDS|* *|END:IF|*   
+  
+  
+---

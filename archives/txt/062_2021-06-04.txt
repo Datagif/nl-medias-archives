@@ -1,0 +1,123 @@
+---  
+![Médias](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/d060cdc3-f8d4-4207-b9bb-0b8ffda1ca6f.png)  
+La veille innovation et design media par Datagif  
+  
+| *|MC_PREVIEW_TEXT|*  
+---  
+---  
+1\. Bon app' La reprise economique, vue a travers la chaine Pret A Manger  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/a2834ea2-3a8a-51c3-c7e2-06be8fb1975c.png)  
+---  
+Ne fuyez pas a la vue de ce sandwich triangle ! Cette semaine, Bloomberg a eu la riche idee de calculer un  « Pret Index » inspire par le « Big Mac Index » popularise par The Economist depuis 1986.  
+  
+L'idee est simple : prendre le pouls de la reprise economique en observant l'activite de la chaine de restauration Pret A Manger, qui quadrille tout le territoire britannique. Bloomberg en tire une analyse cartographique pour comparer les differentes regions et quartiers du pays. Un angle toujours plus fun et parlant que des statistiques absconses !  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/a6904deb-d5eb-3791-58be-550b11527454.png)  
+---  
+|  --  [Le PAM Index](https://www.bloomberg.com/graphics/pret-index/), c'est chez Bloomberg  
+---  
+---  
+2\. Plateforme L'Équipe accelere sa transformation numerique  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/0face9ed-856b-2708-ccd0-87105589eb0d.png)  
+---  
+L'Equipe a repense son site web pour laisser plus de place aux contenus live, mais aussi audio, video et interactifs. Le tout est regroupe en deux nouveaux univers : Explore et Live.  
+  
+Une strategie de « plateforme » qui vise a diversifier la proposition editoriale de L'Equipe au-dela de l'actualite chaude.  
+  
+On aime la grande variete des contenus, qui font la part belle aux longs formats, ainsi que la mise en avant inspiree de l'incontournable Netflix. Une belle maniere de valoriser les contenus plus longs ou plus froids.  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/0792e511-c97b-7cdc-0441-7a0bd09dd393.png)  
+---  
+|  -- [Decouvrir L'Equipe Explore](https://explore.lequipe.fr/)  
+-- [Supporter l'OM sur L'Equipe Live](https://live.lequipe.fr/)   
+---  
+---  
+3\. Robot Une intelligence artificielle peut-elle avoir de l'humour ?  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/92991338-ad46-2f21-5931-918306611d0a.png)  
+---  
+Vous connaissez peut-etre les celebres "cartoons" du New Yorker ? Chaque semaine, le magazine americain organise un concours de legende avec ses lecteurs, afin de trouver la phrase la plus drole pour accompagner le dessin de la semaine.  
+  
+Le site The Pudding, toujours tres inspire, a eu l'idee de demander a une intelligence artificielle de participer a ce concours. L'algorithme propose ainsi 3 legendes chaque semaine, que les internautes peuvent noter. Pourra-t-il faire mieux que les lecteurs les plus cultives et sarcastiques du New Yorker ?  
+---  
+|  -- [Decouvrir l'experience](https://pudding.cool/projects/caption-contest/) de The Pudding  
+---  
+---  
+4\. **Rebranding** Une nouvelle identite pour Madmoizelle  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/501dd2d2-762c-d77f-717c-bfcfa3902374.png)  
+---  
+Il y a du nouveau chez le pure player Madmoizelle, rachete par la maison mere de Numerama l'an dernier ! Apres l'annonce de la nouvelle equipe, le media feminin revele progressivement sa nouvelle identite editoriale et graphique, a mi-chemin entre Teen Vogue et les nouveaux medias feministes comme Period.  
+  
+Ça commence evidemment par Instagram, ou la rupture graphique est assez frappante. Une nouvelle identite pop, volontairement foutraque, accompagnes de portraits leches de l'equipe. Les formats editoriaux sont varies, punchy, et exploitent bien toutes les possibilites de la plateforme. Bref, un bon debut -- on a hate de voir la refonte du site web, qui en a vraiment besoin !  
+---  
+|  -- [Decouvrir le compte Insta](https://www.instagram.com/madmoizelledotcom/?hl=fr) de Madmoizelle  
+---  
+---  
+5. Economie Les depenses des Americains a la loupe  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/8ef6f9c1-49bf-fda2-bf91-8e0593bfff0e.gif)  
+---  
+Le New York Times nous gratifie cette semaine d’un super format qui explore le budget mensuel de 6 familles américaines. Le petit plus, c’est la présence d’un ticket de caisse virtuel, qui s’incrémente au fil de la lecture.  
+  
+Ça nous rappelle la rubrique « [Portefeuille](https://www.nouvelobs.com/rue89-votre-porte-monnaie-au-rayon-x/) » de Rue89 ou encore  « [Combien tu gagnes ?](https://www.nouvelobs.com/economie/20180125.OBS1190/combien-tu-gagnes-50-francais-devoilent-leur-remuneration.html) » de L’Obs (désormais déclinée en « [Combien tu pollues ?](https://www.nouvelobs.com/combien-tu-pollues/) »)  
+---  
+|  -- [Decouvrir le format](https://www.nytimes.com/interactive/2021/05/18/magazine/money-diaries.html?action=click&module=Top%20Stories&pgtype=Homepage) du New York Times  
+---  
+---  
+6\. Tech La renaissance du RSS ?  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/77a3cd94-c1c2-7d7c-f062-89e17adbfc49.png)  
+---  
+C'etait l'une des predictions media 2021 du Nieman Lab : le [retour des flux RSS](https://www.niemanlab.org/2020/12/return-of-the-rss-reader/). Marre des recommandations personnalisees des reseaux sociaux et des algorithmes dictes par la course au clic ? Il est temps de reprendre le controle sur nos feeds !  
+  
+C'est Google, pourtant largement decrie pour avoir tue son outil Reader en 2013, qui pourrait changer les choses. Il lance une fonctionnalite[ ](http://)experimentale sur son navigateur Chromium : un bouton permettra de s'abonner au flux RSS de n'importe quel site compatible. Surtout, les contenus seront ensuite mis en avant dans l'onglet Discover du navigateur (qui est notamment tres visible sur les mobiles Android)... Un premier ballon d'essai en attendant une integration plus complete dans Chrome ?  
+---  
+|  -- En savoir plus sur le [blog de Chromium](https://blog.chromium.org/2021/05/an-experiment-in-helping-users-and-web.html)  
+---  
+---  
+7\. Elections Deux bons decryptages pour les regionales et les presidentielles  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/1149afef-a471-3309-e19d-9cfbbdf878e2.png)  
+---  
+Le Monde publie deux formats particulierement precieux pour prendre de la hauteur dans le contexte pre-electoral du moment.  
+  
+-- **Pour les r egionales **qui arrivent dans deux semaines, le journal propose [des decryptages par region](https://www.lemonde.fr/politique/visuel/2021/05/05/regionales-2021-des-hauts-de-france-resilients_6079178_823448.html), a base de data et de cartographie. Voila un format qui n'a rien a envier aux tres belles pages « carto » du journal papier !  
+  
+-- **Pour la pr esidentielle,** le journal dresse [le bilan des sondages](https://www.lemonde.fr/les-decodeurs/article/2021/05/20/un-an-avant-une-presidentielle-les-sondages-sont-souvent-loin-du-compte_6080892_4355770.html) lors des derniers scrutins, chiffres a l'appui. Resultat : 100% des sondages sortis un an avant l'election se sont plantes. Une bonne infographie pour remettre les sondages a leur place !  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/03919cc6-46e7-64ca-9c07-b8b347fda122.png)  
+---  
+---  
+8\. Appel a candidatures Un programme d'accompagnement pour les medias emergents  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/a3cdae15-25c7-70f1-c113-63e18090e9ad.png)  
+---  
+L'accelerateur [Creatis](https://www.residencecreatis.com/) lance le programme Horizons, dedie aux entrepreneurs des medias et createurs de contenus. Ce programme s'articule autour de trois verticales thematiques : video, podcast, newsletter.  
+  
+Disclaimer : nous sommes tres heureux de faire partie des experts medias mobilises pour accompagner les porteurs de projet !  
+---  
+|  -- [Decouvrir le programme Horizons](https://www.residencecreatis.com/manifeste-horizons/)  
+---  
+---  
+C'est tout pour aujourd'hui !  
+|  PS : Nous ne sommes plus tres loin des 3000 inscrits ! Vous savez ce qu'il vous reste a faire pour qu'on passe le cap !  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/477aa040-7658-0475-eafc-cfb5ad19a660.gif)  
+---  
+Vous recevez cet e-mail car vous êtes inscrit•e via le site   
+[medias.datagif.fr](https://medias.datagif.fr/)   
+  
+🏄‍   
+Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)   
+  
+📪  
+Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)   
+  
+✌️  
+Retrouvez la veille et les projets de Datagif sur   
+[Medium](https://medium.com/Datagif) \- [Twitter](https://twitter.com/datagif) \- [Instagram](https://www.instagram.com/datagif) \- [Datagif.fr](https://datagif.fr)   
+  
+👋   
+[Cliquez-ici](*|UNSUB|*) pour vous désabonner   
+  
+  
+*|IF:REWARDS|* *|HTML:REWARDS|* *|END:IF|*   
+  
+  
+---

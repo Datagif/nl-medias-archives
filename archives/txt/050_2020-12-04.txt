@@ -1,0 +1,119 @@
+---  
+![Médias](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/d060cdc3-f8d4-4207-b9bb-0b8ffda1ca6f.png)  
+La veille innovation et design media par Datagif  
+  
+| *|MC_PREVIEW_TEXT|*  
+---  
+---  
+1\. Liste La force de l'accumulation  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/f19bcdd3-ab26-440c-a3a2-967d93255b97.png)  
+---  
+L'accumulation est une astuce visuelle bien connue pour montrer l'ampleur d'un phenomene. Le New York Times en a par exemple beaucoup use pour couvrir l'administration Trump.  
+  
+C'est ce que fait Le Monde cette semaine pour aborder la question des licenciements qui explosent en France depuis septembre. Sur le Web comme sur papier, le journal dresse la liste des milliers d'entreprises en faillite. L'effet de masse est impressionnant et chacun peut y reconnaitre des lieux ou des noms familiers.   
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/cba487f6-697d-44df-9ae5-e73cdad136ed.jpeg)  
+---  
+|  -- Un article-liste a scroller [chez Le Monde](https://www.lemonde.fr/economie/article/2020/12/02/la-france-frappee-par-la-vague-des-licenciements_6061854_3234.html)  
+---  
+---  
+2\. Complementarite Une newsletter bien adaptee sur le Web  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/9043d16a-2f0a-4f65-baae-f2a732a664ee.jpg)  
+---  
+Le New York Times publie depuis un moment la newsletter « Weekender » : une selection d'articles a lire le week- end. Rien d'incroyable, nous direz-vous ?   
+  
+Sauf que le journal joue habilement sur la complementarite des supports. La newsletter est desormais declinee dans une version web amelioree, mise en avant chaque samedi. Une page simple, sobre et courte, qui tranche avec le foisonnement  habituel du site.  
+  
+Bref, un bel ecrin pour faire le point sur l'actu de la semaine, et se plonger dans des longs formats. Ça nous rappellerait presque le principe d'un magazine papier...  
+---  
+|  -- Voir [un exemple de Weekender](https://www.nytimes.com/interactive/2020/10/16/briefing/the-weekender.html?searchResultPosition=1)  
+---  
+---  
+3\. Simulation Comment la Covid se propage ?  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/499ffb2f-68b9-42b0-a8f7-00547d6f29bf.png)  
+---  
+Le journal allemand Zeit a developpe un outil interactif tres complet pour simuler les risques d'infection quand on se trouve dans une piece fermee.  
+  
+Les parametres pris en compte sont nombreux : taille de la piece, nombre de personnes, duree, port du masque, ventilation... Un outil simple et bien designe, qui s'appuie sur les dernieres donnees scientifiques.  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/ae9be999-d204-4c4f-b277-fa41179ec51f.png)  
+---  
+|  -- [Decouvrir l'outil](https://www.zeit.de/wissen/gesundheit/2020-11/coronavirus-aerosols-infection-risk-hotspot-interiors) de Zeit  
+---  
+---  
+4\. Une L'Équipe sort le grand jeu pour Maradona  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/e35b6c97-4d93-4c47-92c4-f7172e310f47.gif)  
+---  
+L'Equipe est un des rares sites media dont la page d'accueil permet d'accueillir une grande image de couverture. Un gimmick qui fait son petit effet en cas d'actualite majeure. Dommage que ce code habituel de la presse papier soit si peu repandu !  
+---  
+---  
+5\. Dataviz La Covid en temps reel  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/e09fe180-d037-4459-b797-8c162bc94323.gif)  
+---  
+Le journal Les Echos effectue une belle mise a jour de leur tracker Covid-19, qui permet de mieux visualiser les dynamiques de contamination.  
+  
+On y trouve desormais le nombre de nouveaux cas en temps reel depuis le chargement de la page, grace a un compteur. Une façon efficace de mesurer la vitesse de propagation du virus  et de comparer les differents pays. C'est aussi plus parlant que les courbes que l'on a pris l'habitude de voir.  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/c12614e7-bece-4c0d-8693-4d2c1e0b7126.png)  
+---  
+|  -- [Decouvrir](http://media.lesechos.fr/infographie/covid-monde/) la dataviz sur la vitesse de propagation de la covid   
+   
+---  
+---  
+6\. Strategie Qui a dit que le New York Times etait « tout payant » ?   
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/303379d6-d01c-4cae-80ad-f2010c9c74ab.png)  
+---  
+Avec ses 5 millions d'abonnes, le New York Times incarne le succes de l'info numerique payante. De nombreux medias cherchent a reproduire ce modele et se murent derriere des paywalls.  Oui, mais le NYT lui-meme n'oublie pas pour autant le public "gratuit"...  
+  
+-- Le site sera bientot accessible gratuitement pour tous les lyceens americains et leurs enseignants, grace au soutien de l'operateur telephonique Verizon  
+-- Le NYT developpe pour 2021 une nouvelle rubrique ambitieuse pour suivre les grands defis mondiaux, qui sera en acces libre grace a 3 fondations philanthropiques   
+  
+Bref, le journal joue habilement sur les deux tableaux, et montre la voix a des nouveaux modeles de sponsorship plus vertueux que la pub classique.  
+---  
+|  -- En savoir plus sur [l'acces gratuit pour les etudiants ](https://www.nytimes.com/initiative/highschoolaccess)  
+-- En savoir plus sur [la rubrique Headway](https://www.nytco.com/press/the-new-york-times-announces-philanthropic-support-for-the-headway-initiative/)  
+---  
+---  
+7\. Data Le tracking des votes a l'Assemblee  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/a5414a56-af81-4035-91d7-ae2e5cc16b69.png)  
+---  
+Le Figaro propose une visualisation graphique du vote sur la proposition de loi Securite globale. Interessant pour savoir qui a vote a quoi, notamment en tapant le nom de son depute local.  
+  
+Un format assez simple, deja vu chez [The Guardian](https://www.theguardian.com/politics/ng-interactive/2019/dec/20/how-did-your-mp-vote-on-the-brexit-deal) ou [le NYT](https://www.nytimes.com/interactive/2019/02/26/us/politics/house-vote-trump-national-emergency.html) par exemple, qu'on aimerait voir plus souvent sur d'autres textes legislatifs importants. Encore faudrait-il que le Parlement se convertisse serieusement a l'open data…  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/59e0fce8-ad68-4cf5-996e-14ae7907c46c.png)  
+---  
+|  -- [Lire l'article du Figaro](https://www.lefigaro.fr/flash-actu/l-assemblee-donne-un-premier-feu-vert-au-texte-controverse-sur-la-securite-globale-20201124)  
+---  
+---  
+8\. Election En attendant le 46eme president...  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/f8d8e7f1-3467-42a6-a7da-2f8dcedfee37.png)  
+---  
+La couverture d'une election ne s'arrete pas au moment de l'annonce de ses resultats. Encore moins dans la logique (interminable) de l'election americaine, qui ouvre une periode de transition de trois mois avant l'investiture !  
+  
+Le Washington Post a mis le paquet pour suivre cette periode : une page centralise toutes les informations cles. On aime notamment la presentation des nominations, avec une strate de cards. Simple et plus direct que de multiples articles !  
+---  
+|  --  Ca se passe chez le [Washington Post](https://www.washingtonpost.com/politics/joe-biden-46th-president/)  
+---  
+Vous recevez cet e-mail car vous êtes inscrit•e via le site   
+[medias.datagif.fr](https://medias.datagif.fr/)   
+  
+🏄‍   
+Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)   
+  
+📪  
+Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)   
+  
+✌️  
+Retrouvez la veille et les projets de Datagif sur   
+[Medium](https://medium.com/Datagif) \- [Twitter](https://twitter.com/datagif) \- [Instagram](https://www.instagram.com/datagif) \- [Datagif.fr](https://datagif.fr)   
+  
+👋   
+[Cliquez-ici](*|UNSUB|*) pour vous désabonner   
+  
+  
+*|IF:REWARDS|* *|HTML:REWARDS|* *|END:IF|*   
+  
+  
+---

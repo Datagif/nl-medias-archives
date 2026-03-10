@@ -1,0 +1,1017 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+<head><meta name="twitter:image:src" content="https://mcusercontent.com/42d1f60e448215132ba30db60/images/ee357fe7-ec94-fcd8-d959-8d26d5ff761a.jpg"><meta name="twitter:description" content="Vous ne verrez pas d'article aussi intéressant sur la guerre des tranchées"><meta name="twitter:title" content="#108 ● Dark patterns décortiqués • Post mortem chez BuzzFeed News • Charles-roi ! • AMP is dead"><meta name="twitter:card" content="summary_large_image"><meta property="og:type" content="article"><meta property="og:description" content="Vous ne verrez pas d'article aussi intéressant sur la guerre des tranchées"><meta property="og:image" content="https://mcusercontent.com/42d1f60e448215132ba30db60/images/ee357fe7-ec94-fcd8-d959-8d26d5ff761a.jpg"><meta property="og:title" content="#108 ● Dark patterns décortiqués • Post mortem chez BuzzFeed News • Charles-roi ! • AMP is dead"><meta property="og:url" content="http://eepurl.com/iqEjrE">
+<title>*|MC:SUBJECT|*</title>
+<!--[if !mso]><!-->
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!--<![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+
+<!--[if mso]> <noscript><xml><o:OfficeDocumentSettings><o:AllowPNG/><o:PixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml></noscript><![endif]-->
+<!--[if lte mso 11]>
+<style type="text/css">
+.mj-outlook-group-fix{width:100% !important;}
+</style><![endif]-->
+
+
+
+<style type="text/css">
+		#outlook a{
+			padding:0;
+		}
+		body{
+			margin:0;
+			padding:0;
+			-webkit-text-size-adjust:100%;
+			-ms-text-size-adjust:100%;
+		}
+		table,td{
+			border-collapse:collapse;
+			mso-table-lspace:0pt;
+			mso-table-rspace:0pt;
+		}
+		img{
+			border:0;
+			height:auto;
+			line-height:100%;
+			outline:none;
+			text-decoration:none;
+			-ms-interpolation-mode:bicubic;
+		}
+		p{
+			display:block;
+			margin:13px 0;
+		}
+	@media only screen and (min-width:480px){
+		.mj-column-per-100{
+			width:100%!important;
+			max-width:100%;
+		}
+
+}	@media only screen and (min-width:480px){
+		.mj-column-px-400{
+			width:400px!important;
+			max-width:400px;
+		}
+
+}	@media only screen and (min-width:480px){
+		.mj-column-px-500{
+			width:500px!important;
+			max-width:500px;
+		}
+
+}		.moz-text-html .mj-column-per-100{
+			width:100%!important;
+			max-width:100%;
+		}
+		.moz-text-html .mj-column-px-400{
+			width:400px!important;
+			max-width:400px;
+		}
+		.moz-text-html .mj-column-px-500{
+			width:500px!important;
+			max-width:500px;
+		}
+	@media only screen and (max-width:480px){
+		table.mj-full-width-mobile{
+			width:100%!important;
+		}
+
+}	@media only screen and (max-width:480px){
+		td.mj-full-width-mobile{
+			width:auto!important;
+		}
+
+}		font-weight:normalfont-style:normal{
+			font-family:'Lausanne';
+			src:url('https://newsletter.datagif.fr/ext/datagif/fonts/Lausanne-700.eot?#iefix') format('embedded-opentype'),url('https://newsletter.datagif.fr/ext/datagif/fonts/Lausanne-700.woff2') format('woff2'),url('https://newsletter.datagif.fr/ext/datagif/fonts/Lausanne-700.woff') format('woff'),url('https://newsletter.datagif.fr/ext/datagif/fonts/Lausanne-700.ttf') format('truetype'),url('https://newsletter.datagif.fr/ext/datagif/fonts/Lausanne-700.svg#Lausanne-700') format('svg');
+			font-weight:bold;
+			font-style:normal;
+		}
+		:root{
+			font-size:16px!important;
+			font-family:'Lausanne',Helvetica,Arial,sans-serif!important;
+		}
+		a,a:link,a:active{
+			color:black!important;
+			text-decoration:none!important;
+			border-bottom:1px solid!important;
+			padding-bottom:2px!important;
+		}
+		.block-CTA-btn a{
+			color:#ffffff!important;
+			padding-bottom:10px!important;
+			border-bottom:0px solid transparent!important;
+		}
+		strong{
+			font-weight:600!important;
+		}
+		p,h1,h2{
+			margin:0!important;
+		}
+		p+p{
+			margin-top:1em!important;
+		}
+		.block img,.block-no-text img,.block-no-image img{
+			max-width:100%!important;
+			margin:0 auto!important;
+			height:auto!important;
+		}
+		.block .framed-image.desktop img,.block .full-image img,.block-no-text .framed-image.desktop img,.block-no-text .full-image img,.block-no-image .framed-image.desktop img,.block-no-image .full-image img{
+			width:100%!important;
+		}
+		.block .framed-image.mobile img{
+			max-width:300px!important;
+		}
+		.end-image img,.block img{
+			max-width:100%!important;
+			height:auto!important;
+		}
+	@media only screen and (max-width:480px){
+		.block .framed-image.mobile img{
+			max-width:166px!important;
+		}
+
+}	@media only screen and (max-width:480px){
+		.framed-image>table>tbody>tr>td{
+			padding:24px!important;
+		}
+
+}	@media only screen and (max-width:480px){
+		.tagline{
+			padding:24px 0 32px 0!important;
+		}
+
+}	@media only screen and (max-width:480px){
+		.block-title>table>tbody>tr>td,.block-content>table>tbody>tr>td{
+			padding:32px 24px!important;
+		}
+
+}	@media only screen and (max-width:480px){
+		.small-text-header{
+			padding:0 0 32px 0!important;
+		}
+
+}	@media only screen and (max-width:480px){
+		.padding-48>table>tbody>tr>td{
+			padding:32px!important;
+		}
+
+}	@media only screen and (max-width:480px){
+		.padding-24-0{
+			padding:16px 0!important;
+		}
+
+}	@media only screen and (max-width:480px){
+		.spacer-24>div{
+			line-height:16px!important;
+			height:16px!important;
+		}
+
+}	@media only screen and (max-width:480px){
+		.spacer-48>div{
+			line-height:32px!important;
+			height:32px!important;
+		}
+
+}	@media only screen and (max-width:480px){
+		.spacer-64>div{
+			line-height:40px!important;
+			height:40px!important;
+		}
+
+}</style></head>
+<body style="word-spacing: normal;background-color: #F4F2F2;margin: 0;padding: 0;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;"><div itemscope itemtype="http://schema.org/EmailMessage"><div itemprop="publisher" itemscope itemtype="http://schema.org/Organization"><meta itemprop="name" content="*|LIST:COMPANY|*"><link itemprop="url" content="*|LIST:URL|*"></div><div itemprop="about" itemscope itemtype="http://schema.org/Offer"><link itemprop="image" href="https://mcusercontent.com/42d1f60e448215132ba30db60/images/ee357fe7-ec94-fcd8-d959-8d26d5ff761a.jpg"></div></div>
+
+<div style="display: none; max-height: 0px; overflow: hidden;">*|IF:MC_PREVIEW_TEXT|*</div>
+ 
+<!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+<div style="display: none; max-height: 0px; overflow: hidden;">
+&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;
+</div>
+
+<div class="global-container" style="background-color:#F4F2F2;padding:16px;">
+
+
+
+<!-- header -->
+<!--[if mso | IE]>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]--><div style="margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="border-bottom: 4px solid;direction: ltr;font-size: 0px;padding: 0;text-align: center;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:600px;"><![endif]--><div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="vertical-align: top;padding: 0;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td align="left" class="small-text-header" style="font-size: 0px;padding: 8px 0 48px 0;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><div style="font-family:'Lausanne',Helvetica,Arial,sans-serif;font-size:12px;line-height:16px;text-align:left;color:#000000;"><a style="color:black;text-decoration:none;border-bottom:1px solid;padding-bottom:2px;" href="*|ARCHIVE|*">Ouvrir dans le navigateur</a></div>
+</td></tr><tr><td align="left" style="font-size: 0px;padding: 0;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse: collapse;border-spacing: 0px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="width: 330px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><img alt="Médias" height="auto" src="https://newsletter.datagif.fr/ext/datagif/img/medias.png" style="border: 0;display: block;outline: none;text-decoration: none;height: auto;width: 100%;font-size: 13px;line-height: 100%;-ms-interpolation-mode: bicubic;" width="330">
+</td></tr></tbody></table>
+</td></tr><tr><td align="left" class="tagline" style="font-size: 0px;padding: 24px 0 48px 0;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><div style="font-family:'Lausanne',Helvetica,Arial,sans-serif;font-size:18px;line-height:26px;text-align:left;color:#000000;">La veille innovation et design média par <span class="text-logo" style="font-weight:bold;font-size:22px;">DATAGIF</span></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table><![endif]-->
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table><![endif]--><!-- Email Body : BEGIN --><!-- 1 Column Text : BEGIN --><!-- *|IF:MC_PREVIEW_TEXT|* -->
+<!--[if mso | IE]>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]--><div style="margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="direction: ltr;font-size: 0px;padding: 0;text-align: center;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:600px;"><![endif]--><div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="vertical-align: top;padding: 0;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td align="left" style="font-size: 0px;padding: 0;padding-top: 24px;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><div style="font-family:'Lausanne',Helvetica,Arial,sans-serif;font-size:18px;line-height:28px;text-align:left;color:#000000;"><p style="margin: 13px 0;display: block;">*|MC_PREVIEW_TEXT|*</p></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table><![endif]-->
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table><![endif]--><!-- *|END:IF|* -->
+<!--[if mso | IE]>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]--><div style="margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="direction: ltr;font-size: 0px;padding: 0;text-align: center;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:600px;"><![endif]--><div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="vertical-align: top;padding: 0;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td class="spacer-48" style="font-size: 0px;padding: 0;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><div style="height:48px;line-height:48px;">&#8202;</div>
+</td></tr></tbody></table>
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table><![endif]-->
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table><![endif]--><!-- bloc de base -->
+<!--[if mso | IE]>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="block-outlook" role="presentation" style="width:600px;" width="600"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]--><div class="no-bg-block" style="margin:0px auto;max-width:600px;" mc:repeatable="repeat_1" mc:variant="texte_sans_fond" mc:repeatindex="0">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="direction: ltr;font-size: 0px;padding: 0;text-align: center;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" width="600px">
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]--><div style="margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="direction: ltr;font-size: 0px;padding: 0;text-align: center;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:600px;"><![endif]--><div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="vertical-align: top;padding: 0;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td align="left" class="padding-24-0" style="font-size: 0px;padding: 24px 0;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><div style="font-family:'Lausanne',Helvetica,Arial,sans-serif;font-size:16px;line-height:26px;text-align:left;color:#000000;"><p style="margin: 13px 0;display: block;">En tant qu&#39;<a href="http://datagif.fr" target="_blank">agence de design d&#39;interface</a>, nous faisons attention &agrave; ne jamais cr&eacute;er de parcours trompeurs. Pourtant, l&#39;Internet en est rempli, comme vous le verrez dans l&#39;article tout en bas de cette newsletter. En attendant, si on revenait sur l&#39;&eacute;v&eacute;nement royal de l&#39;ann&eacute;e ?&nbsp;</p></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table><![endif]-->
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table>
+</td></tr><tr><td class="" width="600px">
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]--><div style="margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="direction: ltr;font-size: 0px;padding: 0;text-align: center;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:600px;"><![endif]--><div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="vertical-align: top;padding: 0;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td class="spacer-24" style="font-size: 0px;padding: 0;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><div style="height:24px;line-height:24px;">&#8202;</div>
+</td></tr></tbody></table>
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table><![endif]-->
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table>
+</td></tr></table><![endif]-->
+</td></tr></tbody></table></div><div class="block" style="margin:0px auto;max-width:600px;" mc:repeatable="repeat_1" mc:variant="bloc_simple" mc:repeatindex="1">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="direction: ltr;font-size: 0px;padding: 0;text-align: center;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" width="600px">
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]--><div style="margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="direction: ltr;font-size: 0px;padding: 0;text-align: center;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="block-title-outlook" style="vertical-align:top;width:600px;"><![endif]--><div class="mj-column-per-100 mj-outlook-group-fix block-title" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="background-color: #FFFFFF;vertical-align: top;padding: 32px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td align="left" style="font-size: 0px;padding: 0;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><div style="font-family:'Lausanne',Helvetica,Arial,sans-serif;font-size:28px;line-height:34px;text-align:left;color:#000000;"><h2 class="block-title-header" style="color:#F84949;margin:0;font-size:1em;font-weight:normal;">1. Joyaux</h2><h2 class="block-title-subheader" style="margin:0;font-size:1em;font-weight:normal;">Le couronnement royal de Charles mais sans s&#39;ennuyer</h2></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table><![endif]-->
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table>
+</td></tr><tr><td class="framed-image-outlook mobile-outlook" width="600px">
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="framed-image-outlook mobile-outlook" role="presentation" style="width:600px;" width="600" bgcolor="#2C2C2C"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<!--[if mso | IE]>
+</td></tr></table>
+</td></tr><tr><td class="framed-image-outlook desktop-outlook" width="600px">
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="framed-image-outlook desktop-outlook" role="presentation" style="width:600px;" width="600" bgcolor="#2C2C2C"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]--><div class="framed-image desktop" style="background:#2C2C2C;background-color:#2C2C2C;margin:0px auto;max-width:600px;" mc:hideable="hideable_repeat_1_2" mchideable="hideable_repeat_1_2">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background: #2C2C2C;background-color: #2C2C2C;width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="direction: ltr;font-size: 0px;padding: 32px;text-align: center;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:536px;"><![endif]--><div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="vertical-align: top;padding: 0;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td align="center" style="font-size: 0px;padding: 0;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse: collapse;border-spacing: 0px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="width: 536px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><img src="https://mcusercontent.com/42d1f60e448215132ba30db60/images/eda6eafc-fa9c-c1db-5b06-b2dcada1a131.gif" alt="" border="0" style="margin: 0 auto;padding: 0;border: 0;display: block;outline: none;text-decoration: none;font-size: 13px;max-width: 100%;height: auto;width: 100%;line-height: 100%;-ms-interpolation-mode: bicubic;">
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table><![endif]-->
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table>
+</td></tr><tr><td class="full-image-outlook" width="600px">
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="full-image-outlook" role="presentation" style="width:600px;" width="600" bgcolor="#FFFFFF"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<!--[if mso | IE]>
+</td></tr></table>
+</td></tr><tr><td class="" width="600px">
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]--><div style="margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="direction: ltr;font-size: 0px;padding: 0;text-align: center;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="block-content-outlook" style="vertical-align:top;width:600px;"><![endif]--><div class="mj-column-per-100 mj-outlook-group-fix block-content" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="background-color: #FFFFFF;vertical-align: top;padding: 32px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td align="left" class="block-text" style="font-size: 0px;padding: 0;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><div style="font-family:'Lausanne',Helvetica,Arial,sans-serif;font-size:16px;line-height:26px;text-align:left;color:#000000;"><p mc:hideable="hideable_repeat_1_4" style="margin: 13px 0;display: block;" mchideable="hideable_repeat_1_4">Certains m&eacute;dias ont saisi l&#39;occasion de l&#39;&eacute;v&eacute;nement absolument fascinant pour rebondir intelligemment. Petite s&eacute;lection :&nbsp;<br>
+<br>
+🪗 Publi&eacute;e il y a plusieurs semaines, <a href="https://www.nytimes.com/interactive/2023/style/king-charles-coronation.html" target="_blank">la FAQ du couronnement</a> du NYT repose sur leur d&eacute;sormais c&eacute;l&egrave;bre gabarit, avec le traditionnel mix de s&eacute;rieux et de lol.<br>
+🐶 Toujours chez le NYT, &quot;<a href="https://www.nytimes.com/interactive/2023/05/05/opinion/king-charles-coronation.html" target="_blank">8 autres Charles (et un chien) qui devraient &ecirc;tre couronn&eacute;s &agrave; la place du roi</a>&quot; : irr&eacute;v&eacute;rencieux et g&eacute;nial &agrave; la fois, avec ses m&eacute;daillons anim&eacute;s.<br>
+💰 Shocking : le Guardian r&eacute;v&egrave;le le d&eacute;tail de la fortune personnelle du roi Charles avec <a href="https://www.theguardian.com/uk-news/ng-interactive/2023/apr/20/revealed-king-charless-private-fortune-estimated-at-almost-2bn" target="_blank">une m&eacute;canique d&#39;accumulation au d&eacute;filement</a> tr&egrave;s bien vue.<br>
+👑 Le South China Morning Post publie un article encyclop&eacute;dique sur la lign&eacute;e royale, le parcours du carrosse, le protocole, bref <a href="https://multimedia.scmp.com/infographics/news/world/article/3218969/coronation/index.html" target="_blank">tout ce que vous auriez s&ucirc;rement aim&eacute; savoir avant le direct &agrave; la t&eacute;l&eacute;</a>.<br>
+🌈 Notre favori absolu :&nbsp;<a href="https://www.axios.com/british-royal-family-fashion" target="_blank">l&#39;analyse colorim&eacute;trique des tenues de Diana, Elizabeth II, Kate et Camilla</a> chez Axios. Un grand oui.<br>
+&nbsp;</p></div>
+</td></tr><tr><td align="left" class="block-link" style="font-size: 0px;padding: 0;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="margin: 0px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody></tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table><![endif]-->
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table>
+</td></tr><tr><td class="" width="600px">
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]--><div style="margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="direction: ltr;font-size: 0px;padding: 0;text-align: center;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:600px;"><![endif]--><div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="vertical-align: top;padding: 0;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td class="spacer-24" style="font-size: 0px;padding: 0;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><div style="height:24px;line-height:24px;">&#8202;</div>
+</td></tr></tbody></table>
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table><![endif]-->
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table>
+</td></tr></table><![endif]-->
+</td></tr></tbody></table></div><div class="block" style="margin:0px auto;max-width:600px;" mc:repeatable="repeat_1" mc:variant="bloc_simple" mc:repeatindex="2">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="direction: ltr;font-size: 0px;padding: 0;text-align: center;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" width="600px">
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]--><div style="margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="direction: ltr;font-size: 0px;padding: 0;text-align: center;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="block-title-outlook" style="vertical-align:top;width:600px;"><![endif]--><div class="mj-column-per-100 mj-outlook-group-fix block-title" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="background-color: #FFFFFF;vertical-align: top;padding: 32px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td align="left" style="font-size: 0px;padding: 0;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><div style="font-family:'Lausanne',Helvetica,Arial,sans-serif;font-size:28px;line-height:34px;text-align:left;color:#000000;"><h2 class="block-title-header" style="color:#F84949;margin:0;font-size:1em;font-weight:normal;">2. Climat</h2><h2 class="block-title-subheader" style="margin:0;font-size:1em;font-weight:normal;">Comment la fonte des glaces impacte le monde entier</h2></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table><![endif]-->
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table>
+</td></tr><tr><td class="framed-image-outlook mobile-outlook" width="600px">
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="framed-image-outlook mobile-outlook" role="presentation" style="width:600px;" width="600" bgcolor="#2C2C2C"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<!--[if mso | IE]>
+</td></tr></table>
+</td></tr><tr><td class="framed-image-outlook desktop-outlook" width="600px">
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="framed-image-outlook desktop-outlook" role="presentation" style="width:600px;" width="600" bgcolor="#2C2C2C"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]--><div class="framed-image desktop" style="background:#2C2C2C;background-color:#2C2C2C;margin:0px auto;max-width:600px;" mc:hideable="hideable_repeat_1_6" mchideable="hideable_repeat_1_6">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background: #2C2C2C;background-color: #2C2C2C;width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="direction: ltr;font-size: 0px;padding: 32px;text-align: center;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:536px;"><![endif]--><div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="vertical-align: top;padding: 0;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td align="center" style="font-size: 0px;padding: 0;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse: collapse;border-spacing: 0px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="width: 536px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><a href="https://apps.npr.org/arctic-ice-melting-climate-change/" target="_blank"><img src="https://mcusercontent.com/42d1f60e448215132ba30db60/images/b2165a6c-e902-bc41-6153-44a04c11d30c.jpg" alt="" border="0" style="margin: 0 auto;padding: 0;border: 0;display: block;outline: none;text-decoration: none;font-size: 13px;max-width: 100%;height: auto;width: 100%;line-height: 100%;-ms-interpolation-mode: bicubic;"></a>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table><![endif]-->
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table>
+</td></tr><tr><td class="full-image-outlook" width="600px">
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="full-image-outlook" role="presentation" style="width:600px;" width="600" bgcolor="#FFFFFF"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<!--[if mso | IE]>
+</td></tr></table>
+</td></tr><tr><td class="" width="600px">
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]--><div style="margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="direction: ltr;font-size: 0px;padding: 0;text-align: center;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="block-content-outlook" style="vertical-align:top;width:600px;"><![endif]--><div class="mj-column-per-100 mj-outlook-group-fix block-content" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="background-color: #FFFFFF;vertical-align: top;padding: 32px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td align="left" class="block-text" style="font-size: 0px;padding: 0;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><div style="font-family:'Lausanne',Helvetica,Arial,sans-serif;font-size:16px;line-height:26px;text-align:left;color:#000000;"><p mc:hideable="hideable_repeat_1_8" style="margin: 13px 0;display: block;" mchideable="hideable_repeat_1_8">La NPR propose une tr&egrave;s compl&egrave;te s&eacute;rie de mini-sites pour montrer l&#39;impact de la fonte des calottes polaires sur tout le globe, d&#39;un projet de construction au Texas jusqu&#39;aux baleines en voie de disparition. On appr&eacute;cie le m&eacute;lange de QCM, vid&eacute;os et cartographie, on regrette juste peut-&ecirc;tre le manque de lien avec les <a href="https://www.npr.org/series/1168056854/beyond-the-poles-ice-melt" target="_blank">programmes audios de la NPR</a> abordant les m&ecirc;mes sujets et le manque de navigation au sein de la s&eacute;rie : ce n&#39;est pas un seul article interactif, mais bien cinq diff&eacute;rents approfondissant chaque sujet.</p></div>
+</td></tr><tr><td align="left" class="block-link" style="font-size: 0px;padding: 0;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="margin: 0px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr mc:repeatable="repeat_1:2:repeat_1" mc:repeatindex="0" mc:hideable="hideable_repeat_1:2:repeat_1_1" mchideable="hideable_repeat_1:2:repeat_1_1"><td style="position: relative;top: -2px;padding: 0;vertical-align: top;padding-top: 24px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-radius: 0;width: 16px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="font-size: 0;height: 24px;vertical-align: middle;width: 16px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><img alt="" height="24" src="https://newsletter.datagif.fr/ext/datagif/img/fleche.png" style="border-radius: 0;display: block;width: auto;max-width: 100%;height: auto;margin: 0 auto;border: 0;line-height: 100%;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" width="16">
+</td></tr></tbody></table>
+</td><td style="vertical-align: middle;padding: 0 0 0 8px;padding-top: 24px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;" valign="middle"><span style="color:#000000;font-size:16px;font-family:'Lausanne',Helvetica,Arial,sans-serif;line-height:24px;text-decoration:none;"><p style="margin: 13px 0;display: block;"><a href="https://apps.npr.org/arctic-ice-melting-climate-change/" target="_blank">D&eacute;couvrir le long format</a> de la NPR</p></span>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table><![endif]-->
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table>
+</td></tr><tr><td class="" width="600px">
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]--><div style="margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="direction: ltr;font-size: 0px;padding: 0;text-align: center;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:600px;"><![endif]--><div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="vertical-align: top;padding: 0;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td class="spacer-24" style="font-size: 0px;padding: 0;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><div style="height:24px;line-height:24px;">&#8202;</div>
+</td></tr></tbody></table>
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table><![endif]-->
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table>
+</td></tr></table><![endif]-->
+</td></tr></tbody></table></div><div class="block-RS" style="margin:0px auto;max-width:600px;" mc:repeatable="repeat_1" mc:variant="RS" mc:repeatindex="3">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="direction: ltr;font-size: 0px;padding: 0;text-align: center;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="padding-48-outlook" width="600px">
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="padding-48-outlook" role="presentation" style="width:600px;" width="600" bgcolor="#FFFFFF"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]--><div class="padding-48" style="background:#FFFFFF;background-color:#FFFFFF;margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background: #FFFFFF;background-color: #FFFFFF;width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="direction: ltr;font-size: 0px;padding: 48px 0;text-align: center;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:400px;"><![endif]--><div class="mj-column-px-400 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="vertical-align: top;padding: 0;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td align="center" style="font-size: 0px;padding: 0;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse: collapse;border-spacing: 0px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="width: 64px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><img alt="" height="auto" src="https://newsletter.datagif.fr/ext/datagif/img/reseaux.png" style="border: 0;display: block;outline: none;text-decoration: none;height: auto;width: 100%;font-size: 13px;line-height: 100%;-ms-interpolation-mode: bicubic;" width="64">
+</td></tr></tbody></table>
+</td></tr><tr><td align="center" style="font-size: 0px;padding: 16px 0;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><div style="font-family:'Lausanne',Helvetica,Arial,sans-serif;font-size:18px;line-height:28px;text-align:center;color:#000000;"><p style="max-width: 400px;margin: 0 auto;display: block;">Retrouvez la veille et les projets de Datagif sur <a style="color:black;text-decoration:none;border-bottom:1px solid;padding-bottom:2px;" href="https://datagif.medium.com/">Medium</a> • <a style="color:black;text-decoration:none;border-bottom:1px solid;padding-bottom:2px;" href="https://twitter.com/datagif">Twitter</a> • <a style="color:black;text-decoration:none;border-bottom:1px solid;padding-bottom:2px;" href="https://www.instagram.com/datagif/">Instagram</a> • <a style="color:black;text-decoration:none;border-bottom:1px solid;padding-bottom:2px;" href="https://datagif.fr/">Datagif.fr</a></p></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table><![endif]-->
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table>
+</td></tr><tr><td class="" width="600px">
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]--><div style="margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="direction: ltr;font-size: 0px;padding: 0;text-align: center;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:600px;"><![endif]--><div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="vertical-align: top;padding: 0;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td class="spacer-24" style="font-size: 0px;padding: 0;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><div style="height:24px;line-height:24px;">&#8202;</div>
+</td></tr></tbody></table>
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table><![endif]-->
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table>
+</td></tr></table><![endif]-->
+</td></tr></tbody></table></div><div class="block" style="margin:0px auto;max-width:600px;" mc:repeatable="repeat_1" mc:variant="bloc_simple" mc:repeatindex="4">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="direction: ltr;font-size: 0px;padding: 0;text-align: center;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" width="600px">
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]--><div style="margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="direction: ltr;font-size: 0px;padding: 0;text-align: center;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="block-title-outlook" style="vertical-align:top;width:600px;"><![endif]--><div class="mj-column-per-100 mj-outlook-group-fix block-title" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="background-color: #FFFFFF;vertical-align: top;padding: 32px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td align="left" style="font-size: 0px;padding: 0;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><div style="font-family:'Lausanne',Helvetica,Arial,sans-serif;font-size:28px;line-height:34px;text-align:left;color:#000000;"><h2 class="block-title-header" style="color:#F84949;margin:0;font-size:1em;font-weight:normal;">3. Croquis</h2><h2 class="block-title-subheader" style="margin:0;font-size:1em;font-weight:normal;">Reuters impressionne par son traitement visuel des tranch&eacute;es</h2></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table><![endif]-->
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table>
+</td></tr><tr><td class="framed-image-outlook mobile-outlook" width="600px">
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="framed-image-outlook mobile-outlook" role="presentation" style="width:600px;" width="600" bgcolor="#2C2C2C"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<!--[if mso | IE]>
+</td></tr></table>
+</td></tr><tr><td class="framed-image-outlook desktop-outlook" width="600px">
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="framed-image-outlook desktop-outlook" role="presentation" style="width:600px;" width="600" bgcolor="#2C2C2C"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]--><div class="framed-image desktop" style="background:#2C2C2C;background-color:#2C2C2C;margin:0px auto;max-width:600px;" mc:hideable="hideable_repeat_1_10" mchideable="hideable_repeat_1_10">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background: #2C2C2C;background-color: #2C2C2C;width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="direction: ltr;font-size: 0px;padding: 32px;text-align: center;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:536px;"><![endif]--><div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="vertical-align: top;padding: 0;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td align="center" style="font-size: 0px;padding: 0;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse: collapse;border-spacing: 0px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="width: 536px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><a href="https://www.reuters.com/graphics/UKRAINE-CRISIS/COUNTEROFFENSIVE/mopakddwbpa/" target="_blank"><img src="https://mcusercontent.com/42d1f60e448215132ba30db60/images/6f7fbccf-d117-15e1-e66a-a411b5f8d3f8.jpg" alt="" border="0" style="margin: 0 auto;padding: 0;border: 0;display: block;outline: none;text-decoration: none;font-size: 13px;max-width: 100%;height: auto;width: 100%;line-height: 100%;-ms-interpolation-mode: bicubic;"></a>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table><![endif]-->
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table>
+</td></tr><tr><td class="full-image-outlook" width="600px">
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="full-image-outlook" role="presentation" style="width:600px;" width="600" bgcolor="#FFFFFF"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<!--[if mso | IE]>
+</td></tr></table>
+</td></tr><tr><td class="" width="600px">
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]--><div style="margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="direction: ltr;font-size: 0px;padding: 0;text-align: center;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="block-content-outlook" style="vertical-align:top;width:600px;"><![endif]--><div class="mj-column-per-100 mj-outlook-group-fix block-content" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="background-color: #FFFFFF;vertical-align: top;padding: 32px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td align="left" class="block-text" style="font-size: 0px;padding: 0;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><div style="font-family:'Lausanne',Helvetica,Arial,sans-serif;font-size:16px;line-height:26px;text-align:left;color:#000000;"><p mc:hideable="hideable_repeat_1_12" style="margin: 13px 0;display: block;" mchideable="hideable_repeat_1_12">Un article pens&eacute; &agrave; part &eacute;gale sur le fond et la forme qui fait le point sur la guerre des tranch&eacute;es creus&eacute;es par la Russie. Cet impressionnant focus sur l&#39;ing&eacute;nierie d&eacute;ploy&eacute;e m&ecirc;le des croquis que l&#39;on croirait sortis de carnets de notes de reporters de guerre avec&nbsp;des cartes tactiques et des sch&eacute;mas particuli&egrave;rement clairs.</p></div>
+</td></tr><tr><td align="left" class="block-link" style="font-size: 0px;padding: 0;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="margin: 0px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr mc:repeatable="repeat_1:4:repeat_1" mc:repeatindex="0" mc:hideable="hideable_repeat_1:4:repeat_1_1" mchideable="hideable_repeat_1:4:repeat_1_1"><td style="position: relative;top: -2px;padding: 0;vertical-align: top;padding-top: 24px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-radius: 0;width: 16px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="font-size: 0;height: 24px;vertical-align: middle;width: 16px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><img alt="" height="24" src="https://newsletter.datagif.fr/ext/datagif/img/fleche.png" style="border-radius: 0;display: block;width: auto;max-width: 100%;height: auto;margin: 0 auto;border: 0;line-height: 100%;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" width="16">
+</td></tr></tbody></table>
+</td><td style="vertical-align: middle;padding: 0 0 0 8px;padding-top: 24px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;" valign="middle"><span style="color:#000000;font-size:16px;font-family:'Lausanne',Helvetica,Arial,sans-serif;line-height:24px;text-decoration:none;"><p style="margin: 13px 0;display: block;"><a href="https://www.reuters.com/graphics/UKRAINE-CRISIS/COUNTEROFFENSIVE/mopakddwbpa/" target="_blank">Explorer cette guerre des techniques</a> chez Reuters</p></span>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table><![endif]-->
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table>
+</td></tr><tr><td class="" width="600px">
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]--><div style="margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="direction: ltr;font-size: 0px;padding: 0;text-align: center;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:600px;"><![endif]--><div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="vertical-align: top;padding: 0;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td class="spacer-24" style="font-size: 0px;padding: 0;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><div style="height:24px;line-height:24px;">&#8202;</div>
+</td></tr></tbody></table>
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table><![endif]-->
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table>
+</td></tr></table><![endif]-->
+</td></tr></tbody></table></div><div class="block" style="margin:0px auto;max-width:600px;" mc:repeatable="repeat_1" mc:variant="bloc_simple" mc:repeatindex="5">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="direction: ltr;font-size: 0px;padding: 0;text-align: center;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" width="600px">
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]--><div style="margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="direction: ltr;font-size: 0px;padding: 0;text-align: center;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="block-title-outlook" style="vertical-align:top;width:600px;"><![endif]--><div class="mj-column-per-100 mj-outlook-group-fix block-title" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="background-color: #FFFFFF;vertical-align: top;padding: 32px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td align="left" style="font-size: 0px;padding: 0;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><div style="font-family:'Lausanne',Helvetica,Arial,sans-serif;font-size:28px;line-height:34px;text-align:left;color:#000000;"><h2 class="block-title-header" style="color:#F84949;margin:0;font-size:1em;font-weight:normal;">4. Journalisme</h2><h2 class="block-title-subheader" style="margin:0;font-size:1em;font-weight:normal;">Bilan du Festival international de journalisme de P&eacute;rouse</h2></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table><![endif]-->
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table>
+</td></tr><tr><td class="framed-image-outlook mobile-outlook" width="600px">
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="framed-image-outlook mobile-outlook" role="presentation" style="width:600px;" width="600" bgcolor="#2C2C2C"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<!--[if mso | IE]>
+</td></tr></table>
+</td></tr><tr><td class="framed-image-outlook desktop-outlook" width="600px">
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="framed-image-outlook desktop-outlook" role="presentation" style="width:600px;" width="600" bgcolor="#2C2C2C"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<!--[if mso | IE]>
+</td></tr></table>
+</td></tr><tr><td class="full-image-outlook" width="600px">
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="full-image-outlook" role="presentation" style="width:600px;" width="600" bgcolor="#FFFFFF"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]--><div class="full-image" style="background:#FFFFFF;background-color:#FFFFFF;margin:0px auto;max-width:600px;" mc:hideable="hideable_repeat_1_15" mchideable="hideable_repeat_1_15">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background: #FFFFFF;background-color: #FFFFFF;width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="direction: ltr;font-size: 0px;padding: 0;text-align: center;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:600px;"><![endif]--><div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="vertical-align: top;padding: 0;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td align="center" style="font-size: 0px;padding: 0;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse: collapse;border-spacing: 0px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="width: 600px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><img src="https://mcusercontent.com/42d1f60e448215132ba30db60/images/d0efe083-a121-13dc-5df4-1db8055bb287.jpg" alt="" border="0" style="margin: 0 auto;padding: 0;border: 0;display: block;outline: none;text-decoration: none;font-size: 13px;max-width: 100%;height: auto;width: 100%;line-height: 100%;-ms-interpolation-mode: bicubic;">
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table><![endif]-->
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table>
+</td></tr><tr><td class="" width="600px">
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]--><div style="margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="direction: ltr;font-size: 0px;padding: 0;text-align: center;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="block-content-outlook" style="vertical-align:top;width:600px;"><![endif]--><div class="mj-column-per-100 mj-outlook-group-fix block-content" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="background-color: #FFFFFF;vertical-align: top;padding: 32px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td align="left" class="block-text" style="font-size: 0px;padding: 0;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><div style="font-family:'Lausanne',Helvetica,Arial,sans-serif;font-size:16px;line-height:26px;text-align:left;color:#000000;"><p mc:hideable="hideable_repeat_1_16" style="margin: 13px 0;display: block;" mchideable="hideable_repeat_1_16">Des journalistes du monde entier se sont r&eacute;unis pour discuter de plusieurs enjeux li&eacute;s &agrave; la profession. Voici quelques points cl&eacute;s &agrave; retenir de <a href="https://reutersinstitute.politics.ox.ac.uk/news/international-journalism-festival-2023-what-we-learnt-perugia-about-future-news" target="_blank">la synth&egrave;se publi&eacute;e par Reuters</a>&nbsp;:<br>
+<br>
+<strong data-stringify-type="bold">📊&nbsp;Il n&rsquo;y a pas de business mod&egrave;le miracle ni unique pour l&rsquo;information</strong>. Les entreprises de presse exp&eacute;rimentent plusieurs moyens de conversion et de diversification des revenus allant de la publicit&eacute; &agrave; l&rsquo;adh&eacute;sion.<br>
+<br>
+<strong data-stringify-type="bold">🤖 L&rsquo;IA doit entrainer des questionnements sur le journalisme</strong><strong>.</strong> Par son impact sur les r&eacute;dactions, l&rsquo;IA am&egrave;ne &agrave; se questionner sur la raison d&rsquo;&ecirc;tre du journalisme. Elle doit &ecirc;tre vue comme un outil au service d&rsquo;un journalisme augment&eacute; plut&ocirc;t que d&rsquo;un journalisme automatis&eacute;.<br>
+<br>
+<strong data-stringify-type="bold">🔍 Les reporters de terrain restent essentiels</strong><strong>.</strong> Malgr&eacute; l&rsquo;essor des enqu&ecirc;tes num&eacute;riques, impossible de manquer l&#39;apport d&#39;une information au plus proche des &eacute;v&eacute;nements, notamment pour documenter les crimes de guerre.<br>
+<br>
+<strong data-stringify-type="bold">📱Les journalistes produisent du contenu s&eacute;rieux sur TikTok et les audiences ne cessent de cro&icirc;tre</strong><strong>.</strong> Reuters prend notamment l&rsquo;exemple de Smith Galer de Vice dont le compte TikTok a r&eacute;alis&eacute; 3,9 millions de vues sur les 60 derniers jours ; ou encore de Dave Jorgenson du Washington Post qui est devenu l&rsquo;une des personnalit&eacute;s les plus c&eacute;l&egrave;bres de la plateforme. Ce dernier a fait &eacute;voluer son contenu du divertissement &agrave; l&rsquo;exposition de faits et &agrave; la lutte contre la d&eacute;sinformation.<br>
+<br>
+<strong data-stringify-type="bold">🗣️ Les jeunes recherchent l&rsquo;authenticit&eacute; avant tout</strong><strong>.</strong> Un des d&eacute;fis urgents pour les m&eacute;dias est d&rsquo;attirer les jeunes publics. Ces derniers ont tendance &agrave; se tourner vers les influenceurs ou les &eacute;missions satiriques pour s&rsquo;informer car ils sont en recherche de confiance et de sinc&eacute;rit&eacute;. Les journalistes doivent travailler ce ton s&rsquo;ils veulent attirer les jeunes.<br>
+<br>
+<strong data-stringify-type="bold">🌍 Les journalistes et les scientifiques ont besoin les uns des autres pour couvrir le changement climatique.&nbsp;</strong>Une grande partie des donn&eacute;es pour documenter le climat est manquante ; les chiffres officiels sont une source insuffisante. Dans le contexte actuel les m&eacute;dias auront besoin des scientifiques et inversement.</p></div>
+</td></tr><tr><td align="left" class="block-link" style="font-size: 0px;padding: 0;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="margin: 0px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody></tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table><![endif]-->
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table>
+</td></tr><tr><td class="" width="600px">
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]--><div style="margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="direction: ltr;font-size: 0px;padding: 0;text-align: center;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:600px;"><![endif]--><div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="vertical-align: top;padding: 0;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td class="spacer-24" style="font-size: 0px;padding: 0;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><div style="height:24px;line-height:24px;">&#8202;</div>
+</td></tr></tbody></table>
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table><![endif]-->
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table>
+</td></tr></table><![endif]-->
+</td></tr></tbody></table></div><div class="block" style="margin:0px auto;max-width:600px;" mc:repeatable="repeat_1" mc:variant="bloc_simple" mc:repeatindex="6">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="direction: ltr;font-size: 0px;padding: 0;text-align: center;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" width="600px">
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]--><div style="margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="direction: ltr;font-size: 0px;padding: 0;text-align: center;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="block-title-outlook" style="vertical-align:top;width:600px;"><![endif]--><div class="mj-column-per-100 mj-outlook-group-fix block-title" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="background-color: #FFFFFF;vertical-align: top;padding: 32px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td align="left" style="font-size: 0px;padding: 0;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><div style="font-family:'Lausanne',Helvetica,Arial,sans-serif;font-size:28px;line-height:34px;text-align:left;color:#000000;"><h2 class="block-title-header" style="color:#F84949;margin:0;font-size:1em;font-weight:normal;">5. SEO</h2><h2 class="block-title-subheader" style="margin:0;font-size:1em;font-weight:normal;">Comment AMP a ruin&eacute; la relation de Google avec les &eacute;diteurs</h2></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table><![endif]-->
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table>
+</td></tr><tr><td class="framed-image-outlook mobile-outlook" width="600px">
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="framed-image-outlook mobile-outlook" role="presentation" style="width:600px;" width="600" bgcolor="#2C2C2C"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<!--[if mso | IE]>
+</td></tr></table>
+</td></tr><tr><td class="framed-image-outlook desktop-outlook" width="600px">
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="framed-image-outlook desktop-outlook" role="presentation" style="width:600px;" width="600" bgcolor="#2C2C2C"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<!--[if mso | IE]>
+</td></tr></table>
+</td></tr><tr><td class="full-image-outlook" width="600px">
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="full-image-outlook" role="presentation" style="width:600px;" width="600" bgcolor="#FFFFFF"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]--><div class="full-image" style="background:#FFFFFF;background-color:#FFFFFF;margin:0px auto;max-width:600px;" mc:hideable="hideable_repeat_1_19" mchideable="hideable_repeat_1_19">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background: #FFFFFF;background-color: #FFFFFF;width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="direction: ltr;font-size: 0px;padding: 0;text-align: center;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:600px;"><![endif]--><div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="vertical-align: top;padding: 0;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td align="center" style="font-size: 0px;padding: 0;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse: collapse;border-spacing: 0px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="width: 600px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><a href="https://www.theverge.com/23711172/google-amp-accelerated-mobile-pages-search-publishers-lawsuit" target="_blank"><img src="https://mcusercontent.com/42d1f60e448215132ba30db60/images/7ff9a648-f3cc-823e-0a22-e3e65c812603.png" alt="" border="0" style="margin: 0 auto;padding: 0;border: 0;display: block;outline: none;text-decoration: none;font-size: 13px;max-width: 100%;height: auto;width: 100%;line-height: 100%;-ms-interpolation-mode: bicubic;"></a>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table><![endif]-->
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table>
+</td></tr><tr><td class="" width="600px">
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]--><div style="margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="direction: ltr;font-size: 0px;padding: 0;text-align: center;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="block-content-outlook" style="vertical-align:top;width:600px;"><![endif]--><div class="mj-column-per-100 mj-outlook-group-fix block-content" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="background-color: #FFFFFF;vertical-align: top;padding: 32px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td align="left" class="block-text" style="font-size: 0px;padding: 0;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><div style="font-family:'Lausanne',Helvetica,Arial,sans-serif;font-size:16px;line-height:26px;text-align:left;color:#000000;"><p mc:hideable="hideable_repeat_1_20" style="margin: 13px 0;display: block;" mchideable="hideable_repeat_1_20">Il y a un an et demi, on vous parlait d&eacute;j&agrave; de la possible <a href="https://datagif.fr/newsletter-medias/?campaign_id=294c232f0f" target="_blank">mort du format AMP</a>. Finalement malgr&eacute; les proc&egrave;s et la chute d&#39;utilisation du format par les m&eacute;dias, Google a su corriger sa copie en rendant le projet r&eacute;ellement ind&eacute;pendant et utile. Mais le mal a &eacute;t&eacute; fait : entre temps la technologie AMP a fortement endommag&eacute; la r&eacute;putation de Google et ne deviendra jamais le standard du web mobile. L&#39;<a href="https://www.theverge.com/23711172/google-amp-accelerated-mobile-pages-search-publishers-lawsuit" target="_blank">enqu&ecirc;te</a> de The Verge revient sur cette histoire passionnante.</p></div>
+</td></tr><tr><td align="left" class="block-link" style="font-size: 0px;padding: 0;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="margin: 0px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr mc:repeatable="repeat_1:6:repeat_1" mc:repeatindex="0" mc:hideable="hideable_repeat_1:6:repeat_1_1" mchideable="hideable_repeat_1:6:repeat_1_1"><td style="position: relative;top: -2px;padding: 0;vertical-align: top;padding-top: 24px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-radius: 0;width: 16px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="font-size: 0;height: 24px;vertical-align: middle;width: 16px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><img alt="" height="24" src="https://newsletter.datagif.fr/ext/datagif/img/fleche.png" style="border-radius: 0;display: block;width: auto;max-width: 100%;height: auto;margin: 0 auto;border: 0;line-height: 100%;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" width="16">
+</td></tr></tbody></table>
+</td><td style="vertical-align: middle;padding: 0 0 0 8px;padding-top: 24px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;" valign="middle"><span style="color:#000000;font-size:16px;font-family:'Lausanne',Helvetica,Arial,sans-serif;line-height:24px;text-decoration:none;"><p style="margin: 13px 0;display: block;"><a href="https://www.theverge.com/23711172/google-amp-accelerated-mobile-pages-search-publishers-lawsuit" target="_blank">Lire l&#39;article</a> de The Verge</p></span>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table><![endif]-->
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table>
+</td></tr><tr><td class="" width="600px">
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]--><div style="margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="direction: ltr;font-size: 0px;padding: 0;text-align: center;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:600px;"><![endif]--><div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="vertical-align: top;padding: 0;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td class="spacer-24" style="font-size: 0px;padding: 0;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><div style="height:24px;line-height:24px;">&#8202;</div>
+</td></tr></tbody></table>
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table><![endif]-->
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table>
+</td></tr></table><![endif]-->
+</td></tr></tbody></table></div><div class="block" style="margin:0px auto;max-width:600px;" mc:repeatable="repeat_1" mc:variant="bloc_simple" mc:repeatindex="7">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="direction: ltr;font-size: 0px;padding: 0;text-align: center;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" width="600px">
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]--><div style="margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="direction: ltr;font-size: 0px;padding: 0;text-align: center;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="block-title-outlook" style="vertical-align:top;width:600px;"><![endif]--><div class="mj-column-per-100 mj-outlook-group-fix block-title" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="background-color: #FFFFFF;vertical-align: top;padding: 32px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td align="left" style="font-size: 0px;padding: 0;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><div style="font-family:'Lausanne',Helvetica,Arial,sans-serif;font-size:28px;line-height:34px;text-align:left;color:#000000;"><h2 class="block-title-header" style="color:#F84949;margin:0;font-size:1em;font-weight:normal;">6. RIP</h2><h2 class="block-title-subheader" style="margin:0;font-size:1em;font-weight:normal;">2012 - 2023 : BuzzFeed News partage son histoire orale dans un post-mortem extraordinaire</h2></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table><![endif]-->
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table>
+</td></tr><tr><td class="framed-image-outlook mobile-outlook" width="600px">
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="framed-image-outlook mobile-outlook" role="presentation" style="width:600px;" width="600" bgcolor="#2C2C2C"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<!--[if mso | IE]>
+</td></tr></table>
+</td></tr><tr><td class="framed-image-outlook desktop-outlook" width="600px">
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="framed-image-outlook desktop-outlook" role="presentation" style="width:600px;" width="600" bgcolor="#2C2C2C"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]--><div class="framed-image desktop" style="background:#2C2C2C;background-color:#2C2C2C;margin:0px auto;max-width:600px;" mc:hideable="hideable_repeat_1_22" mchideable="hideable_repeat_1_22">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background: #2C2C2C;background-color: #2C2C2C;width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="direction: ltr;font-size: 0px;padding: 32px;text-align: center;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:536px;"><![endif]--><div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="vertical-align: top;padding: 0;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td align="center" style="font-size: 0px;padding: 0;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse: collapse;border-spacing: 0px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="width: 536px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><a href="https://www.buzzfeed.com/buzzfeednews/buzzfeed-news-oral-history-2012-2023" target="_blank"><img src="https://mcusercontent.com/42d1f60e448215132ba30db60/images/ee357fe7-ec94-fcd8-d959-8d26d5ff761a.jpg" alt="" border="0" style="margin: 0 auto;padding: 0;border: 0;display: block;outline: none;text-decoration: none;font-size: 13px;max-width: 100%;height: auto;width: 100%;line-height: 100%;-ms-interpolation-mode: bicubic;"></a>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table><![endif]-->
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table>
+</td></tr><tr><td class="full-image-outlook" width="600px">
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="full-image-outlook" role="presentation" style="width:600px;" width="600" bgcolor="#FFFFFF"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<!--[if mso | IE]>
+</td></tr></table>
+</td></tr><tr><td class="" width="600px">
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]--><div style="margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="direction: ltr;font-size: 0px;padding: 0;text-align: center;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="block-content-outlook" style="vertical-align:top;width:600px;"><![endif]--><div class="mj-column-per-100 mj-outlook-group-fix block-content" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="background-color: #FFFFFF;vertical-align: top;padding: 32px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td align="left" class="block-text" style="font-size: 0px;padding: 0;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><div style="font-family:'Lausanne',Helvetica,Arial,sans-serif;font-size:16px;line-height:26px;text-align:left;color:#000000;"><p mc:hideable="hideable_repeat_1_24" style="margin: 13px 0;display: block;" mchideable="hideable_repeat_1_24">C&#39;est tout un symbole. Pour son dernier article publi&eacute; avant <a href="https://www.lemonde.fr/actualite-medias/article/2023/04/20/le-site-buzzfeed-news-la-declinaison-pour-les-infos-du-site-de-divertissement-buzzfeed-com-va-fermer_6170383_3236.html#:~:text=Le%20site%20BuzzFeed%20News%20va,m%C3%A9dias%20de%20l'%C3%A8re%20Internet." target="_blank">fermeture</a>, BuzzFeed News a choisi de rassembler des dizaines de t&eacute;moignages, morceaux d&#39;histoire, anecdotes des personnes qui ont contribu&eacute; &agrave; faire de ce m&eacute;dia ce qu&#39;il a &eacute;t&eacute;.&nbsp;<br>
+<br>
+L&#39;article est tant&ocirc;t touchant, tant&ocirc;t surprenant voir amusant, gr&acirc;ce &agrave; tous ces morceaux choisis rassembl&eacute;s ici. Un exercice de post mortem inattendu mais parfait.</p></div>
+</td></tr><tr><td align="left" class="block-link" style="font-size: 0px;padding: 0;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="margin: 0px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr mc:repeatable="repeat_1:7:repeat_1" mc:repeatindex="0" mc:hideable="hideable_repeat_1:7:repeat_1_1" mchideable="hideable_repeat_1:7:repeat_1_1"><td style="position: relative;top: -2px;padding: 0;vertical-align: top;padding-top: 24px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-radius: 0;width: 16px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="font-size: 0;height: 24px;vertical-align: middle;width: 16px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><img alt="" height="24" src="https://newsletter.datagif.fr/ext/datagif/img/fleche.png" style="border-radius: 0;display: block;width: auto;max-width: 100%;height: auto;margin: 0 auto;border: 0;line-height: 100%;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" width="16">
+</td></tr></tbody></table>
+</td><td style="vertical-align: middle;padding: 0 0 0 8px;padding-top: 24px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;" valign="middle"><span style="color:#000000;font-size:16px;font-family:'Lausanne',Helvetica,Arial,sans-serif;line-height:24px;text-decoration:none;"><p style="margin: 13px 0;display: block;"><a href="https://www.buzzfeed.com/buzzfeednews/buzzfeed-news-oral-history-2012-2023" target="_blank">Lire les derniers mots</a> de BuzzFeed News</p></span>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table><![endif]-->
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table>
+</td></tr><tr><td class="" width="600px">
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]--><div style="margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="direction: ltr;font-size: 0px;padding: 0;text-align: center;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:600px;"><![endif]--><div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="vertical-align: top;padding: 0;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td class="spacer-24" style="font-size: 0px;padding: 0;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><div style="height:24px;line-height:24px;">&#8202;</div>
+</td></tr></tbody></table>
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table><![endif]-->
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table>
+</td></tr></table><![endif]-->
+</td></tr></tbody></table></div><div class="block-CTA" style="margin:0px auto;max-width:600px;" mc:repeatable="repeat_1" mc:variant="CTA" mc:repeatindex="8">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="direction: ltr;font-size: 0px;padding: 0;text-align: center;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="padding-48-outlook" width="600px">
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="padding-48-outlook" role="presentation" style="width:600px;" width="600" bgcolor="#FFFFFF"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]--><div class="padding-48" style="background:#FFFFFF;background-color:#FFFFFF;margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background: #FFFFFF;background-color: #FFFFFF;width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="direction: ltr;font-size: 0px;padding: 48px;text-align: center;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:504px;"><![endif]--><div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="vertical-align: top;padding: 0;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td align="center" style="font-size: 0px;padding: 0;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse: collapse;border-spacing: 0px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="width: 64px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><img src="https://newsletter.datagif.fr/ext/datagif/img/mail.png" alt="" border="0" style="margin: 0;padding: 0;border: 0;display: block;outline: none;text-decoration: none;height: auto;width: 100%;font-size: 13px;max-width: 64px;line-height: 100%;-ms-interpolation-mode: bicubic;">
+</td></tr></tbody></table>
+</td></tr><tr><td align="center" class="block-CTA-text" style="font-size: 0px;padding: 16px 0;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><div style="font-family:'Lausanne',Helvetica,Arial,sans-serif;font-size:18px;line-height:28px;text-align:center;color:#000000;"><p style="margin: 13px 0;display: block;">Cette newsletter est arriv&eacute;e par hasard dans votre bo&icirc;te par un ami ? En fait &ccedil;a n&#39;&eacute;tait pas un hasard ✨</p></div>
+</td></tr><tr><td align="center" vertical-align="middle" class="block-CTA-btn" style="font-size: 0px;padding: 0;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse: separate;line-height: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td align="center" bgcolor="#000000" role="presentation" style="border: none;border-radius: 80px;cursor: auto;mso-padding-alt: 10px 25px;background: #000000;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;" valign="middle"><a href="https://datagif.fr/newsletter-medias/" style="display:inline-block;background:#000000;font-family:'Lausanne',Helvetica,Arial,sans-serif;font-size:18px;font-weight:normal;line-height:24px;margin:0;text-decoration:none;text-transform:none;padding:10px 25px;mso-padding-alt:0px;border-radius:80px;color:#ffffff;padding-bottom:10px;border-bottom:0px solid transparent;" target="_blank">Je m'inscris</a>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table><![endif]-->
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table>
+</td></tr><tr><td class="" width="600px">
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]--><div style="margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="direction: ltr;font-size: 0px;padding: 0;text-align: center;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:600px;"><![endif]--><div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="vertical-align: top;padding: 0;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td class="spacer-24" style="font-size: 0px;padding: 0;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><div style="height:24px;line-height:24px;">&#8202;</div>
+</td></tr></tbody></table>
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table><![endif]-->
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table>
+</td></tr></table><![endif]-->
+</td></tr></tbody></table></div><div class="block" style="margin:0px auto;max-width:600px;" mc:repeatable="repeat_1" mc:variant="bloc_simple" mc:repeatindex="9">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="direction: ltr;font-size: 0px;padding: 0;text-align: center;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" width="600px">
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]--><div style="margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="direction: ltr;font-size: 0px;padding: 0;text-align: center;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="block-title-outlook" style="vertical-align:top;width:600px;"><![endif]--><div class="mj-column-per-100 mj-outlook-group-fix block-title" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="background-color: #FFFFFF;vertical-align: top;padding: 32px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td align="left" style="font-size: 0px;padding: 0;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><div style="font-family:'Lausanne',Helvetica,Arial,sans-serif;font-size:28px;line-height:34px;text-align:left;color:#000000;"><h2 class="block-title-header" style="color:#F84949;margin:0;font-size:1em;font-weight:normal;">7. Dark patterns</h2><h2 class="block-title-subheader" style="margin:0;font-size:1em;font-weight:normal;">D&eacute;sinscription : ces services grand public qui ne vous veulent pas vous voir partir, d&eacute;cortiqu&eacute;s par The Pudding</h2></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table><![endif]-->
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table>
+</td></tr><tr><td class="framed-image-outlook mobile-outlook" width="600px">
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="framed-image-outlook mobile-outlook" role="presentation" style="width:600px;" width="600" bgcolor="#2C2C2C"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<!--[if mso | IE]>
+</td></tr></table>
+</td></tr><tr><td class="framed-image-outlook desktop-outlook" width="600px">
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="framed-image-outlook desktop-outlook" role="presentation" style="width:600px;" width="600" bgcolor="#2C2C2C"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]--><div class="framed-image desktop" style="background:#2C2C2C;background-color:#2C2C2C;margin:0px auto;max-width:600px;" mc:hideable="hideable_repeat_1_26" mchideable="hideable_repeat_1_26">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background: #2C2C2C;background-color: #2C2C2C;width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="direction: ltr;font-size: 0px;padding: 32px;text-align: center;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:536px;"><![endif]--><div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="vertical-align: top;padding: 0;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td align="center" style="font-size: 0px;padding: 0;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse: collapse;border-spacing: 0px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="width: 536px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><a href="https://pudding.cool/2023/05/dark-patterns/" target="_blank"><img src="https://mcusercontent.com/42d1f60e448215132ba30db60/images/91cc5a3a-69b6-8e96-a8c4-8cdf5c07bdbb.jpg" alt="" border="0" style="margin: 0 auto;padding: 0;border: 0;display: block;outline: none;text-decoration: none;font-size: 13px;max-width: 100%;height: auto;width: 100%;line-height: 100%;-ms-interpolation-mode: bicubic;"></a>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table><![endif]-->
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table>
+</td></tr><tr><td class="full-image-outlook" width="600px">
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="full-image-outlook" role="presentation" style="width:600px;" width="600" bgcolor="#FFFFFF"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<!--[if mso | IE]>
+</td></tr></table>
+</td></tr><tr><td class="" width="600px">
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]--><div style="margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="direction: ltr;font-size: 0px;padding: 0;text-align: center;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="block-content-outlook" style="vertical-align:top;width:600px;"><![endif]--><div class="mj-column-per-100 mj-outlook-group-fix block-content" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="background-color: #FFFFFF;vertical-align: top;padding: 32px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td align="left" class="block-text" style="font-size: 0px;padding: 0;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><div style="font-family:'Lausanne',Helvetica,Arial,sans-serif;font-size:16px;line-height:26px;text-align:left;color:#000000;"><p mc:hideable="hideable_repeat_1_28" style="margin: 13px 0;display: block;" mchideable="hideable_repeat_1_28">C&#39;est un travail d&#39;int&eacute;r&ecirc;t g&eacute;n&eacute;ral que la journaliste&nbsp;Caroline Sinders a r&eacute;alis&eacute;, en enregistrant et analysant le parcours de d&eacute;sinscription de 16 services que vous utilisez certainement en partie au quotidien. Entre les inscriptions &agrave; des programmes de fid&eacute;lit&eacute; gliss&eacute;s dans le panier, la n&eacute;cessit&eacute; de se cr&eacute;er un compte pour se d&eacute;sinscrire d&#39;une newsletter, ou encore les offres annuelles pouss&eacute;es au d&eacute;triment des offres sans engagement... Il existe de nombreuses mani&egrave;res plus ou moins cach&eacute;es de pousser (voir forcer) ses clients &agrave; consommer.&nbsp;<br>
+<br>
+Pour vous rendre plus alerte sur ces interfaces truqu&eacute;es (&quot;dark patterns&quot;) qui m&ecirc;lent des questions de design, d&#39;interface et de marketing, vous savez o&ugrave; cliquer !</p></div>
+</td></tr><tr><td align="left" class="block-link" style="font-size: 0px;padding: 0;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="margin: 0px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr mc:repeatable="repeat_1:9:repeat_1" mc:repeatindex="0" mc:hideable="hideable_repeat_1:9:repeat_1_1" mchideable="hideable_repeat_1:9:repeat_1_1"><td style="position: relative;top: -2px;padding: 0;vertical-align: top;padding-top: 24px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-radius: 0;width: 16px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="font-size: 0;height: 24px;vertical-align: middle;width: 16px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><img alt="" height="24" src="https://newsletter.datagif.fr/ext/datagif/img/fleche.png" style="border-radius: 0;display: block;width: auto;max-width: 100%;height: auto;margin: 0 auto;border: 0;line-height: 100%;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" width="16">
+</td></tr></tbody></table>
+</td><td style="vertical-align: middle;padding: 0 0 0 8px;padding-top: 24px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;" valign="middle"><span style="color:#000000;font-size:16px;font-family:'Lausanne',Helvetica,Arial,sans-serif;line-height:24px;text-decoration:none;"><p style="margin: 13px 0;display: block;"><a href="https://pudding.cool/2023/05/dark-patterns/" target="_blank">Explorer les dark patterns</a> chez The Pudding (merci <a href="https://twitter.com/norabz/status/1654536977004331024" target="_blank">Nora</a>&nbsp;✌️&nbsp;!)</p></span>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table><![endif]-->
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table>
+</td></tr><tr><td class="" width="600px">
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]--><div style="margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="direction: ltr;font-size: 0px;padding: 0;text-align: center;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:600px;"><![endif]--><div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="vertical-align: top;padding: 0;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td class="spacer-24" style="font-size: 0px;padding: 0;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><div style="height:24px;line-height:24px;">&#8202;</div>
+</td></tr></tbody></table>
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table><![endif]-->
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table>
+</td></tr></table><![endif]-->
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table><![endif]--><!-- fin bloc de base --><!-- bloc sans image -->
+<!--[if mso | IE]>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="block-no-image-outlook" role="presentation" style="width:600px;" width="600"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<!--[if mso | IE]>
+</td></tr></table><![endif]--><!-- fin bloc sans image --><!-- bloc sans texte -->
+<!--[if mso | IE]>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="block-no-text-outlook" role="presentation" style="width:600px;" width="600"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<!--[if mso | IE]>
+</td></tr></table><![endif]--><!-- fin bloc sans texte --><!-- bloc texte sans fond -->
+<!--[if mso | IE]>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="no-bg-block-outlook" role="presentation" style="width:600px;" width="600"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<!--[if mso | IE]>
+</td></tr></table><![endif]--><!-- fin bloc texte --><!-- bloc CTA -->
+<!--[if mso | IE]>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="block-CTA-outlook" role="presentation" style="width:600px;" width="600"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<!--[if mso | IE]>
+</td></tr></table><![endif]--><!-- fin bloc CTA --><!-- bloc RS -->
+<!--[if mso | IE]>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="block-RS-outlook" role="presentation" style="width:600px;" width="600"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<!--[if mso | IE]>
+</td></tr></table><![endif]--><!-- fin bloc RS --><!-- 1 Column Text : END --><!-- Email Body : END --><!-- Email Footer : BEGIN --><!-- footer -->
+<!--[if mso | IE]>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]--><div style="margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="direction: ltr;font-size: 0px;padding: 0;text-align: center;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:600px;"><![endif]--><div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="vertical-align: top;padding: 0;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="font-size: 0px;padding: 0;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><div style="height:48px;line-height:48px;">&#8202;</div>
+</td></tr></tbody></table>
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table><![endif]-->
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]--><div style="margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="border-top: 4px solid;direction: ltr;font-size: 0px;padding: 0;padding-bottom: 24px;text-align: center;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:600px;"><![endif]--><div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="vertical-align: top;padding: 0;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td align="left" class="end-text" style="font-size: 0px;padding: 0;padding-top: 24px;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><div style="font-family:'Lausanne',Helvetica,Arial,sans-serif;font-size:16px;line-height:26px;text-align:left;color:#000000;"><p style="margin: 13px 0;display: block;">Pas de dark patterns ici, que l&#39;amour des choses bien faites et des projets r&eacute;ussis&nbsp;✨ &Agrave; dans 15 jours pour la suite de notre veille, et en attendant on poursuit nos projets en cours pour XXI, Alternatives &Eacute;conomiques, et quelques autres !</p></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table><![endif]-->
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]--><div style="margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="direction: ltr;font-size: 0px;padding: 0;text-align: center;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:600px;"><![endif]--><div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="vertical-align: top;padding: 0;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td align="center" class="end-image" style="font-size: 0px;padding: 0;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse: collapse;border-spacing: 0px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="width: 600px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><img src="http://gallery.mailchimp.com/653153ae841fd11de66ad181a/images/transparent.gif" alt="" border="0" style="margin: 0;padding: 0;border: 0;height: auto;line-height: 100%;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;">
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table><![endif]-->
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]--><div style="margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="direction: ltr;font-size: 0px;padding: 0;text-align: center;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:600px;"><![endif]--><div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="vertical-align: top;padding: 0;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td class="spacer-48" style="font-size: 0px;padding: 0;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><div style="height:48px;line-height:48px;">&#8202;</div>
+</td></tr></tbody></table>
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table><![endif]-->
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]--><div style="margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="direction: ltr;font-size: 0px;padding: 0;text-align: left;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:500px;"><![endif]--><div class="mj-column-px-500 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="vertical-align: top;padding: 0;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td align="left" class="text-footer" style="font-size: 0px;padding: 0 0 32px 0;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><div style="font-family:'Lausanne',Helvetica,Arial,sans-serif;font-size:16px;line-height:26px;text-align:left;color:#000000;"><p style="margin: 13px 0;display: block;">Vous recevez cet e-mail car vous êtes inscrit•e via le site <a style="color:black;text-decoration:none;border-bottom:1px solid;padding-bottom:2px;" href="https://datagif.fr/newsletter-medias/">datagif.fr</a></p><p style="margin: 13px 0;margin-top: 1em;display: block;">Lire cette newsletter dans votre <a style="color:black;text-decoration:none;border-bottom:1px solid;padding-bottom:2px;" href="*|ARCHIVE|*">navigateur</a></p><p style="margin: 13px 0;margin-top: 1em;display: block;">Vous avez un projet média et souhaitez être accompagné•e ?<br>Écrivez-nous : <a style="color:black;text-decoration:none;border-bottom:1px solid;padding-bottom:2px;" href="mailto:*|ABUSE_EMAIL|*">*|ABUSE_EMAIL|*</a><br></p><p style="margin: 13px 0;margin-top: 1em;display: block;">👋 <a style="color:black;text-decoration:none;border-bottom:1px solid;padding-bottom:2px;" href="*|UNSUB|*">Cliquez-ici</a> pour vous désabonner</p></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table><![endif]-->
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]--><div style="margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="direction: ltr;font-size: 0px;padding: 0;text-align: center;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:600px;"><![endif]--><div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="vertical-align: top;padding: 0;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td align="left" style="font-size: 0px;padding: 0;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><div style="font-family:'Lausanne',Helvetica,Arial,sans-serif;font-size:16px;line-height:26px;text-align:left;color:#000000;"><span class="text-logo" style="font-weight:bold;font-size:22px;">DATAGIF</span></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table><![endif]-->
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]--><div style="margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="direction: ltr;font-size: 0px;padding: 0;text-align: center;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:600px;"><![endif]--><div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td style="vertical-align: top;padding: 0;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><tbody><tr><td class="spacer-64" style="font-size: 0px;padding: 0;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><div style="height:64px;line-height:64px;">&#8202;</div>
+</td></tr></tbody></table>
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table><![endif]-->
+</td></tr></tbody></table></div>
+<!--[if mso | IE]>
+</td></tr></table><![endif]--><!-- Email Footer : END --></div>
+</body>
+</html>

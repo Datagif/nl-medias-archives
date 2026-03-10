@@ -1,0 +1,130 @@
+---  
+![Médias](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/d060cdc3-f8d4-4207-b9bb-0b8ffda1ca6f.png)  
+La veille innovation et design media par Datagif  
+  
+| *|MC_PREVIEW_TEXT|*  
+---  
+---  
+1\. UX Des raccourcis editorialises pour les sujets d'actu complexes  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/e13bacb2-2a4a-4d5e-aa56-021c44737be4.png)  
+---  
+Le New York Times a recemment ajoute une petite fonctionnalite sur son site pour aider les lecteurs a ne pas perdre le fil des actualites compliquees.   
+  
+Pour certaines thematiques (en l'occurrence le Brexit ou la campagne presidentielle americaine), les articles arborent desormais une petite barre de navigation qui propose des raccourcis vers des articles incontournables sur le sujet.   
+  
+L'interet (c'est assez rare pour etre note), c'est que ces raccourcis sont veritablement editorialises et mis a jour en continu par les journalistes. Ils sont egalement tres visibles, car la barre reste fixee a l'ecran tout au long de la lecture (elle est « sticky », comme on dit dans notre jargon).  
+  
+N'importe quel lecteur qui serait perdu dans les meandres des elections trouvera donc rapidement une reponse a ses questions (Qui se presente ? Quel est l'etat des sondages ? Quand a lieu le prochain debat ?) Voila, ça c'est de l'UX adaptee aux enjeux editoriaux !  
+  
+![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/d8f2ca4f-48b8-4f6b-85a8-6469a8d905e1.gif)  
+---  
+|  -- Voir [un exemple d'article](https://www.nytimes.com/2019/09/18/us/politics/trump-border-wall.html?rref=collection%2Fnewseventcollection%2F2020-election&action=click&contentCollection=politics&region=rank&module=package&version=highlights&contentPlacement=2&pgtype=collection) sur le site du NYT  
+---  
+---  
+2\. Video Vox toujours au top avec ses mini-documentaires  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/7f91677f-923d-433e-8577-fd893d82562e.gif)  
+---  
+Le site americain Vox continue d'exceller avec ses formats video. En dehors de ses mini-docus populaires sur YouTube, le media vient de sortir la nouvelle saison de sa serie documentaire « En bref », en exclusivite sur Netflix.  
+  
+5 nouveaux episodes sont donc disponibles, cette fois orientes autour d'un seul et meme sujet : le fonctionnement du cerveau humain. Sur la forme, on retrouve toujours la patte creative de Vox : le recours aux illustrations animees, le montage rythme, et une narration pedagogique sans etre simpliste. Et pour ne rien gacher, on retrouve l'actrice Emma Stone a la voix off.  
+---  
+![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/588d1c9d-2216-4aff-9645-c665840d878f.png)  
+---  
+|  -- [Voir le premier episode](https://youtu.be/d95dOH-7GHM) gratuitement sur YouTube, et [le reste sur Netflix](https://www.netflix.com/fr/title/81098586)  
+---  
+---  
+3\. Algorithme Enfin la prime au « vrai » journalisme sur Google ?  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/a31970ce-3071-42e8-a4af-af74eafbf828.png)  
+---  
+Google a annonce que les articles de presse qui sont a l'origine d'une information seront desormais priorises dans ses resultats de recherche. Une petite revolution qui pourrait donner un coup de pouce aux medias qui produisent de l'info originale, et impacter les "fermes a contenu" qui se nourrissent de copie-colle et de batonnage de depeches. On attend tout de meme de voir les resultats...   
+---  
+|  -- [Lire l'annonce de Google](https://blog.google/products/search/original-reporting/) (qui confirme au passage l'importance de ses moderateurs humains pour entrainer son algorithme)  
+---  
+---  
+4\. Info-anxiete Comment donner plus de controle sur l'information ?  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/6e7fe5d1-ab42-46c4-87b2-582295acd96f.png)  
+---  
+On vous en parlait [il y a peu](https://mailchi.mp/ec5d83b8eb61/datagif-medias-343947?e=\[UNIQID\]) : de nombreux citoyens se sentent opresses par l'actualite. Trop de mauvaises nouvelles, trop de stimulations en ligne… Voila un probleme global de bien-etre (voire de sante publique), qui concerne au premier chef les medias. 32% des citoyens europeens declarent en effet eviter activement les medias au quotidien, selon le Reuters News Institute.  
+  
+Pour y remedier, la BBC a experimente une petite extension navigateur qui permet de mieux controler sa diete informationnelle. Elle permet de filtrer certains mots-cles sur la homepage de BBC News (les articles restent visibles mais sont « floutes »). Cela rappelle le principe de l'application Quartz, qui permettait de filtrer toutes les actualites liees a Trump.   
+  
+Le concept ne satisfera pas tout le monde, comme le revelent les propres tests de la BBC. Une autre approche evoquee consisterait a filtrer les mots-cles pour un temps limite, ou automatiquement en fonction de son mood (ceci rappelle [un recent projet de BuzzFeed](https://moodfeed.buzzfeed.com/)).  
+---  
+|  -- [Lire le retour d'experience](https://www.bbc.co.uk/rd/blog/2019-08-news-mood-filter-mental-health) sur le blog R&D de BBC News  
+---  
+---  
+5\. Kitsch La vie de bureau vue par le New York Times  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/d8a85b3b-43fd-4e5b-9cc4-f253041f01b5.gif)  
+---  
+Moquette, toilettes, open-space... Aucun tabou dans ce long format insolite du NYT, qui explore l'univers impitoyable du travail ! La page met en scene differents articles en filant la metaphore de l'ascenseur (ascenseur/scroll : vous l'avez ?), avec une ambiance sonore joyeusement kitsch. La page est aussi truffee de temoignages de lecteurs (il faut appuyer sur tous les boutons pour les reveler). Un design bien clivant mais qui a le merite d'etre unique et impeccablement maitrise.  
+---  
+![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/f638214b-4fbb-4ffa-96e4-0f69bf164ee9.png)  
+---  
+|  -- [Decouvrir la page](https://www.nytimes.com/interactive/2019/09/17/style/the-office.html?action=click&module=Top%20Stories&pgtype=Homepage#elev2) sur le site du New York Times (mettez le son et appuyez sur les boutons !)  
+---  
+---  
+6\. Monetisation Un guide pour faire le point sur les native ads  
+|  Alors que les formats publicitaires classiques sont en perte de vitesse en termes de resultats ([0,05 %](https://www.smartinsights.com/internet-advertising/internet-advertising-analytics/display-advertising-clickthrough-rates/) de clic en moyenne), de nombreux medias ont deja experimente le "native advertising" -- autrement dit la publicite sous forme de contenu editorialise, jouant sur la proximite avec les articles journalistiques.  
+  
+Pour y voir plus clair et eviter de tomber dans les pieges faciles, le [centre de recherche](https://towcenter.columbia.edu/) de l'ecole de journalisme de Columbia publie un guide sur le sujet. Qui produit des native ads et quelles erreurs ont ete commises ? Quelle est la part de journalisme et la part de marketing ? Les journalistes doivent-ils etre impliques ? Et quelle regulation pour encadrer tout cela ? Sur la base d'entretiens avec des medias, l'etude apporte un eclairage interessant pour qui souhaite creuser ce sujet pas si neuf mais a fort potentiel.  
+---  
+|  -- L'etude est [disponible sur le CJR](https://www.cjr.org/tow_center_reports/native-ads.php)  
+---  
+---  
+7\. Print Le magazine Time frappe fort sur le changement climatique  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/e7707252-36ac-4f0f-9269-db75183025db.png)  
+---  
+Time a bouscule entierement son chemin de fer la semaine derniere, avec un numero special consacre au changement climatique. Oui, c'est la grande mode dans tous les medias, mais Time sort les grands moyens, comme a son habitude. La Une du magazine a ainsi ete sculptee dans le sable par un artiste japonais  (dans des proportions gigantesques, le logo y mesure plusieurs metres !), puis photographiee par drone.  
+  
+Ce n'est pas forcement nouveau (l'an dernier, Time avait realise une couv a l'aide de centaines de drones), mais c'est toujours spectaculaire.  
+---  
+![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/fd01efd7-392d-4d75-b9d8-d0e3901b9e31.png)  
+---  
+|  -- [En savoir plus](https://time.com/5669069/time-climate-change-issue/) sur le numero special de Time  
+---  
+---  
+8\. Marketing editorial Creer l'evenement sur un site d'info  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/f9528764-4a02-4a97-9816-32715fe6384e.jpeg)  
+---  
+Le Parisien a recemment marque le coup avec une journee « verte » : un numero print special, une campagne d'affichage en kiosque, et un logo qui passe au vert sur le site web.  
+  
+Ca peut sembler anodin mais les sites d'info sont assez rarement mobilises pour ce genre d'operations speciales, contrairement au format print. Et encore moins pour des operations purement editoriales, et non pas a l'initiative d'un annonceur.   
+  
+Certains medias anglo-saxons ont pourtant pris l'habitude d'evenementialiser leurs sites web a coup de campagnes editoriales. Le Guardian le pratique depuis plusieurs annees sur le rechauffement climatique. Une façon de creer l'evenement tout en soignant leur image de marque. Cette semaine, le Financial Times a egalement utilise cette ficelle en lançant une grande campagne edito-marketing, qui promeut un « nouvel agenda » pour reformer le capitalisme. Une piste a creuser pour les sites d'info…   
+---  
+![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/da49051a-80d3-4be7-afce-a908b03811eb.jpeg)  
+---  
+|  \- En savoir plus sur [l](http://pressroom-lesechos-leparisien.com/2019/09/06/le-parisien-enrichit-son-offre-editoriale-et-accelere-son-developpement-numerique/)['operation du Parisien](http://pressroom-lesechos-leparisien.com/2019/09/06/le-parisien-enrichit-son-offre-editoriale-et-accelere-son-developpement-numerique/), et [celle du Financial Times](https://digiday.com/media/financial-times-promotes-new-agenda-new-brand-marketing-campaign/)  
+---  
+---  
+9\. Appel a projets L'incubateur medias et culture Creatis lance sa deuxieme saison d'accompagnement de medias emergents  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/d1d55704-cea3-4fea-a9ab-24ba88fbcc69.png)  
+---  
+Pour la rentree 2019, Creatis ouvre ses portes a de nouveaux projets de medias emergents. Conçu avec le soutien du Ministere de la Culture, ce programme de neuf mois apporte un accompagnement strategique, technique et administratif pour faire emerger votre concept de projet media, qu'il soit local, national ou international.   
+  
+Datagif devient partenaire de ce second cycle en participant au process de selection des candidats et en accompagnant les incubes dans leur programme. On a hate de voir les projets ! 👋  
+---  
+|  -- Les candidatures sont ouvertes jusqu'au 16 octobre, [pour postuler c'est par ici !](https://www.residencecreatis.com/medias-emergents/)  
+---  
+Vous recevez cet e-mail car vous êtes inscrit•e via le site   
+[medias.datagif.fr](https://medias.datagif.fr/)   
+  
+🏄‍   
+Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)   
+  
+📪  
+Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)   
+  
+✌️  
+Retrouvez la veille et les projets de Datagif sur   
+[Medium](https://medium.com/Datagif) \- [Twitter](https://twitter.com/datagif) \- [Instagram](https://www.instagram.com/datagif) \- [Datagif.fr](https://datagif.fr)   
+  
+👋   
+[Cliquez-ici](*|UNSUB|*) pour vous désabonner   
+  
+  
+*|IF:REWARDS|* *|HTML:REWARDS|* *|END:IF|*   
+  
+  
+---

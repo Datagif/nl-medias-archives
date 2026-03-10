@@ -1,0 +1,142 @@
+---  
+![Médias](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/d060cdc3-f8d4-4207-b9bb-0b8ffda1ca6f.png)  
+La veille innovation et design media par Datagif  
+  
+| *|MC_PREVIEW_TEXT|*  
+---  
+---  
+1\. R&D Bientot des reportages immersifs en 3D ?  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/f644d52f-6a7e-4ffe-a604-19314ffa998e.gif)  
+---  
+L'equipe R&D du New York Times travaille activement sur des technologies de captation 3D a usage journalistique. Sur la base de dizaines de photos, les prototypes sont deja capables de plonger le lecteur dans une piece ou une scene de guerre, ou l'on peut naviguer librement. Les exemples sont bluffants et laissent presager des formats passionnants pour raconter l'actualite de façon immersive.  
+---  
+|  -- [Decouvrir le projet](https://rd.nytimes.com/projects/reconstructing-journalistic-scenes-in-3d)   
+---  
+---  
+2\. E-commerce On pourra bientot faire son shopping sur le site de BuzzFeed  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/46db7b32-b071-4283-91fa-2b27e8da2394.jpg)  
+---  
+Journaliste, mais aussi conseiller shopping : chez BuzzFeed, la redaction a depuis longtemps embrasse les guides d'achat. C'est un business lucratif grace aux liens d'affiliation : en 2019, BuzzFeed a recolte 300 millions de $ via ce canal. Seul probleme de l'affiliation : le media qui recommande un produit n'est pas sur de toucher sa part de la transaction finale, tant l'attribution est techniquement complexe.  
+  
+Cela va peut-etre changer : BuzzFeed permettra bientot de faire des achats sans meme quitter son site. Cette nouveaute est rendue possible par la plateforme Bonsai, qui met en relation des marques et des medias. Ce mouvement strategique fait echo aux usages sur Instagram, ou l'achat en 1 clic est de plus en plus plebiscite. Bientot la meme chose chez plein de medias ?   
+---  
+|  -- Lire [l'analyse du Wall Street Journal](https://www.wsj.com/articles/buzzfeed-starts-selling-products-directly-to-consumers-11596136660)  
+---  
+---  
+3\. Illustrations Back to school ?  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/5a2e8340-cf51-4f26-9b21-4e418967a05c.png)  
+---  
+On aime beaucoup cet article du NYT sur le retour a l'ecole (ou non) en temps de Covid. Tous les codes habituels du NYT sont la, mais tout le charme decoule des illustrations qui parsement la lecture. Nous voila immerges dans une ambiance mignonne d'ecole, ni trop naive ni trop anxiogene (ça fait du bien).  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/15ba285c-fa63-41e5-a4e2-14f1e1a3be8d.png)  
+---  
+|  -- Un article [a lire sur The New York Times](https://www.nytimes.com/interactive/2020/07/29/us/schools-reopening-coronavirus.html)  
+---  
+---  
+4\. Lancement Un nouveau site d'info feministe aux Etats-Unis  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/026720e3-c4c2-406c-831f-ebe97b0e43ad.png)  
+---  
+Tease depuis des mois, le site d'information feministe « The 19th » (dont le nom fait reference a l'article 19 de la constitution americaine) vient de voir le jour.   
+  
+Il se presente comme un media « non partisan » qui veut mieux faire entendre la voix des femmes et explorer les thematiques de genre ou d'egalite des sexes. Le site a le statut de "non-profit" et est finance prinicipalement par de genereux philanthropes. Les lecteurs peuvent egalement contribuer grace a un programme de membership.   
+  
+Cote design, c'est reussi : le site propose une interface originale, reconnaissable, et tout est fait pour valoriser sa mission editoriale forte.   
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/b520c9b5-a7e0-4d04-bd0f-ee5324587bac.png)  
+---  
+|  -- [Decouvrir The 19th](https://19thnews.org/)  
+---  
+---  
+5\. Social Les comptes militants sur Instagram : un modele pour les medias ?  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/39612d90-b5e4-4e2e-ab06-1dcbec59b802.gif)  
+---  
+On le sait, Instagram est devenu un terrain de jeu pour les medias, notamment pour toucher un public jeune au meme titre que Snapchat. Pourtant, les contenus diffuses restent souvent sages, irreguliers, ou volontairement incomplets pour ne pas cannibaliser les sites d'info.  
+  
+A l'inverse, comme le note Axios, de nombreux comptes amateurs sont en train de s'imposer comme des mini-medias tres populaires sur Instagram, en proposant des contenus d'information tres complets et creatifs, bien que souvent orientes politiquement.  
+  
+On trouve ainsi des mines d'or de contenus chez certains comptes de militants progressistes americains.  Hormis une poignee de medias « social-first » comme Period ou Loopsider, les medias historiques ne delaissent-ils pas ici un vivier de futurs lecteurs ?   
+---  
+|  -- Des comptes a decouvrir : [ici](https://www.instagram.com/soyouwanttotalkabout/?hl=en), [ici](https://www.instagram.com/jenerous/?hl=en) ou [ici](https://www.instagram.com/diversifyournarrative/?hl=en)  
+-- [Lire le decryptage](https://www.axios.com/instagram-information-coronavirus-george-floyd-706d1ad3-9d6d-48d4-b085-3469a0d93b56.html) d'Axios  
+---  
+---  
+6\. Enquete When Google meets Google  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/7a52c364-3b33-4213-9256-32f1e15510c1.gif)  
+---  
+Le site d'investigation The Markup propose une enquete eclairante sur Google Search et ses pratiques anti-concurrentielles. L'occasion de confirmer que les premiers resultats du moteur de recherche  sont de plus en plus trustes par les propres produits ou fonctionnalites de Google.  
+  
+On aime beaucoup la construction visuelle de l'article, qui rend le sujet tres parlant grace a des exemples issus de requetes sur Google. Bonus : The Markup livre aussi les coulisses de l'enquete et c'est tout aussi interessant...  
+---  
+|  -- Voir [l'enquete](https://themarkup.org/google-the-giant/2020/07/28/google-search-results-prioritize-google-products-over-competitors) de The Markup  
+-- En decouvrir [les coulisses](https://themarkup.org/google-the-giant/2020/07/28/how-we-analyzed-google-search-results-web-assay-parsing-tool)   
+---  
+---  
+7\. Strategie Comment survivre face au New York Times ?  
+|  A l'heure ou tous les medias passent a un modele d'abonnement numerique payant, la concurrence est feroce pour se faire une place dans le budget info des citoyens… Une bataille qui beneficie souvent aux medias nationaux dominants. En tant que petit media local, comment inverser la tendance ?  
+  
+Une tribune interessante de Tony Haile (fondateur des services Chartbeat et Scroll, bien connus des medias) imagine deux pistes strategiques pour la presse locale americaine. C'est tres interessant, meme pour la France...  
+---  
+|  -- [Lire notre synthese de la tribune](https://twitter.com/maxloisel/status/1290180109060759553?s=20) sur Twitter  
+---  
+---  
+8\. Coulisses Le dessous des cartes  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/b99d4562-2eb7-4795-89d4-68eed497d9aa.png)  
+---  
+![](http://gallery.mailchimp.com/653153ae841fd11de66ad181a/images/transparent.gif)  
+---  
+Sur Twitter, une designeuse du media FiveThirtyEight raconte ses recherches graphiques pour representer les projections statistiques des prochaines elections presidentielles americaines.  
+  
+Le sujet n'est pas anodin : en 2016, les sondages et dataviz des medias avaient ete pointes du doigt pour avoir loupe la vague Trump et decourage l'electorat democrate a coup de chiffres rassurants.  
+  
+Cette annee, FiveThirtyEight s'est creuse la tete pour presenter les resultats de façon comprehensible et surtout prudente ! Ça vaut le coup d'oeil, les pistes de travail sont passionnantes.  
+---  
+|  -- [Un thread a lire ici](https://twitter.com/wiederkehra/status/1287872115585081344)  
+---  
+---  
+9\. Who runs the world? Temoignages de politiciennes aux Etats-Unis  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/b9da8676-b69a-4f4a-95da-419dde79600f.gif)  
+---  
+Le media FiveThirtyEight donne la parole a 97 femmes qui ont ete candidates a une election politique aux Etats-Unis. On explore leurs temoignages, retranscrits textuellement mais aussi en captation audio, a travers six questions.  
+  
+Une interface simple et intuitive qui va a l'essentiel : mettre en lumiere la parole de celles qui s'engagent.   
+---  
+|  -- [Decouvrir l'enquete](https://fivethirtyeight.com/audio-features/when-women-run/) de FiveThirtyEight   
+---  
+---  
+10\. Temoignages Portrait de la jeunesse britannique noire  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/bb57820f-9aa0-48dc-9995-aca7da63e072.png)  
+---  
+Dans notre precedente edition, nous evoquions l'excellente timeline « Black History » du Guardian. Dans la continuite, le Guardian propose cette fois une grande collection de 50 portraits qui racontent ce que c'est que d'etre jeune, noir et britannique aujourd'hui.  
+  
+La homepage n'est composee que de verbatims : evidemment, ce sont les mots qui sont ici au premier plan. On ne decouvre les visages qu'en cliquant sur les citations.  
+---  
+|  -- [Decouvrir le recit "Young, British & Black"](https://www.theguardian.com/world/ng-interactive/2020/jul/11/black-history-timeline?CMP=twt_gu&utm_source=Twitter&utm_medium#Echobox=1594464620) de The Guardian  
+---  
+---  
+11\. Bonus🍿 Si vous ne l'avez pas vue, cette interview HBO / Axios de Donald Trump par Jonathan Swan est un chef d'oeuvre d'interview politique, des questions jusqu'au montage. Probleme : HBO a bloque sa diffusion hors USA...  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/cfd76585-c24e-455a-bc07-512ec691da4b.gif)  
+---  
+|  -- Les [morceaux choisis par Le Figaro](https://www.lefigaro.fr/international/coronavirus-aux-etats-unis-l-epidemie-est-sous-controle-autant-qu-on-puisse-la-controler-affirme-donald-trump-20200804)  
+---  
+Vous recevez cet e-mail car vous êtes inscrit•e via le site   
+[medias.datagif.fr](https://medias.datagif.fr/)   
+  
+🏄‍   
+Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)   
+  
+📪  
+Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)   
+  
+✌️  
+Retrouvez la veille et les projets de Datagif sur   
+[Medium](https://medium.com/Datagif) \- [Twitter](https://twitter.com/datagif) \- [Instagram](https://www.instagram.com/datagif) \- [Datagif.fr](https://datagif.fr)   
+  
+👋   
+[Cliquez-ici](*|UNSUB|*) pour vous désabonner   
+  
+  
+*|IF:REWARDS|* *|HTML:REWARDS|* *|END:IF|*   
+  
+  
+---

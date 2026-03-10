@@ -1,0 +1,228 @@
+|  | [Ouvrir dans le navigateur](*|ARCHIVE|*)  
+---  
+| ![Médias](https://newsletter.datagif.fr/ext/datagif/img/medias.png)  
+---  
+La veille innovation et design média par DATAGIF  
+  
+|  | *|MC_PREVIEW_TEXT|*  
+---  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 1\. Retour d'experience
+
+## Pendant la campagne presidentielle, nous avons teste notre outil de production automatique d'animation video  
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/a3344743-5788-dcd4-5be9-e6ada8ab0934.jpg)](https://medium.com/datagif/comment-nous-avons-automatis%C3%A9-la-production-de-vid%C3%A9os-de-donn%C3%A9es-c203556f2689)  
+---  
+  
+|  | Quelques 138 videos generees et 70 000 impressions totalisees plus tard, nous tirons le bilan de cette experimentation technique et graphique tres enrichissante. Avec l'objectif d'automatiser la chaine de production d'un contenu visuel anime, du choix de la donnee a la publication, nous avons teste chaque etape pour concevoir un produit autonome, fonctionnel et declinable a l'infini.  
+  
+Ce qui a fonctionne :  
+• s'appuyer sur des donnees recurrentes permettant un resultat different a chaque publication  
+• definir des scenarios selon les resultats obtenus  
+• creer un gabarit visuel preparant a tous les cas de figure  
+• ajouter des commentaires aux donnees observees, pour editorialiser le tout  
+---  
+|  | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+Lire notre [retour d'experience complet sur Medium](https://medium.com/datagif/comment-nous-avons-automatis%C3%A9-la-production-de-vid%C3%A9os-de-donn%C3%A9es-c203556f2689)  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 2\. Mercato
+
+## Simuler les transferts façon Tinder  
+  
+---  
+  
+|  |  | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/19203217-1991-8cb8-a8ba-533a29e3641c.jpg)  
+---  
+  
+|  | The Philadelphia Inquirer propose pour l'inter-saison du championnat de hockey un dispositif interactif permettant a ses lecteurs-supporters de l'equipe locale de "voter" pour les joueurs qu'on souhaite transferer ou non. Volontairement tres inspire des interfaces d'applications de rencontre, on peut facilement imaginer ce format transpose a des evenements plus locaux comme le mercato football.  
+---  
+|  | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+Faire defiler les hockeyeurs sur [l'article du Philadelphia Inquirer](https://www.inquirer.com/flyers/inq2/flyers-nhl-free-agents-2022-roster-rumors-20220503.html)  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 3\. Selection
+
+## 
+
+Des formats qui meritent le clic  
+---  
+  
+|  |  | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/e5200186-fc10-83f3-7758-9928d7a8afe2.gif)  
+---  
+  
+|  | • ProPublica explore les declarations de revenus des 400 plus grandes fortunes aux USA, avec [une mise en forme par jeu d'echelle](https://projects.propublica.org/americas-highest-incomes-and-taxes-revealed/) qui appuie le propos.  
+• Avez-vous deja vu [l'onde de choc planetaire](https://www.nytimes.com/interactive/2022/04/14/upshot/tonga-pressure-wave.html?searchResultPosition=2) d'une eruption volcanique ?  
+• Le New York Times decortique le _talkshow_ le plus regarde du cable pour en extraire la moelle de sa mecanique a base de peur et de complotisme : "Ils veulent vous controler". Accumulation de sequences, extraits, contexte : [une enquete a voir absolument](https://www.nytimes.com/interactive/2022/04/30/us/tucker-carlson-tonight.html).  
+• Mauvaise nouvelle : plus vous vieillissez, plus vous devenez previsible. Faites le teste chez The Pudding, [qui illustre l'illusion de l'aleatoire dans nos vies.](https://pudding.cool/2022/04/random/)  
+• Avez-vous achete une voiture cette annee ? Êtes-vous vegetarien.nes ? Selon vos reponses, l'inflation ne vous touche pas de la meme maniere. C'est ce que demontre [ce format en arbre de decision](https://www.nytimes.com/interactive/2022/05/08/business/economy/inflation-calculator.html), propose par le NYT.  
+---  
+---  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 4\. Visualisation
+
+## Axios represente le nombre de morts du Covid-19 sur l'echelle d'evenements passes  
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/9c2c6eac-a237-ac15-9a3d-84ec58648ad7.jpg)](https://www.axios.com/one-million-us-covid-19-deaths/)  
+---  
+  
+|  | Meme si les chiffres ne concernent que la population aux USA, le resultat est impressionnant. Initiative rare pour Axios : changer completement son gabarit de page article au profit d'une visualisation spectaculaire. Par un enchainement de losanges, l'augmentation du nombre de morts lies au Covid-19 marque des paliers historiques. Guerre du Vietnam, seconde guerre mondiale, ou meme population totale d'Atlanta : chaque repere est depasse. Une mecanique aussi claire que glaçante.  
+---  
+|  | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+Parcourez [ces echelles chez Axios](https://www.axios.com/one-million-us-covid-19-deaths/)  
+  
+|  |   
+---  
+  
+|  |  |  | ![](https://newsletter.datagif.fr/ext/datagif/img/reseaux.png)  
+---  
+Retrouvez la veille et les projets de Datagif sur [Medium](https://datagif.medium.com/) • [Twitter](https://twitter.com/datagif) • [Instagram](https://www.instagram.com/datagif/) • [Datagif.fr](https://datagif.fr/)  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 5\. Newsletter
+
+## La revue de presse hebdo des indes  
+  
+---  
+  
+|  |  | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/9b59d6e7-c28e-e8f8-f5c4-41b75c1f241b.jpg)  
+---  
+  
+|  | Saluons ici l'[initiative](https://twitter.com/bastamedia_/status/1521131807005097984) du media Basta! qui propose une selection hebdomadaire des meilleurs articles de la presse en ligne independante. Une mise a jour de leur portail des medias libres devrait suivre dans la foulee. Une maniere vieille ecole mais efficace, comme l'[explique](https://twitter.com/STPo/status/1522481532090388481?s=20&t=aSP9S3-fUSnqZcn2HmdEUg) un des createurs, de diminuer la dependance aux grands reseaux sociaux. Deux points positifs egalement :  
+• il est possible de consulter la derniere [numero](https://basta.media/la-gauche-enfin-unie-l-ukraine-toujours-en-guerre) avant de s'abonner  
+• l'[integration HTML tres legere](https://twitter.com/HTeuMeuLeu/status/1522501944752885761), compatible avec le mode sombre des outils de messagerie.  
+---  
+---  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 6\. Application
+
+## Le media libanais L'Orient-Le Jour poursuit son developpement avec le lancement de son application en anglais  
+  
+---  
+  
+|  |  | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/3f8ffcd2-1502-cbaf-02b5-19cfdb151ba0.jpg)  
+---  
+  
+|  | Apres le deploiement de son application francophone, L'Orient-Le Jour poursuit le developpement de son audience en proposant une application pour "[Today](https://today.lorientlejour.com/)" : sa verticale anglophone. [Datagif](http://datagif.fr) a conçu et realise l'interface de ces applications, developpees par [WhiteBeard](https://www.whitebeard.me/) au Liban. Bravo a l'OLJ pour ce lancement reussi !  
+---  
+|  | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+Installer [la version Android](https://play.google.com/store/apps/details?id=me.whitebeard.olj.today)  
+| ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+Ou bien [la version iOS](https://apps.apple.com/us/app/lorient-today/id1607819069?platform=iphone)  
+  
+|  |   
+---  
+  
+|  |  |  | ![](https://newsletter.datagif.fr/ext/datagif/img/mail.png)  
+---  
+On vous a transfere cette newsletter ?  
+Pour la recevoir tous les 15 jours dans votre boite mail :  
+| [S'inscrire a la newsletter](https://datagif.fr/newsletter-medias/)  
+---  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 7.  Participatif
+
+## Les mamans mises a contribution pour la fete des meres  
+  
+---  
+  
+|  |  | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/98e8581c-bbea-be8b-b91a-4e369e5d3b27.jpg)  
+---  
+  
+|  | À l'occasion de la fete des meres - le 8 mai dans beaucoup de pays -, nous avons identifie deux initiatives pleines de bienveillance envers les mamans.   
+• Axios a publie sur son compte Instagram au format stories des conseils glanes aupres de ses lectrices mamans, pour les rassembler [dans un article plein de bon sens](https://www.axios.com/2022/05/05/axios-finish-line-life-lessons-mothers-day)  
+• Meme mecanique chez le NYT a recolte 3000 conseils de parents aupres de son audience, [pour en publier 30](https://www.nytimes.com/interactive/2022/05/05/well/family/motherhood-advice-quotes.html?searchResultPosition=3).  
+---  
+|  | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+Decouvrir[ les meilleurs conseils du New York Times](https://www.nytimes.com/interactive/2022/05/05/well/family/motherhood-advice-quotes.html?searchResultPosition=3)  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## Recrutement
+
+## Datagif se developpe et recrute un.e lead UX et un.e directeur.trice artistique  
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/b7e82888-82ba-c5ec-f2f1-5f1e5725ab65.jpg)](https://datagif.fr/jobs/)  
+---  
+  
+|  | Deux postes sont ouverts chez nous :  
+  
+• [Lead UX](https://datagif.fr/job/lead-ux-cdi/) : il s'agit d'une creation de poste. Implique.e dans la strategie des projets de l'agence, vous accompagnez les clients dans la mise en oeuvre des parcours web lies a leurs problematiques et organisez la reflexion autour de concepts. En coordination avec l'equipe conseil, vous pilotez les recommandations et productions UX.  
+• Datagif recrute egalement [un.e directeur.ice artistique web](https://datagif.fr/job/directeur-ice-artistique-web/). Sous la responsabilite du directeur de creation, vous proposez des concepts, des principes creatifs, travaillez sur des interfaces et du contenu web.  
+---  
+|  | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+Voir [les offres detaillees](https://datagif.fr/jobs/)  
+  
+|  |   
+---  
+  
+|  |   
+---  
+  
+|  | Merci de nous avoir lus jusqu'au bout, on espere que quelques liens vous seront utiles ! Et si vous avez des projets ou des idees : [nous echangerons volontiers avec vous](https://datagif.fr/medias/) ✌️  
+---  
+  
+|  |  | ![](http://gallery.mailchimp.com/653153ae841fd11de66ad181a/images/transparent.gif)  
+---  
+  
+|  |   
+---  
+  
+|  | Vous recevez cet e-mail car vous êtes inscrit•e via le site [datagif.fr](https://datagif.fr/newsletter-medias/)Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)  
+👋 [Cliquez-ici](*|UNSUB|*) pour vous désabonner  
+---  
+  
+|  | DATAGIF  
+---  
+  
+|  |   
+---

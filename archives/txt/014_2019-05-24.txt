@@ -1,0 +1,94 @@
+---  
+![Médias](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/d060cdc3-f8d4-4207-b9bb-0b8ffda1ca6f.png)  
+La veille innovation et design media par Datagif  
+  
+| *|MC_PREVIEW_TEXT|*  
+---  
+---  
+1\. FAQ Vous ne comprenez rien aux elections europeennes ? Contexte a pense a vous  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/3c143976-7952-42c8-bd5c-f09ea960539b.gif)  
+---  
+Dans un format inspire du New York Times (la reference est pleinement assumee par Contexte), une liste de 40 questions detaille le pourquoi du comment des elections, en melant infos concretes et petites blagues pour se detendre un peu. Meme si cela a deja ete fait, c'est agreable de voir un traitement simple et efficace de ces questions auxquelles la plupart des medias repondent de maniere plus classique, au travers d'articles. Le format ideal a partager a vos amis perdus ou ne voyant pas l'interet de ces elections.   
+---  
+|  -- Decouvrez la [FAQ de Contexte ](https://www.contexte.com/pouvoirs/page/la-grande-faq-des-elections-europeennes.html)  
+---  
+---  
+2\. Catchy Deux formats excellents chez Zeit Online  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/778423dc-2fc4-4b2b-8363-59ae8d2d8a9e.png)  
+---  
+Le site allemand Zeit Online a produit encore deux super formats pour les elections. Le concept est a chaque fois assez simple mais tres bien execute d'un point de vue DA et UX :   
+● Une dataviz tres claire du spectre politique partout en Europe (avec une granularite assez impressionnante, sur la base des sondages nationaux)  
+● Une serie de videos ou Zeit Online interroge les tetes de liste allemandes et compare leurs positions. Mise en scene sobre mais tres catchy.  
+---  
+|  -- Explorer la[ carte politique](https://www.zeit.de/politik/ausland/2019-05/parlamentswahlen-eu-laender-wahlergebnisse-europakarte) interactive de Zeit Online, et [la serie d'interviews video](https://www.zeit.de/video/2019-05/6032479518001/europawahl-sonst-warten-wir-bis-unsere-enkel-schon-grau-sind) des tetes de liste allemandes  
+---  
+---  
+3\. SEO Les medias tentent de repondre aux questions que se posent les Europeens, mais Google preempte le terrain  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/52764306-7a47-4d51-bba8-9d0d245dab78.jpg)  
+---  
+Comme a chaque election, Google a flaire l'opportunite et propose ses reponses maison directement dans les resultats de recherche. Un bloc de FAQ, situe en toute premiere position, detaille les points cles a comprendre sur l'organisation de l'election. Un avantage notable par rapport aux medias.  
+  
+![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/4f6ed939-0d07-46ae-aded-aef524b0e5d9.jpg)  
+  
+À noter qu'au sein de Google News, qui a epingle le sujet des europeennes, un encart renvoie egalement vers la FAQ. Une maniere pour Google de rappeler que les medias jouent sur un territoire maitrise par le moteur de recherche.  
+---  
+|  -- Voir le traitement [sur Google News](https://news.google.com/topics/CAAqBwgKMLKWjQswhcKeAw?hl=fr&gl=FR&ceid=FR%3Afr) et la [FAQ dans la page de recherche](https://www.google.com/search?q=comment+voter+aux+%C3%A9lections+europ%C3%A9ennes+%23France)  
+---  
+---  
+4\. Complet Le Monde continue ses decryptages visuels  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/48d91993-5fd5-4237-9193-f04f5bc1bffe.png)  
+---  
+On vous parlait deja des tres bons decryptages visuels du Monde dans notre derniere newsletter… et bien ce n'est pas fini ! Le journal a depuis publie des nouveaux contenus interessants sur les elections europeennes, sur le fond comme sur la forme :  
+● [Une panorama simple des differentes listes françaises](https://www.lemonde.fr/les-decodeurs/article/2019/05/13/elections-europeennes-candidats-programmes-allies-explorez-les-34-listes-francaises_5461521_4355770.html)  
+● [Une cartographie interactive des partis souverainistes en Europe](https://www.lemonde.fr/les-decodeurs/article/2019/05/21/28-pays-56-listes-et-autant-de-nuances-la-carte-d-europe-des-souverainistes_5465227_4355770.html)  
+● [Un quiz sur nos voisins europeens](https://www.lemonde.fr/les-decodeurs/article/2019/05/17/quiz-interactif-connaissez-vous-vraiment-nos-voisins-europeens_5463406_4355770.html)  
+● [Deux reportages photo dans les pas de deux eurodeputees a Bruxelles ](https://www.lemonde.fr/international/article/2019/04/15/dans-les-pas-d-une-eurodeputee-a-strasbourg-avec-francoise-grossetete-25-ans-au-c-ur-de-l-europe_5450383_3210.html)  
+  
+On note un vrai effort dans le storytelling et le design, avec une direction artistique unifiee. Et les contenus sont faciles a retrouver grace a un logo commun et des relances adaptees.  
+---  
+---  
+5\. Tendance Logotyper les elections  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/7ef6ee95-f2c8-4ad3-b5ca-a7366e54271b.png)  
+---  
+Simple a mettre en place et utile comme point de repere pour les lecteur.rice.s : le repere visuel (allez, appelons-le logo) dedie a un grand dossier, et donc souvent aux elections. On le retrouve sur la home, dans les pages d'articles, sur les reseaux sociaux…   
+  
+Ici, les couleurs de l'UE apposees sur une urne stylisee (chez The Guardian et Le Monde) nous semblent etre plus efficaces que la proposition "fer a cheval" de Politico... que nous n'avons a ce jour toujours pas comprise. France Info utilise l'emoji, et pourquoi pas ?  
+---  
+---  
+6\. Programmes Le Figaro compare les listes françaises  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/3e61d3d0-b527-4bc9-8694-d55ceda83746.png)  
+---  
+Le Figaro a produit une infographie interactive pour comparer simplement les programmes des differentes listes françaises, sur une serie des thematiques. De la PAC au deficit public, les tetes de liste sont ainsi classees sur une echelle simple : « pour » , « partage »  ou « contre ». Et pour chaque position, on peut evidemment lire une petite declaration justificative des candidats. Efficace.  
+  
+A noter egalement chez Le Figaro : un simulateur interessant pour evaluer quels candidats ont des chances d'etres elus... ou d'etre "eurodeputes reservistes" (ces elus qui vont rester sur le banc de touche en attendant le Brexit et le depart des eurodeputes britanniques).  
+---  
+|  -- Voir [le comparateur de liste ](https://www.lefigaro.fr/assets/infographie/print/fixem/INF_HTML/propositions_europeennes_2019/)du Figaro, ainsi que le [simulateur de resultats pour chaque liste](https://www.lefigaro.fr/fig-data/eurodeputes-reservistes/)  
+---  
+---  
+7\. Engagement Enfin, une idee toute bete : BBC News demande aux lecteurs ce qu'ils souhaitent savoir sur les elections europeennes. Un formulaire simple (genere via la plateforme Hearken) est ainsi deploye a la fin de [ce guide](https://www.bbc.com/news/world-europe-48186027).  
+  
+Rendez-vous dimanche pour voter... et decouvrir de beaux formats de resultats !  
+|   
+---  
+Vous recevez cet e-mail car vous êtes inscrit•e via le site   
+[medias.datagif.fr](https://medias.datagif.fr/)   
+  
+🏄‍   
+Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)   
+  
+📪  
+Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)   
+  
+✌️  
+Retrouvez la veille et les projets de Datagif sur   
+[Medium](https://medium.com/Datagif) \- [Twitter](https://twitter.com/datagif) \- [Instagram](https://www.instagram.com/datagif) \- [Datagif.fr](https://datagif.fr)   
+  
+👋   
+[Cliquez-ici](*|UNSUB|*) pour vous désabonner   
+  
+  
+*|IF:REWARDS|* *|HTML:REWARDS|* *|END:IF|*   
+  
+  
+---

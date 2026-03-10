@@ -1,0 +1,231 @@
+*|MC_PREVIEW_TEXT|*  
+  
+͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿
+
+| | [Ouvrir dans le navigateur](*|ARCHIVE|*)  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/0c4c9ba1-183f-ec9e-b34e-620725d56db5.png)](*|ARCHIVE|*)  
+---  
+  
+| | | ![Médias](https://newsletter.datagif.fr/ext/datagif/img/medias-v2.png)  
+---  
+  
+| 152  
+---  
+  
+| | La veille innovation et design média par Datagif  
+---  
+  
+| | | Archiver pour ne pas oublier  
+---  
+L'exemple de Rest of World, dont on vous parle juste en-dessous, est la parfaite illustration d'un element essentiel : evoluer, noter ses retours d'experience, les partager. Ça peut prendre plein de formes mais jamais personne ne vous en voudra de les valoriser. Point positif supplementaire : quand vous regarderez dans le retro, l'effort accompli depuis n'en sera que plus appreciable. À propos d'archives, j'en profite pour vous rappeler que [tous nos liens, depuis donc 152 editions, sont disponibles ici](https://datagif.fr/liens/). Ce serait dommage de pas taper dedans pour vos recherches.  
+  
+| | | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/dd27fd0a-f659-dbfe-2c8d-0fa69e1c9747.png)  
+---  
+  
+| [Gaetan Duchateau](mailto:gaetan@datagif.fr)  
+---  
+Lead @Datagif  
+  
+| | | **Produit**  
+---  
+  
+| **🛠️**  
+---  
+  
+| | Rest of World communique sur les mises a jour produit  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/2421a218-4f79-1569-e4ed-081b690d6606.png)](https://restofworld.org/inside/april-product-updates-tag-page-related-stories/)  
+---  
+Rest of World a lance le mois dernier une nouvelle serie mensuelle : [_Product Updates_](https://restofworld.org/inside/march-product-updates-whats-new/), dans laquelle le media fait le point sur les evolutions produit realisees. De l'amelioration de la carte de localisation d'un evenement pour contextualiser une information, au retravail des balises, jusqu'au retour d'experience sur la derniere campagne d'appel aux dons - tout y est, et c'est passionnant.   
+  
+La demarche n'est pas nouvelle pour RoW, dont l'equipe Produit [faisait deja le point en janvier dernier](https://restofworld.org/inside/best-of-the-rest-of-world-product-2024/) sur les fonctionnalites preferees deployees sur l'annee passee. On adore la transparence du media, on aime les retours d'experience qui ne sont pas forcement des reussites. Avis aux _product managers_ , c'est cadeau !   
+[Faire le point sur les evolutions produits du mois d'avril](https://restofworld.org/inside/april-product-updates-tag-page-related-stories/)  
+  
+| | | IA  
+---  
+  
+| 🤖  
+---  
+  
+| | Le Washington Post propose un resume d'article en debut de page  
+---  
+| ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/70f12204-3f65-2bae-59b6-db1360e2a99a.png)  
+---  
+Le resume est genere par de l'IA, mais revise par la redaction. On est d'abord soulages, puis on s'interroge.  
+  
+La fonctionnalite etait attendue tant elle semble evidente. C'est un petit plus, qui peut faire la difference. Mais quelle difference ? De notre point vue, une telle fonctionnalite interroge le positionnement du WaPo, impacte la marque et sa promesse. Si la democratie meurt dans l'obscurite, qu'en est-il de l'usage de l'IA pour resumer une actualite ? Est-il franchement souhaitable de tout synthetiser ?  
+  
+Cote _business_ , on s'interroge tout autant : quel interet pour un lecteur de s'abonner au WaPo si un petit encart proposant un resume suffit ? Quelle difference entre un _thread_ et cet encart ? Et du cote du media, pourquoi se donner autant de mal dans la conception de longs formats immersifs et interactifs si l'utilisateur peut s'arreter juste apres le chapo de l'article ?  
+  
+Vous l'aurez compris, on se pose beaucoup de questions dans l'equipe. Si nous ne sommes fondamentalement pas contre ce type de fonctionnalite, nous ne sommes pas sur*es qu'elle soit appropriee a tous les medias. On est tres curieux d'avoir votre avis !  
+  
+| | | Datagif, bonjour  
+---  
+Ce que nous faisons entre deux newsletters  
+Voila pres de 7 ans que cette newsletter existe, mais vous ne le savez peut-etre pas : nous ne sommes pas qu'une newsletter. Nous sommes [Datagif](https://datagif.fr/), une agence de strategie et design d'information. Nous avons cree cette newsletter car une partie de nos clients sont des medias, effectivement, et cela nous permet de partager au plus grand nombre la veille que nous faisons en interne. Le but pour nous : identifier les signaux faibles, les tendances dans les evolutions d'usages, les mecaniques UX et design interessantes qui nourriront notre reflexion pour les projets sur lesquels nous sommes impliques. Vous n'imaginez pas comme ça nous rend particulierement efficaces lorsque l'on travaille sur la refonte d'un site ou d'une appli. [Envie d'en savoir plus ?](https://datagif.fr/medias/)  
+  
+| | | Voyage voyage   
+---  
+  
+| 🏝️  
+---  
+  
+| | Les vacances, ça vous parle ?  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/83498d1c-62ff-eaa7-ba69-e32518e04188.png)](https://www.lemonde.fr/m-styles/visuel/2025/01/04/ou-partir-en-2025-le-palmares-des-10-destinations-du-monde-sans-avion_6480769_4497319.html)  
+---  
+Le Monde presente a nouveau [son palmares des destinations accessibles sans avion](https://www.lemonde.fr/m-styles/visuel/2025/01/04/ou-partir-en-2025-le-palmares-des-10-destinations-du-monde-sans-avion_6480769_4497319.html), une initiative qui valorise les lieux desservis par des transports durables. Sur un hub, la carte de l'Europe se devoile au defilement, offrant un acces aux 10 destinations phares soigneusement selectionnees par la redaction ainsi qu'a leurs reportages dedies. La readaptation d'un format existant, davantage exploite et valorise que l'an passe est particulierement appreciable !   
+[Explorer le palmares de destinations du Monde ](https://www.lemonde.fr/m-styles/visuel/2025/01/04/ou-partir-en-2025-le-palmares-des-10-destinations-du-monde-sans-avion_6480769_4497319.html)  
+  
+| | | Recap  
+---  
+  
+| 🌆  
+---  
+  
+| | Ce media suisse-allemand qui fait les choses simplement  
+---  
+| ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/74a66a18-45c2-8f93-e9b1-0debf730d2dd.jpg)  
+---  
+Le recap de fin de journee est un rendez-vous incontournable chez bon nombre de publications axees sur l'actu. Il prend de nombreuses formes et a tendance a etre developpe en produit a part entiere pour valoriser la selection manuelle qui s'opere.  
+  
+Le Tages Anzeiger, en Suisse, le propose classiquement sous forme de newsletter. Mais ce qui a retenu notre attention, c'est l'apparition, sur le site, d'un bandeau d'alerte des que le recap est pret, donnant les 3 infos brutes du jour (et un bouton pour lire le tout). C'est tout simple et ça permet de desenclaver le recap de la newsletter pour en faire egalement profiter les lecteurs captes a la volee.   
+[Consulter les recaps quotidiens du Tages Anzeiger](https://www.tagesanzeiger.ch/news-heute)  
+  
+| | | Le 50/50  
+---  
+Envie d'explorer un format ?  
+Cliquez sur le tag, tous nos liens sont juste derriere  
+  
+| | | [🔉 audio](https://datagif.fr/liens/?format=audio)  
+---  
+  
+| | [🫵 interactif](https://datagif.fr/liens/?feature=interactif)  
+---  
+  
+| | |   
+---  
+Il y 15 jours  
+Pas vraiment d'humeur a trancher, n'est-ce pas ?   
+  
+| | | [📝 liste](https://datagif.fr/liens/?theme=liste)  
+---  
+  
+| | [🏆 51%](https://datagif.fr/liens/?theme=climat)  
+---  
+  
+| |   
+---  
+  
+| | | [🐍 long](https://datagif.fr/liens/?theme=long)  
+---  
+  
+| | [49%](https://datagif.fr/liens/?theme=tech)  
+---  
+  
+| | | Documents  
+---  
+  
+| **📂**  
+---  
+  
+| | **Disclose  cree la plateforme Disclose Data**  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/bf795466-b949-7e3f-847f-581fb0eb981b.png)](https://data.disclose.ngo/explorateur-autorite-environnementale/recherche/?sort=data_publication_datetime)  
+---  
+Creee en partenariat avec nos voisins de chez WeDoData, Disclose a mis en ligne [Disclose Data](https://data.disclose.ngo/explorateur-autorite-environnementale/recherche/?sort=data_publication_datetime), une plateforme rassemblant plus de 65 000 documents publies par les autorites chargees d'evaluer l'impact environnemental des projets industriels, agricoles ou routiers.  
+  
+L'objectif est simple et cruellement efficace : centraliser et rendre accessibles les documents des autorites environnementales, jusqu'alors dissemines sur differents sites administratifs, pour finalement "_am eliorer la transparence sur l'information environnementale… et faciliter la tache de celles et ceux qui lancent l'alerte_". Concretement : mettre a nu des projets ecocides. Encore une fois, c'est aux citoyen*nes et aux medias de faire le boulot...  
+[Decouvrir Disclose Data](https://disclose.ngo/fr/article/disclose-data-un-outil-inedit-pour-lancer-lalerte-sur-lenvironnement)  
+  
+| | | Le lien de Charly, CTO  
+---  
+Explorer le domaine public en images  
+  
+| | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/0f39c5ef-2fbe-e6df-2936-a941a34c9554.png)  
+---  
+  
+| | Lancee en janvier dernier, [la Public Domain Image Archive](https://pdimagearchive.org) est une bibliotheque d'images libres de droits, soigneusement editorialisee par la revue en ligne [The Public Domain Review](https://publicdomainreview.org/). Plus de 10 000 visuels du domaine public y sont reunis dans une interface elegante, dotee de fonctionnalites de recherche avancee avec, en bonus, [une superbe vue en defilement infini](https://pdimagearchive.org/infinite-view/) pour explorer librement les collections.  
+  Mais cette galerie n'est que le prolongement d'une aventure debutee en 2011 : The Public Domain Review, c'est aussi un site web, [une newsletter bimensuelle](https://publicdomainreview.org/subscribe/), des reseaux sociaux tres actifs, des recueils imprimes et une boutique en ligne. Le tout de façon gratuite, sans publicite et uniquement soutenu par la generosite des donateurs (on aime d'ailleurs beaucoup [les contreparties de leur programme d'adhesion](https://publicdomainreview.org/support/) offrant des tres belles cartes postales). Un projet a la fois artisanal et tres soigne, porte par une certaine exigence graphique et editoriale.  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/7a4c74b5-da8d-6383-0bb9-d9e4a4903bd3.jpg)](https://pdimagearchive.org/)  
+---  
+  
+| | | Le meilleur lien de l'edition n°151  
+---  
+  
+| | Que des zicos dans la team  
+---  
+L'arbre genealogique de vos musiques preferees a conquis tous les coeurs, et on partage totalement cet enthousiasme !  
+[Plonger dans l'experience musicale de The Pudding](https://pudding.cool/2025/04/music-dna/)  
+  
+| | | Guerre  
+---  
+  
+| 🪖  
+---  
+  
+| | Penser le visuel d'accroche en s'appuyant sur le contenu visuel de l'article  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/5f081c74-56b6-e54d-4786-55e0428c6299.png)](https://www.reuters.com/graphics/UKRAINE-CRISIS/NORTHKOREA-RUSSIA/lgvdxqjwbvo/)  
+---  
+Reuters explore un soutien militaire discret mais consequent : celui de la Coree du Nord a la Russie dans le conflit ukrainien. Plutot que par un titre, [l'article demarre par une immersion sonore](https://www.reuters.com/graphics/UKRAINE-CRISIS/NORTHKOREA-RUSSIA/lgvdxqjwbvo/) : quelques secondes d'un extrait audio des communications de l'armee coreenne, intercepte par les renseignements ukrainiens a Koursk, en Russie. Le media deploie une richesse de formats - cartographies animees, videos, prises de vue satellites, infographies - pour vulgariser l'ampleur du trafic d'armement nord-coreen vers les forces russes. Une approche multimedia qui rend etonnamment pedagogique un sujet meconnu.  
+  
+L'image d'accroche de l'article merite egalement l'attention : un [triptyque anime en GIF](https://www.reuters.com/graphics/) qui decompose visuellement les etapes de l'acheminement de l'armement nord-coreen.  
+[Decouvrir l'enquete de Reuters](https://www.reuters.com/graphics/UKRAINE-CRISIS/NORTHKOREA-RUSSIA/lgvdxqjwbvo/)  
+  
+| | | ![](https://newsletter.datagif.fr/ext/datagif/img/newsletter.png) Bienvenue dans Medias  
+---  
+Tous les 15 jours, le meilleur de la veille innovation et design d'information, par Datagif.  
+| [Abonnez-vous ](https://datagif.fr/newsletter-medias/)  
+---  
+  
+| | | Compteur  
+---  
+  
+| 💸  
+---  
+  
+| | Ce tout petit detail UX qui nous a fait defiler la page jusqu'en bas  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/8f3a0034-70eb-8abf-e93b-2dc9e7a3a5ea.gif)](https://www.inquirer.com/politics/nation/inq2/green-card-process-philadelphia-legal-immigration-rates-20250417.html)  
+---  
+Le Philadelphia Inquirer reutilise (c'est bien) un gabarit de defilement ([voir edition 134](https://www.inquirer.com/transportation/inq2/septa-funding-fiances-history-timeline-shapiro-20240626.html)), cette fois pour un sujet economique : la difficulte d'obtenir une Green Card, malgre le fait que l'immigration est positive pour le pays. Pour representer cette difficulte, le media accompagne son article d'un labyrinthe, faisant passer votre personnage par des etapes cles souvent couteuses.  
+  
+Et c'est la qu'un petit plus fait toute la magie : cale en haut a droite de l'ecran, un compteur en dollars vient s'incrementer a chaque passage oblige, alourdissant la facture au fur et a mesure du defilement... Le gros plus : cela encourage a poursuivre la decouverte de la page.  
+[Calculer le cout d'une Green Card chez The Inquirer](https://www.inquirer.com/politics/nation/inq2/green-card-process-philadelphia-legal-immigration-rates-20250417.html)  
+  
+| | | Bonus  
+---  
+Quelques liens en vrac mais promis, que des bons !  
+🎙️ Gigi Huynh, a la strategie chez Radio-Canada, [a publie sur son compte TikTok perso une video marrante](https://www.tiktok.com/@gigi.huynh/video/7493479463871614226) : elle a demande a plusieurs personnes du media de "prendre sa voix Radio-Canada" pour se presenter. Des coulisses tres spontanees ! Sur son profil, d'autres videos des bureaux (dont [le hit sur les baskets](https://www.tiktok.com/@gigi.huynh/video/7212634593520930053) de la redac).  
+  
+🤓 Les calculs sont pas bons ! Un developpeur facetieux a voulu se moquer de la presse et de ses conversions creatives ("..._soit l 'equivalent de 4 piscines olympiques_") en creant [un convertisseur de mesures improbables](https://converter.phiphou.com/). À destination des journalistes, donc.  
+  
+🌎 [L'Amazonie scannee au Lidar](https://www.washingtonpost.com/world/interactive/2025/brazil-amazon-discoveries-archaeology-lidar/) : un long format passionnant, tres pedagogiquement illustre, a decouvrir chez le WaPo.  
+  
+🏚️ Quelles renovations de votre maison auront le plus d'effets sur la preservation de l'environnement ? [Les options sont posees sur la table](https://www.washingtonpost.com/climate-environment/interactive/2025/home-efficiency-emissions-cost/).  
+  
+🧶 Le WaPo [a decortique les interactions de Musk sur X et surtout comment il s'inspire](https://www.washingtonpost.com/politics/interactive/2025/elon-musk-x-posts-influencers-trump-policy/) de tout et de rien pour influer la politique de Trump. L'Agora dans sa pire des versions.  
+  
+✝️ RIP le pape, certes, mais aussi Skype ! RoW revient [dans un article aux couleurs de l'outil incontournable](https://restofworld.org/2025/skype-shutting-down/) et novateur, sciemment tue par Microsoft, en mode restrospective mi-boomer mi-nostalgique.   
+  
+| | | Merci pour votre lecture  
+---  
+✏️ Cette edition a ete preparee par Athenais, Lucie, Charly, et Gaetan.  
+  
+Et comme toujours, merci pour votre fidelite, vos reponses sympas ou vos productions partagees ! N'hesitez pas a nous ecrire en repondant a ce mail. Bonne semaine 👋  
+   
+par  
+| [![DATAGIF](https://newsletter.datagif.fr/ext/datagif/img/logo-big.png)](https://datagif.fr)  
+---  
+  
+| | | ![](https://newsletter.datagif.fr/ext/datagif/img/social.png) Retrouvez-nous sur les réseaux  
+---  
+[Medium](https://datagif.medium.com/) [X](https://x.com/datagif) [Bluesky](https://bsky.app/profile/datagif.bsky.social) [Instagram](https://www.instagram.com/datagif/) [Threads](https://www.threads.net/@datagif) [Linkedin](https://www.linkedin.com/company/datagif/) [Datagif.fr](https://datagif.fr/)  
+  
+| | Vous recevez cet e-mail car vous êtes inscrit•e via le site [datagif.fr](https://datagif.fr/newsletter-medias/)Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)  
+👋 [Cliquez-ici](*|UNSUB|*) pour vous désabonner  
+---

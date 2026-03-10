@@ -1,0 +1,258 @@
+*|IF:MC_PREVIEW_TEXT|*  
+  
+͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ 
+
+|  | [Ouvrir dans le navigateur](*|ARCHIVE|*)  
+---  
+| ![Médias](https://newsletter.datagif.fr/ext/datagif/img/medias.png)  
+---  
+La veille innovation et design média par DATAGIF  
+  
+|  | *|MC_PREVIEW_TEXT|*  
+---  
+  
+|  |   
+---  
+  
+|  |  | Comme tous les 15 jours, nous vous partageons le meilleur de notre veille. L'occasion pour nous de rassembler ici des intuitions, des idees a decortiquer, des experiences remarquables, qui on l'espere vous sont utiles dans votre quotidien. Et cette semaine, on couvre de nombreux sujets, a commencer par un enjeu crucial : que nos infos soient vues par tout le monde... !  
+---  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 1\. Accessibilite
+
+## The Verge veut nous en faire voir de toutes les couleurs  
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/ded6fdfd-449c-3221-8d9d-51aafef3829e.jpg)](https://www.theverge.com/23650428/colorblindness-design-ui-accessibility-wordle)  
+---  
+  
+|  | Comme 8 % des hommes et 0,5 % des femmes, le blogueur Andy Baio souffre de daltonisme, un probleme de perception des couleurs tres souvent mal pris en compte sur le web. Dans [ce format interactif](https://www.theverge.com/23650428/colorblindness-design-ui-accessibility-wordle), il propose au lecteur de se mettre a sa place. Via un dispositif tres simple de glissiere permettant de visualiser chaque trouble de perception existant, experimentez des exemples tres parlants comme le jeu Wordle, ou des calendriers en ligne.  
+  
+Cet article fait partie d'[une serie](https://www.theverge.com/23632230/designers-week-series-ui-accessibility-vr-interface) en cours consacree a l'impact des interfaces utilisateurs sur notre monde, que l'on vous recommande evidemment.  
+---  
+|  | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[Se glisser dans le monde des daltoniens](https://www.theverge.com/23650428/colorblindness-design-ui-accessibility-wordle) chez The Verge  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 2\. IA et audio
+
+## Dans une demonstration tres parlante, le Washington Post met en lumiere les derives du business de la voix par IA  
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/f90d71e1-4ee1-1474-aa2d-cc966ebd1b11.gif)](https://www.washingtonpost.com/technology/interactive/2023/ai-voice-generators/)  
+---  
+  
+|  | Ils*elles sont comedien*nes et un jour quelqu'un leur a envoye le lien d'un service audio avec leurs voix dans les bandes demo. Sauf que... ce ne sont pas reellement leurs voix : juste des IA qui s'appuient sans leur accord sur leurs timbres et leurs intonations.  
+  
+Le Washington Post creuse un sujet certes dans l'air du temps mais de maniere pedagogique avec l'analyse comparative de la voix originale _vs_ la voix generee dans un petit module d'ecoute. On aime aussi : les relances tres ciblees IA au coeur de l'article : basique mais toujours efficace.  
+  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/3a3f6381-ecb7-b226-0cd4-249beea71b5e.gif)  
+---  
+|  | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[Tendre l'oreille](https://www.washingtonpost.com/technology/interactive/2023/ai-voice-generators/) chez The Washington Post  
+  
+|  |   
+---  
+  
+|  |  |  | ![](https://newsletter.datagif.fr/ext/datagif/img/reseaux.png)  
+---  
+Retrouvez la veille et les projets de Datagif sur [Medium](https://datagif.medium.com/) • [Twitter](https://twitter.com/datagif) • [Instagram](https://www.instagram.com/datagif/) • [Datagif.fr](https://datagif.fr/)  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 3\. Voyage, voyage
+
+## Pas de passeport ? Pas de probleme. Axios vous fait voyager aux USA sans quitter l'Europe, et inversement  
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/dda2be92-c040-ead8-2c28-a6a050786e68.jpg)](https://www.axios.com/us-immigration-cities-travel-itinerary)  
+---  
+  
+|  | Les colons americains avaient clairement le mal du pays. Axios retrace l'histoire de la construction d'une nation impregnee de culture europeenne et proche-orientale, a travers le nom de villes qui n'ont pas ete choisis au hasard. Babylone, Damas, Marseille, Malaga, Naples... une maniere de rappeler que cette nation s'est construite sur la base de l'immigration.  
+  
+Dans un article detaille melant carte comparative sous forme de _road-trip_ a creer et graphiques, vous apprendrez tout de l'apport culturel et historique a travers les noms de villes aux États-Unis. Une idee de circuit pour visiter les 60 villes françaises existant aussi aux USA ?  
+---  
+|  | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[Preparer son road-trip](https://www.axios.com/us-immigration-cities-travel-itinerary) chez Axios  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 4\. Coaching
+
+## Dans le cadre du programme Horizons de l'accelerateur medias Creatis, Datagif coache certains projets : positionnement, design, _workflow_... Focus sur [Badass, la newsletter](https://badasslanewsletter.fr/) que nous avons accompagnee  
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/5e4f812a-32fd-a1fb-8f46-4155cb22e651.jpg)](https://badasslanewsletter.fr/)  
+---  
+  
+|  | **Badass la newsletter, c 'est quoi ?**  
+Ann-Laure Bourgeois, journaliste et porteuse du projet : c'est l'infolettre des recits qui aide les femmes a (re)devenir les boss de leur sexualite. Tout est parti d'un constat evident : un besoin criant d'amelioration de l'information et de l'emancipation de la condition des femmes par la sexualite. La France est assez nulle en matiere d'education sexuelle, et malheureusement nous le subissons toutes aujourd'hui.  
+  
+**Pourquoi choisir le format newsletter ?**  
+Les temoignages sont au coeur du projet et le mail est un format tres personnel. C'est en s'identifiant aux autres et en les ecoutant que l'on peut se rendre compte que nous ne sommes pas seul*es face a certains problemes et que des solutions pour reprendre la main existent. Le cote paradoxal de la sexualite, c'est que c'est a la fois le sujet le plus intime qui soit, et en meme temps le domaine le plus charge de normes et de tabous, au-dela des cultures et traditions.  
+  
+**Comment on cr ee un media en 2023 ?**  
+Clairement le journalisme n'est pas une voie facile. Avec Badass la newsletter, j'ai cree un media tel que je l'entends : de la presse ecrite de qualite, avec des points de vues differents. C'est aussi ce qui m'a amene a rejoindre [Creatis et le programme Horizons](https://www.creatis.net/) : croiser des entrepreneur*euses avec des projets differents, nouer des liens, partager les experiences... Les gros points forts de cet accompagnement : le reseau et le coaching.   
+  
+**Merci  🤗 C'est quoi la suite du projet ?**  
+Maintenant que la newsletter est bien lancee, je poursuis le developpement du media avec la mise en place d'un _membership_ , des evenements pour continuer le partage et j'explore la faisabilite d'une newsletter dediee aux parents.   
+---  
+|  | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+Decouvrir et [s'abonner (on la recommande) a Badass la newsletter](https://badasslanewsletter.fr/)  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 5\. Ouverture
+
+## L'energie dans tous les etats : comment l'electricite est produite aux USA ? Un format evolutif de media en media  
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/1ef3715a-9647-123d-9450-0130c26dc4fd.png)](https://www.washingtonpost.com/climate-environment/interactive/2023/clean-energy-electricity-sources/)  
+---  
+  
+|  | Le Washington Post propose un style de visualisation original, esthetique et tres comprehensible dans ce [format interactif](https://www.washingtonpost.com/climate-environment/interactive/2023/clean-energy-electricity-sources/) decrivant la transition energetique etat par etat.  
+  
+Cet article est egalement un superbe exemple de collaboration inter-redactionnel : le design des graphiques est inspire d'un [article de 2018](https://www.nytimes.com/interactive/2018/12/24/climate/how-electricity-generation-changed-in-your-state.html?itid=lk_inline_enhanced-template) du New York Times, lui-meme reprenant une visualisation realisee en... [2014.](https://www.nytimes.com/interactive/2014/08/13/upshot/where-people-in-each-state-were-born.html?itid=lk_inline_enhanced-template) Non content de citer ses inspirations, [l'auteur livre egalement](http:// https://observablehq.com/@climatelab/how-clean-is-your-states-electricity?itid=lk_inline_enhanced-template) le code D3.js ainsi que la data permettant de produire ses propres analyses ou verifier les siennes. Bravo !  
+---  
+|  | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[Explorer les donnees](https://www.washingtonpost.com/climate-environment/interactive/2023/clean-energy-electricity-sources/) du Washington Post  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 6\. Transparence
+
+## Rapport d'impact et bilan carbone chez les medias d'investigation français  
+  
+---  
+  
+|  |  | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/2dfa7ddb-e969-841c-d822-19bcdce15a2a.jpg)  
+---  
+  
+|  | Disclose publie son quatrieme **«  **[rapport d'impact](https://disclose.ngo/fr/article/enquetes-judiciaires-changements-de-loi-reactions-politiques-disclose-publie-son-rapport-dimpact-2022) » resumant les actions et les resultats financiers du site d'investigation. La nouveaute cette annee est d'avoir cherche a recenser les repercussions de leurs enquetes, classees en quatre categories : judiciaire, institutionnel, mediatique et actions collectives et individuelles. Une maniere percutante, innovante et chiffree, pour ce media en acces libre, de demontrer l'interet de le soutenir financierement.  
+  
+Du cote de Mediapart, leur partenaire e-mailing Badsender livre publiquement [les resultats de leur bilan carbone](https://www.badsender.com/2023/04/07/bilan-carbone-emailing-mediapart/) emis par la totalite des infolettres et e-mailings envoyes : [plus de 144 millions d'e-mails](https://twitter.com/JeanAbbiateci/status/1648233002235842561) sont envoyes annuellement. Nous vous encourageons a [lire leur etude sur ce sujet](https://www.badsender.com/2023/04/07/bilan-carbone-emailing-mediapart/), qui non seulement resume bien les problematique de calcul d'impact environnemental mais propose aussi des statistiques interessantes sur le poids des e-mails, le temps de lecture ou le taux d'ouverture..   
+---  
+---  
+  
+|  |   
+---  
+  
+|  |  |  | ![](https://newsletter.datagif.fr/ext/datagif/img/mail.png)  
+---  
+Bonjour 👋 Vous decouvrez cette newsletter ? Bienvenue ! On espere vous revoir :  
+| [Je m'inscris](https://datagif.fr/newsletter-medias/)  
+---  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 7\. Quiz
+
+## Un peu d'interaction pour une lecture moins passive  
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/03adb918-c40c-e7eb-c39a-7d1e8688b9da.jpg)](http://nytimes.com/interactive/2023/04/20/learning/20VocabQuizLN2.html)  
+---  
+  
+|  | Le format quiz gagne du terrain chez de nombreux medias, sans se cantonner a l'espace "jeux" pour s'inviter largement cote edito. Dans cette mouvance, [cet article de textes a trous](https://www.nytimes.com/interactive/2023/04/20/learning/20VocabQuizLN2.html) nous a tape dans l'oeil. Maitrisez-vous le vocabulaire de Top Chef ? C'est que le NYT vous propose de verifier, en completant les paragraphes dans le cadre d'un programme d'apprentissage propose par le media.  
+  
+Dans un tout autre registre, c'est a des fins d'autopromo que Mediapart s'appuie sur une mecanique de quiz : [saurez-vous attribuer aux bonnes personnes les petites phrases issues d'enregistrements audio](https://avantages.mediapart.fr/blind-test-mediapart-15ans) ? 15 enregistrements, 15 phrases choc dont une bonne partie a l'encontre de Mediapart, un concours a la cle : de quoi s'amuser !  
+---  
+---  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 8\. 3D
+
+## Le Figaro deploie les grands moyens   
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/7be5ddc5-511a-7493-99fe-fd62f5a05b82.gif)](https://www.lefigaro.fr/fig-data/dirigeables-le-retour-des-baleines-volantes-20230420/)  
+---  
+  
+|  | Un nouveau souffle pour les dirigeables : c'est ce que Le Figaro explore dans [un long format a l'introduction 3D remarquable](https://www.lefigaro.fr/fig-data/dirigeables-le-retour-des-baleines-volantes-20230420/). Focus sur la technologie et les avantages ecologiques d'un engin oublie depuis 100 ans, pourtant plein de promesses.   
+  
+Et Le Figaro enchaine les formats impressionnants. Quelques jours plus tot, c'est l[e decollage en 3D de la fusee-mastodonte Starship](https://www.lefigaro.fr/fig-data/starship-vers-la-lune-mars-et-au-dela-20230416/) que vous pouviez realiser (avec succes) dans votre navigateur. Animation 3D de la fusee a droite, colonne d'infos detaillees a gauche : un tres beau format. Tout cela dans la continuite du long format dedie a [l'incendie de Notre Dame](https://www.lefigaro.fr/fig-data/notre-dame-martyrisee-mais-notre-dame-sauvegardee-20230109/), tout en 3D egalement, publie en debut d'annee.   
+---  
+---  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 9\. 50 ans 🥳
+
+## Bon anniversaire Liberation ! L'occasion de [vous repartager dans ce thread notre contribution a son histoire](https://twitter.com/Datagif/status/1648678510272163840), avec la refonte du site en 2015 (maquette en ligne jusque 2021) et sa campagne de lancement !  
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/92b23322-ebf2-8640-9f1f-2010423cefa1.gif)](https://twitter.com/Datagif/status/1648678510272163840)  
+---  
+  
+|  |   
+---  
+---  
+  
+|  |   
+---  
+  
+|  |   
+---  
+  
+|  | Merci pour votre lecture et votre fidelite. Et comme toujours : si vous avez un bon lien, un projet a partager, [ecrivez-nous](http://datagif.fr/) ! De meme si vous souhaitez etre accompagne*es dans la construction de vos projets 💡  
+---  
+  
+|  |  | ![](http://gallery.mailchimp.com/653153ae841fd11de66ad181a/images/transparent.gif)  
+---  
+  
+|  |   
+---  
+  
+|  | Vous recevez cet e-mail car vous êtes inscrit•e via le site [datagif.fr](https://datagif.fr/newsletter-medias/)Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)  
+👋 [Cliquez-ici](*|UNSUB|*) pour vous désabonner  
+---  
+  
+|  | DATAGIF  
+---  
+  
+|  |   
+---

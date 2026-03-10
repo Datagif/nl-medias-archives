@@ -1,0 +1,236 @@
+*|MC_PREVIEW_TEXT|*  
+  
+͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿
+
+| | [Ouvrir dans le navigateur](*|ARCHIVE|*)  
+---  
+| ![Médias](https://newsletter.datagif.fr/ext/datagif/img/medias.png)  
+---  
+La veille innovation et design média par DATAGIF  
+  
+| |   
+---  
+  
+| | | On s'excuse par avance de la proliferation de gifs dans cette edition mais pour le coup, ça nous semblait indispensable de vous montrer quelques bonnes idees de maniere animee. Avec comme fil conducteur : des sujets et formats qui vont accompagner votre ete.  
+  
+Et on demarre d'ailleurs avec une BD interactive absolument incontournable.  
+---  
+  
+| |   
+---  
+  
+| | | 
+
+## 1\. BD
+
+## The Verge depeint notre addiction au mobile dans une BD interactive  
+  
+---  
+  
+| | | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/7f0b2aec-e772-3013-6206-209747060043.gif)](https://www.theverge.com/c/23558791/goodnight-phone-comic-interactive-gina-wynbrandt)  
+---  
+  
+| | L'interface ressemble a un jeu : des indicateurs d'energie, d'argent, de satisfaction dans la vie. Vous deroulez une bande dessinee sans texte, dans l'intimite d'une jeune femme rentrant tout simplement chez elle. Le truc qui choque au bout de quelque cases : son telephone mobile ne quitte jamais sa main. Meme pour cuisiner, meme une fois couchee, meme en cherchant son sommeil... Ça vous rappelle quelqu'un ?   
+  
+Au fil de la BD et des notifications, vous etes invite*e a faire des choix d'applications pour vous divertir, jusqu'a enfin sombrer dans le sommeil. Bravo a The Verge qui a donne carte blanche a l'autrice de comics [Gina Wynbrandt](https://www.ginawynbrandt.com/) pour evoquer ce petit objet qui occupe beaucoup trop de place dans notre vie.  
+---  
+| | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[Parcourir la BD "Goodnight Phone"](https://www.theverge.com/c/23558791/goodnight-phone-comic-interactive-gina-wynbrandt) chez The Verge  
+  
+| |   
+---  
+  
+| | | 
+
+## 2\. Portrait
+
+## Un diptyque photo-video pour une mise en contexte plus intime  
+  
+---  
+  
+| | | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/cc477a79-364f-8ec1-5462-876cd723afa8.gif)](https://www.washingtonpost.com/world/interactive/2023/venezuelans-return/)  
+---  
+  
+| | Les articles presentant des portraits reprennent souvent une base similaire : une grande photo du temoin, regulierement en plein ecran. Le sujet est si proche de nous qu'il donne parfois l'illusion de tout reveler au lecteur.   
+  
+Le Washington Post semble s'etre interroge sur ce point dans un article presentant une serie de portraits. Avec un diptyque photo-video, le media renouvelle l'exercice et pose un regard contemplatif sur l'environnement du temoin via une boucle video tres courte, verticale, presque une story a la volee.   
+  
+Nous apprecions egalement le contre-pied adopte dans le traitement du sujet des migrations. Ici, pas de carte macro pour illustrer des flux, simplement des individus, leur histoire, et donc un focus video presque confidentiel.   
+---  
+| | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[Contempler les portraits](https://www.washingtonpost.com/world/interactive/2023/venezuelans-return/) du Washington Post  
+  
+| |   
+---  
+  
+| | | | ![](https://newsletter.datagif.fr/ext/datagif/img/reseaux.png)  
+---  
+Retrouvez la veille et les projets de Datagif sur [Medium](https://datagif.medium.com/) • [Twitter](https://twitter.com/datagif) • [Instagram](https://www.instagram.com/datagif/) • [Datagif.fr](https://datagif.fr/)  
+  
+| |   
+---  
+  
+| | | 
+
+## 3\. Typographie
+
+## Et vous, c'est quoi votre style de police ?  
+  
+---  
+  
+| | | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/0adf2ac4-3bce-be10-6c22-f9bbbdccbd9e.jpg)](https://www.washingtonpost.com/technology/interactive/2023/best-font-you-test-types-styles/)  
+---  
+  
+| | On ne sait pas chez vous, mais chez [Datagif](http://datagif.fr) il nous arrive regulierement de discuter typographie : "_Trop chouette cette font, a tester dans un projet !_", "_Oui, mais pas super lisible, a reserver a quelques cas_". Cet article pedagogique du Washington Post a pour vocation d'apaiser les debats. Il nous permet de differencier la forme et la fonction d'une police, mais surtout de comprendre quelle typographie correspond le mieux a chacun*e (car d'apres le Washington Post, c'est finalement une affaires tres personnelle).   
+  
+Par le biais de petits jeux et tests de chronometrage de lecture avec differentes typos, l'utilisateur est implique dans la lecture de l'article et est invite a se faire son propre avis. Simple, mais efficace.   
+---  
+| | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[Faire le test](https://www.washingtonpost.com/technology/interactive/2023/best-font-you-test-types-styles/) sur le Washinton Post  
+  
+| |   
+---  
+  
+| | | 
+
+## 4\. Ingenierie
+
+## Le media Index mele la technologie a ses enquetes  
+  
+---  
+  
+| | | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/52397271-aa73-8207-45d9-8a75dbdb3e63.jpg)](https://www.index.ngo/enquetes/homicide-de-nahel-a-nanterre-premiers-elements-danalyse-audio/)  
+---  
+  
+| | Porte par l'ONG d'investigation du meme nom, le media Index centre sur le theme police / justice a une approche technique particulierement pointue. À l'aide de reconstitution 3D, il est par exemple possible d'[identifier un policier auteur d'un tir de LBD](https://www.index.ngo/enquetes/tir-de-lbd-sur-jean-francois-martin-le-policier-identifie-par-modelisation-3d/) entrainant la perte d'un oeil d'un manifestant. Plus recemment, Index [partage son analyse et amelioration de l'audio](https://www.index.ngo/enquetes/homicide-de-nahel-a-nanterre-premiers-elements-danalyse-audio/) de la video temoignant du tir du policier sur Nahel a Nanterre.   
+  
+Index met ici librement en ligne un travail en cours de finalisation qui met deja en doute la retranscription fournie par l'IGPN. De maniere generale, on apprecie la transparence de la methodologie affichee dans chaque publication et le detail des meta-donnees associees a chaque affaire.  
+---  
+| | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[Consulter l'analyse](https://www.index.ngo/enquetes/homicide-de-nahel-a-nanterre-premiers-elements-danalyse-audio/) proposee par Index  
+  
+| |   
+---  
+  
+| | | 
+
+## 5\. Personnalisation
+
+## Radio France vous propose un recap annuel de vos ecoutes  
+  
+---  
+  
+| | | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/b5111eb2-6e69-6d0e-4df2-e14b1cdf43c6.jpg)](https://www.radiofrance.fr/masaisonradio)  
+---  
+  
+| | Le bilan personnalise et interactif a la [Spotify Wrapped](https://www.nytimes.com/2022/12/01/style/spotify-wrapped.html) est devenu un format incontournable de fin d'annee. Radio France propose un peu par surprise sa [propre version](https://www.radiofrance.fr/masaisonradio) alimentee par son application de radios et podcasts. Si vous avez un compte Radio France, l'animation vous montrera vos emissions les plus ecoutees, votre heure d'ecoute favorite et plein de petits details comme un logo Radio France genere selon vos radios preferees. Une tres bonne idee pour fideliser les auditeurs ou inciter a se creer un compte (gratuit).  
+---  
+| | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[Lancer votre retrospective](https://www.radiofrance.fr/masaisonradio) Radio France  
+  
+| |   
+---  
+  
+| | | 
+
+## 6\. Long format
+
+## L'Amerique vue par les chroniqueurs du New York Times  
+  
+---  
+  
+| | | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/676e1f0b-b964-74fc-7472-14ec32cdf06c.jpg)](https://www.nytimes.com/interactive/2023/06/20/opinion/nyt-columnists-culture.html)  
+---  
+  
+| | Ce dossier explorant la culture americaine permet de mettre en valeur 17 chroniques d'opinion, un exercice pas forcement evident a decliner dans un format defilant et interactif. Data _gif_ oblige, on apprecie evidemment les intertitres façon gif anime. Mais c'est surtout la façon fluide de naviguer entre le sommaire et les articles grace au defilement qui est a saluer ici, de quoi s'inspirer pour des regroupements d'articles en dossier.  
+---  
+| | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[Comprendre l'Amerique](https://www.nytimes.com/interactive/2023/06/20/opinion/nyt-columnists-culture.html) sur le New York Times  
+  
+| |   
+---  
+  
+| | | | ![](https://newsletter.datagif.fr/ext/datagif/img/mail.png)  
+---  
+Bienvenue dans cette newsletter 👋  
+Nous sommes [une agence de conseil et design](http://datagif.fr/) qui aime beaucoup travailler avec les medias, et cette veille est faite pour vous <3  
+| [Je m'inscris](https://datagif.fr/newsletter-medias/)  
+---  
+  
+| |   
+---  
+  
+| | | 
+
+## 7\. Liens vagabonds 
+
+## Allez, c'est parti pour une petite selection de l'ete 😎  
+  
+---  
+  
+| | | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/bb834464-7102-a558-3856-cebe532fd1f1.gif)](https://www.nytimes.com/interactive/2023/06/23/realestate/barbie-dreamhouse.html)  
+---  
+  
+| | Mais attention, une selection completement assumee : des liens plus ou moins delirants proposes chez le New York Times. Et au risque de nous repeter : ce qui est interessant a retenir ici, c'est que certains concepts tiennent a pas grand chose et suffisent a creer la difference. L'important : oser experimenter et tester les idees !  
+  
+👠 Il aura fallu 18 heures a la journaliste et quelques aides pour assembler les maisons et poupees Barbie, [afin de realiser quelques animations en stop-motion de la star internationale](https://www.nytimes.com/interactive/2023/06/23/realestate/barbie-dreamhouse.html). Une evolution du monde de Barbie, a visiter absolument.  
+  
+🧙‍♂️ C'est une legende urbaine qui remonte aux premices de l'internet. Il parait que si on regarde _Le Magicien d 'Oz_ en ecoutant le disque _The Dark Side of the Rainbow_ des Pink Floyd, images et musiques sont parfaitement synchronisees. [L'article met en exergue des extraits qui verifient cette theorie](https://www.nytimes.com/interactive/2023/06/21/magazine/dark-side-of-the-rainbow-pink-floyd-wizard-of-oz.html), avant de capituler face a la raison : ça n'est que pure coincidence. Passionnant !  
+  
+🟧 / 🔵 Vous connaissez l'effet [bouba-kiki](https://fr.wikipedia.org/wiki/Effet_bouba-kiki) ? Cet article cherche a verifier si l'audience associe veritablement les formes rondes a "bouba" et les concepts pointus a "kiki". [On aime beaucoup le glisser-deposer](https://www.nytimes.com/interactive/2023/06/28/arts/kiki-bouba-effect.html) et la comparaison des scores au sein de l'article.  
+  
+🩸 Un quiz pour vous aider a faire le point sur vos connaissances sur les regles. C'est deja bien comme approche, mais ici [on retient surtout les illustrations](https://www.nytimes.com/interactive/2023/06/22/well/live/period-menstruation-quiz.html) : tout en rondeurs, avec un grain legerement retro 👌  
+---  
+---  
+  
+| |   
+---  
+  
+| | | 
+
+## 8\. Musique
+
+## Rest of World remet le son avec sa selection de tubes de l'ete 🍦  
+  
+---  
+  
+| | | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/5377baa1-ef4a-3d64-4437-6a09dd8e1df8.jpg)](https://restofworld.org/music/turn-it-up/)  
+---  
+  
+| | C'est bientot les vacances et si vous voulez impressionner vos amis en parlant du dernier _banger_ nepalais, Rest of World vous offre son _boulevard des clips_ mondialise : [leur liste de lecture](https://restofworld.org/music/turn-it-up/) regroupe les tubes du moment pour chacun des pays couverts par le magazine. Une excellente façon de personnaliser l'interface de Youtube, inspiree d'experiences de developpeurs comme [My 80's TV](https://my80stv.com) mais jamais vue chez les medias. Petit bonus : vous pouvez aussi activer un mode gif anime en cliquant sur l'icone tele.  
+---  
+| | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[Bouger so](https://restofworld.org/music/turn-it-up/)[n corps](https://restofworld.org/music/turn-it-up/) sur la playlist de Rest of World  
+  
+| |   
+---  
+  
+| |   
+---  
+  
+| | Dites-donc, c'est bientot la pause estivale ! Vous lisez des medias specifiques quand vous etes en vacances ? Partagez-nous en reponse a ce mail vos lectures d'ete ☀️  
+---  
+  
+| | | ![](http://gallery.mailchimp.com/653153ae841fd11de66ad181a/images/transparent.gif)  
+---  
+  
+| |   
+---  
+  
+| | Vous recevez cet e-mail car vous êtes inscrit•e via le site [datagif.fr](https://datagif.fr/newsletter-medias/)Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)  
+👋 [Cliquez-ici](*|UNSUB|*) pour vous désabonner  
+---  
+  
+| | DATAGIF  
+---  
+  
+| |   
+---

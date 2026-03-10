@@ -1,0 +1,127 @@
+---  
+![Médias](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/d060cdc3-f8d4-4207-b9bb-0b8ffda1ca6f.png)  
+La veille innovation et design media par Datagif  
+  
+| *|MC_PREVIEW_TEXT|*  
+---  
+---  
+1\. Bonnes causes The Guardian nous sensibilise a l'urgence du developpement durable  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/d1e92dee-a592-4be6-9e19-4e5ed82d1731.gif)  
+---  
+Il ne reste plus que 10 ans avant que n'expirent les objectifs de developpement durable de l'ONU, adoptes par 193 nations. The Guardian nous le rappelle habilement avec un format interessant.   
+  
+La page debute en proposant au lecteur de selectionner son pays, puis de classer ses propres priorites parmi les urgences mondiales, via un _drag & drop_. Le contenu est ensuite reparti en 7 fiches thematiques, qui listent les sous-objectifs de l'ONU et rendent compte des avancees reelles dans le pays selectionne. Spoiler : la France n'est pas toujours bien placee...  
+---  
+![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/1c821297-4a84-4b0e-92fa-395ebdd6de77.png)  
+---  
+|  -- [Classez vos priorites](https://www.theguardian.com/global-development/ng-interactive/2020/jan/15/environment-inequality-hunger-which-global-problems-would-you-fix-first) avec The Guadian  
+---  
+---  
+2\. Soutien Le New York Times designe son candidat favori en toute transparence  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/ec0f6e8a-9100-4db2-8bb9-09c01aa880fb.png)  
+---  
+Comme a chaque election presidentielle americaine, les editorialistes du New York Times designent officiellement leur candidat favori parmi les pretendants democrates. Cette annee, le journal a decide d'injecter de la transparence dans ce processus souvent perçu comme obscur et trop partisan (meme si la rubrique « Opinion » est theoriquement isolee du reste de la redaction).  
+  
+Le Times fait donc les choses en grand pour 2020 : son comite editorial a organise des interviews avec tous les candidats democrates, avant de se prononcer collegialement. Les interviews completes sont lisibles sur le site (avec de belles illustrations), et le tout a ete filme pour « The Weekly » , la serie documentaire du Times, diffusee sur Hulu et la chaine FX. Verdict dimanche pour connaitre l'heureux elu.  
+---  
+![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/f49e74fa-2ea5-4612-88eb-3e07d1b25d01.png)  
+---  
+|  -- [Decouvrir les interviews](https://www.nytimes.com/interactive/2020/01/13/opinion/election-nytimes-the-choice.html)  
+-- [En savoir plus](https://twitter.com/katiekings/status/1215302250848976898) sur le dispositif complet  
+---  
+---  
+3\. Organisation Deux medias qui bougent les lignes en interne  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/12a766ce-61b1-4336-955e-36152fad3a84.jpg)  
+---  
+C'est bien connu, les medias doivent adapter leur organisation et integrer de nouvelles competences pour developper leurs strategies numeriques. Certaines redactions sont particulierement a l'avant-garde :  
+  
+● Au [**Wall Street Journal** ,](https://twitter.com/maxloisel/status/1213119475077304320?s=20) de nouveaux postes se creent avec des intitules toujours plus creatifs : _Strategy Editor_ , _Programming Strategy Editor_ , _Head of Audience Touchpoints_ … Ils illustrent le besoin d'allier journalisme et « culture produit », et de maintenir une strategie coherente face a la demultiplication des supports.  
+  
+● Chez le site d'info danois [**Zetland**](https://twitter.com/tavklitgaard/status/1187661590667108353?s=20), la redaction a fait le pari (ose) de passer a une organisation en mode « agile », inspiree des metiers techniques. Cela implique des petites equipes auxquelles on vient greffer un «  chef de produit » pour assurer la vision globale, et des rituels tres codifies pour organiser le quotidien (meeting matinal, planning de la semaine, bilan collectif…). On serait curieux d'avoir leur feedback 👀  
+---  
+|   
+---  
+---  
+4\. Streaming Cosmopolitan imagine un dispositif « Watch Party »  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/bde7ab68-3b80-49ea-8677-bf102efd5141.png)  
+---  
+L'engouement autour des series TV n'a pas echappe aux medias, qui produisent de plus en plus de contenus pour toucher les communautes de fans. Au dela des habituelles breves ou critiques d'episode, le magazine americain Cosmopolitan a imagine une experience originale autour de la serie « You », diffusee sur Netflix.  
+  
+Le magazine a cree un site mobile qui sert de « deuxieme ecran » pendant le visionnage de l'episode : on y retrouve des commentaires de la redaction, synchronises en temps reel. On a un leger doute sur la praticite d'un tel dispositif  mais en meme temps, qui n'a jamais consulte son telephone devant une serie ?  
+---  
+|  -- [Tester le site](https://cosmo-watch-party.appspot.com/episode/1)  
+-- En savoir plus chez [Digiday](https://digiday.com/media/cosmopolitan-using-google-tool-netflixs-watch-parties/)  
+---  
+---  
+5\. Collection Le Monde offre une vitrine a ses newsletters  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/3fa8ee33-9989-43c0-9dc7-7d5f0d6f78ed.png)  
+---  
+La nouvelle page "Newsletters" du Monde est un bon exemple qui concentre toutes les bonnes pratiques. Pour chacune de ses presque 20 newsletters, on retrouve :  
+  
+● Un visuel/logo dedie  
+● Une courte description  
+● La frequence et l'heure d'envoi  
+● Un lien vers un exemple  
+● La distinction exclu abonnes / en acces libre  
+  
+Bref, une page necessaire pour offrir une vue d'ensemble sur l'offre editoriale de newsletters d'un media.  
+---  
+|  -- [Toutes les newsletters du Monde](https://www.lemonde.fr/newsletters/) rassemblees en une seule page   
+---  
+---  
+6\. Greenwashing Le Temps cree un guide pour deceler les messages pseudo-ecolo  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/e3088159-5d76-479e-9ac3-bd3fc8f2477d.png)  
+---  
+Le journal suisse Le Temps a redige un petit guide pour aider ses journalistes a deceler le "green-washing" dans les elements de langage des entreprises. Grace a quelques questions bien ciblees, le guide incite a adopter une demarche critique face aux infos liees a l'environnement.  
+  
+Ce manuel accessible au grand public pourrait d'ailleurs avoir une portee plus large, par exemple pour "dejouer bien d'autres messages opportunistes sur les questions de genre ou d'innovation" evoque la journaliste Rachel Richerich.  
+---  
+|  -- Consulter [le guide anti greenwashing](https://www.letemps.ch/economie/greenwashing-un-manuel-deceler-vert-faux) du Temps, et [l'article explicatif](https://www.letemps.ch/economie/temps-sequipe-contre-greenwashing)  
+---  
+---  
+7\. Oscars Faites vos jeux !  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/c5f34319-91ec-407b-a972-b839dedd750e.png)  
+---  
+Pour les prochains Oscars, le New York Times propose a ses lecteurs de faire leurs pronostics. Trois petits details interessants :  
+  
+● On peut evidemment comparer ses reponses avec celles des autres lecteurs  
+● Des petits liens renvoient vers les critiques des films  
+● On peut « imprimer » la page sous forme de liste a cocher. Un gadget pas tres ecolo mais parfait pour organiser une "watch party" !  
+---  
+|  — [Etablissez votre propre palmarès de la cérémonie des Oscars](https://www.nytimes.com/interactive/2020/movies/oscar-nominees-2020.html) avec le New York Times  
+---  
+---  
+8\. Success story Le media Contexte fait son bilan financier  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/f8733640-7960-46af-8332-f355ada353a2.png)  
+---  
+Ce qu'il faut retenir des chiffres tres positifs de Contexte :  
+  
+● D'abord, la transparence dans la communication des resultats et des financements  
+● La croissance reguliere des revenus d'abonnement, avec un faible taux de resiliation : la preuve d'un produit bien positionne  
+● Le detail des aides perçues en 2018, avec differents fonds et credits d'impot : instructif pour les lecteurs et pour d'autres medias  
+● En 2018, les revenus viennent a 98 % de l'abonnement !  
+---  
+|  -- Le bilan de Contexte [a lire sur Medium](https://blog.contexte.com/croissance-2019-et-comptes-2018-5d08bd08a0c4)  
+---  
+Vous recevez cet e-mail car vous êtes inscrit•e via le site   
+[medias.datagif.fr](https://medias.datagif.fr/)   
+  
+🏄‍   
+Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)   
+  
+📪  
+Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)   
+  
+✌️  
+Retrouvez la veille et les projets de Datagif sur   
+[Medium](https://medium.com/Datagif) \- [Twitter](https://twitter.com/datagif) \- [Instagram](https://www.instagram.com/datagif) \- [Datagif.fr](https://datagif.fr)   
+  
+👋   
+[Cliquez-ici](*|UNSUB|*) pour vous désabonner   
+  
+  
+*|IF:REWARDS|* *|HTML:REWARDS|* *|END:IF|*   
+  
+  
+---

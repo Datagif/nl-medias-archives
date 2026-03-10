@@ -1,0 +1,65 @@
+---  
+![Médias](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/d060cdc3-f8d4-4207-b9bb-0b8ffda1ca6f.png)  
+La veille innovation et design média par Datagif   
+  
+| *|MC_PREVIEW_TEXT|*  
+---  
+---  
+1\. Slow Le New York Times fait evoluer sa homepage en douceur.  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/7835d904-214e-4963-b259-99991f192b25.jpg)  
+---  
+Ces evolutions lentes cachent un travail pourtant impressionnant et des reflexions murement reflechies et permanentes. Le NYT a d'ailleurs propose un relift de sa home et [dans un post Medium vraiment interessant](https://open.nytimes.com/a-faster-and-more-flexible-home-page-that-delivers-the-news-readers-want-1522ff64aa86?gi=76756865eb7a), les equipes expliquent leurs reflexions et leurs methodes pour avancer dans ce projet.  
+---  
+-- Toutes les explications des equipes du NYT [ici](https://open.nytimes.com/a-faster-and-more-flexible-home-page-that-delivers-the-news-readers-want-1522ff64aa86?gi=76756865eb7a)  
+-- Une preview de la nouvelle home est disponible [ici](https://www.nytimes.com/2018/08/08/homepage/meet-our-new-home-page.html)  
+---  
+2\. Slow Le Monde fait evoluer  
+sa homepage en douceur.  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/113a5d40-578b-43bf-b145-2c69987de54d.jpg)  
+---  
+Point commun avec le New York Times, Le Monde a d'abord fait evoluer ses pages (articles et home) sur mobile avant de s'attaquer au desktop. Il etait temps, la derniere refonte datant de 2012 est bien use. La nouvelle home d'abord deployee pour 1 % des utilisateurs est en cours de deploiement apres une phase de rodage. Depuis le debut de la refonte, la demarche est de mettre les lectrices et lecteurs au coeur en recueillant leurs avis et impressions. Tout cela est a suivre sur le blog « On refait le Monde » (qu'on aimerait un peu plus fourni :)  
+---  
+-- La refonte du Monde sur [On refait le Monde](https://mobile.lemonde.fr/on-refait-le-monde)  
+---  
+3\. Mot-croise De l'importance des jeux et fiches cuisine dans un journal  
+|  [Good to know] Le media Axios fournit des chiffres surprenants sur les abonnements au New York Times. Un tiers des nouveaux abonnements numeriques du journal proviennent chaque trimestre de ses produits cuisine et mots croises et non des informations de base !  
+---  
+![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/bb302d82-871a-4843-ad1e-4b30d1c8524e.png)  
+---  
+-- Source [Axios](https://www.axios.com/newsletters/axios-media-trends-67c214e0-7c15-47a7-baa7-72bcf1c811d2.html?chunk=6#story6)  
+---  
+4\. Personnalise Consulter des sondages avec une dose de sur-mesure  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/9175172a-3b34-42f0-9ad4-c352e3f77244.jpg)  
+---  
+Five Thirty Eight propose un choix de visualisation de sondages en trois modes : « Lite » qui prend en compte les sondages locaux et nationaux. « Classic » qui renseigne en plus les donnees des votes anterieurs et les tendances historiques. « Deluxe » qui ajoute les evaluations d'experts. Des modes de visualisation de donnees construits sur des sources differentes; certainement ce qu'il manquait pour prendre les sondages avec plus de pincettes et se rendre mieux compte que les tendances ne sont pas gravees dans le marbre.  
+---  
+-- A suivre sur [fivethirtyeight.com](https://projects.fivethirtyeight.com/2018-midterm-election-forecast/house/#lite)  
+---  
+5\. Pixel Brexit Game  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/639e6ad1-b50e-47fc-b7de-468c6f3e3065.jpg)  
+---  
+Au rayon des formats originaux on aime bien ce jeu bien designe vu sur Bloomberg. Simple, efficace, bien realise, bien developpe… pour un sujet qui traine pourtant en longueur !  
+---  
+-- À jouer sur [Bloomberg](https://www.bloomberg.com/graphics/2018-pick-your-own-brexit/)  
+Vous recevez cet e-mail car vous êtes inscrit•e via le site   
+[medias.datagif.fr](https://medias.datagif.fr/)   
+  
+🏄‍   
+Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)   
+  
+📪  
+Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)   
+  
+✌️  
+Retrouvez la veille et les projets de Datagif sur   
+[Medium](https://medium.com/Datagif) \- [Twitter](https://twitter.com/datagif) \- [Instagram](https://www.instagram.com/datagif) \- [Datagif.fr](https://datagif.fr)   
+  
+👋   
+[Cliquez-ici](*|UNSUB|*) pour vous désabonner   
+  
+  
+*|IF:REWARDS|* *|HTML:REWARDS|* *|END:IF|*   
+  
+  
+---

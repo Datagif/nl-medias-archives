@@ -1,0 +1,119 @@
+---  
+![Médias](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/d060cdc3-f8d4-4207-b9bb-0b8ffda1ca6f.png)  
+La veille innovation et design media par Datagif  
+  
+| *|MC_PREVIEW_TEXT|*  
+---  
+---  
+1\. Audio Der Spiegel soigne son experience utilisateur  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/f05ea683-3a0d-59d4-80db-f98c9cdabbd1.png)  
+---  
+Beaucoup de medias issus de la presse ecrite proposent desormais une offre de podcasts. Ils sont plus rares a permettre une experience d'ecoute complete sur leurs propres plateformes, sans avoir a passer par Apple Podcasts ou Spotify.  
+  
+C'est pourtant ce que vient d'initier le quotidien allemand Der Spiegel, avec un nouvel espace consacre a l'audio dans son application mobile. On peut y ecouter tout le catalogue de podcasts du journal, mais aussi retrouver ses articles disponibles en version audio (lus par des comediens). Le tout avec un player sophistique, qui permet de se creer une liste de lecture.  
+  
+Surtout, ces contenus audio font partie d'une nouvelle offre d'abonnement "Audio+", qui s'ajoute a l'abonnement classique. Voila une strategie de monetisation a suivre !  
+---  
+|  -- [Decouvrir l'appli](https://apps.apple.com/fr/app/spiegel-online-nachrichten/id424881832) de Der Spiegel  
+-- [En savoir plus](https://devspiegel.medium.com/auf-dem-weg-zum-audio-abo-wie-wir-audio-gebaut-haben-478b0da856b5) sur la strategie audio   
+---  
+---  
+2\. Pedagogie Expliquer un mode de scrutin avec... des bagels  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/559a5903-5e81-61d7-2e06-569dc6c59e15.png)  
+---  
+Les elections municipales arrivent a New York, avec un nouveau mode de scrutin pour les primaires. Les electeurs pourront desormais numeroter leurs candidats preferes sur le bulletin de vote -- on appelle ça le vote preferentiel. Avec une regle de repartition des voix pas si evidente...  
+  
+Pour vulgariser tout ça, le Wall Street Journal fait le pari ose de gommer la dimension politique du sujet. Le journal a imagine un petit jeu ou chacun peut classer et voter pour les meilleurs recettes de bagels -- un sujet hautement polemique chez les New Yorkais ! Une astuce maline pour toucher les eloignes de la politique et faire sourire tout le monde.  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/404bec57-b7a4-110e-1df1-8e1f6a3a9b31.png)  
+---  
+|  -- [Decouvrir le format](https://www.wsj.com/articles/confused-by-nycs-ranked-choice-mayoral-primary-practice-with-bagels-11622631601) du Wall Street Journal  
+---  
+---  
+3. Cadeau Quand les abonnes deviennent ambassadeurs  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/932d4ad7-e746-948b-36bc-a04cc5f36d31.gif)  
+---  
+Le New York Times vient de rendre disponible une fonctionnalite longtemps testee en beta : ses abonnes peuvent desormais partager gratuitement jusqu'a 10 articles par mois, a des non-abonnes. Un moyen ingenieux de developper son audience a moindre cout, en misant sur le bouche a oreille.  
+  
+Cette fonctionnalite n'est pas tout a fait nouvelle : on la retrouve depuis longtemps chez Mediapart ou Arret sur Images, a priori sans limite. Le partage y est toutefois plus archaique puisqu'il faut forcement envoyer l'article cadeau par mail (une personne a la fois), la ou le New York Times genere un lien individualise a partager librement.  
+---  
+---  
+4\. Elections Les regionales 2021 en stories  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/c9f8b696-4fad-1f33-30d8-16326701a9cb.gif)  
+---  
+Si vous suivez Le Parisien sur Instagram, vous avez peut-etre remarque plusieurs Stories sur les elections regionales et departementales, ces derniers jours. Datagif a planche sur une identite graphique et quelques templates. Objectif : faciliter le suivi du scrutin depuis les reseaux sociaux et informer le plus largement possible. À dimanche (et allez voter !)  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/39c021f8-c065-7b7f-f564-92a087fbb4cc.png)  
+---  
+|  --  [Suivre Le Parisien](https://www.instagram.com/leparisien/) sur Instagram  
+---  
+---  
+5\. **Enqu ete** Dans le portefeuille des 0,001%  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/0a361224-8a56-26b5-7092-2432944f6cc3.gif)  
+---  
+ProPublica deploie une grande enquete sur les manoeuvres mises en place par les ultra-riches americains pour ne payer que peu ou pas d'impots.  
+  
+L'article principal, tres dense, est illustre par des infographies animees permettant de representer les ordres de grandeur dementiels. Le tout est complete par des articles aux angles complementaires, qui explicitent notamment la methodologie de l'enquete.  
+---  
+|  -- [Explorer l'enquete](https://www.propublica.org/article/the-secret-irs-files-trove-of-never-before-seen-records-reveal-how-the-wealthiest-avoid-income-tax) de ProPublica  
+---  
+---  
+6\. Strategie editoriale Enfin un brief a la une  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/0f96dd2c-aa6b-56a9-2bcd-9fc83a873cea.jpg)  
+---  
+Contrairement aux idees reçues, la homepage n'est pas morte pour tous les medias. Chez The Economist, 40 % des abonnes demarrent leur visite par la. Le media a donc repense sa page d'accueil pour donner plus de valeur ajoutee aux lecteurs reguliers.   
+  
+Resultat : une reorganisation de la grille avec en tres bonne place le « brief » quotidien du journal. Un raccourci tres pratique quand on cherche a se mettre a jour sur l'actu en quelques minutes. Bref, la base... On peut aussi penser a Quartz, qui va encore plus loin avec un brief central sur sa homepage.  
+---  
+|  -- [Decouvrir la homepage](https://www.economist.com/) de The Economist  
+-- [Voir la homepage](https://qz.com/) de Quartz  
+---  
+---  
+7\. Apple Des nouveautes peu rejouissantes pour les medias ?  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/fb835c2b-0d7c-558a-0241-90e40ded90cd.png)  
+---  
+Apple vient d'annoncer la prochaine version d'iOS et de son navigateur Safari. Avec quelques impacts notables pour les medias...  
+  
+-- Une des nouveautes de Safari a fait fremir tous les designers : la barre d'adresse va desormais s'afficher en bas de l'ecran sur mobile, par dessus la page web ! Un emplacement ou se superposent deja des bandeaux cookies, bandeaux d'abonnement, mais aussi des barres de navigation... Heureusement, Apple nous rassure a moitie dans [cette video](https://developer.apple.com/videos/play/wwdc2021/10029/) (spoiler : avec un peu d'effort, on pourra eviter les chevauchements disgracieux).  
+  
+-- Panique pour tous les editeurs de newsletters : Apple va bloquer le tracking des emails ! Ce qui devrait rendre tres complique de connaitre son taux d'ouverture reel.  
+  
+-- Passee plus inaperçue, le nouveau "Focus Mode" devrait reduire fortement la visibilite de certaines notifications push, qu'Apple groupera par priorite. Une menace pour le trafic des applications de news...  
+---  
+|  -- [Le detail des annonces decrypte](https://www.niemanlab.org/2021/06/a-packed-set-of-apple-announcements-could-have-big-impacts-on-news-publishers-for-good-and-for-ill/) par le Nieman Lab  
+---  
+---  
+8\. Art Le magazine du New York Times publie un joli dossier intitule "How to buy a work of art". Avec une direction artistique tres tranchee, qui reussit a valoriser plein de temoignages eparses.  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/c11e41e4-f7f4-1b00-d98c-7e968c27cbfd.gif)  
+---  
+---  
+|  -- [Lire le dossier](https://www.nytimes.com/interactive/2021/06/14/t-magazine/how-to-buy-art.html?action=click&module=Top%20Stories&pgtype=Homepage#cover-intro) du NYT Magazine  
+---  
+---  
+C'est tout pour aujourd'hui !  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/52a325eb-805a-1780-e529-6569acd86c32.gif)  
+---  
+Merci a tous nos fans ! #equipedeFrancedelaveillemedia  
+---  
+Vous recevez cet e-mail car vous êtes inscrit•e via le site   
+[medias.datagif.fr](https://medias.datagif.fr/)   
+  
+🏄‍   
+Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)   
+  
+📪  
+Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)   
+  
+✌️  
+Retrouvez la veille et les projets de Datagif sur   
+[Medium](https://medium.com/Datagif) \- [Twitter](https://twitter.com/datagif) \- [Instagram](https://www.instagram.com/datagif) \- [Datagif.fr](https://datagif.fr)   
+  
+👋   
+[Cliquez-ici](*|UNSUB|*) pour vous désabonner   
+  
+  
+*|IF:REWARDS|* *|HTML:REWARDS|* *|END:IF|*   
+  
+  
+---

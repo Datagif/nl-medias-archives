@@ -1,0 +1,214 @@
+|  | [Ouvrir dans le navigateur](*|ARCHIVE|*)  
+---  
+| ![Médias](https://newsletter.datagif.fr/ext/datagif/img/medias.png)  
+---  
+La veille innovation et design média par DATAGIF  
+  
+|  | *|MC_PREVIEW_TEXT|*  
+---  
+  
+|  |   
+---  
+  
+|  |  | Que nous reserve 2023 ? Nous nous nous sommes pretes au [traditionnel exercice des predictions](https://medium.com/datagif/2023-les-10-predictions-medias-par-datagif-4b545555415e) (qui sont surtout des observations d'evolutions initiees ces derniers mois). Dans cette edition, vous trouverez un rattrapage de la fin d'annee 2022 et quelques ouvertures pour l'annee a venir... Bonne lecture 👀  
+---  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 1\. Micropaiement
+
+## Recemment lance, Post.news entend revolutionner le paiement pour acceder a l'info  
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/a296ae47-3f82-ff6b-9df1-619a18747fdd.gif)](http://post.news)  
+---  
+  
+|  | Avec le declin de Twitter et la difficulte pour les medias a proposer des abonnements au plus grand nombre, est-ce qu'il n'y a pas une place a prendre ?  
+  
+Post.news a ouvert fin 2022 en s'appuyant :  
+• sur la promesse initiale de Twitter  
+• sur la prise en compte de la remuneration des createurs de contenu individuels (via des tips) ou medias.  
+  
+Pour ces derniers, il propose un paywall integre : l'utilisateur debloque des articles contre des credits achetes via la plateforme. Cette mecanique a contre-courant de ce qui existe retient notre attention sur plusieurs points :  
+  
+💸 elle prend en consideration la difficulte pour un individu de souscrire a plusieurs abonnements et autorise donc le micro-paiement a plusieurs medias ;  
+🤓 la logique du contenu lisible directement sur la plateforme est un principe ancre dans les habitudes (ça n'est pas pour rien si de nombreux medias developpent des formats dedies a Instagram, TikTok, ou meme des threads Twitter) ;  
+📰 cela peut donc ouvrir une forme de remuneration complementaire pour des medias ;  
+🧑‍⚖️ cependant, attention : le contenu est deverse chez Post ;  
+😒 pour l'instant, les contenus n'ont pas de mise en page particulierement soignee ou differenciante.  
+  
+Nous vous recommandons donc de surveiller de tres pres cette nouvelle plateforme, et pourquoi pas de l'experimenter.   
+   
+---  
+|  | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+Decouvrir [Post.news](https://post.news/)  
+| ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+Lire l'analyse [chez NiemanLab](https://www.niemanlab.org/2022/11/post-the-latest-twitter-alternative-is-betting-big-on-micropayments-for-news/)  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 2\. Carte
+
+## Le Los Angeles Times signe un delicieux guide des restaurants de L.A.  
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/b6a104e8-3dae-067b-8028-6601029d79f5.gif)](https://www.latimes.com/food/list/101-best-los-angeles-restaurants-ranked-2022)  
+---  
+  
+|  | En argot americain 101 (One - O - One) est utilise, en reference a la numerotation des cours a l'universite (ex: French 101), pour designer le caractere basique d'une connaissance. Pourtant, le guide des 101 meilleurs restaurants de L.A recemment publie par le Los Angeles Times n'a rien d'un long format pour les nuls.  
+  
+Tout est fait pour donner envie d'explorer les adresses de LA : l'entree en matiere plein cadre, un systeme de filtres aussi simple qu'efficace ouvrant sur une grille bien proportionnee, et surtout une extreme fluidite de la carte au defilement. Cerise sur le gateau : le traitement iconographique melant gifs et photos, avec une numerotation travaillee.  
+---  
+|  | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+Piocher [les bonnes adresses chez le LA Times](https://www.latimes.com/food/list/101-best-los-angeles-restaurants-ranked-2022)  
+  
+|  |   
+---  
+  
+|  |  |  | ![](https://newsletter.datagif.fr/ext/datagif/img/mail.png)  
+---  
+On vous a transfere cet e-mail ?  
+Bienvenue et bonne annee ✨  
+| [S'inscrire a la newsletter](https://datagif.fr/newsletter-medias/)  
+---  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 3\. Intelligence artificielle
+
+## Dis Jamy, comment ça marche un generateur d'images ?  
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/890838c2-55b3-aa9d-dd6f-ec1358708b53.jpg)](https://www.washingtonpost.com/technology/interactive/2022/ai-image-generator/)  
+---  
+  
+|  | Le Washington Post propose un formidable long format expliquant le fonctionnement des outils type Dall-E ou Stable Diffusion. Voici un parfait exemple de vulgarisation de concepts techniques avances, amene par une surcouche d'interaction bienvenue. En effet, tout le guide peut-etre illustre selon ce que vous souhaitez generer comme visuel : chien saucisse impressionniste, requin a velo ou politicien guitariste, toutes les combinaisons sont possibles et servent a la demonstration. Les aspects ethiques, moraux et legaux du procede sont egalement abordes une fois l'algorithme apprehende, de façon forcement beaucoup plus evidente.  
+---  
+|  | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[Experimenter](https://www.washingtonpost.com/technology/interactive/2022/ai-image-generator/) le format interactif du Washington Post  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 4\. Clique et cueillette
+
+## Interlude avec une selection de bons liens qui vous seront utiles au quotidien  
+  
+---  
+  
+|  |  | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/a7ab6f57-135e-985a-47be-0e612a9e0cae.png)  
+---  
+  
+|  | 📚 La revue XXI (pour qui nous travaillons sur un nouveau site 👋) etend ses sources de revenus [en creant sa maison d'edition XXI Bis](https://mailchi.mp/ecb258858d59/peuple-pouvoir-et-profits-joseph-stiglitz-13375799) ;  
+🗺️ Le Monde vous propose son choix de [destinations voyages pour 2023](https://www.lemonde.fr/m-styles/visuel/2022/12/09/ou-partir-en-voyage-en-2023-le-palmares-des-20-destinations-du-monde_6153709_4497319.html), avec une mecanique dossier [tres bien pensee en circulation interne](https://www.lemonde.fr/m-styles/article/2022/12/09/2023-un-nouvel-age-pour-le-voyage_6153615_4497319.html) ;  
+😍 Le NYT explore les evolutions de la langue anglaise mais [ce sont surtout les illustrations de l'article](https://www.nytimes.com/interactive/2022/12/22/opinion/words-you-cant-use-anymore.html) qui ont retenu notre attention ;  
+👩‍🎨 D'ailleurs, le NYT [a publie son recap des illustrations produites en 2022](https://www.nytimes.com/interactive/2022/12/13/arts/year-in-illustration.html), tout comme [le Washington Post,](https://www.washingtonpost.com/lifestyle/interactive/2022/our-favorite-washington-post-illustrations-2022/) et ce sont deux liens a garder precieusement en favori ;  
+📊 Cote Bloomberg, [c'est le meme exercice](https://www.bloomberg.com/graphics/2022-in-graphics/?utm_content=graphics&utm_source=twitter&utm_medium=social&utm_campaign=socialflow-organic&cmpid%3D=socialflow-twitter-graphics) mais en graphiques ;  
+👯‍♂️ On termine par la traditionnelle [_Jealousy List_ de Bloomberg](https://www.bloomberg.com/features/2022-jealousy-list/) : outre son intro tres cool, on adore l'idee de ce top des articles publies chez les confreres.  
+   
+---  
+---  
+  
+|  |   
+---  
+  
+|  |  |  | ![](https://newsletter.datagif.fr/ext/datagif/img/reseaux.png)  
+---  
+Retrouvez la veille et les projets de Datagif sur [Medium](https://datagif.medium.com/) • [Twitter](https://twitter.com/datagif) • [Instagram](https://www.instagram.com/datagif/) • [Datagif.fr](https://datagif.fr/)  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 5\. Bresil 🇧🇷 
+
+## Nexo, un journal bresilien en ligne a suivre.  
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/e44a3346-0a1c-2585-f6bb-b1b342903236.gif)](https://www.nexojornal.com.br/grafico/2022/12/13/Rei-do-bai%C3%A3o-os-110-anos-do-nascimento-de-Luiz-Gonzaga)  
+---  
+  
+|  | Pour suivre la bouillonnante actualite bresilienne, on nous a conseille le journal en ligne [Nexo](https://www.nexojornal.com.br/). Une belle decouverte que ce pure player resolument tourne vers les reseaux sociaux avec [ses web story](https://www.nexojornal.com.br/webstory/). Il propose egalement une visualisation quotidienne parfois developpee en format long, notamment sur la musique. Si la publication d'une retrospective a l'occasion des [80 ans de Milton Nascimiento](https://www.nexojornal.com.br/grafico/2022/10/25/Octogen%C3%A1rios-da-m%C3%BAsica-a-hist%C3%B3ria-de-Milton-Nascimento) nous avait deja regales, celui publie pour les 110 ans de Luis Gonzaga merite definitivement de s'y arreter. Deroulant la biographie illustree d'une grande voix de la musique bresilienne dont la carriere epouse l'histoire de son pays, ce format allie richesse des details a une legerete ludique pour une immersion reussie.  
+---  
+|  | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+Explorer [ce format dedie a la musique populaire bresilienne](https://www.nexojornal.com.br/grafico/2022/12/13/Rei-do-bai%C3%A3o-os-110-anos-do-nascimento-de-Luiz-Gonzaga)  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 6\. Predictions 🔮
+
+## Que nous reserve 2023 ? Nous nous sommes pretes a l'exercice   
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/3213d09a-630d-e735-75d6-b6f063ff45a4.jpg)](https://medium.com/datagif/2023-les-10-predictions-medias-par-datagif-4b545555415e)  
+---  
+  
+|  | Chez Datagif, c'est un exercice auquel nous nous plions chaque [fin](https://medium.com/datagif/il-va-se-passer-quoi-c%C3%B4t%C3%A9-m%C3%A9dias-en-2018-174433e0503d) [d'annee](https://medium.com/datagif/2019-nos-pr%C3%A9dictions-m%C3%A9dias-1efcc08ff938) [depuis](https://medium.com/datagif/m%C3%A9dias-en-ligne-les-pr%C3%A9dictions-de-datagif-pour-2020-46a53c6c7530) [quelques](https://medium.com/datagif/les-pr%C3%A9dictions-m%C3%A9dia-de-datagif-pour-2021-53872383e4c9) [temps](https://medium.com/datagif/les-pr%C3%A9dictions-m%C3%A9dia-de-datagif-pour-2022-cb70f1c918e). Cette annee, nous parions sur :  
+1️⃣ Le developpement des communautes privees  
+2️⃣ Le retour de la revanche des blogs et annuaires  
+3️⃣ Faire jouer pour engager son audience  
+4️⃣ La montee en puissance de l'IA pour le texte, les images et bientot les videos ?  
+5️⃣ L'attention portee a la coherence des visuels  
+6️⃣ La priorite donnee au traitement de l'urgence ecologique  
+7️⃣ Medias accessibles = medias pour tout le monde  
+8️⃣ Les colonnes de retour en desktop chez les medias  
+9️⃣ Des newsletters toujours au top  
+  
+Nos 9 predictions 2023 [sont a retrouver sur Medium](https://medium.com/datagif/2023-les-10-predictions-medias-par-datagif-4b545555415e).   
+  
+Par ailleurs, ne manquez pas les [predictions 2023 du NiemanLab](https://www.niemanlab.org/collection/predictions-2023/) : IA, repli sur soi, intimidation, le retour de l'emotionnel, adieu audience et bonjour communaute... il y en a un paquet !  
+---  
+---  
+  
+|  |   
+---  
+  
+|  |   
+---  
+  
+|  | Merci d'avoir lu cette 99e edition ! Mais wow, la 100e se rapproche a grands pas 😱 Ça tombe bien, on vous prepare quelque chose de special pour l'occasion !  
+  
+✌️ Vous reflechissez a un projet de refonte ou nouveau produit media ? [Nous echangeons volontiers avec vous](https://datagif.fr/medias/) ☕  
+---  
+  
+|  |  | ![](http://gallery.mailchimp.com/653153ae841fd11de66ad181a/images/transparent.gif)  
+---  
+  
+|  |   
+---  
+  
+|  | Vous recevez cet e-mail car vous êtes inscrit•e via le site [datagif.fr](https://datagif.fr/newsletter-medias/)Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)  
+👋 [Cliquez-ici](*|UNSUB|*) pour vous désabonner  
+---  
+  
+|  | DATAGIF  
+---  
+  
+|  |   
+---

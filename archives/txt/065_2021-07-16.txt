@@ -1,0 +1,107 @@
+---  
+![Médias](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/d060cdc3-f8d4-4207-b9bb-0b8ffda1ca6f.png)  
+La veille innovation et design media par Datagif  
+  
+| *|MC_PREVIEW_TEXT|*  
+---  
+---  
+1. JO [🥇](https://emojiterra.com/fr/medaille-dor/) Quartz lance sa newsletter thematique  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/428582f0-f594-9a12-f14c-93149c289cb8.png)  
+---  
+Quartz a lance mardi dernier sa newsletter ephemere dediee aux JO de Tokyo, 10 jours avant le debut de la competition. La lettre sera envoyee quotidiennement pendant les Jeux. Avec, comme d'habitude, un mix de decryptages, de chiffres et d'humour. Bonne idee de lancer la premiere edition en avance pour creer de l'envie !  
+---  
+|  -- [Need to Know: Tokyo Olympics](https://qz.com/emails/olympics/2032464/?utm_source=email&utm_medium=olympics&utm_content=1542f451-e344-11eb-8da4-1ea2b19a73c4) chez Quartz  
+---  
+---  
+2\. Narration Un format original a base de videos sous-titrees  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/1c931f65-b560-a6cb-a05b-17a4353aaeb2.png)  
+---  
+Le New York Times propose un format marquant sur les abus sexuels commis par les autorites en Egypte.  
+  
+Il mobilise de nombreux temoignages video, filmes en arabe, avec le parti pris d'integrer les sous-titres dans la narration de l'article. Les capsules video se lancent automatiquement au scroll, avec des animations fluides et elegantes.   
+  
+Voila un format tres interessant pour immerger le lecteur dans une realite lointaine, en depassant la barriere de la langue.  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/546f5ab8-fbb9-ad11-843b-b12c57806d5b.gif)  
+---  
+|  -- [Decouvrir l'enquete](https://www.nytimes.com/interactive/2021/07/05/world/middleeast/egypt-sexual-assault-police.html?action=click&module=Top%20Stories&pgtype=Homepage) du New York Times  
+---  
+---  
+3. **Dataviz** L'argent magique des banques centrales  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/421fb152-e49a-7742-1be8-ca62b1f8ada2.gif)  
+---  
+Neuf mille milliards de dollars : c'est le cumul astronomique des depenses des banques centrales americaine, europeenne et japonaise depuis le debut de la pandemie, pour eviter une crise financiere.  
+  
+Bloomberg signe une jolie dataviz qui permet de comparer ces depenses avec la valeur boursiere des plus grosses entreprises americaines. Spoiler : vous pouvez les additionner pendant un moment... Bref, c'est malin et bien foutu !   
+---  
+|  -- [Lire l'article](https://www.bloomberg.com/graphics/2021-central-banks-binge/) chez Bloomberg  
+---  
+---  
+4\. Presidentielle Le Monde recense les candidats  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/1c5944a8-eac1-9419-1074-0f4fd4855bb5.png)  
+---  
+C'est un rituel de l'election presidentielle : qui sont les candidats annonces... ou pressentis ? Le Monde s'attaque au sujet avec une page mise a jour regulierement, alors que les annonces de candidature se multiplient. On peut y trouver notamment des petits portraits des pretendants, classes par famille politique. Un format incontournable et surtout tres utile.  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/9106550c-75ca-b53b-0b27-f4525564e7cd.png)  
+---  
+|  -- [Decouvrir le tracker](https://www.lemonde.fr/les-decodeurs/article/2021/06/02/presidentielle-2022-qui-sont-les-candidats-declares-et-pressentis_6082545_4355770.html) du Monde  
+---  
+---  
+5\. Alertes Le New York Times prepare le terrain pour les JO  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/bde3c333-6390-3383-1f44-b0ed6dde4eb8.png)  
+---  
+A l'occasion des Jeux Olympiques, les utilisateurs de l'application New York Times pourront recevoir des notifications push sur la competition. La fonctionnalite est deja disponible et bien mise en avant sur la page d'accueil. Une bonne façon de construire une base d'inscrits en amont de l'evenement !  
+---  
+---  
+6\. Foot Joue la comme Mbappe  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/266d22fc-695c-cb65-992b-7a52ed41aeff.gif)  
+---  
+L'Euro est termine mais on vous conseille ce format visuel du quotidien neerlandais _  De Volkskrant_, qui decrypte les tactiques de jeu de 10 joueurs europeens. A chaque fois, la meme recette : des statistiques et infographies 3D pour analyser les deplacements des joueurs sur le terrain.  
+  
+C'est tres efficace et rappelle beaucoup ce que peut faire un certain NYT... Le paywall est egalement bien tres place : on parie que ce va declencher beaucoup d'abonnements !  
+---  
+|  -- [Decouvrir le dossier](https://www.volkskrant.nl/kijkverder/v/2021/kijken-als-een-kenner~v435891/kylian-mbappe/) chez De Volkskrant  
+---  
+---  
+7\. IA Le machine learning au service du journalisme  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/5f7a7c43-408c-faea-584e-153525350269.png)  
+---  
+Les algorithmes de  « machine learning » sont de plus en plus utilises dans le journalisme d'investigation. Ils permettent notamment de faciliter le traitement de donnees en masse et d'y detecter des « patterns » interessants. Si vous en doutiez encore, l'ex-journaliste Maelle Fouquenet a recense les meilleurs cas d'usage sortis ces dernieres annees. Parmi eux : The Markup ou encore la radio publique allemande...  
+---  
+|  -- [Lire l'article](https://mfouquenet.medium.com/journalisme-et-machine-learning-un-outil-pour-les-enqu%C3%AAtes-8e62b0555cbd) sur Medium  
+---  
+---  
+8\. Video Le Monde s'allie avec des youtubeurs  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/b3009d77-0aba-cf4a-51d4-af9a73649229.gif)  
+---  
+Le Monde, premier media français sur YouTube (1 million d'abonnes !), experimente depuis quelques temps des collaborations avec des _youtubers_ influents. Cette semaine, le journal publie une enquete video avec le createur de la chaine [Le Reveilleur](https://www.youtube.com/channel/UC1EacOJoqsKaYxaDomTCTEQ), specialisee sur l'environnement. Le tout en respectant les codes habituels des videos du Monde. Strategie maline pour toucher de nouveaux publics sans rogner sur la qualite !  
+---  
+|  -- [Voir la video](https://www.youtube.com/watch?v=8nzRXxPnlPQ) sur YouTube  
+---  
+---  
+C'est tout pour aujourd'hui !   
+PS : vous etes desormais 3000 a nous suivre ! On est tres contents... 🥰  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/d926419b-493b-780a-ea97-257355e9650c.gif)  
+---  
+Vous recevez cet e-mail car vous êtes inscrit•e via le site   
+[medias.datagif.fr](https://medias.datagif.fr/)   
+  
+🏄‍   
+Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)   
+  
+📪  
+Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)   
+  
+✌️  
+Retrouvez la veille et les projets de Datagif sur   
+[Medium](https://medium.com/Datagif) \- [Twitter](https://twitter.com/datagif) \- [Instagram](https://www.instagram.com/datagif) \- [Datagif.fr](https://datagif.fr)   
+  
+👋   
+[Cliquez-ici](*|UNSUB|*) pour vous désabonner   
+  
+  
+*|IF:REWARDS|* *|HTML:REWARDS|* *|END:IF|*   
+  
+  
+---

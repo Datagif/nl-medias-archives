@@ -1,0 +1,104 @@
+---  
+![Médias](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/d060cdc3-f8d4-4207-b9bb-0b8ffda1ca6f.png)  
+La veille innovation et design media par Datagif  
+  
+| *|MC_PREVIEW_TEXT|*  
+---  
+---  
+1\. Orga Die Zeit monte une cellule innovante sur les grands sujets de societe  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/967f1f07-2a46-4a1e-838e-48a4e5d8957a.jpeg)  
+---  
+La redaction du journal allemand Die Zeit (deja tres bon sur le numerique) vient de creer une nouvelle equipe, mysterieusement intitulee « X ». Sa mission ? Produire des articles et des enquetes sur les grands sujets de societe qui affectent ses lecteurs (les inegalites, l'education, la mobilite…)  
+  
+Partant du constat que sa redaction avait trop "la tete dans le guidon", 4 journalistes seront donc mobilise.e.s a temps plein pour dezoomer de l'actu  chaude. En s'appuyant notamment sur l'expertise de leurs collegues designers et developpeurs.   
+  
+Le datajournalisme est en effet au coeur du projet, comme le montre leur excellente premiere enquete dataviz, qui porte sur les flux migratoires en Allemagne apres la reunification. Le long-format est tres bien conçu, avec une interactivite bien pensee.  
+  
+![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/ddc6025a-fca5-4adb-9624-0e3b6f8fec94.png)  
+---  
+|  -- En savoir plus sur la [nouvelle equipe](https://blog.zeit.de/fragen/2019/05/02/ressort-x/) _,_ et explorer [leur prem](https://www.zeit.de/politik/deutschland/2019-05/ost-west-wanderung-abwanderung-ostdeutschland-umzug)[ier long format](https://www.zeit.de/politik/deutschland/2019-05/ost-west-wanderung-abwanderung-ostdeutschland-umzug)  
+---  
+---  
+2\. Europennes [🇪🇺](https://emojipedia.org/flag-for-european-union/) Les deux formats que nous attendions pour rendre les elections europeennes plus claires  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/ac61ac98-8759-47f5-9150-1d3b0ead8276.png)  
+---  
+Lors de notre dernier evenement [L'Heure Medias](https://medium.com/datagif/comment-r%C3%A9ussir-la-couverture-dune-%C3%A9lection-pour-un-m%C3%A9dia-f4a1890b2385) dedie au traitement des elections, nous faisions un (triste) constat : les medias etaient quasi-absents des resultats sur Google pour la requete "elections europeennes". Face a un mode de scrutin pas forcement clair (1 ou 2 tours ? Liste regionale ou nationale ?), les citoyen.ne.s sont pourtant en attente de reponses claires. Cela peut passer par differents formats, du simple guide jusqu'au comparatif plus pousse des programmes.  
+  
+Eh bien bonne nouvelle, Le Monde a sorti 2 formats interessants sur le sujet :  
+--  Un guide simple mais visuel, qui repond a de nombreuses questions basiques sur le scrutin.  
+-- Un excellent format data qui analyse en detail les votes des deputes europeens français depuis 2014. Indispensable pour voter en connaissance de cause. Et Le Monde partage meme son tableur en open source !  
+   
+---  
+|  -- Le guide pratique des europeennes, [a voir ici](https://www.lemonde.fr/les-decodeurs/article/2019/05/07/comment-marchent-les-elections-europeennes-le-petit-guide-pour-tout-comprendre_5459284_4355770.html)  
+-- Le decryptage des votes au Parlement europeen, [a explorer ici](https://www.lemonde.fr/les-decodeurs/article/2019/05/10/europeennes-2019-comment-ont-vote-les-deputes-europeens-francais-depuis-2014_5460395_4355770.html)  
+---  
+---  
+3\. Lancement Apres plusieurs mois de gestation racontee dans une newsletter _making-of_ , le media suisse [Heidi.news](https://www.heidi.news/) a lance son site. On y trouve des flux d'info sur la science et la sante, ainsi que des reportages declines en series. Longue vie a Heidi ! 🚀   
+---  
+4\. Conception Le New York Times lance une verticale dediee aux nouveaux parents. Le site est tres bien pense... et ce n'est pas un hasard. Les details dans [notre thread s](https://twitter.com/maxloisel/status/1126189836258480128?s=20)[ur Twitter](https://twitter.com/maxloisel/status/1126189836258480128?s=20) (a lire si vous avez du mal a comprendre les mots « design thinking » ou « product management » !)  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/6039a832-06db-4a6b-8389-2f18bf8cf4db.jpeg)  
+---  
+---  
+5\. Long format Radio Canada publie un format interactif et fouille sur les vehicules autonomes  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/b31a367f-4eb9-41a3-b9d8-74c94955c536.gif)  
+---  
+Pour anticiper l'arrivee prochaine de vehicules autonomes sur le territoire canadien, la chaine a publie un long format web qui illustre les dilemmes auxquels les machines seront peut-etre soumises. Faut-il permettre aux vehicules de sacrifier des vies au profit d'autres, si aucun autre choix n'est possible ? À vous de tester vos reflexes via une introduction interactive.   
+  
+Voila un bon exemple ou l'interactivite apporte quelque chose : elle rend le sujet beaucoup plus concret et s'integre bien au reste de l'article.  
+---  
+|  -- Le long format est a parcourir chez [Radio Canada](https://ici.radio-canada.ca/info/2019/voitures-autonomes-dilemme-tramway/)  
+---  
+---  
+6\. Audio Les Echos et Le Parisien se mettent au podcast quotidien  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/108cdff2-254d-463e-85f6-479d1a9950c1.jpg)  
+---  
+Les Echos et Le Parisien (detenus par le meme groupe) ont lance cette semaine leurs nouveaux podcasts, disponibles tous les jours a partir de 18 heures.   
+  
+Ce rythme quotidien est inedit pour des medias français issus de la presse ecrite. L'initiative s'inspire clairement de "The Daily", le podcast a succes du New York Times, qui explore un sujet unique chaque jour avec une narration lente et une production audio sophistiquee.  
+  
+Dans chaque episode, "Code Source" du Parisien traite ainsi une actualite chaude ou un sujet decale, en s'appuyant sur ses reporters de terrain. Une inconnue : ce format parviendra-t-il a s'imposer dans les habitudes d'ecoute des Français.es ?  
+---  
+|  -- Ecouter "[La Story](https://podcasts.apple.com/fr/podcast/la-story/id1460685072)" des Echos et "[Code Source](https://podcasts.apple.com/fr/podcast/code-source/id1460276302?l=en&ign-mpt=uo%3D2)" du Parisien  
+---  
+---  
+7\. Serie edito Un beau projet sur les inegalites territoriales au Royaume-Uni  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/b7b74425-303b-45cb-be01-7a9aeffb8075.jpeg)  
+---  
+Le Guardian sort encore une fois une initiative interessante, qui devrait interesser de nombreux.ses Britanniques. Le projet s'appelle "London versus..." et traite des disparites territoriales entre Londres et la province.  
+  
+Tout part d'une analyse data (tres bien restituee dans un long format), qui nourrit ensuite une veritable serie editoriale avec de nombreux angles interessants. On y trouve par exemple une reportage dans la region la plus deprimee du pays, ou une enquete sur les prix des transports.   
+---  
+|  -- Lire [notre analyse complete](https://twitter.com/maxloisel/status/1125729336206811137?s=20) sur[ ](https://twitter.com/maxloisel/status/1125729336206811137?s=20)Twitter, ou consulter directement [le long format du Guardian](https://www.theguardian.com/uk-news/ng-interactive/2019/may/06/london-v-england-where-does-your-area-fit-in-the-great-divide)  
+---  
+---  
+8\. Tracker Une page pour suivre Trump a la trace (sans intervention humaine)  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/72b89c7c-a254-4e40-9ce6-da02e249baca.png)  
+---  
+Comment rendre originale une simple page de tag ? En suivant l'exemple de Bloomberg, qui a transforme sa page de tag "Trump" en veritable tracker au design radical. Il n'interessera peut-etre que les accros a l'actu mais permet en tout cas de suivre la chronologie de la presidence, avec de multiples filtres.  
+  
+Sur la forme, c'est brut et volontairement desincarne (que du texte et zero image). Un contre-pied interessant a l'heure ou tout le monde en a marre de voir la tete de Donald. Et ne manquez pas ce detail cool : un petit icone permet d'ouvrir les articles dans un  vrai-faux ecran de smartphone.  
+---  
+|  -- Tracking Trump, c'est [ici](https://www.bloomberg.com/features/trump-daily/#!) que ça se passe  
+---  
+Vous recevez cet e-mail car vous êtes inscrit•e via le site   
+[medias.datagif.fr](https://medias.datagif.fr/)   
+  
+🏄‍   
+Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)   
+  
+📪  
+Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)   
+  
+✌️  
+Retrouvez la veille et les projets de Datagif sur   
+[Medium](https://medium.com/Datagif) \- [Twitter](https://twitter.com/datagif) \- [Instagram](https://www.instagram.com/datagif) \- [Datagif.fr](https://datagif.fr)   
+  
+👋   
+[Cliquez-ici](*|UNSUB|*) pour vous désabonner   
+  
+  
+*|IF:REWARDS|* *|HTML:REWARDS|* *|END:IF|*   
+  
+  
+---

@@ -1,0 +1,224 @@
+*|IF:MC_PREVIEW_TEXT|*  
+  
+͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ 
+
+|  | [Ouvrir dans le navigateur](*|ARCHIVE|*)  
+---  
+| ![Médias](https://newsletter.datagif.fr/ext/datagif/img/medias.png)  
+---  
+La veille innovation et design média par DATAGIF  
+  
+|  | *|MC_PREVIEW_TEXT|*  
+---  
+  
+|  |   
+---  
+  
+|  |  | Datagif recrute ! Pour accompagner nos clients dans leurs projets, reflechir a des solutions, schematiser des idees, effectuer une veille qui nous etonne, Datagif recrute un*e chef*fe de projet / conseil web. N'hesitez pas [a vous renseigner](https://twitter.com/Datagif/status/1645699129060872194) et si vous le souhaitez, [faire passer l'annonce](https://twitter.com/Datagif/status/1645699129060872194) 🙏  
+---  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 1\. IA
+
+##  _Demander a Chat GPT d'ecrire mon titre de paragraphe_  
+  
+---  
+  
+|  |  | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/58fb24a9-01f5-00f7-2eeb-e0960e431467.jpg)  
+---  
+  
+|  | On en discutait dans nos [predictions](https://medium.com/datagif/2023-les-10-predictions-medias-par-datagif-4b545555415e) pour 2023 : l'IA allait faire parler d'elle dans les medias et effectivement, ça commence ! En France, on peut notamment citer la [mini-polemique](https://www.liberation.fr/checknews/midjourney-polemique-apres-lutilisation-par-des-medias-francais-de-lia-pour-illustrer-des-articles-20230401_ZUQPX5SRNFG4FGCO3IYBQVMA74/) suite a l'utilisation d'images generees par IA de la part de medias aussi divers que Le Figaro, SoFoot et Regards. Et evidemment aux USA, ce sont carrement des articles entiers qui sont rediges par les machines, comme le demontre [l'enquete](https://futurism.com/buzzfeed-publishing-articles-by-ai?utm_source=substack&utm_medium=email) du site Futurism sur les pratiques de BuzzFeed.  
+  
+Pour l'instant, les medias mis en cause se refugient generalement dans l'excuse de l'experimentation, parfois difficile a accepter quand l'utilisation d'IA n'est pas bien mentionnee au lecteur... C'est pourquoi on peut saluer la façon tres transparente d'utiliser la technologie IA pour interviewer des createurs de jeu video dans la [newsletter d'Axios](https://www.axios.com/newsletters/axios-gaming-2d20ffb3-a0ab-4c68-a277-9b5fffe73e45.html?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axiosgaming&stream=top) pendant quelques numeros ; l'experimentation termine par ce constat : on ne pourra surement pas remplacer un journaliste de si tot.  
+---  
+|  | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+Explorer [le sujet chez Futurism](https://futurism.com/buzzfeed-publishing-articles-by-ai?utm_source=substack&utm_medium=email)  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 2\. Justice
+
+## Le passage de l'ex-president Donald Trump devant le tribunal est l'occasion de realiser un traitement particulier de l'affaire  
+  
+---  
+  
+|  |  | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/244eb0bb-3a75-bad2-e770-e0c6c7b63803.jpg)  
+---  
+  
+|  | 🔍 Le Wall Street Journal a realise un travail important pour annoter le document officiel d'accusation [avec les noms reels des differents protagonistes](https://www.wsj.com/articles/heres-the-trump-indictment-with-actual-names-added-332ced72). Avec un rendu visuel façon chemin de fer qui aide a percevoir la presence de certaines personnes.  
+  
+🗣️ Chez le NY Times, [quatre editorialistes commentent l'evenement avec une deconcertante spontaneite](https://www.nytimes.com/interactive/2023/04/05/opinion/trump-indictment-roundtable.html). Dans ce format, on retient la double approche audio et texte, sans retenue des quatre chroniqueurs.  
+  
+👮‍♂️ [Politico s'attarde sur les _mug shots_ de politiciens](https://www.politico.com/interactives/2023/trump-indictment-mugshots-politicians/) : les fameuses photos de face prises dans le cadre judiciaire, que Trump a toujours meticuleusement evitees. Pour contrebalancer cette deception, Politico dresse une selection de politiciens qui n'ont pas reussi a eviter le _mug shot_.  
+---  
+---  
+  
+|  |   
+---  
+  
+|  |  |  | ![](https://newsletter.datagif.fr/ext/datagif/img/reseaux.png)  
+---  
+Retrouvez la veille et les projets de Datagif sur [Medium](https://datagif.medium.com/) • [Twitter](https://twitter.com/datagif) • [Instagram](https://www.instagram.com/datagif/) • [Datagif.fr](https://datagif.fr/)  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 3\. Story
+
+## Qu'est-ce que la poesie ? La reponse en format video interactif  
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/d6f42be4-fa38-e5e6-d5aa-d5048c6a6385.gif)](https://www.inquirer.com/arts/inq2/poetry-elements-definition-rhyme-meter-imagery-structure-20230411.html#intro-text)  
+---  
+  
+|  | The Philadelphia Inquirer a interviewe quatre poetes locaux pour leur demander d'expliquer les principes de base de la poesie : rime, metrique, image et structure. Et pour coller au mieux au sujet, ils nous proposent une experience immersive plein ecran, façon story video amelioree et interactive.  
+  
+Le petit bonus : ils ont meme utilise les espaces publicitaires pour y afficher des _ha ikus _histoire de rester dans l'ambiance.  
+---  
+|  | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+Regarder [le format interactif du Philadelphia Inquirer](https://www.inquirer.com/arts/inq2/poetry-elements-definition-rhyme-meter-imagery-structure-20230411.html#intro-text)  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 4\. App
+
+## Avec sa nouvelle application, Alternatives Économiques soigne ses abonne*es  
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/025c5fca-18be-5956-73eb-e40088f0b0fe.jpg)](https://twitter.com/Datagif/status/1635947513860505601)  
+---  
+  
+|  | Nous avons realise pour le media Alternatives Économiques la refonte UX/UI de l'application, avec Orkester au developpement. L'objectif principal : assurer un confort de lecture optimal, pour ce support privilegie par une grande partie des abonne*es. Et la petite touche en plus : nous avons cree un jeu d'illustrations qui accompagnent les messages cles tout au long de l'usage de l'app.  
+  
+Apres quelques semaines, l'augmentation des quelques indicateurs d'usage et d'engagements sont deja tres visibles. Un beau projet que nous sommes fiers d'avoir accompagne !  
+---  
+|  | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[En savoir plus sur la refonte](https://twitter.com/Datagif/status/1635947513860505601)  
+| ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+Vous avez un projet de refonte d'application ? [Parlons-en !](https://datagif.fr/medias/)  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 5\. Machine a cafe
+
+## Ohlala, mais cette selection de liens va vous occuper toute la matinee !   
+  
+---  
+  
+|  |  | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/eae1cd3e-6ed8-e45d-54d0-0b1eaaab6a3b.jpg)  
+---  
+  
+|  | 🌛 Reuters degaine un long format [tres joliment illustre sur le sommeil](https://www.reuters.com/graphics/HEALTH-SLEEP/mopakyjmnpa/). Complet, interessant et argumente, il comblera vos lacunes sur le sujet.  
+  
+💬 [Detail UX interessant dans cet article du Washington Post](https://www.washingtonpost.com/nation/interactive/2023/common-american-names-changing/) dedie aux noms de famille : un bouton permet d'entendre le nom prononce dans sa langue originale, et dans sa version americanisee.  
+  
+🐰 Savez-vous pourquoi Paques ne tombe jamais le meme jour ? [USA Today s'est penche sur les origines du calcul du calendrier,](https://eu.usatoday.com/in-depth/graphics/2023/04/07/how-easter-determined-each-year-graphics/11598692002/) avec des illustrations en gravures on ne peut plus reussies.  
+  
+🗺️ On commence a bien connaitre les longs formats qui utilisent MapBox en fond de carte, mais [connaissez-vous la version cartes de l'epoque victorienne ](https://www.economist.com/interactive/britain/2023/04/06/how-intrepid-victorian-surveyors-mapped-the-length-and-breadth-of-britain)? Un article passionnant chez The Economist, qui retrace l'histoire d'intrepides geometres cartographiant la Grande-Bretagne.  
+  
+🍴Le media local San-Francisco Chronicles propose [un format guide-restau a l'UX assez sympa](https://www.sfchronicle.com/projects/best-day-ever/richmond-restaurants) sequence selon le moment de la journee.  
+  
+😷 Souviens-toi le Covid dernier : le NY Times n'a pas pu s'empecher de[ revenir sur quelques moments de pop-culture qui ont marque la periode particuliere du confinement](https://www.nytimes.com/interactive/2023/04/08/opinion/covid-culture-tiktok-bo-burnham.html), dans un article a la DA audacieuse.  
+  
+🎨 Toujours chez le NYT, un article d'opinion binaire : faut-il cancel Picasso ? [Selon votre reponse, un texte critique different](https://www.nytimes.com/interactive/2023/04/05/arts/design/picasso-death.html). Intriguant.  
+  
+🌴 ProPublica s'inquiete d'un probable futur foyer de pandemie : les forets proches de l'epicentre d'Ebola, qui mixent dangereusement un usage animal et humain. [Une enquete qui mixe cartes et graphiques](https://projects.propublica.org/spillover/), agrementee d'[un article racontant les premices de l'enquete](https://www.propublica.org/article/pandemic-outbreak-guinea-forest-propublica-analysis?utm_source=puntofisso&utm_medium=email) : interessant de consulter cette meta-publication !  
+   
+---  
+---  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 6\. Environnement
+
+## National Geographic cartographie les penuries d'eau  
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/253819e1-6b8f-016d-033b-5e7af08e0abe.jpg)](https://worldwatermap.nationalgeographic.org/)  
+---  
+  
+|  | La baisse des ressources en eau est un sujet tristement d'actualite. Ce tres long format particulierement complet mele cartes, vues 3D, photos, graphiques et quiz pour aborder le probleme sous toutes ses coutures. Une superbe demonstration d'interface utilisant l'interactivite pour presenter des donnees complexes a apprehender de maniere pedagogique.  
+---  
+|  | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+Explorer [le dossier du National Geographic](https://worldwatermap.nationalgeographic.org/)  
+  
+|  |   
+---  
+  
+|  |  |  | ![](https://newsletter.datagif.fr/ext/datagif/img/mail.png)  
+---  
+Bonjour 👋 Vous decouvrez cette newsletter ? Bienvenue ! On espere vous revoir :  
+| [Je m'inscris](https://datagif.fr/newsletter-medias/)  
+---  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 7\. Internet
+
+## Quelle est la duree de vie d'un site ? [On y repond dans une pastille audio](https://www.instagram.com/p/Cq8IlYwAW_w/) 🔊  
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/b9a5b936-c0d9-3787-cd10-c58a648a68eb.jpg)](https://www.instagram.com/p/Cq8IlYwAW_w/)  
+---  
+  
+|  |   
+---  
+|  | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+Design, securite, usages, eco-conception... Écouter l'equipe de Datagif [repondre a cette epineuse question](https://www.instagram.com/p/Cq8IlYwAW_w/) ⏳  
+  
+|  |   
+---  
+  
+|  |   
+---  
+  
+|  | On espere que ces liens vous aident au quotidien, que ce soit pour nourrir la reflexion, vous inspirer ou tout simplement garder un oeil sur ce que vous ne voyez pas forcement. Dans tous les cas, n'hesitez pas a nous partager vos propres innovations ! À dans 15 jours 👋  
+---  
+  
+|  |  | ![](http://gallery.mailchimp.com/653153ae841fd11de66ad181a/images/transparent.gif)  
+---  
+  
+|  |   
+---  
+  
+|  | Vous recevez cet e-mail car vous êtes inscrit•e via le site [datagif.fr](https://datagif.fr/newsletter-medias/)Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)  
+👋 [Cliquez-ici](*|UNSUB|*) pour vous désabonner  
+---  
+  
+|  | DATAGIF  
+---  
+  
+|  |   
+---

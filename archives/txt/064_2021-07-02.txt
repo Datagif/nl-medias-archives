@@ -1,0 +1,113 @@
+---  
+![Médias](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/d060cdc3-f8d4-4207-b9bb-0b8ffda1ca6f.png)  
+La veille innovation et design media par Datagif  
+  
+| *|MC_PREVIEW_TEXT|*  
+---  
+---  
+1. UX Splash donne un coup de vieux aux medias mainstream  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/e01f0426-7b89-b5de-2c57-eba8b8b6c416.png)  
+---  
+On vous voit venir : encore un projet qui pretend disrupter les medias pour s'adresser aux jeunes ? Pas si vite... La nouvelle application Splash, creee par une equipe de jeunes journalistes et creatifs, explore de tres bonnes idees pour repenser l'experience utilisateur de l'info en ligne.  
+  
+On apprecie surtout les formats editoriaux, radicalement repenses pour s'inspirer des codes des reseaux sociaux. On y trouve des videos face cam, filmees a la verticale par les apprentis journalistes, comme sur TikTok. Mais aussi des petits carousels informatifs a swiper. Le tout dans une interface personnalisable qui privilegie la synthese pratique (un "resume" quotidien de l'actu) a l'exhaustivite. Les medias mainstream feraient bien de regarder ça de pres...  
+---  
+|  -- Decouvrir l'appli [sur iOS](https://apps.apple.com/by/app/splash-actus/id1545966264#?platform=iphone) et [sur Android](https://play.google.com/store/apps/details?id=com.splash.actu&hl=fr&gl=US)  
+---  
+---  
+2\. Guide Ou partir en vacances?  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/261f1f59-608a-3520-3304-9b49bed41caa.png)  
+---  
+Le Monde propose un guide bien pratique pour preparer vos vacances d'ete. Si vous vous demandez quelles regles sanitaires sont en vigueur chez nos voisins europeens, vous y trouverez toutes les reponses, avec une carte interactive et un tableau des formalites ! Esperons que les regles ne changent pas d'un jour a l'autre...  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/8edbcb4c-6d84-36ff-1e66-77c17adb8ac5.png)  
+---  
+|  --  [Decouvrir le guide](https://www.lemonde.fr/planete/article/2021/06/24/covid-19-tests-vaccins-isolement-quelles-regles-pour-se-rendre-a-l-etranger-et-en-revenir_6085558_3244.html) du Monde  
+---  
+---  
+3\. Long format Des boucles videos pour illustrer un article sur TikTok  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/2af91950-3074-162b-d6d8-b3e6a73abd93.gif)  
+---  
+Le media tech Rest of World a plonge dans le TikTok d'usines, une niche fascinante du reseau social. Sur la forme, on retient surtout cette animation d'intro, ou des boucles video passent par-dessus le titre. Plus loin dans l'article, des extraits sont aussi integres dans les marges. De quoi faire son petit effet quand on lit l'article sur un ordinateur.  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/0112465f-bdb1-df02-c0ee-1be34d8293c9.jpg)  
+---  
+|  -- Consulter l'article [sur Rest of World](https://restofworld.org/2021/the-chinese-content-farms-behind-factory-tiktok/)  
+---  
+---  
+4\. Contexte Plus de « profondeur » dans les articles  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/fae96ac2-bd99-bf6e-8b6a-403680241e38.gif)  
+---  
+On connait l'importance du maillage des contenus sur un site d'info : cela passe habituellement par des liens, des tags ou des suggestions d'articles, plus ou moins bien pensees...  
+  
+Le portail d'info americain Yahoo News va plus loin et enrichit desormais ses tags avec une pop-in qui s'ouvre sans avoir a sortir de la page. On y trouve par exemple la biographie d'une personnalite, des articles lies, ou d'autres tags. Un petit detail qui permet d'ameliorer la « profondeur » du maillage et de faciliter la decouverte, a la façon d'un certain Wikipedia.  
+   
+---  
+|  -- [Voir un exemple](https://news.yahoo.com/covid-vaccine-gap-south-africa-232923062.html) en ligne  
+---  
+---  
+5\. Encyclopedie Devenez un expert sur l'Euro de football  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/db609e97-3b33-06f2-e59b-b8db9961b8f0.png)  
+---  
+Le media sportif espagnol AS propose une « encyclopedie » sur l'histoire de l'Euro : un dossier qui retrace chaque edition passee de la competition. Chacune dispose de sa propre page en revenant sur les moments forts, les reportages realises a l'epoque... Une belle maniere de recycler ses archives a l'occasion d'un evenement fort. Profitons de la sortie de route de l'equipe de France pour cultiver nos connaissances footballistiques !  
+   
+---  
+|  -- [Decouvrir l'encyclopedie](https://as.com/eurocopa/enciclopedia/?m1=cG9ydGFkYV9wb3J0YWRh&m2=RXVyb2NvcGEgMjAyMA%3D%3D&m3=OQ%3D%3D&m4=bm9ybWFs&m5=Mjc%3D) sur AS.com  
+---  
+---  
+6\. Tracker Quelles sanctions pour les violences policieres a New York ?  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/20a7dc60-92cc-9cfb-80a7-320735310236.png)  
+---  
+Le media d'investigation ProPublica sort un format qui s'interesse aux sanctions disciplinaires des policiers new-yorkais en cas de mauvaise conduite. En l'occurence, la sanction la plus frequente est une simple reduction de leurs jours de conges...  
+  
+Bien plus qu'un simple article, le site s'appuie sur une base de donnees publique avec le detail des policiers sanctionnes. Cela donne un outil etonnamment transparent : il est possible de filtrer les litiges par importance ou par mot cle, tandis que les noms des policiers sont visibles. Un usage qui ferait debat en France...  
+---  
+|  -- [Voir l'enquete](https://projects.propublica.org/nypd-disciplinary-records/) de ProPublica  
+---  
+---  
+7\. Illustrations Un belle collection chez The Atlantic  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/8c27a6d7-42f6-fb26-7f37-0e641f7d145c.png)  
+---  
+Apres plus de 50 articles, The Atlantic vient de clore sa serie editoriale « Life Up Close » sur la biodiversite. Le moment ideal pour savourer la richesse et la diversite des illustrations commandees pour illustrer chacun des articles.  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/1d59a53c-662d-a486-2773-4c311ef296ec.png)  
+---  
+|  -- [Explorer la serie Life Up Close](https://www.theatlantic.com/projects/life-up-close/) par The Atlantic  
+---  
+---  
+8\. UX Les petites ancres [⚓](http://)  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/79adcd59-523f-3c37-63c4-dd82d5872ab5.png)  
+---  
+Petit detail utile pour les tres longs formats : l'usage d'ancres pour se reperer et faciliter la lecture. Exemple chez Bloomberg qui utilise une barre de navigation fixe dans ce long format, et le materialise avec une indication « Jump to section ». (Oui, on aime bien les petits details...)  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/205a74d7-1574-85fe-ee83-f79dc61321e6.png)  
+---  
+|  -- Visible [dans cet article](https://www.bloomberg.com/graphics/covid-resilience-ranking/?sref=PFCuwcPr&cmpid=soci\[…\]um=social&utm_source=twitter&utm_campaign=socialflow-organic) de Bloomberg apres un peu de scroll  
+---  
+---  
+Et c'est tout pour aujourd'hui !  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/ef9f84ce-9433-3db1-347d-39a4c58f3c36.gif)  
+---  
+---  
+Vous recevez cet e-mail car vous êtes inscrit•e via le site   
+[medias.datagif.fr](https://medias.datagif.fr/)   
+  
+🏄‍   
+Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)   
+  
+📪  
+Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)   
+  
+✌️  
+Retrouvez la veille et les projets de Datagif sur   
+[Medium](https://medium.com/Datagif) \- [Twitter](https://twitter.com/datagif) \- [Instagram](https://www.instagram.com/datagif) \- [Datagif.fr](https://datagif.fr)   
+  
+👋   
+[Cliquez-ici](*|UNSUB|*) pour vous désabonner   
+  
+  
+*|IF:REWARDS|* *|HTML:REWARDS|* *|END:IF|*   
+  
+  
+---

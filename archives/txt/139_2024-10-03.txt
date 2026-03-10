@@ -1,0 +1,223 @@
+*|MC_PREVIEW_TEXT|*  
+  
+͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿
+
+| | [Ouvrir dans le navigateur](*|ARCHIVE|*)  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/34fb3f4e-a154-1d52-f0ff-1c6201df050d.png)](*|ARCHIVE|*)  
+---  
+  
+| | | ![Médias](https://newsletter.datagif.fr/ext/datagif/img/medias-v2.png)  
+---  
+  
+| 139  
+---  
+  
+| | La veille innovation et design média par Datagif  
+---  
+  
+| | | L'innovation passe aussi par de nombreux petits details  
+---  
+En faisant notre point edito, de nombreux exemples de petits details faisant la difference ont emerge : le rappel du lien avec une publication papier, la valorisation maligne des contenus d'une newsletter en page d'accueil, le chapitrage d'articles tres longs... Cette edition fait donc le focus sur des evolutions produit au service du contenu et de l'audience. En esperant que cela vous inspire egalement !  
+  
+| | | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/dd27fd0a-f659-dbfe-2c8d-0fa69e1c9747.png)  
+---  
+  
+| Gaetan Duchateau  
+---  
+Lead @Datagif  
+  
+| | | Spiritualite  
+---  
+  
+| 🙏  
+---  
+  
+| | "Divinite numerique" : Rest of World illustre les croisements entre religions et nouvelles technologies  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/c1127137-a1d0-69d8-f2c4-cf0a3c642bac.gif)](https://restofworld.org/series/digital-divinity/)  
+---  
+On commence a etre habitue avec eux. Rest of World vient de sortir [une serie de longs formats](https://restofworld.org/series/digital-divinity/) d'ampleur biblique, regroupant 22 histoires illustrees demontrant comment la technologie influence les pratiques spirituelles.  
+  
+Le dossier est egalement accompagne d'une [newsletter](https://restofworld.org/newsletters/digital-divinity/) temporaire qui paraitra tous les vendredis pendant neuf semaines, une maniere intelligente d'attirer les lecteur*trices qui ont peur de s'engager.  
+  
+Non seulement tout est tres bien pense de A a Z, de la direction artistique rappelant les enluminures, en passant par la navigation et les performances techniques, mais en plus ils nous machent le travail en expliquant eux-memes pourquoi [sur leur blog](https://restofworld.org/inside/digital-divinity-project/). Amen !  
+[Explorer le dossier de Rest of World](https://restofworld.org/series/digital-divinity/)  
+  
+| | | Intertitres  
+---  
+  
+| 🖍️  
+---  
+  
+| | Le Guardian ajuste legerement sa maquette pour parler anxiete  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/fdb6f90b-2539-c005-3fca-4fde87f92527.jpg)](https://www.theguardian.com/us-news/ng-interactive/2024/sep/22/voters-learned-hopelessness-helplessness-democrats-trump)  
+---  
+[Cette serie d'articles](https://www.theguardian.com/us-news/series/american-psyche) a ete creee dans le contexte electoral US, avec un peuple electoral empreint d'angoisses quotidiennes et existentielles.   
+  
+Mais ce qui retient notre attention ici c'est cette petite touche toute en subtilite sur les intertitres : vous voyez le decalage des caracteres ? Comme si la vue se brouillait, comme si la tourmente l'emportait. Cela place la lecture dans un contexte de malaise profond, de decalage, faisant parfaitement mouche avec le fond.   
+[Voir en situation chez The Guardian](https://www.theguardian.com/us-news/ng-interactive/2024/sep/22/voters-learned-hopelessness-helplessness-democrats-trump)  
+  
+| | | ![](https://newsletter.datagif.fr/ext/datagif/img/newsletter.png) Transferer ?  
+---  
+Cette edition interessera vos collegues ? Soyez sympa avec eux, transferez-leur !  
+| [Pas encore abonne*e ?](https://datagif.fr/newsletter-medias/)  
+---  
+  
+| | | Marque-page  
+---  
+  
+| 📌  
+---  
+  
+| | Comment lire correctement un long format en plusieurs fois  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/c18175ae-b8ae-4877-7184-c8a3c8b3ae3b.png)](https://www.nytimes.com/interactive/2024/09/20/magazine/ukraine-russia-war-deserter.html?smid=tw-nytimes&smtyp=cur)  
+---  
+Voici un (vrai) long format, rythme en 5 parties et 38 chapitres. Et malgre la qualite du reportage et l'histoire saisissante racontee, difficile de lire le tout d'une traite. Pour aider ses lecteurs a retrouver le fil de leur lecture, le NYT a imagine **le marque-page digital le plus abouti que nous ayons vu** : dans le menu, vous retrouvez les chapitres lus et revenez a l'exact paragraphe recemment consulte. Les temps de lecture de chaque chapitre sont egalement indiques et il est meme possible de sauter plusieurs chapitres sans que ceux non-lus soient indiques comme "lus" (on a verifie).  
+  
+En bref, un bel exercice UX qui permet de rendre efficace et accessible de nombreuses informations et fonctionnalites dans un meme espace.  
+[Plonger dans l'histoire des deserteurs russes](https://www.nytimes.com/interactive/2024/09/20/magazine/ukraine-russia-war-deserter.html?smid=tw-nytimes&smtyp=cur)  
+  
+| | | Le 50/50  
+---  
+On vous facilite votre veille  
+Un sujet a explorer ?  
+  
+| | | [📐 grille](https://datagif.fr/liens/?feature=grille)  
+---  
+  
+| | [🍔 menu](https://datagif.fr/liens/?feature=menu)  
+---  
+  
+| | | Votre favori  
+---  
+Il y a 15 jours  
+Ouh la claque  
+  
+| | | [📊 infographie](https://datagif.fr/liens/?format=infographie)  
+---  
+  
+| | [🏆 71%](https://datagif.fr/liens/?theme=societe)  
+---  
+  
+| |   
+---  
+  
+| | | [🏛️ culture](https://datagif.fr/liens/?theme=culture)  
+---  
+  
+| | [29%](https://datagif.fr/liens/?theme=tech)  
+---  
+  
+| | | Le lien d'Aurore,  
+directrice de prod  
+---  
+Fisheye Magazine en lice pour les Lovie Awards !  
+  
+| | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/77d3f694-96cf-11ff-dc3f-eed340345ac9.png)  
+---  
+  
+| | Cree en 2013, [Fisheye Magazine](https://fisheyemagazine.fr/) entend raconter, inspirer et reveler la photographie contemporaine. L'annee derniere, pour ses 10 ans, le media s'est offert avec [Datagif](http://datagif.fr) et [FCINQ](https://www.fcinq.com/) une [refonte de son site](https://datagif.fr/projet/fisheye-magazine/) pour developper sa visibilite et valoriser ses savoir-faire. Une grille souple, des compositions sur mesure : cette refonte laisse la place principale a l'image.  
+  
+Cette annee, le site a ete selectionne par les Lovie Awards, un prix qui recompense le meilleur de l'Internet Europeen, dans la categorie « Meilleure experience editoriale ». Vous voulez contribuer au prix du public avec votre vote ? [Ça prend un clic et on vous dit merci](https://vote.lovieawards.com/PublicVoting#/2024/websites-mobile-sites/website-mobile-site-craft/best-editorial-experience) 🙌  
+---  
+  
+| | | Liens  
+---  
+  
+| 📎  
+---  
+  
+| | The Marshall Project nous partage sa veille via sa propre page d'accueil  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/91ceda82-97d1-c1ca-80d5-0f9415668c54.png)](https://www.themarshallproject.org/)  
+---  
+Chaque matin, ce media a but non lucratif - traitant principalement du systeme de justice penale americain - propose aux abonne*es de sa newsletter "[Opening Statement](https://us3.campaign-archive.com/?u=a92567c13cca06b470824aead&id=54dc320b3d)" une selection d'actualites en lien avec les sujets qu'il defend, denichees chez d'autres medias.   
+  
+Mais le media ne reserve pas sa veille uniquement a ce canal : elle est egalement accessible depuis la page d'accueil et mise a jour quotidiennement. Une pratique qui presente aux moins deux avantages :  
+  
+• d'abord, donner a voir a l'audience les sujets traites dans la newsletter, pour les inciter a s'abonner - car dans la NL, les sujets sont editorialises  
+• et amplifier l'echo des articles partages.  
+[Decouvrir la veille de The Marshall Project](https://www.themarshallproject.org/)  
+  
+| | | Sommaire  
+---  
+  
+| ⤵️  
+---  
+  
+| | Cet article fait partie de l'edition d'octobre du magazine  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/d6e8b3af-d54f-623c-106f-0874283c3f79.jpg)](https://www.scientificamerican.com/article/why-is-it-so-much-harder-for-nasa-to-send-people-to-the-moon-now-than-it-was-during-the-apollo-era/)  
+---  
+Le magazine Scientific American utilise une fonctionnalite assez pratique pour naviguer dans les articles connexes a celui en train d'etre lu. Deux menus deroulants sont proposes :  
+• un appele "Edition d'octobre", qui liste les articles majeurs parus dans cette publication et renvoie vers le sommaire : malin pour signifier qu'il existe une revue papier ou cet article a ete publie ;  
+• et un du tag associe, qui liste des articles relatifs.  
+  
+Deux menus donc, pas des plus reussis graphiquement mais qui dans l'idee racontent quelque chose de subtil pour la publication, sans denaturer ni le papier ni le numerique.  
+[Voir l'exemple chez Scientific American](https://www.scientificamerican.com/article/why-is-it-so-much-harder-for-nasa-to-send-people-to-the-moon-now-than-it-was-during-the-apollo-era/)  
+  
+| | | Navigation privee  
+---  
+  
+| 🧅  
+---  
+  
+| | Mediapart desormais disponible sur le reseau Tor  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/e08de643-4c97-d291-c5e5-4d90ba6bd691.jpg)](https://blogs.mediapart.fr/mediapart-journal-independant-et-participatif/blog/050924/face-au-peril-democratique-mediapart-se-lance-sur-tor)  
+---  
+Voici une premiere pour un grand media français : [Mediapart a annonce](https://blogs.mediapart.fr/mediapart-journal-independant-et-participatif/blog/050924/face-au-peril-democratique-mediapart-se-lance-sur-tor) le lancement de leur site sur le reseau Tor. Face a la probabilite de l'arrivee de l'extreme droite au pouvoir en France et egalement pour leurs lecteur*trices etrangers habitant sous des regimes autoritaires, Tor permet d'offrir un acces plus libre, securise et confidentiel aux contenus, grace a un systeme de relais chiffres. Une nouveaute a la fois a saluer et inquietante pour notre democratie.  
+  
+➡️ Pour vous connecter avec une application Tor, ça se passe ici **: mediapartrvj4bsgolbxixw57ru7fh4jqckparke4vs365guu6ho64yd.onion**  
+[En savoir plus sur le nouveau service de Mediapart](https://blogs.mediapart.fr/mediapart-journal-independant-et-participatif/blog/050924/face-au-peril-democratique-mediapart-se-lance-sur-tor)  
+  
+| | | ✊ Le meilleur lien de l'edition 138  
+---  
+  
+| | Decidement, cette histoire d'archives vous a bien emballe*es !  
+---  
+On est d'accord, c'est une histoire assez originale. Quand il y a 15 jours on vous annonçait que franceinfo avait contacte Datagif pour fouiller dans ses archives afin de demonter un argument du RN, vous avez pas mal reagi ! Et c'est donc le lien le plus clique de la derniere edition.  
+[Comment franceinfo a traque les fausses preuves du RN au parlement europeen, avec un peu de Datagif dedans](https://www.francetvinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/enquete-affaire-des-assistants-fn-au-parlement-europeen-les-incoherences-de-nicolas-bay-pour-prouver-le-travail-de-son-collaborateur_6764839.html)  
+  
+| | | Bibliotheque sonore  
+---  
+  
+| 🔊  
+---  
+  
+| | La BBC rend accessible gratuitement sa bibliotheque de sons  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/ee59bdc9-ec2c-ee49-2a2f-e347b911922e.jpg)](https://sound-effects.bbcrewind.co.uk/search?q=modem)  
+---  
+Plus de 30 000 sons depuis les annees 1920 : c'est une enorme ressource que la BBC vient de mettre a disposition du public, pour un usage gratuit a titre personnel, educatif ou de recherche.   
+  
+Et en plus de vous perdre dans cette bibliotheque a ecouter chaque boucle, reconnaitre un animal, un bruit electronique, un jouet, n'importe quoi, le site vous propose de creer votre propre mix. La, on vous a definitivement perdus.  
+[Explorer le catalogue de sons de la BBC](https://sound-effects.bbcrewind.co.uk/)  
+  
+| | | Bonus  
+---  
+Quand il n'y en a plus, il y en a encore  
+✨ C'est en ligne ! La v2 du site de la [Revue XXI](https://revue21.fr/) est disponible. Pourquoi deja ces evolutions ? Une fois le site en ligne en debut d'annee, les besoins editoriaux de l'equipe de XXI ont evolue avec davantage de production dediee, + la necessite de coller a des evolutions egalement apportees dans la revue papier. On a alors amenage l'existant pour rendre le tout encore plus accueillant. [Vous venez voir ?](https://www.linkedin.com/feed/update/urn:li:activity:7246810483360501760)  
+  
+🤬 [La Croix et Brut](https://x.com/LaCroix/status/1841060337442783463) importent en France "[My Country Talks](https://www.mycountrytalks.org/)" : une initiative nee en Allemagne chez Die Zeit, pour faire discuter des personnes aux avis politiques divergents. Devant le succes de l'operation, plusieurs medias se sont saisis de l'idee pour la tester localement.   
+  
+😶 À quel point le gouvernement Barnier penche a droite ? [Contexte a voulu le verifier et rend accessible temporairement son infographie](https://www.contexte.com/article/pouvoirs/gouvernement-barnier-a-quels-points-est-il-de-droite-_201764.html?utm_source=linkedin&utm_medium=social&utm_campaign=pouvoirs-gouvernement-barnier-a-quels-points-est-il-de-droite-_201764) on ne peut plus parlante. La page ne contient aucun commentaire des journalistes, tant la visualisation laisse sans voix.  
+  
+| | | Vous avez un truc cool a nous partager ? Repondez simplement a cet e-mail.  
+---  
+De notre cote, on continue de scruter tout ce qui passe sous nos yeux 👀  
+par  
+| [![DATAGIF](https://newsletter.datagif.fr/ext/datagif/img/logo-big.png)](https://datagif.fr)  
+---  
+  
+| | | ![](https://newsletter.datagif.fr/ext/datagif/img/social.png) Retrouvez-nous sur les réseaux  
+---  
+[Medium](https://datagif.medium.com/) [X](https://x.com/datagif) [Bluesky](https://bsky.app/profile/datagif.bsky.social) [Instagram](https://www.instagram.com/datagif/) [Threads](https://www.threads.net/@datagif) [Linkedin](https://www.linkedin.com/company/datagif/) [Datagif.fr](https://datagif.fr/)  
+  
+| | Vous recevez cet e-mail car vous êtes inscrit•e via le site [datagif.fr](https://datagif.fr/newsletter-medias/)Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)  
+👋 [Cliquez-ici](*|UNSUB|*) pour vous désabonner  
+---

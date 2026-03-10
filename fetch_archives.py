@@ -107,7 +107,7 @@ def make_filename(number: str, send_time: str) -> str:
         date_str = dt.strftime("%Y-%m-%d")
     except Exception:
         date_str = "0000-00-00"
-    return f"{number}_{date_str}"
+    return f"{number.zfill(3)}_{date_str}"
 
 
 def main():

@@ -1,0 +1,186 @@
+|  | [Ouvrir dans le navigateur](*|ARCHIVE|*)  
+---  
+| ![Médias](https://newsletter.datagif.fr/ext/datagif/img/medias.png)  
+---  
+La veille innovation et design média par DATAGIF  
+  
+|  | *|MC_PREVIEW_TEXT|*  
+---  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 1\. Ukraine
+
+## Avec la masse d'information disponible et toute celle contre-faite, comment couvrir le conflit de maniere efficace et professionnelle ?  
+  
+---  
+  
+|  | 🪖 Les medias n'hesitent pas a montrer les journalistes en situation :  
+  
+• Que ce soit dans les reportages terrain (comme [Le Parisien](https://www.instagram.com/reel/CaXNUI6lir2/)) ou dans des publications de coulisses ([Associated Press](https://twitter.com/AP_GMS/status/1496791917530697733)), les journalistes depeche.e.s sur place sont identifies voire situes sur une carte ([Brut](https://twitter.com/brutofficiel/status/1497679117424148491)).  
+• Une maniere de valoriser leur travail de terrain, sans que cela soit reserve aux medias TV traditionnels.   
+  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/2a3faf45-9bf2-3df0-6127-06eca3566f9a.jpg)  
+  
+🗺️ Si la crise du Covid a genere une explosion de graphiques et de courbes, le conflit en Ukraine a son format phare : la carte  
+  
+• Statiques ou animees : elles accompagnement les articles en prenant une place predominante. On les retrouve beaucoup dans les _stories_ de nombreux medias, pour clarifier les evolutions du conflit.  
+• Le New York Times [tient un direct du conflit sur la base de cartes](https://www.nytimes.com/interactive/2022/world/europe/ukraine-maps.html). Une promesse interessante qui traduit l'idee d'un conflit en mouvement.  
+  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/a920599b-e456-2afe-6464-c50c2fbc5e39.jpg)  
+  
+🧰 Des outils pour mieux maitriser l'information :  
+  
+• L'observatoire media britannique Journalism [partage une liste de ressources et outils](https://www.journalism.co.uk/news/tools-and-resources-for-journalists-covering-the-ukrainian-war/s2/a906371/) pour les journalistes couvrant une guerre. Verifier les sources, conserver son ethique, gerer le traumatisme de victimes interviewees... des conseils tres utiles.  
+• De son cote, Poynter, egalement site dedie au journalisme, rentre dans le detail pour [deceler de fausses images grace aux meta-donnees](https://www.poynter.org/reporting-editing/2022/how-to-spot-video-and-photo-fakes-as-russia-invades-ukraine/) (qui peuvent egalement etre falsifiees).   
+• Les chaines du groupe France Medias Monde (France 24, RFI et Monte Carlo Doualiya) ont inaugure a cette occasion des formats de desintox ; [ceux de France 24 decortiquent la fabrication de fausses informations](https://www.france24.com/fr/stop-infox) et aident a rester vigilant.  
+  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/45e7c2bf-3584-f674-1cdf-4eecd439cc5f.jpg)  
+---  
+---  
+  
+|  |   
+---  
+  
+|  |  |  | ![](https://newsletter.datagif.fr/ext/datagif/img/mail.png)  
+---  
+Vous avez reçu cette edition via un.e ami.e ou collegue ?  
+Voila quelqu'un d'attentionne !   
+| [S"inscrire a la newsletter](https://datagif.fr/newsletter-medias/)  
+---  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 2\. À la une
+
+## Mediapart et Les Echos poussent des unes speciales  
+  
+---  
+  
+|  |  | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/0c9bdffa-187f-f881-e476-5f656d117d45.jpg)  
+---  
+  
+|  | On salue ici la tres bonne [initiative de Mediapart](https://web.archive.org/web/20220225033346/https://www.mediapart.fr/) (qui a recemment lance sa [nouvelle formule](https://blogs.mediapart.fr/edwy-plenel/blog/221121/une-nouvelle-formule-de-mediapart)) : une page d'accueil ou toute la une est consacree a un seul sujet, sous forme d'un encart special avec visuel plein ecran. [Les Echos](https://web.archive.org/web/20220225131733/https://www.lesechos.fr/) ont egalement fait de meme avec le bloc pleine page "En direct" cassant avec la structure habituelle de leur page d'accueil. La crise ukrainienne etait le moment ideal de degainer cet equivalent numerique de la une pleine page d'un quotidien papier, principe encore peu souvent adopte en France.  
+  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/5b074094-3935-fc58-2470-aaf0fdb7365d.jpg)  
+---  
+---  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 3\. Hackathon
+
+## 10 projets autour de la presidentielle  
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/da8c7369-c1ba-eb1e-8a81-2895eba69ca1.jpg)](https://www.hyblab.fr/les-10-projets-interactifs-et-graphiques-du-hyblab-2022-autour-des-elections/)  
+---  
+  
+|  | L'incubateur medias Ouestmedia Lab a organise le HybLab : un hackathon permettant la rencontre de journalistes, developpeurs et graphistes. Datagif est intervenu en introduction pour partager sa veille de formats innovants lies a la politique, avant que les differents groupes s'attellent a explorer le sujet avec un angle precis : rendre l'election presidentielle accessible voire ludique aupres d'un public en perte d'interet.   
+  
+Explorer l'abstention, expliciter le role du gouvernement, decrypter le fonctionnement des candidatures : on apprecie les projets pedagogiques, qui peuvent tres certainement trouver leur place chez les medias participants par la suite. Bravo aux equipes !  
+---  
+|  | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+Explorer [les 10 projets](https://www.hyblab.fr/les-10-projets-interactifs-et-graphiques-du-hyblab-2022-autour-des-elections/) sur HybLab  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 4\. Parrainages
+
+## Detail interessant : Francetvinfo a ajoute un [compteur incremental](https://www.francetvinfo.fr/elections/presidentielle/candidats/liste-complete-des-candidats-a-election-presidentielle-2022-consultez-en-direct-actualisee_4803249.html) de parrainages sur les fiches candidats  
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/3448d1ed-b423-323d-a28a-bdb6e81c7850.jpg)](https://www.francetvinfo.fr/elections/presidentielle/candidats/liste-complete-des-candidats-a-election-presidentielle-2022-consultez-en-direct-actualisee_4803249.html)  
+---  
+  
+|  |   
+---  
+---  
+  
+|  |   
+---  
+  
+|  |  |  | ![](https://newsletter.datagif.fr/ext/datagif/img/reseaux.png)  
+---  
+Retrouvez la veille et les projets de Datagif sur [Medium](https://datagif.medium.com/) • [Twitter](https://twitter.com/datagif) • [Instagram](https://www.instagram.com/datagif/) • [Datagif.fr](https://datagif.fr/)  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 5\. Vaccin
+
+## Le New York Times liste les entreprises imposant la vaccination  
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/c2023c1c-bc0a-4e57-6d69-3d9aa604acfd.jpg)](https://www.nytimes.com/interactive/2022/02/23/business/office-vaccine-mandate.html)  
+---  
+  
+|  | Dans son classique format de _scrollytelling_ maintenant tres amorti, le NYT clarifie la politique vaccinale de 500 grandes entreprises aux États-Unis. Une representation tres visuelle des nombreux cas de figure proposes aux salarie.e.s.   
+---  
+|  | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+Explorer le format [chez le NYT](https://www.nytimes.com/interactive/2022/02/23/business/office-vaccine-mandate.html)  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 6\. Mode
+
+## Bloomberg illustre le gachis ecologique de la _fast fashion_  
+  
+---  
+  
+|  |  | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/2ca03124-f941-b8f3-4a7d-287dc683e350.gif)  
+---  
+  
+|  | Sur les milliers d'articles disponibles en rayons, combien seront reellement portes ? Bloomberg s'est penche sur la question, a travers un article diablement bien illustre. Pour rendre les consequences de cette industrie plus visible, un compteur defile pendant votre lecture et le traduit en nombre de vetements jetes ou detruits pendant ce temps.   
+---  
+|  | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[Revisez votre garde-robe](https://www.bloomberg.com/graphics/2022-fashion-industry-environmental-impact/) chez Bloomberg  
+  
+|  |   
+---  
+  
+|  |   
+---  
+  
+|  | C'est tout pour aujourd'hui. N'hesitez pas a partager autour de vous les liens les plus interessants. Vous souhaitez echanger avec nous sur un projet, refonte, un nouveau produit media ? [Nous echangerons volontiers avec vous](https://datagif.fr/medias/) 👀  
+---  
+  
+|  |  | ![](http://gallery.mailchimp.com/653153ae841fd11de66ad181a/images/transparent.gif)  
+---  
+  
+|  |   
+---  
+  
+|  | Vous recevez cet e-mail car vous êtes inscrit•e via le site [datagif.fr](https://datagif.fr/newsletter-medias/)Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)  
+👋 [Cliquez-ici](*|UNSUB|*) pour vous désabonner  
+---  
+  
+|  | DATAGIF  
+---  
+  
+|  |   
+---

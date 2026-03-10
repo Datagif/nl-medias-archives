@@ -1,0 +1,145 @@
+---  
+![Médias](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/d060cdc3-f8d4-4207-b9bb-0b8ffda1ca6f.png)  
+La veille innovation et design media par Datagif  
+  
+| *|MC_PREVIEW_TEXT|*  
+---  
+---  
+1\. Municipales Les medias français se livrent deja la guerre des resultats  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/ff60dc0f-3f5a-4d22-a6d3-6d04550896cd.png)  
+---  
+Le soir des elections, c'est un peu le climax de tout un scrutin. Chez les medias aussi, l'enjeu  est evidemment de taille, avec des pics d'audience mais aussi une concurrence tres forte.  
+  
+Pour prendre une longueur d'avance, de plus en plus de medias français mettent en place des alertes par mail pour les municipales, personnalisables pour les communes de son choix. C'est par exemple le cas sur le site Franceinfo, qui promeut largement le dispositif, mais aussi chez Le Figaro ou Le Parisien.  
+  
+En revanche, la presse nationale semble avoir un peu capitule sur la couverture des municipales -- quasiment toutes les innovations editoriales proviennent de la presse locale (tant mieux pour eux !)  
+---  
+|  -- S'inscrire aux alertes [du Parisien](http://www.leparisien.fr/inscription-alerte-resultats/)  
+---  
+---  
+2\. Coronavirus Une newsletter ephemere pour les angoisses (et les autres)  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/f7ae6900-a31c-4967-b7d0-e801a511e6dc.png)  
+---  
+On le sait, la newsletter est un format relativement facile a mettre en place et potentiellement tres pratique pour les lecteurs.  
+  
+Pour informer sur l'epidemie du coronavirus, plusieurs medias viennent de lancer des newsletters dediees et donc ephemeres. C'est le cas du New York Times qui propose un "Coronavirus Briefing" quotidien, garanti "non hysterique". Ou encore du media italien Il Post, avec une newsletter qui sera envoyee "tant que cela sera necessaire". On espere pas trop longtemps...  
+---  
+|  -- Decouvrir [la newsletter du New York Times](https://www.nytimes.com/newsletters/coronavirus-briefing?action=click&module=Briefings&pgtype=Homepage)  
+-- Et celle de [Il Post](https://www.ilpost.it/2020/02/24/newsletter-coronavirus/)  
+---  
+---  
+3\. Pedagogie Et si les sites d'info pensaient davantage leurs contenus comme des « ressources » ?  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/b8432c28-04cf-4f5b-9471-61fac47885ef.png)  
+---  
+On vous le dit comme on le pense : en 2020, le format « article » ne merite plus d'etre l'alpha et l'omega de la production editoriale des sites d'info. Beaucoup de medias s'echinent a produire des kilometres d'articles sur un meme sujet, sans forcement penser a la lisibilite de l'ensemble pour le lecteur lambda.  
+  
+Et si les medias en ligne s'inspiraient de l'univers educatif ou encyclopedique ? Le media americain Quartz a opere ce tournant pour mieux rendre service a ses abonnes : il produit desormais des dossiers synthetiques et actualises sur les grands enjeux de l'economie et de la tech.  
+  
+Cela marche tres bien pour la cible « experte » de Quartz, mais on parie que cette strategie serait tout aussi payante pour des medias plus grand public. Ces contenus « ressources » seraient generateurs de trafic a long-terme, mais aussi de valeur ajoutee pour des abonnes…  
+---  
+|  -- Decouvrir [les superbes guides de Quartz](https://qz.com/guides/)  
+-- Mais aussi [l'interessant format "Panorama"](https://twitter.com/maxloisel/status/1233104199853973512?s=20) de Brief.me  
+---  
+---  
+4\. Chiffres L'Internet français en 2019 selon Mediametrie  
+|  Ce qu'on retient du rapport annuel de Mediametrie sur les usages d'Internet en France :  
+  
+● 21h33 est **le pic de connexion**  pour les 15-24 ans (31% sont en ligne)  
+● Facebook reste le reseau social **le plus consult e** chaque jour (24 millions de visiteurs uniques), devant Snapchat qui resiste bien (14 millions) puis Messenger et Instagram  
+● Discord et TikTok sont a egalite, avec tout de meme 1,5 million de consultations quotidiennes chacun  
+● 80 % des visiteurs quotidiens de TikTok ont **moins de 24 ans** (les 20 % restants se demandent surement ce qu'ils font la)  
+---  
+|  -- Retrouvez toutes les donnees [dans le thread de Chloe Woitier](https://twitter.com/W_Chloe/status/1230434161606959105), journaliste du Figaro  
+---  
+---  
+5\. Lancement The Markup, le media qui revele les dessous des algorithmes  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/220d4cfd-583c-4abe-9167-1983a673eb65.png)  
+---  
+Encore un nouveau media tech s'est lance cette semaine aux Etats-Unis ! The Markup affiche toutefois sa difference : c'est un veritable "site d'investigation", au statut "non-profit", qui se positionne comme le "watchdog" des geants de la tech.   
+  
+Le media a deja publie deux grosses enquetes sur les impacts caches des algorithmes de Gmail et de l'assureur Allstate. Le tout grace a une redaction hybride, composee de journalistes et d'experts techniques.  
+  
+On aime egalement la demarche tres « engagee » du site, a tous les niveaux :  
+● Une approche quasi-scientifique du processus d'enquete (toutes les donnees sont publiees en open-source)  
+● Les autres medias sont incites a republier les enquetes gratuitement sous une licence Creative Commons  
+● Le site ne contient aucun tracker (incroyable mais vrai !)  
+● Et bien sur le design et l'iconographie sont tres reussis...  
+---  
+|  -- Decouvrir [le site The Markup ](https://themarkup.org/)  
+-- Lire l'analyse du [Nieman Lab](https://www.niemanlab.org/2020/02/big-tech-is-watching-you-whos-watching-big-tech-the-markup-is-finally-ready-for-liftoff/)  
+---  
+---  
+6\. Municipales Streetpress joue la carte du terrain et du participatif  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/9d258237-c07d-441e-89bc-12cf245b69c0.jpg)  
+---  
+En janvier, Streetpress lançait un recrutement pour trouver cinq jeunes ayant grandi en ile-de-France (hors Paris) pour couvrir les municipales. Ça y est : Amine, Imen, Jean, Laure et Samia sont donc les 5 reporters formes et remuneres par Streetpress pour ce dispositif interessant.  
+  
+Amine [s'est ainsi penche sur les transports en commun](https://www.streetpress.com/sujet/1582134306-transports-en-commun-trop-rares-la-galere-quartiers-populaires-chelles-municipales-politique-ile-france) trop rares du quartier populaire de Chelles (77). Laure [est allee rendre visite](https://www.streetpress.com/sujet/1582298143-garancieres-une-poignee-de-pauvres-vit-au-camping-toute-l-annee) aux habitants a l'annee du camping de Garancieres (78). Samia [a rencontre un youtubeur](https://www.streetpress.com/sujet/1582539006-mirux-le-realisateur-des-series-succes-de-garges-les-gonesse) qui parle de son quotidien a Garges-les-Gonnesse (95). Et ainsi de suite.  
+  
+Chaque pigiste en herbe publiera trois reportages ultra-locaux, en sortant du classique micro-trottoir. Une maniere forte de couvrir des territoires souvent oublies, et de former au passage la releve du journalisme.  
+---  
+|  -- Lire [la couverture des municipales par Streetpress](https://www.streetpress.com/sujet/1580409849-actu-des-municipales-streetpress)  
+---  
+---  
+7\. Interactif Le Monde vous fait deviner l'evolution des inegalites aux USA  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/e91dfbfb-336d-4157-80f5-452be0c9e1fa.gif)  
+---  
+Pour illustrer les conclusions du livre "Le Triomphe de l'injustice" des deux economistes stars Emmanuel Saez et Gabriel Zucman, les Decodeurs du Monde propose aux lecteur.ices une approche presque interactive et ludique.   
+  
+À l'aide de votre souris, l'article vous demande de deviner et tracer la courbe d'evolution de la part detenue par les 1 % les plus riches de 1990 a 2018 (entre autres). Le resultat s'affiche ensuite, confrontant le lecteur a ses bonnes ou mauvaises intuitions.  
+  
+Souvent utilise par le Guardian ou le New York Times, ce gimmick interactif est redoutable pour accrocher l'attention du lecteur et assurer une meilleure appropriation de l'info.  
+---  
+|  -- Realisez vos courbes sur [l'article des Decodeurs](https://www.lemonde.fr/les-decodeurs/article/2020/02/13/comment-evoluent-les-inegalites-aux-etats-unis-tracez-la-courbe-de-ces-quatre-graphiques-pour-comprendre-l-injustice-fiscale_6029397_4355770.html)  
+---  
+---  
+8\. Primaires Le portrait elogieux de chaque candidat, nouveau format indispensable ?  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/f0e08642-4b62-4cf2-889c-9a5f2c348986.png)  
+---  
+En pleine saison electorale, un debat de fond se fait entendre chez les medias americains : est-il leur role de faire des predictions, ou meme de donner des consignes de vote ? Plusieurs journaux locaux ont arrete cette coutume editoriale, contrairement par exemple aux editorialistes du New York Times, qui persistent... et reussissent d'ailleurs [a ne satisfaire personne](https://www.nytimes.com/2020/01/20/opinion/letters/klobuchar-warren-democrats-endorsement.html).  
+  
+A contre-courant, un format editorial repere chez Vox et le New York Times nous semble interessant. Ces deux redactions ont redige des portraits volontairement elogieux de chaque candidat.e.s pour les primaires democrates. Un exercice qui souligne les versants positifs des candidat.e.s et de leur propositions, et a le merite de sortir des boules puantes et des sondages.  
+  
+Point commun des deux dossiers : une iconographie sympathique. Le petit plus chez le NYT : les lecteur.ices peuvent reagir a la fin de chaque portrait, et dire si l'eloge flatteur les a convaincu ou pas...  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/26355bb9-e593-4383-862b-873f139ab434.png)  
+---  
+|  -- Voir [le dossier "The best case of..."](https://www.nytimes.com/interactive/2020/02/27/opinion/which-democrat-should-I-vote-for.html?action=click&module=Opinion&pgtype=Homepage) du NYT  
+-- Voir ["The case for..."](https://www.vox.com/2020/2/12/21132260/who-vote-for-biden-sanders-warren-buttigieg-bloomberg-klobuchar) de Vox  
+---  
+---  
+9\. Abonnement Less is more  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/ae26dbdd-ae74-43e5-87f0-32884c2fe3af.png)  
+---  
+Si l'on en croit un recent article de Digiday, les strategies d'abonnement numerique des medias ont tout interet a etre simples… Parmi les bonnes pratiques citees, chez les groupes Axel Springer ou Le Monde :  
+  
+● reduire le nombre d'offres et les simplifier, a la Spotify ou Netflix  
+● abaisser toujours plus la barriere a l'entree avec des essais gratuits et des reductions longues (souvent sur un an)  
+● ne pas hesiter en revanche a augmenter les tarifs « standards » apres la periode initiale, une fois que les utilisateurs.ices sont « accroches »   
+  
+À une limite pres : ne pas se moquer des lecteurs.ices... On pense par exemple a [la pratique du Monde](https://twitter.com/JeanAbbiateci/status/1162639851738587136) qui affiche un tarif d'abonnement numerique a 9,90€ par mois, sans preciser que le montant double apres un an (17,90€, seulement mentionne au fin fond des CGV…)  
+---  
+|  -- Lire [l'article de Digiday](https://digiday.com/media/axel-springer-adapting-pricing-strategy-grow-reader-revenue/)  
+---  
+Vous recevez cet e-mail car vous êtes inscrit•e via le site   
+[medias.datagif.fr](https://medias.datagif.fr/)   
+  
+🏄‍   
+Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)   
+  
+📪  
+Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)   
+  
+✌️  
+Retrouvez la veille et les projets de Datagif sur   
+[Medium](https://medium.com/Datagif) \- [Twitter](https://twitter.com/datagif) \- [Instagram](https://www.instagram.com/datagif) \- [Datagif.fr](https://datagif.fr)   
+  
+👋   
+[Cliquez-ici](*|UNSUB|*) pour vous désabonner   
+  
+  
+*|IF:REWARDS|* *|HTML:REWARDS|* *|END:IF|*   
+  
+  
+---

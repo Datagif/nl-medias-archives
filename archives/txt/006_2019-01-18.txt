@@ -1,0 +1,80 @@
+---  
+![Médias](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/d060cdc3-f8d4-4207-b9bb-0b8ffda1ca6f.png)  
+La veille innovation et design media par Datagif  
+  
+| *|MC_PREVIEW_TEXT|*  
+---  
+---  
+1\. Lancement Tortoise, un nouveau media ambitieux  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/feb24f6a-e9d2-440d-8543-11bf2b7394aa.png)  
+---  
+On le sait, l'abonnement et la "communaute" sont un peu devenus les buzzwords preferes de l'industrie media. Un petit nouveau vient de se lancer sur ce creneau au Royaume-Uni : le site « Tortoise » , mene par des anciens de BBC News et du Wall Street Journal.  
+  
+Lance en beta cette semaine (pour ses 2500 « abonnes fondateurs »), le site recycle beaucoup d'idees deja vues ailleurs, mais avec un certain talent :  
+  
+● Un modele full-payant, sans pub  
+● Un journalisme plus lent (la fameuse « tortue ») et centre sur des thematiques  
+● Un journalisme plus « a l'ecoute », en valorisant les contributions des lecteurs et en organisant des cafes-debat partout dans le pays  
+● Une demarche transparente, sur le fonctionnement de la newsroom comme sur la gestion financiere du media  
+● Une publication papier tous les trimestres  
+  
+Autre bon point, la forme a l'air aussi allechante que le fond (si l'on en croit les captures qui circulent). L'identite visuelle assume des partis pris forts, et les interfaces donnent vraiment envie de se poser 15 minutes pour lire du journalisme de fond. Bref, ça a de l'allure.  
+---  
+-- Voir [le site de Tortoise](https://www.tortoisemedia.com/) (reserve aux abonnes fondateurs) et [l'application mobile](https://itunes.apple.com/gb/app/tortoise/id1441428990?mt=8)  
+-- Plus d'infos publiques sur [le Kickstarter du projet](https://www.kickstarter.com/projects/tortoisemedia/tortoise-open-journalism-a-different-kind-of-newsr?lang=fr)  
+---  
+2\. Tableau de bord Le Monde decode en cards  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/c0ad2164-6999-4c5e-9e62-536c9a7d7039.png)  
+---  
+Les decodeurs du Monde proposent un tableau de bord sur les decisions environnementales prises par Emmanuel Macron depuis le debut de son quinquennat. Ce long format classe puis analyse chacune des decisions selon trois categories de choix (favorables, defavorables, neutre). Le design en cards permet une vue rapide, efficace et s'adapte tres bien a un usage mobile.   
+La barre de recherche complete la tonalite "outil" de ce format interessant, tant sur le fond que sur la forme !   
+---  
+-- Retrouvez l'article [ici ](https://www.lemonde.fr/les-decodeurs/article/2019/01/10/ecologie-quel-bilan-pour-emmanuel-macron_5407342_4355770.html)  
+---  
+3\. New challenger Le fondateur de The Outline lance un nouveau media tech : Input. Et il n'est pas content.   
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/c3b29feb-8d89-4e2f-adec-7e2f5670b3b2.gif)  
+---  
+Alors que le sujet est deja largement couvert par de gros titres comme Wired, The Verge ou encore Recode, Joshua Topolsky les accuse de complaisance face aux geants de la tech. Il denonce une absence de remise en question des technologies et de l'ecosysteme. Son manifeste est lisible [sur la page d'attente](https://inputmag.com/) d'Input, simple et efficace.   
+  
+À noter que ce lancement s'effectue dans un contexte [difficile pour The Outline](http://www.niemanlab.org/2018/10/the-outline-built-itself-on-being-weird-but-is-it-weird-enough-to-survive/), qui s'est recemment separe de toute son equipe redactionnelle. Point interessant, en fouillant les offres d'emploi pour Input, on trouve le poste d'[editeurs de cards](https://boards.greenhouse.io/independentmedia/jobs/1510310), qui en dit un peu plus sur le fonctionnement du media. L'annonce presente les _cards_  comme "un moyen unique, engageant et tres visuel de presenter un article", avec un systeme similaire a The Outline.  
+---  
+-- [Lire le manifeste](https://inputmag.com/) de Joshua Topolsky  
+---  
+4\. Choix "Laissez tomber le contenu que les lecteurs ne lisent pas"  
+|  Pour beaucoup de medias, l'investissement oscille entre l'acquisition de nouveaux lecteurs (_venez !_)  et l'engagement de ceux acquis (_restez !_). Une tendance se degage cependant : privilegier les investissements sur l'engagement, car les lecteurs acquis sont les plus enclins a depenser ensuite de l'argent. Pour Matt Skibinski du Lenfest Institute for Journalism, "l'engagement c'est quand les lecteurs trouvent votre contenu, votre produit et votre marque suffisamment attrayants pour etre prets a payer". Une combinaison qui va donc au-dela du contenu publie.   
+  
+Exemple concret pour sensibiliser sa redaction a l'engagement, USA Today a developpe un outil de mesure qui ne se cantonne pas au nombre de pages vues : duree de lecture, volume et frequence de visites sont les nouveaux standards. Cette nouvelle analyse a montre que la moitie du contenu produit obtenait de mauvais chiffres. La redaction a ainsi reoriente sa production vers du contenu que les lecteurs lisent vraiment. Resultat immediat : 2,7 % de publications en moins et un nombre de pages vues qui a augmente.   
+---  
+-- L'article avec des exemples issus d'autres medias est a [lire ici](http://www.niemanlab.org/2018/12/get-rid-of-the-content-no-one-reads-offer-surprises-and-candy-and-other-tricks-for-retaining-subscribers)  
+-- Et un podcast interessant : "le marketing doit integrer la newsroom", [a ecouter la](https://digiday.com/podcast/new-york-times-david-rubin-marketing-win-newsroom/)  
+---  
+5\. CMS Wordpress prepare une boite a outils pour les petits medias  
+|  La plateforme [Wordpress.com](http://Wordpress.com), version commerciale du celebre systeme de gestion de contenu, prepare une nouvelle boite a outils dediee aux medias.  
+  
+D'apres le Nieman Lab, environ 2/3 des petits sites media utilisent deja l'infrastructure de Wordpress. Avec le projet « Newspack », la plateforme espere repondre davantage aux freins techniques auxquels les petits editeurs font face, notamment pour securiser ou monetiser leurs sites.  
+  
+Des plugins specifiques seront ainsi proposes aux sites media, qui peuvent s'inscrire des maintenant pour devenir beta-testeurs du projet. C'est un developpement interessant dans le marche tres concurrentiel des CMS media. Les initiatives du Washington Post ou de Vox Media dans ce secteur vont-elles en patir ?  
+---  
+-- Lire [l'annonce officielle de Wordpress](https://en.blog.wordpress.com/2019/01/14/newspack-by-wordpress-com/)  
+Vous recevez cet e-mail car vous êtes inscrit•e via le site   
+[medias.datagif.fr](https://medias.datagif.fr/)   
+  
+🏄‍   
+Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)   
+  
+📪  
+Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)   
+  
+✌️  
+Retrouvez la veille et les projets de Datagif sur   
+[Medium](https://medium.com/Datagif) \- [Twitter](https://twitter.com/datagif) \- [Instagram](https://www.instagram.com/datagif) \- [Datagif.fr](https://datagif.fr)   
+  
+👋   
+[Cliquez-ici](*|UNSUB|*) pour vous désabonner   
+  
+  
+*|IF:REWARDS|* *|HTML:REWARDS|* *|END:IF|*   
+  
+  
+---

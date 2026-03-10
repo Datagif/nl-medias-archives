@@ -1,0 +1,267 @@
+*|MC_PREVIEW_TEXT|*  
+  
+͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿
+
+| | [Ouvrir dans le navigateur](*|ARCHIVE|*)  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/295dbe9e-889d-a5d3-e625-3c781791c793.png)](*|ARCHIVE|*)  
+---  
+  
+| | | ![Médias](https://newsletter.datagif.fr/ext/datagif/img/medias-v2.png)  
+---  
+  
+| 153  
+---  
+  
+| | La veille innovation et design média par Datagif  
+---  
+  
+| | | @grok is this true?  
+---  
+C'est devenu en quelques mois LA phrase sous chaque ~~tweet~~  post viral sur X, a tel point qu'elle est maintenant parodiee. Interroger l'IA de X pour savoir si ce qu'on lit est vrai, et surtout lui faire confiance quelle que soit la reponse : l'epidemie qui definira 2025. Ça veut dire quoi ? Que deja, les utilisateurs ont pris le pli de questionner ce qu'ils lisent, ou voient (bien). Mais que ce questionnement ne va pas plus loin et est confie a une IA qui elle meme puise un peu partout (aie). Mais si parfois, les resultats sont probants et permettent de demonter des allegations extremes, retenons que, plus que jamais, les utilisateurs restent sur la plateforme ou ils sont et ne vont pas en sortir pour creuser une info.   
+  
+| | | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/dd27fd0a-f659-dbfe-2c8d-0fa69e1c9747.png)  
+---  
+  
+| [Gaetan Duchateau](mailto:gaetan@datagif.fr)  
+---  
+Lead @Datagif  
+  
+| | | **Produit**  
+---  
+  
+| **🛠️**  
+---  
+  
+| | "Ask the post" veut revolutionner la recherche (et peut le faire)  
+---  
+| ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/263f5bb8-7c29-a008-9779-bcacc854dfa4.jpg)  
+---  
+Il y a quelques semaines, le WaPo a mis a jour son application avec une evolution produit tres forte ([issue d'une experimentation web](https://www.washingtonpost.com/ask-the-post-ai/) en novembre dernier) : l'integration de l'IA (ne partez pas, vous allez voir) pour remplacer la recherche.   
+  
+🔍 Chose assez folle : dans la _tapbar_ (la navigation en bas d'une app), l'icone de la loupe traditionnellement associee a la recherche s'intitule a present "Ask the Post". La promesse est forte : posez vos questions, le Post y repond.  
+  
+🔮 Une fois dans cet onglet, qui est a la fois un menu et une recherche, plusieurs exemples et suggestions sont donnes : "Pourquoi y a-t-il des aurores boreales dans le ciel ?" "Comment reagissent les catholiques a Trump habille en pape ?"...   
+  
+✏️ Ces suggestions (ou les questions que vous posez) amenent ensuite des reponses : un bloc de synthese, genere par IA et dont le corpus se limite aux articles du media, vous apporte une reponse immediate. En-dessous, tous les articles associes.   
+  
+**Pourquoi c 'est tres puissant :**  
+• le media exploite une fonctionnalite qui se generalise, mais dans son propre ecosysteme  
+• le corpus est maitrise et de fait, qualifie : l'utilisateur est rassure  
+• cette fonctionnalite peut declencher un reflexe nouveau : il se passe quelque chose, l'utilisateur va ouvrir l'application pour demander au Post de quoi il en retourne... plutot que de naviguer sur la page d'accueil par exemple  
+• meme si cela est presente comme une experimentation, on imagine sans peine son integration de plus en plus profonde dans l'appli...  
+[Testez vous meme "Ask the Post"](https://apps.apple.com/fr/app/washington-post/id352509417)  
+  
+| | | Veille  
+---  
+  
+| 🔭  
+---  
+  
+| | Organiser sa veille en quelques sessions  
+---  
+| ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/ea593497-3646-3dac-7d23-86cf83493c3b.jpg)  
+---  
+Comme je l'avais evoque [dans l'edito 151](https://datagif.fr/newsletter-medias/), j'interviens (Gaetan) cette annee en master 1 chez Sup de pub pour aider les eleves a mettre en place une veille efficace sur quelques sujets de communication. Voici les quelques elements du programme :   
+  
+1️⃣ **je commence par une sensibilisation a la veille** :  
+• la veille est un etat de curiosite, ou l'on prend differents roles : spectateur, chercheur, critique, professionnel  
+• la veille, c'est avoir un regard affute combine a un esprit critique  
+• c'est surtout passif (pour bien la differencier du benchmark provoque)  
+• differents niveaux de sources : createur (individu, entreprise), analyste (media, conference, relais-penseur), et agregateur (reecriture / appropriation de l'info, compilations...)  
+• le but : remonter les niveaux progressivement jusqu'aux sources de qualite   
+• une bonne veille s'ameliore et se peaufine dans le temps  
+  
+2️⃣ **ensuite, on passe aux sujets pratiques, a commencer par la collecte** :  
+• organiser une routine qui correspond a son temps, son besoin : quand lire les newsletters reçues, quels outils utiliser...  
+• faire vivre et evoluer son corpus (se separer de sources, en ajouter)  
+• je montre quelques basiques (comme creer une alerte google a son nom 😬)  
+  
+3️⃣ **pour terminer, exercices en groupes : automatiser et restituer un sujet de veille** :  
+• pour cela, les eleves creent avec l'aide d'un tuto un process de collecte (un mix de make.com, mistral, google sheets)  
+• puis, quelques semaines plus tard, ils font le tri dans ce qui a ete glane et choisissent un mode de restitution recurrent, teste aupres des autres eleves.  
+  
+**🤔 Ce que j 'en retire :**  
+• 20 ans de veille et je continue de l'affiner : je ne peux pas attendre d'eleves qui demarrent d'etre au taquet  
+• les outils evoluent, mais l'etat d'esprit ne change pas  
+• la veille, c'est pas inne : ça se provoque et ça s'entretient  
+  
+Si ça vous interesse de mettre en place quelque chose de similaire dans votre entreprise, repondez-moi par mail !  
+  
+| | | Mais au fait...  
+---  
+C'est quoi "Datagif", juste une newsletter ?  
+Voila pres de 7 ans que cette newsletter existe, mais vous ne le savez peut-etre pas : nous ne sommes pas qu'une newsletter. Nous sommes [Datagif](https://datagif.fr/), une agence de strategie et design d'information. Nous avons cree cette newsletter car une partie de nos clients sont des medias, effectivement, et cela nous permet de partager au plus grand nombre la veille que nous faisons en interne. Le but pour nous : identifier les signaux faibles, les tendances dans les evolutions d'usages, les mecaniques UX et design interessantes qui nourriront notre reflexion pour les projets sur lesquels nous sommes impliques. Vous n'imaginez pas comme ça nous rend particulierement efficaces lorsque l'on travaille sur la refonte d'un site ou d'une appli. [Envie d'en savoir plus ?](https://datagif.fr/medias/)  
+  
+| | | Design editorial  
+---  
+  
+| 🇻🇳  
+---  
+  
+| | La guerre du Vietnam, 50 ans apres  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/28009a2e-2ac1-90b8-78ff-2b5c74e2459c.jpg)](https://www.theverge.com/cs/features/650505/vietnam-war-fall-of-saigon-50-year-anniversary)  
+---  
+Pour marquer l'anniversaire de la chute de Saigon, The Verge publie une serie speciale "[American War](https://www.theverge.com/cs/features/650505/vietnam-war-fall-of-saigon-50-year-anniversary)" qui interroge l'heritage et les mythes construits autour de la guerre du Vietnam. Ici pas specialement d'interactivite, le ton est sobre mais on salue la direction artistique tres travaillee : typo sortie des annees 1970, jeu sur la symetrie, illustrations a l'aquarelle : la mise en page evoque a la fois les journaux de l'epoque ou les codes graphiques des affiches de la guerre tout en evitant le decalquage retro.  
+  
+Autre point remarquable du dossier : [une bande dessinee signee Matt Huynh](https://www.theverge.com/cs/features/652590/vietnam-war-viet-cong-us-military-psy-op-comic), dont la lecture est a la fois optimisee sur desktop comme sur mobile. Le souci du detail va jusqu'a integrer le logo de The Verge et le pied de page habituel dans le style du lettrage.  
+[Decouvrir le dossier sur The Verge](https://www.theverge.com/cs/features/650505/vietnam-war-fall-of-saigon-50-year-anniversary)  
+  
+| | | Tariffs  
+---  
+  
+| 🛋️  
+---  
+  
+| | Le made in China dans les foyers americains  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/a9aa1357-8c71-b8c6-b194-0ac7b857841d.png)](https://www.nytimes.com/interactive/2025/04/27/world/asia/china-products-us-tariffs-trump.html?unlocked_article_code=1.C08.NfSk.x12wwfaCjS3T)  
+---  
+Apres les turbulences douanieres initiees par Trump, le NYT illustre la dependance americaine aux produits chinois grace une visualisation originale d'un foyer americain.  
+  
+Imaginez une maison : piece par piece, les objets du quotidien s'affichent avec leur taux d'importation depuis la Chine, marques par un code couleur. Adieu grille-pains bon marche et barbecues made in China ! Ce format au defilement est ponctue de textes qui analysent les problemes a venir tels que les risques de penuries ou d'augmentation de prix. L'anecdote amusante : les États-Unis peineraient a celebrer leur 4 juillet sans les feux d'artifice majoritairement chinois…  
+[Par ici la visite](https://www.nytimes.com/interactive/2025/04/27/world/asia/china-products-us-tariffs-trump.html?unlocked_article_code=1.C08.NfSk.x12wwfaCjS3T)  
+  
+| | | Le 50/50  
+---  
+Envie d'explorer un format ?  
+Cliquez sur le tag, tous nos liens sont juste derriere  
+  
+| | | [👀 tracker](https://datagif.fr/liens/?format=tracker)  
+---  
+  
+| | [🗺️ carte](https://datagif.fr/liens/?feature=carte)  
+---  
+  
+| | |   
+---  
+Il y 15 jours  
+Un peu plus motives que l'edition precedente dites-donc !    
+  
+| | | [🫵 interactif](https://datagif.fr/liens/?feature=interactif)  
+---  
+  
+| | [🏆 55%](https://datagif.fr/liens/?feature=interactif)  
+---  
+  
+| |   
+---  
+  
+| | | [🔉 audio](https://datagif.fr/liens/?format=audio)  
+---  
+  
+| | [45%](https://datagif.fr/liens/?format=audio)  
+---  
+  
+| | | Donnees  
+---  
+  
+| **🗺️**  
+---  
+  
+| | **MSF documente la guerre totale men ee contre la population de Gaza**  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/7f222fc6-ce89-abad-cd66-6ca9def1ad71.png)](https://gazainsidethewar.com/fr/events)  
+---  
+Medecins Sans Frontieres n'est pas un media, mais l'ONG a pourtant un cree un objet mediatique digne des plus grands : la plateforme "Gaza, inside the war". Cette derniere rassemble les informations et les temoignages recueillis par les equipes de MSF entre le 7 octobre 2023 et le 1er fevrier 2025, "_et documente plus particuli erement les attaques contre le systeme de sante et les humanitaires, dont les equipes de MSF ont ete les temoins et les victimes_".  
+  
+Frise chronologique cliquable, plan de la bande de Gaza interactif, precision des donnees, des sources, des lieux, photographies et meme liens vers des articles… : le travail mene est colossal, mais surtout bien execute. Cet outil est un bel exemple de datavisualisation que l'on peut nourrir au fil du temps - bien que nous prefererions que la plateforme de MSF n'ait plus besoin d'etre alimentee…   
+[Plonger les donnees de MSF](https://gazainsidethewar.com/fr)  
+  
+| | | Le lien de Charly, CTO  
+---  
+Des fontes web bien rangees chez IKEA  
+  
+| | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/0f39c5ef-2fbe-e6df-2936-a941a34c9554.png)  
+---  
+  
+| | [Sur Medium](https://medium.com/flat-pack-tech/ikeas-web-fonts-8e3879f4ccbb), le studio interne d'IKEA detaille comment il a repense son systeme de polices web pour gagner en performance, accessibilite et coherence. En quelques annees, IKEA est passe de l'historique Futura a Verdana, puis a Noto Sans mais dans une version personnalisee : Noto IKEA. L'article revient notamment sur le choix de ne pas integrer cette Google Font directement depuis les serveurs de Google, meme si ce n'est pas systematique selon les pays et les alphabets.  
+  
+[Un retour d'experience clair et documente](https://medium.com/flat-pack-tech/ikeas-web-fonts-8e3879f4ccbb), tres utile pour ceux qui s'interessent a la typographie sur le web et son optimisation.  
+---  
+  
+| | | Le meilleur lien de l'edition n°152  
+---  
+  
+| | Besoin de vacances, non ?  
+---  
+Le palmares de destinations du Monde ne vous a pas laisse indifferents visiblement, l'hiver a ete rude ?   
+[(Re)decouvrir les 10 destinations phares de 2025 sans avion](https://www.lemonde.fr/m-styles/visuel/2025/01/04/ou-partir-en-2025-le-palmares-des-10-destinations-du-monde-sans-avion_6480769_4497319.html)  
+  
+| | | Asynchronisme  
+---  
+  
+| 🗓️  
+---  
+  
+| | Une semaine pour apprendre un poeme avec le NYT  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/fe8bc700-f5f2-1b98-535b-0686ef400c7f.png)](https://www.nytimes.com/interactive/2025/books/edna-st-vincent-millay-recuerdo-poem-challenge.html)  
+---  
+Le New York Times lance un defi : celui d'apprendre un poeme, Recuerdo de Edna St. Vincent Millay, en une semaine. Pour ce faire, le media a mis en place un programme sur 5 jours, du lundi au vendredi, qui se termine toujours par un petit exercice de memorisation pour de l'apprentissage du poeme. On aime l'asynchronisme de ce type de production, qui ne vieillit jamais, et qui peut vivre par lui-meme.   
+[Apprendre le poeme Recuerdo](https://www.nytimes.com/interactive/2025/books/edna-st-vincent-millay-recuerdo-poem-challenge.html)  
+  
+| | | ![](https://newsletter.datagif.fr/ext/datagif/img/newsletter.png) Oh, vous ici ?  
+---  
+On vous a transfere cette newsletter ? Recevez tous les 15 jours, le meilleur de la veille innovation et design d'information, par Datagif.  
+| [Abonnez-vous ](https://datagif.fr/newsletter-medias/)  
+---  
+  
+| | | Habemus Papam   
+---  
+  
+| ⛪️  
+---  
+  
+| | Notre revue de presse a la suite du deces du pape François  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/1fcbe6c3-e4a5-7be8-21db-8cd2868b768e.gif)](https://www.la-croix.com/Religion/infographie/comment-sont-elus-les-papes/)  
+---  
+A quelques heures du debut du conclave, voici  une selection de quelques formats qui ont retenus notre attention :   
+  
+💡 La Croix a publie [long format immersif](https://www.la-croix.com/Religion/infographie/comment-sont-elus-les-papes/) pour comprendre comment sont elus les papes, ou a lieu le vote, qui peut voter, quelles sont les etapes a respecter… Bref, l'experience est complete, et bien executee ! Le media a egalement lance une newsletter quotidienne, [L'Edition speciale pape](https://m.prod1.emailing.la-croix.com/nl/jsp/m.jsp?c=yMq3sRVvItRd6pDrqVD6LgEgt2hwGR8X), pour tout savoir sur le pape et le conclave. On apprecie particulierement la rubrique "Les grandes voix du conclave", qui presente chaque jour une personnalite de l'assemblee.   
+  
+🗳️ BFMTV a egalement publie [une infographie](https://www.bfmtv.com/societe/religions/infographies-votants-mode-de-scrutin-fumee-blanche-comment-le-conclave-va-elire-le-prochain-pape_GN-202505070042.html) pour expliquer comment se deroule l'election du prochain pape. Nous avons, par ailleurs, retenu [la presentation detaillee](https://www.bfmtv.com/societe/religions/qui-pour-succeder-au-pape-francois-les-cardinaux-les-plus-en-vue-du-conclave_AN-202505070046.html) des cardinaux les plus en vue du conclave.  
+  
+📆 Le Washington Post a publie de nombreux contenus, dont on retient en particulier une [belle timeline des moments les plus marquants de la carriere du pape François](https://www.washingtonpost.com/world/interactive/2025/pope-francis-photos-videos-defining-moments/). Le media a egalement [retranscrit une discussion](https://www.washingtonpost.com/opinions/interactive/2025/prompt-pope-francis-legacy-successor/) entre des chroniqueurs du WaPo sur l'heritage du pontife, ainsi que des decisions auxquelles son successeur devra faire face. Enfin, a l'image de La Croix, nous avons retenu ce "[guide visuel](https://www.washingtonpost.com/religion/interactive/2025/pope-election-conclave-process/)" sur la maniere dont le prochain pape sera elu.   
+  
+📐 Si vous voulez davantage vous projeter, CNN a produit une [visualisation 3D du conclave](https://edition.cnn.com/2025/05/06/world/video/pope-conclave-3d-visualization-catholic-church-digvid), un peu kitch - qu'on se le dise - mais efficace. En français, [la version du Monde](https://www.youtube.com/watch?v=9GRJMJClc30).  
+  
+🌏 Le New York Times a publie un format sur [l'evolution geographique de la composition du conclave](https://www.nytimes.com/interactive/2025/05/06/world/europe/cardinals-conclave-2025.html) sur les consequences que cela peut avoir dans le cadre du vote en cours, et sur le deplacement de l'equilibre du pouvoir de l'Italie et de l'Europe vers les regions du monde ou l'Église est en pleine croissance. Nous avons egalement retenu cette [analyse d'une photographie](https://www.nytimes.com/2025/04/23/world/europe/pope-francis-death-vatican-rituals.html$) prise pendant les obseques du pape François, qui permet de faire le point sur des rituels ancestraux, mais aussi sur les evolutions contemporaines observees.    
+  
+👌 Un peu plus niche, une equipe "_internationale et ind ependante de journalistes et de chercheurs catholiques se sont reunis_" pour creer le [Cardinalium Collegii Recensio](https://collegeofcardinalsreport.com/), soit le rapport du College des cardinaux. Qui sont les cardinaux qui composent le conclave ? Qui a le droit de vote ? Qui sont les "papabili" ? Comment se positionnent-ils sur differents sujets de societe ? D'ou viennent-ils ? Bref, le site est complet, l'experience est quali.  
+  
+| | | Bonus  
+---  
+Des liens varies, et toujours de qualite !  
+🌞 Le WaPo nous emmene a la decouverte de [l'origine des aurores boreales](http://washingtonpost.com/weather/interactive/2025/what-makes-auroras-glow-this-comic-is-your-guide/), le tout sublime par de jolies illustrations.  
+  
+💰 Plongez dans la [deco bling-bling de mauvais gout du bureau ovale](https://www.washingtonpost.com/opinions/interactive/2025/trump-oval-office-baroque-rococo/?itid=hp_most-read_p002_f009_2) pensee par Trump. 🍷 The Pudding se livre a une [analyse approfondie des etiquettes de vin](https://pudding.cool/2025/04/wine-animals/), avec un focus particulier sur celles representant des animaux. 🌍 Les [petites initiatives ecologiques a integrer dans son quotidien](https://www.washingtonpost.com/climate-solutions/interactive/2025/earth-day-2025-climate-action-recycling/), ponctuees par des illustrations soignees.   
+  
+🎬 Du papier a l'ecran : [la liste des articles de presse qui ont inspire le cinema](https://electrictype.substack.com/p/classic-articles-that-became-films?utm_source=post-email-title&publication_id=3385643&post_id=162966742&utm_campaign=email-post-title&isFreemail=true&r=4dr78&triedRedirect=true&utm_medium=email)   
+   
+  
+| | | On se revoit dans 15 jours !  
+---  
+✏️ Cette edition a ete preparee par Athenais, Lucie, Charly, Aurore et Gaetan.  
+  
+En ce mois de mai ensoleille, on est bien occupe ! On travaille entre autres sur :  
+  
+📺 la refonte de l'identite video d'un grand media eco, toujours en parallele des autres produits numeriques (ça sera tres puissant une fois tout deploye)  
+✨ la continuite d'un projet entame en janvier pour un media b2b : nous avançons sur les maquettes graphiques (en toute honnetete, ça va etre canon)  
+📚 une etape charniere : on a presente les pistes d'identite pour un service de la BnF (on attend les retours mais la reu s'est bien passee !)  
+✊ et on demarre le lifting de l'identite d'[une agence dediee a la valorisation du RSE](https://agence-possible.fr/) (appelez-les !)  
+   
+par  
+| [![DATAGIF](https://newsletter.datagif.fr/ext/datagif/img/logo-big.png)](https://datagif.fr)  
+---  
+  
+| | | ![](https://newsletter.datagif.fr/ext/datagif/img/social.png) Retrouvez-nous sur les réseaux  
+---  
+[Medium](https://datagif.medium.com/) [X](https://x.com/datagif) [Bluesky](https://bsky.app/profile/datagif.bsky.social) [Instagram](https://www.instagram.com/datagif/) [Threads](https://www.threads.net/@datagif) [Linkedin](https://www.linkedin.com/company/datagif/) [Datagif.fr](https://datagif.fr/)  
+  
+| | Vous recevez cet e-mail car vous êtes inscrit•e via le site [datagif.fr](https://datagif.fr/newsletter-medias/)Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)  
+👋 [Cliquez-ici](*|UNSUB|*) pour vous désabonner  
+---

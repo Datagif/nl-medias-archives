@@ -1,0 +1,186 @@
+*|MC_PREVIEW_TEXT|*  
+  
+͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿
+
+| | [Ouvrir dans le navigateur](*|ARCHIVE|*)  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/ba7225e6-3b42-f0a9-5e0b-6fb8cbc7c793.jpg)](*|ARCHIVE|*)  
+---  
+  
+| | | ![Médias](https://newsletter.datagif.fr/ext/datagif/img/medias-v2.png)  
+---  
+  
+| 135  
+---  
+  
+| | La veille innovation et design média par Datagif  
+---  
+  
+| | | JO-8  
+---  
+Nous sommes aux portes de ~~l 'enfer~~ l'ete et l'actualite est loin d'etre calme. L'occasion d'identifier des elements qui permettent de bien gerer son contenu : a la fois des rendez-vous pris il y a bien longtemps, qui ont pu se preparer correctement a l'avance ; mais aussi de l'actu impromptue, qui a demontre a quel point il est essentiel d'avoir un socle design solide pour se concentrer sur le contenu... ; et sans oublier les rendez-vous recurrents, qui s'ameliorent et evoluent d'une annee a l'autre. Bref, que vous soyez ou non dans un media, tout cela vous parlera certainement ! Bonne lecture 👋  
+  
+| | | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/dd27fd0a-f659-dbfe-2c8d-0fa69e1c9747.png)  
+---  
+  
+| Gaetan Duchateau  
+---  
+Lead @Datagif  
+  
+| | | Paris 2024  
+---  
+  
+| 🥇  
+---  
+  
+| | Le dispositif special JO imagine par Datagif pour Actu en cours de deploiement  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/d7987292-e3ab-91dc-d630-0f7e3942c6bf.gif)](https://actu.fr/sports/jo-paris-2024-teddy-riner-judo-son-palmares-et-son-histoire_61230222.html)  
+---  
+Si vous vous en rappelez, il y a une quinzaine d'editions nous avions glisse ici avoir reflechi a des idees de traitement editorial pour les Jeux. Nous avons donc collabore avec Actu.fr pour concevoir un hub et deux gabarits dedies aux Jeux Olympiques tout en repondant a deux criteres importants : la valorisation du local + la reemployabilite du gabarit.  
+  
+🎯 Le premier gabarit dispo : [des portraits de sportif*ves](https://actu.fr/sports/jo-paris-2024-teddy-riner-judo-son-palmares-et-son-histoire_61230222.html), pour montrer la richesse des territoires locaux, les origines de celles et ceux qui font les Jeux, que vous apprendrez a decouvrir au fil des epreuves si vous ne les connaissez pas. [Ces portraits](https://actu.fr/bretagne/rennes_35238/jo-paris-2024-camille-prigent-nee-a-rennes-elle-represente-la-france-en-kayak-aux-jeux-olympiques-de-paris-2024_61024141.html) sont realises par les differentes redactions locales d'Actu, presentes selon un maillage national tres fort, de maniere a faire valoir l'info locale au profit d'une audience nationale.  
+  
+La suite : dans la prochaine newsletter ! 👀  
+  
+| | | Divination  
+---  
+  
+| ⚽  
+---  
+  
+| | L'Équipe tire les cartes a Mbappe  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/bc373b0d-4332-b625-fb87-215b7a259238.gif)](https://www.lequipe.fr/explore/wf138-qui-est-mbappe/)  
+---  
+Au debut de l'Euro, ou Mbappe n'a pas particulierement brille, L'Équipe Explore a publie un portrait en cinq parties consacre a la star du football. Que cache Kylian derriere son masque ? Dans ce long format qui essaie de lever plus le voile, on apprecie notamment les illustrations sous forme de cartes de tarot pour representer les differentes facettes de sa personnalite.  
+[Decouvrir en cartes animees qui est Kylian Mbappe](https://www.lequipe.fr/explore/wf138-qui-est-mbappe/)  
+  
+| | | ![](https://newsletter.datagif.fr/ext/datagif/img/newsletter.png) Bienvenue  
+---  
+Cette newsletter vous a ete transferee ? N'attendez pas que votre sympathique contact oublie de le faire la prochaine fois.  
+| [S'abonner a la newsletter](https://datagif.fr/newsletter-medias/)  
+---  
+  
+| | | Lecture  
+---  
+  
+| 📚   
+---  
+  
+| | Le traditionnel guide de lecture des livres selectionnes par le NYT  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/57581fb3-fabd-b3c2-f089-ac1958cee44b.jpg)](https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html)  
+---  
+Le New York Times a recemment publie le top 100 des meilleurs livres du 21e siecle, rien que ça ! Pour y parvenir, le media a interroge 503 romanciers, auteurs de non-fiction, poetes, critiques et autres amateurs de livres et a reference le classement dans une looooongue page liste bien pensee. Chaque livre presente est accompagne d'une case a cocher "Je l'ai lu" ou "Je veux le lire". Ce dernier permet d'acceder a la critique de l'ouvrage par le NYT, mais propose egalement des liens d'achat. Une fois que l'utilisateur a termine de lister les livres lus, et ceux a lire, une image est generee - comme un petit memo, a garder pour soi ou a partager sur les reseaux sociaux. Malin !  
+  
+Et le media ne s'arrete pas la car il permet aussi de [decouvrir les resultats des 503 votants](https://www.nytimes.com/interactive/2024/books/authors-top-books-21st-century.html), et de [partager a votre tour votre classement](https://www.nytimes.com/interactive/2024/books/vote-books-century.html). Et si le top 100 vous intimide, ou que vous vous sentez perdus face a une telle liste, le [NYT vous aide a choisir](https://www.nytimes.com/interactive/2024/books/21st-century-books-read-next.html)[ votre future lecture](https://www.nytimes.com/interactive/2024/books/21st-century-books-read-next.html). En bref, l'exercice a ete parfaitement mene : le classement est accompagne de divers formats qui permettent de prolonger l'experience proposee et de valoriser la liste par ailleurs.   
+[Decouvrir le top 100 des meilleurs livres du 21e siecle](https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html)  
+  
+| | | Le 50/50  
+---  
+Deux mots cles, des tonnes de bons liens : choisissez !  
+Votre envie cette semaine ?  
+  
+| | | [📊 infographie](https://datagif.fr/liens/?format=infographie)  
+---  
+  
+| | [🤒 sante](https://datagif.fr/liens/?theme=sante)  
+---  
+  
+| | | Resultats  
+---  
+Il y a 15 jours  
+Plein les yeux pour le format photo !  
+  
+| | | [📸 photo](https://datagif.fr/liens/?format=photo)  
+---  
+  
+| | [🏆 67% ](https://datagif.fr/liens/?theme=politique)  
+---  
+  
+| |   
+---  
+  
+| | | [🔊 audio](https://datagif.fr/liens/?format=audio)  
+---  
+  
+| | [33% ](https://datagif.fr/)  
+---  
+  
+| | | Nouveau media  
+---  
+  
+| 🏀  
+---  
+  
+| | La Base, le media qui raconte le sport au-dela des medailles et des perfs  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/32963f44-fe90-a072-be23-9b83bb174e8b.gif)](https://www.instagram.com/la_base_media/)  
+---  
+🤫 En fin d'annee derniere, La Maison de la Conversation, Renee Prod et le journaliste Karim Balde ont sollicite Datagif pour nous partager leur grande ambition : creer un media pour traiter de tout ce qui fait le sport… a l'exception des performances ! ✏️ Nous les avons donc accompagne dans la definition du positionnement de La Base, le prototypage des sujets, et avons egalement conçu l'identite du media. Puis l'equipe a continue le travail en chambre, accompagnee des etudiants de l'EMI, pour preparer la sortie de ce media 100% digital. À quelques jours du debut des JO, voici enfin La Base, sur [TikTok](https://www.tiktok.com/@la_base_media?_t=8nHE8RpKuw4&_r=1) et [Instagram. ](https://www.instagram.com/la_base_media/) 🏅 Curieux*ses ? Laura Taouchanov, redactrice en cheffe, [vous embarque dans les coulisses](https://www.instagram.com/p/C8j6mXoqT1y/) et vous en dit plus sur ce projet inclusif et a impact. Longue vie a La Base !  
+  
+| | | 🥁 Le meilleur lien d'il y a 15 jours  
+---  
+  
+| | Cartographie a la française  
+---  
+La page en acces libre de Contexte a suscite le plus de clics chez vous. Si vous l'avez manquee, il s'agit d'une carte particulierement complete reprenant toutes les infos du second tour des legislatives. Cette carte a evolue, ayant servi d'observatoire des "points chauds" pour les partis pendant l'entre-deux tours.  
+🗳️ [Revenir sur la carte de Contexte](https://www.contexte.com/article/pouvoirs/carte-des-legislatives-2024_193466.html)  
+  
+| | | SF  
+---  
+  
+| 👾  
+---  
+  
+| | The Pudding explore les tendances en science-fiction depuis 1950  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/4cedf3c4-5449-373c-2903-80cbd0c7318b.jpg)](https://pudding.cool/2024/07/scifi/)  
+---  
+Le journaliste a extrait les 200 films les mieux notes sur IMDb, a mouline le tout dans ChatGPT pour en sortir quelques appuis d'analyse interessants. Sa question de depart : "qu'est-ce qui detruit le monde" dans la science-fiction et comment cela evolue depuis pres de sept decennies.   
+  
+Les resultats sont aussi parlants que clairement delivres, via deux moyens : [d'abord ce long format](https://pudding.cool/2024/07/scifi/), illustre façon pixel-art, ou les graphiques s'enchainent pour demontrer (s'il le fallait) a quel point la SF reflete nos peurs contemporaines. Et si vous preferez l[e format video](https://www.youtube.com/watch?v=nRQ2vMpw-n8), le journaliste vous raconte tout cela en 5mn chrono. Une approche complementaire qui confirme la multiplicite des publics selon les supports.   
+  
+🚀 Bonus lecture : si la SF et la prospective vous interessent, lisez la newsletter NovFut, [dont cette edition qui dresse les futurs possibles](https://nouvellesdufutur.substack.com/p/novfut-27-14-futurs-de-lhumanite) d'ici 2050.  
+[Explorer l'etude SF chez The Pudding](https://pudding.cool/2024/07/scifi/)  
+  
+| | | Politique  
+---  
+  
+| 🗳️  
+---  
+  
+| | Le boom des simulateurs de coalition  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/7c9d05a1-4caf-715f-05b8-b6907115e907.jpg)](https://www.lefigaro.fr/elections/legislatives/resultats-legislatives-tentez-de-composer-une-majorite-absolue-avec-notre-simulateur-de-coalitions-20240708)  
+---  
+Notre ancien collegue Maxime le [predisait](https://x.com/maxloisel/status/1810272502263763367) au lendemain du deuxieme tour : de nombreux medias ont publie leur outil interactif permettant au lecteur d'imaginer comment arriver a une majorite absolue au vu de la composition de l'assemblee nationale. On a recense ici celui du [Grand Continent](https://legrandcontinent.eu/fr/2024/07/07/legislatives-resultats-du-second-tour-decouvrez-notre-simulateur-de-coalition-exclusif/), premier publie, [Le Monde](https://www.lemonde.fr/les-decodeurs/article/2024/07/09/construisez-votre-majorite-absolue-a-l-assemblee-nationale-avec-notre-simulateur-de-coalition_6248225_4355770.html) avec sa vue par siege, [Le Parisien](https://www.leparisien.fr/elections/legislatives/legislatives-2024-quelle-coalition-pour-la-majorite-a-lassemblee-construisez-la-avec-notre-simulateur-09-07-2024-6HI7QHTLTRD3DA7NDQZBFXQLR4.php) et [Le Telegramme](https://www.letelegramme.fr/elections/legislatives/legislatives-creez-une-majorite-a-lassemblee-nationale-avec-notre-simulateur-de-coalition-6623054.php)... Mais si on doit choisir notre prefere, c'est peut-etre [celui du Figaro](https://www.lefigaro.fr/elections/legislatives/resultats-legislatives-tentez-de-composer-une-majorite-absolue-avec-notre-simulateur-de-coalitions-20240708) qui arrive en tete, plus pratique et plus lisible que les autres : pas besoin de trop defiler verticalement, les libelles sont complets et clairs. Mais peut-etre qu'on aurait besoin d'un simulateur de coalition des simulateurs de coalition pour determiner l'outil ideal ?  
+[Tester votre coalition sur l'outil du Figaro](https://www.lefigaro.fr/elections/legislatives/resultats-legislatives-tentez-de-composer-une-majorite-absolue-avec-notre-simulateur-de-coalitions-20240708)  
+  
+| | | Bonus  
+---  
+Pour quelques liens de plus  
+🎠 Un carrousel pas trop mal (on aime pas trop les carrousels mais bon) se trouve chez Dazed : [cette selection de lecture](https://www.dazeddigital.com/life-culture/article/63043/1/17-books-to-read-as-summer-2024-slouches-on-column-recommendations-sally-rooney/) integre le post Insta du livre dont il est question, et franchement ça se deroule plutot bien.  
+  
+🧑‍🎨 L'Équipe propose un long format etonnant dedie au nageur français Leon Marchand. La particularite : [un mix photos / illustrations en surimpression](https://www.lequipe.fr/explore/wf135-marchand-chrono/), donnant un vague air de roman-photo estival. Et pourquoi pas ?    
+  
+🏊‍♀️ La reprise d'un sport de haut niveau apres une mauvaise chute, c'est ce qu'ont propose les etudiants du [CUEJ](https://cuej.unistra.fr/), qui ont remporte la 2e place du prix l'Equipe explore. [L'article illustre tout en douceur par des animations tres legeres](https://www.lequipe.fr/explore/wf139-sauts-perilleux/), merite le coup d'oeil.  
+  
+📹 C'est l'ete, la periode des vacances et des craintes du Airbnb truffe de cameras. [CNN revient sur quelques unes de ces affaires, dans un double article](https://edition.cnn.com/2024/07/09/business/airbnb-hidden-camera-invs/?utm_source=substack&utm_medium=email) : a la fois fourni en textes, mais egalement en videos. Encore une double diffusion d'un meme sujet pour des audiences aux habitudes differentes.  
+  
+| | | Merci pour votre fidelite  
+---  
+Rendez-vous dans deux semaines, avant une pause estivale 😎  
+par  
+| [![DATAGIF](https://newsletter.datagif.fr/ext/datagif/img/logo-big.png)](https://datagif.fr)  
+---  
+  
+| | | ![](https://newsletter.datagif.fr/ext/datagif/img/social.png) Retrouvez-nous sur les réseaux  
+---  
+[Medium](https://datagif.medium.com/) [X](https://x.com/datagif) [Bluesky](https://bsky.app/profile/datagif.bsky.social) [Instagram](https://www.instagram.com/datagif/) [Threads](https://www.threads.net/@datagif) [Linkedin](https://www.linkedin.com/company/datagif/) [Datagif.fr](https://datagif.fr/)  
+  
+| | Vous recevez cet e-mail car vous êtes inscrit•e via le site [datagif.fr](https://datagif.fr/newsletter-medias/)Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)  
+👋 [Cliquez-ici](*|UNSUB|*) pour vous désabonner  
+---

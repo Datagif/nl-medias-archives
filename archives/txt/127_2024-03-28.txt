@@ -1,0 +1,196 @@
+*|MC_PREVIEW_TEXT|*  
+  
+͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿
+
+| | [Ouvrir dans le navigateur](*|ARCHIVE|*)  
+---  
+| ![Médias](https://newsletter.datagif.fr/ext/datagif/img/medias.png)  
+---  
+La veille innovation et design média par DATAGIF  
+  
+| |   
+---  
+  
+| | | Cette semaine, nous avons eu le privilege de [presenter une selection de bons liens aupres de personnes decisionnaires](https://www.linkedin.com/feed/update/urn:li:activity:7178760444159954947/). C'est chouette, non ? Deja, ça nous montre que notre veille est concretement utilisee lors d'ateliers d'ideation, et puis ça nous conforte dans l'idee que les medias ont un role indispensable aupres des publics : comment mieux informer ? Comment s'ameliorer ?  
+  
+Dans cette edition, nous vous proposons toujours une selection de liens commentes, mais n'hesitez pas a nous repondre si vous souhaitez que l'on vienne les raconter chez vous !  
+---  
+  
+| |   
+---  
+  
+| | | 
+
+## 1\. Topo
+
+##  Comment creer du contenu qui fait du sens grace a l'IA generative ? On tente un recap a date  
+  
+---  
+  
+| | | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/3d38ffe9-97a7-1603-8d1a-fe46f2bb6395.jpg)  
+---  
+  
+| | Zach Seward, ancien de Quartz et nouveau responsable IA au New York Times, a poste recemment l[e transcript de sa conference](https://www.zachseward.com/ai-news-thats-fit-to-print-sxsw-2024/) faisant l'etat des lieux des bons et mauvais usages de l'IA dans les redactions. Il y aborde notamment le fantasme des sites qui seraient quasi-automatises par l'IA, generalement une mauvaise idee n'apportant aucune plus value au lecteur. Il cite tout de meme deux bons exemples :  
+  
+📈 [Realtime](https://realtime.org/) agrege informations et flux de donnees pour les presenter automatiquement sous la forme d'un tableau de bord de datavisualisations originales. Un format plus visuel adapte aux limites editoriales de l'IA automatisee.  
+  
+💌 [WITI Recommends](https://www.interesting.us/) recense toutes les recommandations publiees dans les 1500 editions de [la newsletter](https://whyisthisinteresting.substack.com/p/the-witi-recommends-edition) "Why is this interesting ?". Avec un telle quantite d'archives, Chat GPT a permis d'extraire et classer les recommandations de produits dans un format lisible sans devoir revenir sur chaque numero manuellement. Une idee qu'on aurait adore avoir pour notre propre page [Dataliens](https://datagif.fr/liens/) !  
+---  
+---  
+  
+| |   
+---  
+  
+| | | 
+
+## 2\. Diversification
+
+## Le quotidien Suisse Le Temps a cree un site dedie aux offres d'emploi  
+  
+---  
+  
+| | | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/f76bc985-4f7d-e1c1-f37b-4ed868c561e5.jpg)](https://letempsemploi.ch/)  
+---  
+  
+| | Dans la continuite des petites annonces paraissant dans le papier depuis plusieurs annees, Le Temps lance[ un site dedie au recrutement et a l'emploi](https://letempsemploi.ch/). La plateforme est issue d'un media partenaire, le groupe suisse NZZ ; dans un esprit de collaboration, la technologie a donc ete empruntee.  
+  
+Avec en plus des services d'experts pour les candidat*es et des articles lies aux thematiques de l'emploi, **voil a une bonne maniere pour le media d'incarner son role de lien social**.  
+---  
+| | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+En savoir plus [sur les coulisses et le modele de la plateforme](https://www.letemps.ch/economie/le-groupe-le-temps-lance-son-portail-emploi)  
+  
+| |   
+---  
+  
+| | | | ![](https://newsletter.datagif.fr/ext/datagif/img/mail.png)  
+---  
+Allez hop, si vous etes d'humeur : envoyez ce lien a une personne que vous connaissez mais qui ne connait pas encore cette newsletter (mais devrait !)  
+| [Clic clic clic 💙](https://datagif.fr/newsletter-medias/)  
+---  
+  
+| |   
+---  
+  
+| | | 
+
+## 3\. SOS
+
+## Le micro-detail qui fait la difference : un encart pour obtenir de l'aide glisse dans une enquete  
+  
+---  
+  
+| | | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/6b3a0aa0-384f-ed44-686d-d0d80c5b1d4e.jpg)](https://www.washingtonpost.com/investigations/interactive/2024/764-predator-discord-telegram/)  
+---  
+  
+| | Si les nombreux systemes de "sextorsion"en ligne commencent aujourd'hui a etre connus du grand public, un nouveau phenomene l'est moins : des menaces de divulgation d'images intimes contre des actes de cruaute et d'automutilation. Une importante etude realisee conjointement par le [Washington Post](https://www.washingtonpost.com/investigations/interactive/2024/764-predator-discord-telegram/), [Wired Magazine](https://arc.net/l/quote/qgwrtddg), [Der Spiegel](https://www.spiegel.de/ausland/cybergrooming-wie-sich-sadisten-weltweit-in-chatgrupp\[%E2%80%A6\]-straftaten-verabreden-a-1722ca0d-9242-423b-9b18-1e5dff505aa4?itid=lk_inline_enhanced-template) et [Recorder](https://recorder.ro/am-ucis-pe-cineva-in-video-call-reteaua-globala-de-tineri-care-isi-castiga-popularitatea-online-prin-crime-pornografie-infantila-si-automutilarea-victimelor/?itid=lk_inline_enhanced-template), revele l'existence de nombreux reseaux internationaux, principalement presents sur Discord et Telegram. Le Washington Post presente notamment le temoignage de la mere d'une victime, et met en lumiere l'engrenage dans lequel tombent de nombreux adolescents. Au dela de l'enquete passionnante, nous relevons**le petit encart "How to get help"**, destine aux victimes et leur entourage, renvoyant vers des plateformes nationales telles que le FBI. **Un petit rien qui fait toute la diff erence** sur ce type de contenus.  
+---  
+| | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[Voir l'encart en situation](https://www.washingtonpost.com/investigations/interactive/2024/764-predator-discord-telegram/) chez le Washington Post  
+  
+| |   
+---  
+  
+| | | 
+
+## 4\. Marronnier
+
+## CNN repond a la question que personne ne se pose  
+  
+---  
+  
+| | | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/2e4242bb-9387-f218-6d4c-9878e7023d9b.gif)](http://https://edition.cnn.com/interactive/2024/02/world/leap-year-meaning-explained-dg-scn/)  
+---  
+  
+| | Que se passerait-il si nous n'avions pas d'annee bissextile ? Vous vous en doutez : tout est une affaire de solstice et de mathematiques. Et pour rendre accessible la comprehension du sujet au plus grand nombre, le media propose une projection en 2028, 2053, 2396 et 2777 sans annee bissextile : notre calendrier aurait alors avance de 182 jours ! Ça serait le bazar... Le traitement visuel est efficace, l'audience repart avec une reponse claire, et **le m edia montre le parfait exemple de l'article marronnier : celui qu'il est possible de republier tous les 4 ans, et qui attirera toujours autant de monde**.  
+---  
+| | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+Decouvrir [comment les annees bissextiles ont ete determinees](https://edition.cnn.com/interactive/2024/02/world/leap-year-meaning-explained-dg-scn/)  
+  
+| |   
+---  
+  
+| | | 
+
+## 5\. Logo
+
+## Datagif a dessine le logo du podcast "Le Sacre" pour Le Parisien  
+  
+---  
+  
+| | | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/f978d51b-bfd4-e3fa-8714-4a5c86aa408a.jpg)](https://www.leparisien.fr/podcasts/le-sacre/)  
+---  
+  
+| | Chaque mercredi, Anne-Laure Bonnet s'entretient en toute intimite avec une championne ou un champion olympique ou paralympique. De l'energie, du condense, une perspective vers la victoire et les couleurs olympiques : voici comment nous avons interprete ce rendez-vous sonore !  
+---  
+| | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+Écouter [Le Sacre chez Le Parisien](https://www.leparisien.fr/podcasts/le-sacre/)  
+  
+| |   
+---  
+  
+| | | 
+
+## 6\. Processus
+
+## Contexte vous explique les 10 etapes pour integrer l'Union europeenne  
+  
+---  
+  
+| | | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/b03883c7-b278-8244-522c-fc028abbcc13.jpg)](https://www.contexte.com/article/pouvoirs/la-course-a-lelargissement-ou-en-sont-les-pays-candidats_181056.html)  
+---  
+  
+| | Comment un nouveau pays integre-t-il l'UE ? C'est ce que Contexte propose de vous faire comprendre grace a [ce long format](https://www.contexte.com/article/pouvoirs/la-course-a-lelargissement-ou-en-sont-les-pays-candidats_181056.html) melant cartographie, effet de defilement et photos, dans un gabarit tres lisible et qui s'integre au reste du site de maniere transparente. On salue l'effort pour rendre plus aisee la comprehension d'un sujet aussi dense tout en gardant un cote leger grace a la metaphore du jeu de l'oie. (l'oie, loi, vous l'avez ?)  
+---  
+| | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+Commencer [le jeu de l'oie de l'UE chez Contexte](https://www.contexte.com/article/pouvoirs/la-course-a-lelargissement-ou-en-sont-les-pays-candidats_181056.html)  
+  
+| |   
+---  
+  
+| | | 
+
+## 7\. Reduflation
+
+## Le Guardian illustre parfaitement la strategie commerciale qui consiste a reduire le contenu d'un produit pour un prix plus eleve  
+  
+---  
+  
+| | | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/92676707-c483-e4ee-4939-293086c102ff.gif)](https://www.theguardian.com/news/ng-interactive/2024/mar/26/how-shrinkflation-is-impacting-your-cereal-and-making-you-pay-more-for-less)  
+---  
+  
+| | Deux boites de cereales Kellogg's illustrent l'article : 2019 comparee a 2024, en poids et en prix. **La d emonstration visuelle est implacable** : en cinq ans, les 100g de ces cereales coutent 82,1 % plus cher. L'article poursuit avec d'autres gammes de cereales, pour illustrer ce phenomene qui a un impact direct sur le porte-monnaie des lecteurs*trices.  
+---  
+| | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+Faire [l'experience des cereales chez le Guardian](https://www.theguardian.com/news/ng-interactive/2024/mar/26/how-shrinkflation-is-impacting-your-cereal-and-making-you-pay-more-for-less)  
+  
+| |   
+---  
+  
+| |   
+---  
+  
+| | C'etait le numero 127, prepare par Lucie, Aurore, Charly et Gaetan. Comme vous le savez peut-etre deja, **cette veille est un aper çu de ce que nous voyons au quotidien chez Datagif**. Notre role est d'accompagner nos clients dans leurs decisions, leurs projets, leur strategie, sur leurs produits numeriques. [Ça vous interesse ?](mailto:gaetan@datagif.fr?subject=Salut%20Datagif)   
+---  
+  
+| | | ![](http://gallery.mailchimp.com/653153ae841fd11de66ad181a/images/transparent.gif)  
+---  
+  
+| |   
+---  
+  
+| | Vous recevez cet e-mail car vous êtes inscrit•e via le site [datagif.fr](https://datagif.fr/newsletter-medias/)Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)  
+👋 [Cliquez-ici](*|UNSUB|*) pour vous désabonner  
+---  
+  
+| | DATAGIF  
+---  
+  
+| |   
+---

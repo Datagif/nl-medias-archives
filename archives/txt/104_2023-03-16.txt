@@ -1,0 +1,223 @@
+*|IF:MC_PREVIEW_TEXT|*  
+  
+͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ 
+
+|  | [Ouvrir dans le navigateur](*|ARCHIVE|*)  
+---  
+| ![Médias](https://newsletter.datagif.fr/ext/datagif/img/medias.png)  
+---  
+La veille innovation et design média par DATAGIF  
+  
+|  | *|MC_PREVIEW_TEXT|*  
+---  
+  
+|  |   
+---  
+  
+|  |  | Quel est le point commun entre des newsletters, Twitter et Slack ? Ce sont des supports et outils qui contribuent a notre veille active et son organisation. On vous partage bien volontiers nos bonnes pratiques !  
+---  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 1\. Veille
+
+## Et vous, comment organisez-vous votre veille ? Datagif vous revele ses secrets de fabrication  
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/34514d73-301c-3a8a-657e-9fefbcccaa6e.jpg)](https://twitter.com/Datagif/status/1633414909596774402)  
+---  
+  
+|  | Apres , voici une question cruciale : comment bien veiller ? C'est une question que l'on nous pose souvent. Julia, Charly, PAM et Gaetan vous partagent leurs sources ✅, leurs methodes ✅, leurs outils ✅. Et vous allez voir, il n'y a pas vraiment de recette miracle...  
+---  
+|  | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[Decouvrir les methodes de l'equipe](https://twitter.com/Datagif/status/1633414909596774402) sur la veille  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 2\. Intro
+
+## Quand un detail design dit tout  
+  
+---  
+  
+|  |  | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/01c1d5a2-e47e-b037-5c99-94959ddbb37c.gif)  
+---  
+  
+|  | Le dossier de Rest of World consacre aux detenteurs de visas associes a un permis de travail aux États-Unis, remercies lors des dernieres vagues de licenciement dans la tech, fait froid dans le dos. Fouille et dote d'une direction artistique soignee jusque dans les graphiques interactifs, il merite toute votre attention.  
+  
+C'est un detail en intro qui enfonce le clou : au defilement de la page, le visa se brise en plusieurs morceaux, illustrant dynamiquement le titre de l'article : "60 jours pour trouver un emploi ou quitter le pays". D'une simplicite tellement evidente que cela fait son petit effet.  
+---  
+|  | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[Explorer le dossier complet](https://restofworld.org/2023/techs-bad-year-global-layoffs-data/) chez Rest of World  
+  
+|  |   
+---  
+  
+|  |  |  | ![](https://newsletter.datagif.fr/ext/datagif/img/reseaux.png)  
+---  
+Retrouvez la veille et les projets de Datagif sur [Medium](https://datagif.medium.com/) • [Twitter](https://twitter.com/datagif) • [Instagram](https://www.instagram.com/datagif/) • [Datagif.fr](https://datagif.fr/)  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 3\. IA
+
+## Wired publie une charte d'utilisation de l'IA dans ses contenus  
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/a53e5a2f-2f35-1ba8-16b8-cf87bab4520e.jpg)](https://www.wired.com/story/how-wired-will-use-generative-ai-tools/)  
+---  
+  
+|  | IA : c'est le mot-cle du moment et beaucoup de medias se demandent quoi en faire. Si certains en jouent par quelques experimentations (de [couvertures](https://www.economist.com/news/2022/06/11/how-a-computer-designed-this-weeks-cover), ou [d'articles](https://www.nytimes.com/interactive/2023/02/13/opinion/valentines-day-chatgpt.html) generatifs), d'autres comme Wired prennent les devants. Le media publie a l'attention de ses lecteurs une charte d'usage detaillee, dont voici des extraits :  
+  
+🔴 pas de contenu ecrit, image ou video genere (pour eviter les biais, plagiats et erreurs...) ;   
+🔴 les images de stock ne seront pas remplacees par l'IA ;  
+🔴 pas d'article retravaille par une IA non plus (meme si la base est ecrite par un journaliste) ;  
+🟠 par contre, Wired annonce tester la generation de textes de reseaux sociaux ;  
+🟢 plus interessant : l'IA sera employee pour suggerer des idees d'articles ou d'angles sur la base d'analyse de donnees ;  
+🟢 et egalement utilisee comme assistante au moteur de recherche ou pour l'analyse de statistiques.  
+---  
+|  | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[Decouvrir la charte IA (et s'en inspirer ?)](https://www.wired.com/story/how-wired-will-use-generative-ai-tools/) chez Wired  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 4\. Climat
+
+## Franceinfo revoit en profondeur son approche du changement climatique  
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/547b9f98-e4b3-eba6-241c-835e37ee6539.jpg)](https://www.francetvinfo.fr/meteo/climat/infographies-climat-fait-il-chaud-ou-froid-pour-la-saison-comparez-la-meteo-du-jour-a-l-historique-des-temperatures-des-dernieres-decennies_5703086.html#xtor=CS2-765-%5Bautres%5D-)  
+---  
+  
+|  | Les bulletins meteo de France 2 et France 3 [evoluent](https://www.francetvinfo.fr/monde/environnement/crise-climatique/les-bulletins-meteo-sur-france-2-et-france-3-evoluent-pour-mieux-expliquer-le-changement-climatique_5708966.html) pour sortir du cadre meteorologique et davantage eduquer au climat. En ligne, ce sont des articles tournes vers le public qui sont valorises avec un desormais traditionnel systeme de questions [posees a la redaction](https://www.francetvinfo.fr/monde/environnement/crise-climatique/changement-climatique-nos-reponses-a-toutes-les-questions-que-vous-vous-posez.html).  
+  
+Ce qui retient notre attention, c'est surtout ce [tableau de bord](https://www.francetvinfo.fr/meteo/climat/infographies-climat-fait-il-chaud-ou-froid-pour-la-saison-comparez-la-meteo-du-jour-a-l-historique-des-temperatures-des-dernieres-decennies_5703086.html#xtor=CS2-765-%5Bautres%5D-), mis a jour quotidiennement, d'evolution de la temperature du jour sur la base des moyennes saisonnieres recentes. On l'imagine aisement se trouver en home du site ou de l'application.  
+👍 Le point positif de cet outil : c'est clair, precis, direct, simple a comprendre.  
+👎 Le point negatif : cette vue reste decorrelee du [traditionnel bulletin meteo](https://meteo.francetvinfo.fr/), dont la page n'a pas bouge d'un iota.   
+---  
+---  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 5\. Maxi best of 🍟
+
+## Quel que soit le lien sur lequel vous allez cliquer, vous allez vous regaler  
+  
+---  
+  
+|  |  | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/cb62fc74-58c9-aa15-066b-02722e0448ee.jpg)  
+---  
+  
+|  | 🔮 Juste avant la ceremonie des Oscars, USA Today s'interrogeait sur [le rapport vainqueur / blockbuster](https://eu.usatoday.com/in-depth/graphics/2023/03/08/oscars-best-picture-winners-box-office/11386099002/) (au-dela de 150 millions de $ de recettes). Le Guardian a pousse l'exercice jusqu'a [s'appuyer sur les statistiques](https://www.theguardian.com/film/ng-interactive/2023/mar/12/can-95-years-of-data-tell-us-who-will-win-this-years-oscar-for-best-picture?fbclid=PAAab_gNxw8veFZtzmCKh7ZWG2SDSYQtjqrv-wWlyn4gzmX2gBQdhOihrMl6c) pour prevoir, a juste titre, le succes de _Everything Everywhere All at Once._  
+  
+💄 Le nom des stars fait-il encore vendre des cosmetiques ? Bloomberg retrace [une hallucinante frise chronologique](https://www.bloomberg.com/graphics/2023-celebrity-beauty-brands-makeup-skincare/#xj4y7vzkg) des celebrites ayant lance leur marque.  
+  
+✏️ [La fusion nucleaire expliquee en illustrations](https://www.bloomberg.com/graphics/2023-fusion-power-path-lasers-versus-magnets) : c'est ce que parvient a faire Bloomberg, en nous montrant que tout se joue dans l'equivalent d'une gomme de crayon.  
+  
+🏥 Combien de _miles_ parcourir pour trouver une clinique d'avortement ? C'est l[a triste utilite de cette carte](https://projects.fivethirtyeight.com/abortion-driving-distance/) realisee par FiveThirtyEight, qui permet de visualiser la dramatique et progressive regression des droits des femmes aux Etats-Unis, avec des projections pessimistes.  
+  
+🛩️ Le presentiel, c'est important pour Elon Musk : son jet a fait 12,4 fois le tour de la Terre en 2022, [comme le souligne Bloomberg](https://www.bloomberg.com/graphics/2023-elon-musk-private-jet/#xj4y7vzkg).  
+  
+🏂 D'impressionnantes images embarquees d'une competition de snowboard intitulee "[Selection naturelle](https://www.nytimes.com/interactive/2023/03/12/sports/natural-selection-snowboarding-travis-rice.html)" ? Il n'en faut pas plus pour attiser votre curiosite.  
+  
+⛪ Écouter [des sons en 3D spatiale au coeur de Notre Dame](https://www.nytimes.com/interactive/2023/03/03/magazine/notre-dame-cathedral-acoustics-sound.html) ? Vous ne serez pas deçu.e du voyage...  
+---  
+---  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 6. Polemique
+
+## Alors, l'heure d'ete et l'heure d'hiver : utile ou pas utile ?  
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/961912cb-680b-9f03-7484-e74ede09b30b.gif)](https://edition.cnn.com/interactive/permanent-daylight-saving-time-impact-wellness/index.html)  
+---  
+  
+|  | C'est une vraie question qui revient tous les six mois. Et une partie de la reponse se trouve dans l'impact sur notre sante d'un decalage du cycle du soleil. Si l'origine du changement d'heure provient d'une solution a une crise energetique, son application est semble-t-il benefique pour notre organisme.   
+  
+CNN a donc realise un simulateur tres efficace pour se rendre compte de son temps d'exposition au soleil a partir de notre heure habituelle de petit-dejeuner. Certes, ce dispositif ne concerne que les residents U.S. mais la mecanique peut aisement etre repliquee en Europe !  
+---  
+|  | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[Simuler votre petit-dejeuner ensoleille](https://edition.cnn.com/interactive/permanent-daylight-saving-time-impact-wellness/index.html) chez CNN  
+  
+|  |   
+---  
+  
+|  |  |  | ![](https://newsletter.datagif.fr/ext/datagif/img/mail.png)  
+---  
+On vous a transféré cette newsletter et vous n'êtes pas encore inscrit.e ? Ce bouton d'inscription est pour vous :  
+| [Je m'inscris](https://datagif.fr/newsletter-medias/)  
+---  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 7\. Architecture
+
+## Comment rendre interessant un sujet de transformation de bureaux en appartements  
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/44ba957d-6dba-4972-e21a-f557e9d2c365.gif)](https://www.nytimes.com/interactive/2023/03/11/upshot/office-conversions.html)  
+---  
+  
+|  | Tout simplement passionnant, ce long format du New York Times qui s'attelle a detailler la pas si evidente transformation d'immeubles de bureaux en espaces habitables. À ressorts de plans segmentes et de vues d'ensemble, l'article nous pousse a nous interesser a cette problematique urbaniste avec une mecanique proche des emissions de tele-realite : vont-ils y arriver ?  
+---  
+|  | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[Devenir architecte le temps d'un article](https://www.nytimes.com/interactive/2023/03/11/upshot/office-conversions.html), chez le NYT  
+  
+|  |   
+---  
+  
+|  |   
+---  
+  
+|  | Merci d'avoir pris le temps de parcourir cette 104e edition. Et maintenant, vous savez comment on repere ces liens !  
+---  
+  
+|  |  | ![](http://gallery.mailchimp.com/653153ae841fd11de66ad181a/images/transparent.gif)  
+---  
+  
+|  |   
+---  
+  
+|  | Vous recevez cet e-mail car vous êtes inscrit•e via le site [datagif.fr](https://datagif.fr/newsletter-medias/)Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)  
+👋 [Cliquez-ici](*|UNSUB|*) pour vous désabonner  
+---  
+  
+|  | DATAGIF  
+---  
+  
+|  |   
+---

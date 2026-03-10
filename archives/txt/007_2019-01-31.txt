@@ -1,0 +1,76 @@
+---  
+![Médias](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/d060cdc3-f8d4-4207-b9bb-0b8ffda1ca6f.png)  
+La veille innovation et design media par Datagif  
+  
+| *|MC_PREVIEW_TEXT|*  
+---  
+---  
+1\. Video La chaine TicToc de Bloomberg s'emancipe de Twitter  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/01c65a7f-2ea1-4f86-900c-cd7762e80b2d.png)  
+---  
+Bloomberg ne lesine pas sur les moyens pour toucher de nouvelles audiences. En un an, sa chaine video TicToc lancee en partenariat avec Twitter, est devenue une vraie machine de guerre qui mobilise environ 70 personnes.  
+  
+Pour rentabiliser le concept, Bloomberg veut desormais diffuser ses courtes videos ["dans tous les endroits ou les gens consomment de l'information"](http://premium.lefigaro.fr/medias/2018/12/21/20004-20181221ARTFIG00263-tictoc-le-media-social-de-bloomberg-veut-se-developper-au-dela-de-twitter.php), selon sa directrice. Un podcast et une newsletter ont recemment ete lances, mais TicToc developpe aussi une presence dans les lounges d'aeroports et les taxis aux Etats-Unis !  
+  
+Dernier ajout, lance cette semaine :**** TicToc possede desormais **son propre site web**. Pensee pour le mobile, cette nouvelle extension sert avant tout de vitrine mais ne neglige pas l'experience utilisateur. Le site se presente comme un tunnel de courtes videos a la navigation bien conçue. À noter, pas d'autoplay, pas de son active par defaut et pas de publicite en vue pour le moment… meme si les equipes [testaient recemment de nouveaux formats moins intrusifs](https://adage.com/article/digital/tictoc-launches-ad-format-live-viewing-twitter/313467/) sur Twitter.  
+---  
+-- Le nouveau site de TicToc, [a tester ici](https://www.tictoc.video/)  
+---  
+2\. Carte Une façon plus visuelle de representer la densite de population   
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/a10df74b-0891-48cf-bcb3-38e21d9ee709.gif)  
+---  
+ThePudding est repute pour ses formats originaux traitant en profondeur un sujet. Fin 2018, le media a publie un article destine a mettre en perspective la densite des villes dans le monde en utilisant une echelle en 3D, plutot que la classique vue a plat. Le resultat est assez frappant. Le format existe aussi dans [un outil ](https://pudding.cool/2018/10/city_3d/)dans lequel le lecteur peut se deplacer librement sur la carte.  
+  
+L'autre versant interessant de l'article concerne l'auteur, qui partage de maniere [detaillee son process](http://tiny.cc/mp7t2y) de creation. Outils utilises, methodologie, fichiers : tout est accessible. Une maniere intelligente de montrer le travail derriere l'article, tout en donnant les cles a ceux qui voudraient exploiter les informations.  
+---  
+-- Consulter le long format [sur ThePudding](https://pudding.cool/2018/12/3d-cities-story/)  
+---  
+3\. Long format Un guide pratique sur l'avortement  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/7f401a0c-ceec-4952-8bcb-5718a8142146.png)  
+---  
+[Refinery 29](https://www.refinery29.com/en-us), un site dont le lectorat se compose essentiellement de jeunes femmes, propose un guide pratique sur les lois, le temps d'attente ou les difficultes pour les personnes qui souhaitent pratiquer une IVG aux États-Unis. Sous forme de long format, on retrouve une cartographie puis une liste des specificites des differents États, des graphiques sur des donnees informatives sur le sujet et enfin un "call to action" vers un site specialise. Efficace, elegant et surtout informatif !  
+---  
+-- Retrouvez le [long format ](https://www.refinery29.com/en-us/2019/01/217375/abortion-clinics-laws-map)sur le site de Refinery 29  
+---  
+4\. Print Le site Jacobin sait valoriser son magazine Catalyst  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/b6dcb1d7-7cb9-4d0e-8d43-f7edf76eb273.png)  
+---  
+Comment valoriser le print depuis le web ? C'est un enjeu souvent pose par les medias. Le site americain de gauche [J](http://https://jacobinmag.com/)[acobin](https://jacobinmag.com/), donne un bel exemple avec la mise en valeur reussie de son edition print [Catalyst](https://catalyst-journal.com/). Le mag dispose d'une home propre avec une direction artistique interessante faite d'applat de couleurs et d'une illustration pour chaque numero. La liste des numeros est bien pensee et permet d'acceder aux articles (payants) ou d'acheter directement le numero.    
+---  
+-- Decouvrez le site de [Catalyst](https://catalyst-journal.com/)  
+---  
+5\. Inbox Deux nouvelles newsletters bien ciblees  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/dd5bcf0f-8a65-4c86-9e0d-d94b3a69ae76.png)  
+---  
+[On vous en parlait recemment](https://medium.com/datagif/lheure-m%C3%A9dias-1-les-newsletters-m%C3%A9dia-cr%C3%A9ativement-sous-exploit%C3%A9-dbd14540f7fc), les newsletters sont de retour au coeur des strategies media. Deux nouvelles initiatives ont ete lancees cette semaine :   
+  
+-- **Cond e Nast** annonce une newsletter « Vogue Business »  a destination des pros de la mode. Accessible gratuitement pour le moment, elle mobilise 20 personnes qui produiront des contenus exclusifs et alimenteront des comptes dedies sur les reseaux sociaux. À noter : la publication sera bi-hebdomadaire.  
+  
+-- **Le Monde** lance une newsletter « Le Monde de l'education », reservee a ses abonnes. Elle delivrera chaque semaine une selection d'actus et d'analyses autour de l'education, ainsi que des articles pouvant servir de contenus pedagogiques en classe.  
+  
+On voit bien l'interet du format newsletter pour ces deux medias. Vogue espere devenir incontournable dans les boites mail de l'industrie fashion, et evoque deja une formule freemium pour fin 2019. Du cote du Monde, on sent que la newsletter cible en particulier les profs -- un lectorat strategique qui aura une raison de plus de s'abonner !  
+---  
+-- Plus d'infos sur Vogue Business, [dans](https://digiday.com/media/conde-nast-international-goes-b2b-vogue-business/)[ Digiday](https://digiday.com/media/conde-nast-international-goes-b2b-vogue-business/)  
+-- L'annonce du "Monde de l'education", [dans Le Monde](https://www.lemonde.fr/societe/article/2019/01/29/le-monde-lance-une-newsletter-hebdomadaire-sur-l-education_5416148_3224.html)  
+Vous recevez cet e-mail car vous êtes inscrit•e via le site   
+[medias.datagif.fr](https://medias.datagif.fr/)   
+  
+🏄‍   
+Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)   
+  
+📪  
+Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)   
+  
+✌️  
+Retrouvez la veille et les projets de Datagif sur   
+[Medium](https://medium.com/Datagif) \- [Twitter](https://twitter.com/datagif) \- [Instagram](https://www.instagram.com/datagif) \- [Datagif.fr](https://datagif.fr)   
+  
+👋   
+[Cliquez-ici](*|UNSUB|*) pour vous désabonner   
+  
+  
+*|IF:REWARDS|* *|HTML:REWARDS|* *|END:IF|*   
+  
+  
+---

@@ -1,0 +1,117 @@
+---  
+![Médias](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/d060cdc3-f8d4-4207-b9bb-0b8ffda1ca6f.png)  
+La veille innovation et design media par Datagif  
+  
+| *|MC_PREVIEW_TEXT|*  
+---  
+---  
+1\. Alerte disruption Axios decline ses newsletters au niveau local  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/6efb5ad3-54e2-4621-9d5a-781010691cf2.png)  
+---  
+Le pure-player americain Axios s'est fait connaitre pour ses newsletters incarnees, son ton "droit au but" et son iconographie de grande qualite. Il s'attaque desormais au marche de la presse locale, avec cinq newsletters pilotes dans des villes moyennes.  
+  
+Un ballon d'essai peu couteux (deux journalistes dedies par ville) mais on y retrouve tous les qualites habituelles d'Axios. Le resultat est un rendez-vous quotidien efficace et bien presente. On peut dire que ça change de la presse locale a l'ancienne !  
+  
+Reste a voir si l'audience va suivre, et s'il existe une vraie complementarite avec l'offre nationale d'Axios...  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/cfaff65f-b5a7-498e-90eb-9ece499c3073.png)  
+---  
+|  -- Voir [un aperçu](https://www.axios.com/newsletters/axios-tampa-bay-65afdfe7-0598-4e01-beac-07c64565254a.html?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axioslocal_tampa&stream=top) des newsletters  
+---  
+---  
+2\. Arrrrggggghhhhh Un dossier creatif sur la charge mentale des meres  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/7b2ead84-6c73-4768-8721-9defa9e5d47c.gif)  
+---  
+Le New York Times a publie un long dossier sur la realite des meres de famille forcees de s'occuper de leurs enfants en pleine pandemie. L'enquete est mise en relief grace a des temoignages et une mise en scene tres reussie (et volontairement foutraque).  
+  
+Elle s'ouvre a la façon d'une « hotline telephonique », avec des temoignages audio de meres qui se confient, rient... ou crient carrement leur rage. C'est interessant, touchant, parfois drole, et plein d'humanite !  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/7622c94b-33ae-4e8a-8da1-976549795747.gif)  
+---  
+|  -- [Lire l'article](https://www.nytimes.com/interactive/2021/02/04/parenting/working-moms-coronavirus.html) du New York Times  
+---  
+---  
+3\. Bundle Un collectif prometteur de newsletters  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/2008d648-e0fe-481d-9b58-1f71d00bc385.png)  
+---  
+L'emergence des plateformes de newsletters (Substack, Revue...) democratise la publication et la monetisation de newsletters pour les journalistes independants. Mais des auteurs a succes s'emancipent deja de ce modele pour mieux maitriser leur business.  
+  
+Et certains forment carrement des collectifs pour contrer l'eparpillement de l'offre ! Premier exemple avec « Every », un collectif de journalistes et d'auteurs qui traitent de sujets « business ». Initie sur Substack, il est desormais disponible via sa propre plateforme. Les newsletters sont toujours payantes, sur abonnement, et on peut les lire agreablement sur le site dedie.  
+  
+On aime d'ailleurs l'UX epuree et l'identite visuelle des newsletters, qui degage un esprit de famille. Serait-ce le futur des medias specialises ?   
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/fb761fdf-04fa-4731-9cf4-93e38315c155.png)  
+---  
+|  -- [Decouvrir le site](https://every.to/) de Every  
+---  
+---  
+4\. Dossier Une circulation reussie pour l'enquete OpenLux  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/ff439caa-aebb-4315-bd40-918b9f370116.png)  
+---  
+Les dossiers editoriaux sont souvent mal exploites chez les sites media. Tout l'enjeu est de faciliter la circulation : permettre au lecteur de passer d'un article a un autre, surtout s'il y a beaucoup de contenu.  
+  
+La derniere grosse enquete du Monde (OpenLux) le reussit tres bien : un grand bloc est positionne a la fin de chaque article pour presenter les grandes parties du dossier. C'est accrocheur et efficace autant en mobile qu'en desktop. Circulez !  
+---  
+|  -- Un article [ici](https://www.lemonde.fr/les-decodeurs/article/2021/02/08/openlux-luxembourg-radiographie-d-un-paradis-fiscal_6069143_4355770.html) ou le sommaire du dossier complet [ici](https://www.lemonde.fr/les-decodeurs/visuel/2021/02/08/openlux-enquete-sur-le-luxembourg-coffre-fort-de-l-europe_6069132_4355770.html)  
+---  
+---  
+5\. Explications Des cards pour contextualiser les sujets complexes  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/e04f5ce8-a4a9-4daa-bcc3-bad909e06614.png)  
+---  
+Le site Quartz vient de repenser la forme de ses "obsessions" editoriales. Chacune d'entre elles dispose desormais d'une page ressource, qui rappelle les bases du sujet en quelques minutes. Les infos y sont mises a jour regulierement pour en faire une veritable reference.  
+  
+Encore mieux : ce contenu est valorise intelligemment en bas de chaque article, afin de prolonger la lecture. Les ressources y sont repackagees sous forme de cards a swiper. Une façon tres interessante de donner plus de contexte aux lecteurs sur des sujets de fond.  
+---  
+|  -- Explorer [les cards ](https://qz.com/1971065/bilibili-chinas-youtube-is-in-trouble-over-a-japanese-cartoon/)en bas d'article  
+-- Explorer [la page complete](https://qz.com/on/because-china/) d'une obsession  
+---  
+---  
+6\. Tracker Suivez la campagne de vaccination en France  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/4e8121e9-f4bd-422d-a028-48eb5d8c3871.png)  
+---  
+Pour couvrir la campagne de vaccination contre le Covid-19, Le Monde propose une page actualisee quotidiennement avec les chiffres de Sante Publique France et Our World in Data.  
+  
+Au programme, des graphiques eclairants sur les principales informations cles : part de la population vaccinee, progression par tranches d'age, carte par departement... Une synthese utile, qu'on est plus heureux de voir progresser que le tracker de l'epidemie.  
+---  
+|  -- [Decouvrir le tracker](https://www.lemonde.fr/les-decodeurs/article/2021/01/29/covid-19-suivez-la-progression-de-la-vaccination-en-france-et-dans-le-monde_6068029_4355770.html) chez Le Monde  
+---  
+---  
+7\. Video Une approche originale pour valoriser des moments cles  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/b676e7b0-c98a-42ec-9d1a-0e6f70b3c1f2.png)  
+---  
+Vu dans un article du New York Times : des petites annotations sous une video, qui indiquent les moments forts de la sequence.  Au clic, le lecteur est redirige vers le passage en question.  
+  
+Une sorte de chapitrage qui a l'avantage d'accrocher le lecteur avant meme qu'il ait lance la video (surtout si elle est longue).  
+---  
+|  -- Des videos a voir [dans cet article](https://www.nytimes.com/interactive/2021/02/09/us/trump-voter-fraud-election.html) du New York Times  
+---  
+---  
+8\. RSVP Un evenement sur l'innovation editoriale  
+|  L'organisme de formation Samsa organise ses « Rencontres de l'innovation editoriale » du 1er au 12 mars prochain.  
+  
+L'occasion d'assister a des conferences et des retours d'experience de nombreux acteurs incontournables des medias français : Le Monde, Le Parisien, Radio France, Arte, BFMTV... Nous sommes partenaires de l'evenement, alors rendez-vous la bas (en ligne) !  
+---  
+|  -- Decouvrez [le programme](https://www.innovation-editoriale.fr/programme-des-rencontres-de-linnovation-editoriale-2021)  
+---  
+Vous recevez cet e-mail car vous êtes inscrit•e via le site   
+[medias.datagif.fr](https://medias.datagif.fr/)   
+  
+🏄‍   
+Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)   
+  
+📪  
+Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)   
+  
+✌️  
+Retrouvez la veille et les projets de Datagif sur   
+[Medium](https://medium.com/Datagif) \- [Twitter](https://twitter.com/datagif) \- [Instagram](https://www.instagram.com/datagif) \- [Datagif.fr](https://datagif.fr)   
+  
+👋   
+[Cliquez-ici](*|UNSUB|*) pour vous désabonner   
+  
+  
+*|IF:REWARDS|* *|HTML:REWARDS|* *|END:IF|*   
+  
+  
+---

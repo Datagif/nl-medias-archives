@@ -1,0 +1,125 @@
+---  
+![Médias](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/d060cdc3-f8d4-4207-b9bb-0b8ffda1ca6f.png)  
+La veille innovation et design media par Datagif  
+  
+| *|MC_PREVIEW_TEXT|*  
+---  
+---  
+1.  Le suivi des resultats  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/ee74bf17-f43b-4b11-871c-091904dfd1ef.png)  
+---  
+Tous les medias en ligne ont degaine leurs graphiques et trackers... Clarte, pedagogie, esthetique : lesquels ont retenu notre attention ?  
+  
+-- [The New York Times](https://www.nytimes.com/interactive/2020/11/03/us/elections/results-president.html?action=click&pgtype=Article&state=default&module=styln-elections-2020&region=TOP_BANNER&context=storyline_menu_recirc) : un mega dispositif a grand renfort de statistiques, compte a rebours, predictions... Tres addictif et complet (presque trop)  
+-- [The Guardian ](https://www.theguardian.com/us-news/ng-interactive/2020/nov/03/us-election-2020-live-results-donald-trump-joe-biden-who-won-presidential-republican-democrat): moins exhaustif, mais tres clair et pedagogique  
+-- [PBS News Hour](https://www.pbs.org/newshour/) : clair, sobre (merci le dark mode), avec une carte originale pour representer le nombre de grands electeurs  
+-- [The Wall Street Journal ](http://wsj.com): une home efficace, qui integre les scenarios possibles  
+-- [Bloomberg](https://www.bloomberg.com/graphics/2020-us-election-results) : des graphiques originaux, plutot destines aux fanatiques de data  
+-- [ABC News](https://abcnews.go.com/Elections/2020-us-presidential-election-results-live-map) : une homepage claire et organisee, contrairement aux autres chaines d'info  
+-- [Le Monde ](https://www.lemonde.fr/international/article/2020/11/04/elections-americaines-2020-suivez-la-carte-des-resultats-en-direct_6058394_3210.html): une carte efficace pour les resultats  
+-- [The Economist](https://www.economist.com/graphic-detail/2020/11/03/the-us-2020-election-results) : une belle page de resultats, avec la variation des votes depuis 2016  
+-- [BuzzFeed News ](https://www.buzzfeednews.com/2020-election): une page de resultats simple mais avec une identite sympathique  
+-- [Los Angeles Times](https://www.latimes.com/projects/2020-election-women-of-color-congress-diversity/) : un tracker original sur la representation des femmes dans les resultats  
+---  
+---  
+2.  Les guides et formats explicatifs  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/9b1c3f06-0d9a-4970-a6fd-5de1c1009951.png)  
+---  
+Parce que c'est complique de s'y retrouver dans cette election complexe et interminable... Quels formats innovants pour reconcilier le fond et la forme ?  
+  
+-- [The New York Times](https://www.nytimes.com/interactive/2020/us/politics/poll-closing-times.html?action=click&module=Spotlight&pgtype=Homepage) : un guide heure par heure des depouillement (avec un fuseau horaire personnalise !)  
+-- [The New York Times](https://share.getcloudapp.com/qGuv8Z4o) : un carousel pour debunker des fake news (dans l'application)  
+-- [The New York Times](https://www.nytimes.com/interactive/2020/11/03/upshot/network-race-call-tracker.html) : quel media a confirme quel Etat ?   
+-- [The New York Times](https://twitter.com/maxloisel/status/1323742641633267712?s=20) : des mini-pastilles video depuis le terrain, parfait pour la lecture mobile  
+-- [BuzzFeed News](https://www.buzzfeednews.com/article/janelytvynenko/election-rumors-debunked) : une liste de toutes les rumeurs et fake news qui tournent  
+-- [Franceinfo](https://www.francetvinfo.fr/monde/usa/presidentielle/temoignages-election-aux-etats-unis-videos-sept-jeunes-americains-vous-racontent-les-fractures-de-leur-pays.html) : un bon long-format video avec des jeunes Americains  
+---  
+---  
+3\.  Les predictions et projections  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/88b0c38c-fcd1-4c72-a575-aa4cb47f4d03.png)  
+---  
+La plupart des medias se sont encore plante en relayant moult sondages et predictions alambiquees... Est-ce la derniere fois ?   
+  
+-- [New York Times](https://twitter.com/stuartathompson/status/1323782235359793152?s=20) : Les fameuses « needles » (aiguilles), utilisees pour predire les resultats dans seulement 3 Etats  
+-- [Le Monde ](https://www.lemonde.fr/les-decodeurs/article/2020/11/05/trump-ou-biden-simulez-le-resultat-a-l-election-americaine-selon-le-vainqueur-dans-les-derniers-etats-cles_6058619_4355770.html): simulez les resultats dans les derniers Etats cles  
+-- [FiveThirtyEight ](https://twitter.com/MonaChalabi/status/1323981536962748418?s=20): La mascotte electorale du site (le charmant renard Fivey Fox) s'attire les foudres des internautes. On ne le reverra pas de sitot...  
+-- [New York Times](https://www.nytimes.com/interactive/2020/11/04/us/elections/paths-to-victory-biden-trump.html) : plus terre a terre, la simulation des chemins possibles de la victoire  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/6e875f2d-df7e-4c71-af35-9b4048b7b326.png)  
+---  
+---  
+4.  La prudence  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/d8dcf6c7-62d1-4e69-a2f6-c7862682dec1.png)  
+---  
+A l'inverse, certains medias ont fait l'effort d'avertir les lecteurs sur le caractere hautement volatile du scrutin...  
+  
+-- [The Washington Post ](https://share.getcloudapp.com/JrugY6QP): un bandeau d'alerte visible sur la homepage  
+-- [The Guardian ](https://share.getcloudapp.com/P8uyzbK8): la meme chose, mais aussi des explications methodologiques particulierement claires  
+-- [Politico ](https://share.getcloudapp.com/RBuW2nAn): la liste « What we know / What we don't know » affichee sur la page d'accueil  
+---  
+---  
+5. Les curiosites ✨  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/4268b915-d536-4850-ac01-dbdaec072a61.png)  
+---  
+Un peu de piment et de folie...  
+  
+-- [The New York Times](https://www.nytimes.com/interactive/2020/10/30/style/election-stress-relief.html) : « Election distractor », le parfait anti-stress pour passer le temps  
+-- [The New York Times](https://www.nytimes.com/interactive/2020/11/02/opinion/2020-election-voter-issues.html) : les verbatims des electeurs sur une jolie carte des Etats-Unis  
+-- [Bloomberg](https://www.bloomberg.com/features/2020-election-worst-case-scenario/) : un jeu interactif « Choose your own adventure »  
+-- [Le Monde](https://t.co/L649BEkdkK?amp=1) : bingo time !  
+-- [The New York Times](https://t.co/L649BEkdkK?amp=1) : le systeme electoral vu par des etrangers  
+-- [CNN](https://qz.com/1927218/john-king-and-the-cnn-magic-wall-defined-2020-election-night/) : le « magic wall »  a faire palir les chaines TV françaises  
+-- [The Washington Post](https://www.washingtonpost.com/graphics/2020/elections/drawing-election-map/) : un robot genere une carte de resultats en live sur YouTube (parce que pourquoi pas ?)  
+---  
+---  
+6. Mais aussi...  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/d36a9647-7264-4b24-afd7-703612ada08f.jpg)  
+---  
+-- Plein de sites qui passent en acces libre exceptionnel : NYT, WSJ (24 heures seulement, faut pas deconner non plus)...  
+-- [ProPublica ](https://www.propublica.org/getinvolved/please-tell-us-if-you-have-any-trouble-voting-this-year): un dispositif participatif pour rapporter les irregularites electorales  
+-- [New York Times](https://www.nytimes.com/2020/11/03/podcasts/the-daily/the-daily-election.html?action=click&module=Spotlight&pgtype=Homepage) : le podcast « The Daily » adapte en format live de 4 heures, avec un player integre dans l'app  
+-- [Politico](https://www.politico.com/2020-election/live-updates-and-analysis/2020-trump-biden-general-election/) : un bon livechat incarne par les journalistes  
+-- [FiveThirtyEight](https://fivethirtyeight.com/live-blog/2020-election-results-coverage/) : le live des experts en statistique  
+-- [CNN](https://twitter.com/ff_ff/status/1323615112515719168) : une fonction pour sauvegarder ses « Key Races » favorites  
+-- [Fox News](https://twitter.com/maxloisel/status/1323971843972358144?s=20) : le slogan « Democracy 2020 », il fallait oser  
+  
+Et en France...  
+  
+-- [Franceinfo ](https://www.francetvinfo.fr): un bandeau special sur la homepage  
+---  
+---  
+7.  Bonus : le fail de la soiree  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/ff912b66-a380-4fee-b211-6ee79263495f.jpg)  
+---  
+Le Guardian a eu l'idee de ressortir une bonne experimentation de 2016 : en l'occurrence une notification push qui s'actualise en arriere-plan pour afficher les resultats en temps reel. Une façon habile d'informer les internautes sur mobile...  
+  
+Sauf qu'un bug a visiblement eu lieu : tous les inscrits ont ete spammes avant meme le debut du decompte, avec des dizaines de notifications intempestives. [Bad buzz garanti...](https://twitter.com/search?q=guardian%20notification)  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/c87083ba-392c-439e-8db2-acdfcd6c5a45.png)  
+---  
+---  
+8\. Le mot de la fin Merci de nous avoir lu ! N'hesitez pas a partager la newsletter et rendez-vous dans 4 ans pour une nouvelle election rocambolesque 👋  
+|  De notre cote, on part de ce pas soigner notre addiction a CNN et au NYT...  
+---  
+Vous recevez cet e-mail car vous êtes inscrit•e via le site   
+[medias.datagif.fr](https://medias.datagif.fr/)   
+  
+🏄‍   
+Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)   
+  
+📪  
+Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)   
+  
+✌️  
+Retrouvez la veille et les projets de Datagif sur   
+[Medium](https://medium.com/Datagif) \- [Twitter](https://twitter.com/datagif) \- [Instagram](https://www.instagram.com/datagif) \- [Datagif.fr](https://datagif.fr)   
+  
+👋   
+[Cliquez-ici](*|UNSUB|*) pour vous désabonner   
+  
+  
+*|IF:REWARDS|* *|HTML:REWARDS|* *|END:IF|*   
+  
+  
+---

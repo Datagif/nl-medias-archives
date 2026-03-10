@@ -1,0 +1,241 @@
+|  | [Ouvrir dans le navigateur](*|ARCHIVE|*)  
+---  
+| ![Médias](https://newsletter.datagif.fr/ext/datagif/img/medias.png)  
+---  
+La veille innovation et design média par DATAGIF  
+  
+|  | *|MC_PREVIEW_TEXT|*  
+---  
+  
+|  |   
+---  
+  
+|  |  | Facebook ferme son outil de newsletters Bulletin, a des soucis avec son service News ; Twitter ferme egalement les vannes des newsletters, bannit des journalistes, bloque les liens vers des plateformes tierces… Une opportunite pour les marques-medias, alors que les utilisateurs de reseaux sociaux voient leurs outils d'information se degrader ? Creer un ecosysteme complet et autonome, permettant a l'audience de consulter aussi bien de l'actu chaude que des articles de fond, de se divertir, echanger, participer : un objectif qui semble plus que jamais realiste. Au vu de toute notre veille realisee au sein de l'agence, [voici 9 signaux qui nous semblent dessiner ce que sera 2023, a lire ici ou sur Medium](https://medium.com/datagif/2023-les-10-predictions-medias-par-datagif-4b545555415e) 🔮  
+---  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 
+
+## 1\. Le développement des communautés privées  
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/7d2e8090-04c3-e1c7-33a8-1940821cb35f.jpg)](https://medium.com/datagif/2023-les-10-predictions-medias-par-datagif-4b545555415e)  
+---  
+  
+|  | 2022, l'annee des errements des reseaux sociaux traditionnels. Face a ce constat, les internautes cherchent des espaces plus confidentiels et les medias l'ont bien compris. Depuis quelques annees, des titres de presse experimentent la creation de communautes fermees via des plateformes qui fonctionnent sans algorithme telles que Discord, Signal, Telegram ou Whatsapp. Dans la pratique, les medias se servent de ces messageries de maniere plus ou moins poussee. Certains, comme le Washington Post qui couvre sur Telegram la guerre en Ukraine, y publient leurs derniers contenus sans possibilite pour les membres de participer. D'autres, comme Le Monde sur Discord, experimentent de nouveaux principes de conversations ouvertes avec leurs lecteurs.  
+  
+Des medias se lancent meme directement via ces plateformes, c'est le cas du [media italien a succes Will](https://medium.com/r/?url=https%3A%2F%2Fwillmedia.it%2F) qui s'est lance sur Telegram. Il est fort a parier qu'en 2023, les medias tendent de plus en plus a utiliser ces reseaux prives avec des communautes plus petites mais qualitatives pour nouer des relations plus intimes et directes avec leurs lecteurs.  
+---  
+---  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 
+
+## 2\. Le retour de la revanche des blogs et annuaires  
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/a3b6721c-014e-daa7-7c00-125b614b60af.jpg)](https://medium.com/datagif/2023-les-10-predictions-medias-par-datagif-4b545555415e)  
+---  
+  
+|  | Le retour des blogs ? Une prediction qu'on ressort assez regulierement mais qui s'est finalement concretisee indirectement avec la montee en puissance de Substack, a la base une plateforme de blogs a laquelle on a greffe un systeme d'envoi d'e-mails et de paiement simplifies. Meme si on a l'exemple inverse du concurrent Medium, echouant suite a des choix strategiques trop fluctuants, il y a encore de la place en France pour de nouveaux acteurs. Comme [Kessel](https://medium.com/r/?url=http%3A%2F%2Fkessel.media), qui se presente d'ailleurs comme un outil centre sur les auteurs et le partage, en gommant l'aspect newsletter.  
+  
+Et si les reseaux sociaux ont actuellement un petit gout d'apocalypse, le blog semble etre un support parfait pour revenir a une lecture plus apaisee et a une editorialisation controlee, demarquee de l'influence des algorithmes de Meta ou Twitter. Leur aspect decentralise permet egalement de retrouver un climat plus propice aux echanges, de se retrouver autour de communautes. Allez, on peut meme ressortir les _blogrolls_ et _webrings_ , qui n'ont de toute façon jamais totalement disparus. 2022 l'a montre : le bon vieux web est toujours la, autopublie par des passionnes et le blog reste l'outil de choix pour l'alimenter en preservant son independance. On vous conseille notamment d'aller vous perdre sur [ooh! Directory](https://medium.com/r/?url=https%3A%2F%2Fooh.directory%2F), la resurrection de l'annuaire Yahoo qui regroupe et categorise tout ce qu'on aimera toujours avec l'INTERNET !  
+---  
+---  
+  
+|  |   
+---  
+  
+|  |  |  | ![](https://newsletter.datagif.fr/ext/datagif/img/mail.png)  
+---  
+Vous lisez cette newsletter sans etre abonne.e ?  
+Merci a votre contact ✌️  
+| [S'inscrire a la newsletter](https://datagif.fr/newsletter-medias/)  
+---  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 
+
+## 3\. Pour engager son audience : faire jouer !  
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/ca796c8f-6b05-4dc7-66f8-09907ad24a9e.jpg)](https://medium.com/datagif/2023-les-10-predictions-medias-par-datagif-4b545555415e)  
+---  
+  
+|  | Ce qui etait autrefois une rubrique oubliee dans un menu est devenu carrement l'une des entrees principales dans la tap bar de nombreuses applications medias : les jeux. Il n'y a plus aucune honte a s'accorder quelques divagations d'esprit, a tel point que certains en ont fait un [produit d'appel pour l'abonnement](https://medium.com/r/?url=https%3A%2F%2Fwww.nytimes.com%2Fsubscription%2Fgames). L'effet Wordle, certainement. Pourquoi cette obsession ? L'objectif recherche est mecanique : creer le reflexe quotidien, developper la preference pour un media, et croiser evidemment toute l'offre editoriale. Alors que certains ont deja muscle cette annee leur proposition ludique, on est prets a parier sans trop de risques que les jeux occuperont des les prochains mois une place preponderante dans l'offre de chaque media.  
+---  
+---  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 
+
+## 4\. La montée en puissance de l’IA pour le texte, les images et bientôt les vidéos ?  
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/8a4387ca-dd4f-4cc0-57e7-e70d72b8c366.jpg)](https://medium.com/datagif/2023-les-10-predictions-medias-par-datagif-4b545555415e)  
+---  
+  
+|  | Depuis septembre 2022 l'IA continue de faire parler d'elle avec deux nouveaux venus sur le marche : ChatGPT, une intelligence artificielle permettant de produire des textes et des reponses a des requetes ecrites et DALL-E 2, qui succede a l'outil DALL-E 1, generant des images a partir de descriptions textuelles. Les deux outils, signes OpenAI, specialiste de l'intelligence artificielle, rejoignent les acteurs deja existants. Ils bluffent autant qu'ils questionnent, tant sur les problematiques de moderation et de droits d'auteur qu'ils soulevent que sur les metiers qu'ils chamboulent.  
+  
+Certains medias comme [The Atlantic](https://medium.com/r/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D17fYPIrcL2E), Cosmopolitain ou l'ADN commencent deja a utiliser ces outils pour illustrer leurs articles. La video est egalement concernee : Google, Meta ou encore Stability sont dans les starting blocks pour lancer un generateur de video assiste par intelligence artificielle. En 2023, l'IA va continuer sa percee, reste a savoir a quel point elle va bouleverser les metiers du journalisme et de la creation selon ce que les medias voudront ou non lui deleguer.  
+---  
+---  
+  
+|  |   
+---  
+  
+|  |  |  | ![](https://newsletter.datagif.fr/ext/datagif/img/reseaux.png)  
+---  
+Retrouvez la veille et les projets de Datagif sur [Medium](https://datagif.medium.com/) • [Twitter](https://twitter.com/datagif) • [Instagram](https://www.instagram.com/datagif/) • [Datagif.fr](https://datagif.fr/)  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 
+
+## 5\. L’attention portée à la cohérence des visuels  
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/7248c1d5-7468-c4c5-f760-a96ffda85df4.jpg)](https://medium.com/datagif/2023-les-10-predictions-medias-par-datagif-4b545555415e)  
+---  
+  
+|  | À contrepied des visuels randoms ou générés par intelligence artificielle, le choix de visuels travaillés et cohérents pour illustrer les articles constitue un enjeu majeur pour les médias. Notamment lorsqu’il s’agit de traiter le réchauffement climatique. Face à l’été 2022, le plus chaud jamais enregistré en Europe, les médias ont publié des articles sur ces épisodes caniculaires en les illustrant de manière pas toujours très adaptée. Des enfants près des fontaines, des rayons de soleil, des glaces, des vacanciers sur la plage… plusieurs voix se sont élevées pour dénoncer ces clichés éloignés des réalités. Ces choix peu judicieux sont entrés en dissonance avec la gravité du sujet. Conséquence pour les médias ? Desservir le message alors même qu’ils ont un rôle essentiel à jouer dans la transition écologique et sociale. Plusieurs rédactions, comme par exemple celle du Monde ou du média indépendant Vert, ont déjà commencé à lutter pour un changement de pratiques. Le défi reste à relever pour l’année à venir.  
+---  
+---  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 
+
+## 6\. La priorité donnée au traitement de l’urgence écologique  
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/f5124600-20bf-3d03-0192-b48a6bab8d5a.jpg)](https://medium.com/datagif/2023-les-10-predictions-medias-par-datagif-4b545555415e)  
+---  
+  
+|  | En septembre dernier, une « [charte pour un journalisme a la hauteur de l'urgence ecologique](https://medium.com/r/?url=https%3A%2F%2Fchartejournalismeecologie.fr%2F) » a ete signee par une cinquantaine de medias et 500 journalistes. Alors qu'un français sur deux estime que les questions environnementales sont mal traitees dans les medias, cette charte en 13 points veut servir de boussole pour repenser leur traitement de l'information liee au climat et au vivant. Elle invite aussi les redactions a reduire leur bilan carbone en s'opposant « aux financements issus des activites les plus polluantes » et en « consolidant leur independance ». On espere qu'en 2023, les medias qui releveront le defi de l'urgence ecologique ne reduiront plus le sujet a une seule rubrique dediee mais le traiteront de maniere transverse a l'ensemble de leur offre editoriale.  
+---  
+---  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 
+
+## 7\. Médias accessibles = médias pour tout le monde  
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/a8eb6c79-15c9-031e-76f6-713a005cc0e7.jpg)](https://medium.com/datagif/2023-les-10-predictions-medias-par-datagif-4b545555415e)  
+---  
+  
+|  | L'accessibilite est un sujet crucial traversant autant qu'il hante un monde digital l'effleurant du bout des doigts quand il ne le snobe pas. [Une tribune](https://www.lemonde.fr/education/article/2022/12/06/non-au-numerique-qui-exclut-les-eleves-parents-et-enseignants-en-situation-de-handicap_6153103_1473685.html), publiee en cette fin d'annee dans le Monde, rappelle l'evidence de l'urgence : il y a 12 millions de personnes concernees par l'accessibilite numerique en France. Si sur ce sujet, nous avons clairement du retard par rapport au monde anglo-saxon, quelques medias font cependant figure de bons eleves, comme [Arte](https://www.arte.tv/sites/corporate/accessibilite/) qui mene depuis plusieurs annees une politique volontariste, Le Monde avec des efforts d'experience utilisateurs fonctionnels notamment sur la colorimetrie dont on vous faisait part dans [notre Newsletter #96](https://datagif.fr/newsletter-medias/), ou France Info qui a recemment repense la navigation et le rafraichissement de [sa nouvelle page d'accueil](https://www.francetvinfo.fr/economie/medias/une-nouvelle-page-d-accueil-pour-franceinfo-fr-plus-sobre-et-plus-pratique_5524698.html) pour en faciliter l'usage avec les outils d'assistance. Un sujet qui devra s'echapper des pages societe pour s'epanouir dans la structure des productions medias en 2023.  
+  
+Attention toutefois aux solutions rapides des vendeurs d'elixir, comme nous le rappelle cet [article du NYT](https://www.nytimes.com/2022/07/13/technology/ai-web-accessibility.html) sur les effets negatifs d'un traitement automatise des problematiques d'accessibilite. Mieux vaut s'orienter vers l'ecoute, en commençant par [cet episode de design Master Class](https://podcast.designmasterclass.fr/episode/28/design-accessible-une-priorite) realise par Gladys Diandoki sur l'accessibilite. Alors, l'accessibilite au coeur des evolutions medias en 2023 ?  
+---  
+---  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 
+
+## 8. Les maquettes desktop des medias retrouvent des colonnes  
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/51cb0faf-81b1-c82d-033f-db09b9cfc0a4.jpg)](https://medium.com/datagif/2023-les-10-predictions-medias-par-datagif-4b545555415e)  
+---  
+  
+|  | Soyons honnetes, un certain desinteret des maquettes desktop s'est installe depuis la mise en place du travail 'mobile first'. Pourtant, les internautes sur ecran d'ordinateur sont toujours la, peut-etre meme davantage depuis la vague de teletravail. Certains medias pouvant s'affranchir de quelques formats publicitaires remettent au gout du jour un concept desuet : multiplier les colonnes en desktop. Cela peut sembler contre-productif, pourtant ces exemples ingenieux montrent que sans surcharger la page, ces explorations peuvent marquer une tendance de fond pour les mois a venir. À voir (sur desktop, donc) dans ces articles de [Bloomberg](https://www.bloomberg.com/graphics/europe-energy-crisis-updates/#xj4y7vzkg), du[ Washington Post,](https://www.washingtonpost.com/technology/interactive/2022/amazon-smart-home/?itid=sf_technology_article_list) du[ NYT](https://www.nytimes.com/interactive/2022/10/27/arts/music/stevie-wonder-talking-book.html), ou de[ The Verge](https://www.theverge.com/c/23055922/homeland-security-series) ; en France chez[ Regain](https://www.regain-magazine.com/bonne-poire/) avec une colonne consacree aux photos ; et enfin chez [Asterisk Magazine](https://asteriskmag.com/issues/1/the-illogic-of-nuclear-escalation) , ou une colonne est dediee aux notes et legendes et une autre au chapitrage de l'article. Voila de quoi briser la monotonie de la colonne unique !  
+---  
+---  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 
+
+## 9\. Des newsletters toujours au top  
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/668282c6-9537-2f78-4371-a678d1c388db.jpg)](https://medium.com/datagif/2023-les-10-predictions-medias-par-datagif-4b545555415e)  
+---  
+  
+|  | Ces dernieres annees, [les newsletters](https://medias.datagif.fr/) ont explose dans le domaine des medias. Que ce soient les medias installes, les producteurs de contenus independants, les medias specialises dans la newsletter… un grand nombre d'acteurs continuent de croire en ce medium pour diffuser le contenu. Surtout face a la defiance envers les reseaux sociaux traditionnels comme Twitter. Mais le pic des newsletters est-il atteint ? Selon [une enquete de la World Association of News Publishers](https://wan-ifra.org/2022/10/now-available-next-level-newsletters-our-new-report-on-email-best-practices/), 82% des editeurs medias interroges indiquent qu'ils envisagent de lancer des newsletters supplementaires en 2022. Si aujourd'hui peu de newsletters en France sont rentables et si l'enjeu de trouver un modele economique viable reste d'actualite, tout laisse a penser que les newsletters qui apportent une reelle plus-value aux lecteurs vont continuer de se developper**** tandis que les autres, notamment les plus promotionnelles, seront amenees a disparaitre.  
+---  
+---  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 
+
+## ✌️ Ces predictions ont ete reflechies et partagees par toute l'equipe de Datagif : Aurore, Anouk, Julia, Florian, Leonie, Charly, Julie, Jonas, PAM, Ashvin et Gaetan. [Vous voulez les partager ?](https://medium.com/datagif/2023-les-10-predictions-medias-par-datagif-4b545555415e)  
+  
+---  
+  
+|  | Datagif est une agence de strategie et design d'information. Nous travaillons pour des entreprises, institutions, medias, sur des problematiques de circulation de l'information et de design. [Rendez-vous sur notre site](http://datagif.fr) pour decouvrir notre approche et nos projets ou [sur cette page pour une retroscpective de 2022](http://2023.datagif.fr). Et peut-etre que l'une de ces predictions vous donnera des idees ? 👀  
+---  
+  
+|  |   
+---  
+  
+|  |   
+---  
+  
+|  | Merci pour votre lecture et bonnes fetes ✨  
+---  
+  
+|  |  | ![](http://gallery.mailchimp.com/653153ae841fd11de66ad181a/images/transparent.gif)  
+---  
+  
+|  |   
+---  
+  
+|  | Vous recevez cet e-mail car vous êtes inscrit•e via le site [datagif.fr](https://datagif.fr/newsletter-medias/)Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)  
+👋 [Cliquez-ici](*|UNSUB|*) pour vous désabonner  
+---  
+  
+|  | DATAGIF  
+---  
+  
+|  |   
+---

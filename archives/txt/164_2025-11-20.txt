@@ -1,0 +1,211 @@
+*|MC_PREVIEW_TEXT|*  
+  
+͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿
+
+| | [Ouvrir dans le navigateur](*|ARCHIVE|*)  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/9bfd3536-f485-9798-cef7-f6f6b231f78e.png)](*|ARCHIVE|*)  
+---  
+  
+| | | ![Médias](https://newsletter.datagif.fr/ext/datagif/img/medias-v2.png)  
+---  
+  
+| 164  
+---  
+  
+| | La veille innovation et design média par Datagif  
+---  
+  
+| | | Une chose a la fois  
+---  
+"_Ah, il faut que je vous parle d 'un autre truc !_". Une phrase que l'on entend souvent lorsque l'on approche de la fin d'un projet, que ça soit avec un client media ou non. Ça traduit souvent deux idees : la premiere, c'est que nos clients ont envie de continuer a bosser avec nous et on va pas se mentir, c'est cool (et reciproque).  
+  
+La seconde, c'est que interlocuteurs*trices sont focalises sur un besoin immediat, sans avoir necessairement une roadmap en tete de tous les projets a mener. C'est notre role d'ouvrir la reflexion au-dela des bases, mais c'est aussi naturel de construire quelque chose progressivement, etape par etape. Donc rassurez-vous : tout ne peut pas se faire en meme temps, et ça se passe tout de meme tres bien :)  
+  
+| | | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/dd27fd0a-f659-dbfe-2c8d-0fa69e1c9747.png)  
+---  
+  
+| [Gaetan Duchateau](mailto:gaetan@datagif.fr)  
+---  
+Lead @Datagif  
+  
+| | | Recyclage  
+---  
+  
+| 🩳  
+---  
+  
+| | L'envers des bacs de collecte  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/a88ba7da-5ccd-a4f0-eaf4-0c97860f8c52.png)](https://www.rtbf.be/article/ou-vont-vraiment-vos-vieux-vetements-11616049)  
+---  
+Ou vont vos vieux vetements ? La RTBF s'est pose la question et a mene l'enquete en equipant une vingtaine de vetements de traceurs avant de les deposer dans des bacs de collecte, pour suivre leur veritable parcours (et leur destin).  
+  
+Au fil du recit, des cartes font apparaitre un circuit sature : trieurs debordes, dechetteries a ciel ouvert et consommation toujours en hausse. Ce qui nous a interesses, c'est l'approche immersive ou videos, cartographie et narration s'entremelent pour eclairer un systeme dont on ignore souvent le fonctionnement reel.  
+[Decouvrir l'enquete de la RTBF](https://www.rtbf.be/article/ou-vont-vraiment-vos-vieux-vetements-11616049)  
+  
+| | | Graphique  
+---  
+  
+| **📈**  
+---  
+  
+| | Un scroll qui vaut 1000 graphiques  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/4c75861e-0f80-91c6-7733-76fa1bf689d4.gif)](https://www.nzz.ch/visuals/die-deutsche-industrie-schrumpft-diese-zahlen-belegen-wie-dramatisch-der-abstieg-wirklich-ist-ld.1911067)  
+---  
+Dans son long format, le media suisse Neue Zurcher Zeitung explore la lente erosion de l'industrie allemande en s'appuyant sur une production visuelle riche. Et alors qu'on commence a etre un peu lasses des articles truffes de graphiques animes "par principe", la mise en scene ici se distingue nettement : des encarts qui evoluent au defilement, des pictogrammes et chiffres cles qui accompagnent et clarifient le sujet, une narration fluide qui privilegie avant tout le confort de lecture. **En bref, la preuve que l 'interactivite n'a d'interet que lorsqu'elle clarifie un sujet complexe**.  
+[À parcourir si vous pensez que la dataviz ne peut plus vous surprendre](https://www.nzz.ch/visuals/die-deutsche-industrie-schrumpft-diese-zahlen-belegen-wie-dramatisch-der-abstieg-wirklich-ist-ld.1911067)  
+  
+| | | ![](https://newsletter.datagif.fr/ext/datagif/img/newsletter.png) Bienvenue  
+---  
+Tous les 15 jours, l'equipe de [l'agence Datagif](https://datagif.fr/) vous partage gratuitement le meilleur de sa veille innovation et design d'information.  
+| [Pas encore abonne*e ? 😱 ](https://datagif.fr/newsletter-medias/)  
+---  
+  
+| | | Desinformation  
+---  
+  
+| 🇪🇺  
+---  
+  
+| | L'Europe teste l'IA pour repondre a la desinformation  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/5bb433bc-a6e6-afe4-5264-3caaf28a23d6.jpeg)](https://chateurope.eu/fr/)  
+---  
+Porte par l'AFP et une dizaine de medias europeens, le nouveau portail ChatEurope agrege leurs contenus verifies pour les rendre interrogeables via un chatbot IA developpe avec le français Mistral.  
+  
+Une demarche collaborative qui nous rappelle le projet [FactCheckEU](https://www.lemonde.fr/les-decodeurs/article/2019/03/19/19-medias-dont-le-monde-s-associent-pour-fact-checker-les-elections-europeennes_5438409_4355770.html), auquel Datagif avait participe a l'epoque, deja avec l'AFP et Liberation, mais ici avec une surcouche conversationnelle. On salue aussi l'effort de proposer un design en mosaique "tuiles Windows 8" de la page d'accueil, un peu retro mais plutot original 🟩 ✅ !  
+[Discuter avec ChatEurope](https://chateurope.eu/fr/)  
+  
+| | | Campagne  
+---  
+  
+| 🗞️  
+---  
+  
+| | Une campagne de Challenges signee Datagif  
+---  
+| ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/bbaa5d9f-5c1e-5e6e-2aea-9f84c7e73ef0.jpg)  
+---  
+Depuis 2 ans, nous accompagnons le media Challenges sur de nombreux sujets : un gros chantier pour affiner l'identite digitale du media, la refonte de l'ensemble de l'ecosysteme newsletters, une nouvelle charte reseaux sociaux et video, des evolutions produit… Mais tout ça, on vous en parlera plus tard.   
+  
+Pour l'heure, nous sommes tres fier*es de vous partager la campagne imaginee pour Challenges, a l'occasion de la sortie d'une nouvelle section sur leur site "[Les Confidentiels](https://www.challenges.fr/mon-compte/confidentiels)". Cette campagne s'appuie sur des fenetres de revelation qui isolent les details significatifs d'une image d'actualite : une proposition qui valorise et assume la promesse de Challenges d'accompagner ses lecteurs a comprendre le monde pour en etre partie prenante.   
+[En voir plus sur la campagne sur LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7394665649563783168/?actorCompanyId=767723)  
+  
+| | | Le 50/50  
+---  
+Envie d'explorer un format ?   
+Cliquez sur le tag, tous nos liens sont juste derriere  
+  
+| | | [💌 newsletter](https://datagif.fr/liens/?format=newsletter)  
+---  
+  
+| | [📝 liste](https://datagif.fr/liens/?format=liste)  
+---  
+  
+| | |   
+---  
+Il y a 15 jours :  
+Flemmards  
+  
+| | | [🎞️ video](https://datagif.fr/liens/?format=video)  
+   
+---  
+  
+| | [🏆](https://datagif.fr/liens/?format=video)[68%](https://datagif.fr/liens/?format=video)  
+---  
+  
+| |   
+---  
+  
+| | | [🐍 long](https://datagif.fr/liens/?format=long)  
+---  
+  
+| | [32%](https://datagif.fr/liens/?format=long)  
+---  
+  
+| | | Climat  
+---  
+  
+| 🌦️  
+---  
+  
+| | Le traitement de la météo et du climat par Le Monde  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/8a6c3334-6ec3-adc8-68c5-6ead50e27161.png)](https://www.lemonde.fr/climat/meteo/)  
+---  
+Dans [la lignee de france tv](https://www.france.tv/france-2/journal-meteo-et-climat/) il y a un moment, Le Monde lance a son tour « [La Meteo du climat](https://www.lemonde.fr/climat/meteo/) »﻿, un portail gratuit et interactif qui allie previsions meteo et donnees climatiques historiques a l'echelle locale. Cet outil, soutenu par Generali, met en lumiere les differences entre meteo et climat, tout en offrant une lecture accessible et visuelle des phenomenes extremes et de leurs evolutions liees au changement climatique.  
+  
+Enrichi d'analyses, de reportages et de contenus pedagogiques, ce portail invite a mieux comprendre les enjeux actuels, notamment dans le contexte de la COP30, en mettant en perspective les conditions meteorologiques quotidiennes avec les tendances climatiques a long terme. Une initiative qui fait prendre conscience concretement de l'urgence climatique et de l'impact deja visible.  
+[Decouvrir la Meteo du climat](https://www.lemonde.fr/climat/meteo/)  
+  
+| | | Le lien de Charly  
+---  
+Mes commentaires sur les commentaires  
+  
+| | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/0f39c5ef-2fbe-e6df-2936-a941a34c9554.png)  
+---  
+  
+| | La premiere fois que j'ai entendu parler de Datagif, bien avant de les rejoindre, c'etait grace a la mythique "[Encyclopedie de la Web culture](https://books.google.fr/books/about/Encyclop%C3%A9die_de_la_webculture.html?id=G3Y-l1eJeqwC&source=kp_book_description&redir_esc=y)" de Titiou Lecoq et Diane Lisarelli, ou Florent signait deja quelques infographies « coolos ». Dans ce meme livre, j'avais contribue a un manifeste assez radical contre les commentaires en ligne. Quinze ans plus tard, je ne sais plus si je dois me rejouir de leur lente disparition ou si je dois les regretter.  
+  
+Ce [passionnant article](https://thehistoryoftheweb.com/what-happened-to-the-comment-section/) de la newsletter "The History of the Web" revient sur l'histoire des sections de commentaires dans les medias. Trop bruyants, trop chers a moderer, souvent mal encadres, les commentaires ont ete remplaces par des _likes_ et deportes sur Facebook (ou les gens ne se donnent meme plus la peine d'aller voir l'article) ou parfois par rien du tout. Et pourtant, leur absence des articles change profondement notre rapport aux contenus et aux debats.  
+  
+Est-ce qu'il faut s'en inquieter ? Pour eviter de laisser le monopole de la reaction aux reseaux sociaux, de nombreux medias essaient pourtant de soigner et rehabiliter leurs sections commentaires, aides parfois par les avancees IA. 2026, peut-etre l'annee du _comeback_ ?  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/7b939818-896f-22c1-631c-4dc9f98d3e29.jpg)](https://thehistoryoftheweb.com/what-happened-to-the-comment-section/)  
+---  
+  
+| | | Navigation  
+---  
+  
+| ⚓  
+---  
+  
+| | Le media .coda exploite intelligemment la sur-navigation  
+---  
+| ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/78acce6d-691a-7e52-cd32-1099ba606db1.jpg)  
+---  
+Le media d'enquete sur l'autoritarisme est un habitue des articles longs. Pour guider l'audience, la sur-nav s'avere tres utile ; en voici deux exemples pour deux cas d'usage, avec un principe similaire :  
+  
+🗄️ **2 en 1** : .coda publie [un article qui fait suite a un precedent papier publie 3 ans plus tot](https://www.codastory.com/disinformation/from-bolsonaro-to-mamdani-the-global-delegitimization-playbook-becomes-new-york-reality/). La sur-nav donne acces aux deux articles ; le plus ancien est enquille sous le plus recent, dans la meme adresse url : un excellent moyen de faire vivre l'archive.   
+  
+🗜️ **synth ese** : ici, .coda propose un entretien-fleuve [avec l'ancien directeur de l'info chez Google](https://www.codastory.com/authoritarian-tech/the-werewolf-game-an-interview-with-googles-former-news-chief-richard-gingras/#transcript). Outre le sujet passionnant (titre non sans malice "le jeu du loup-garou"), observez la sur-nav utilisee pour donner des ancres vers le contexte, puis la synthese, avant d'entrer dans le vif du sujet.   
+  
+| | | Le meilleur lien de l'edition n°163  
+---  
+  
+| | La refonte du media b2b mind  
+---  
+Decidement, nos projets ne vous laissent pas de marbre ! Deux editions de suite avec nos realisations parmi les liens les plus cliques, ça fait chaud au coeur 🫶  
+[Re(parcourir) les sites de mind](https://www.mind.eu.com/)  
+  
+| | | 🖊️ Courrier des lecteurs*trices  
+---  
+Quand medias et institutions s'inspirent mutuellement  
+On inaugure une nouvelle rubrique, que nous activerons quand bon nous semble : la reponse a un courrier reçu de votre part 📧  
+  
+L'article de la RTBF [sur les cartes de Wallonnie](https://www.rtbf.be/article/a-quoi-ressemblait-votre-maison-il-y-a-10-50-ou-200-ans-en-wallonie-decouvrez-notre-outil-interactif-11614158) a permis a Valerie, responsable editoriale d'IGN (les cartes de l'État), de nous rappeler l'existence en France de [Remonterletemps](https://remonterletemps.ign.fr/) : l'outil pour visualiser une adresse au fil des cartes et du temps.   
+  
+| | | Bonus  
+---  
+Pour les curieux*ses  
+🇪🇸 El Pais mele [graphiques et portraits](https://elpais.com/eps/2025-11-02/los-jovenes-son-mas-de-derechas-que-nunca-estas-son-sus-razones.html) pour illustrer le virage conservateur pris par une majorite des jeunes espagnols. 🌍 Dix ans apres les Accords de Paris, quel est le bilan ? [Le NYT dresse l'etat des lieux](https://www.nytimes.com/interactive/2025/11/07/climate/paris-agreement-climate.html). 📚 Mediapart lance les precommandes pour _Les Comploteurs_ , son nouveau livre sur l'affaire de chantage a Saint-Étienne, avec [une landing page soignee](https://lescomploteurs.com/). 🌱 Le Groupe EBRA s'engage dans une [production responsable](https://www.linkedin.com/posts/groupe-ebra_presseresponsable-daezveloppementdurable-activity-7394282824318545920-jm5p/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAdZo20BtGTyY_icno2OBPdvoKENF2XWA0A) en imprimant ses neuf titres avec des encres vegetales. 🛰️ À travers une carte interactive, la [RTBF enquete sur les survols de drones en Europe](https://www.rtbf.be/article/la-belgique-au-centre-de-la-guerre-hybride-cartographie-des-survols-de-drones-en-europe-11628663). 🌊 Inondations au Camp Mystic : le NYT [retrace les evenements](https://www.nytimes.com/interactive/2025/11/15/us/camp-mystic-flooding-deaths-video-map.html) grace a des prises de vues animees. 😕 « [Have I got phobia for you](https://haveigotphobiaforyou.com/) », le jeu interactif qui montre l'evolution des titres mediatiques, et donne une impression de deja vu : l'homophobie des annees 80 a laisse place a la transphobie aujourd'hui.  
+  
+| | | Merci d'avoir lu le n°164.  
+---  
+✏️ Un numero prepare par Athenais, Lucie, Charly, Aurore et Gaetan  
+  
+🚲 PS : on vient de re-designer la newsletter de Lery, mais si, vous savez, celle dediee au velo. [Allez voir !](https://leconcentrevelo.substack.com/)  
+par  
+| [![DATAGIF](https://newsletter.datagif.fr/ext/datagif/img/logo-big.png)](https://datagif.fr)  
+---  
+  
+| | | ![](https://newsletter.datagif.fr/ext/datagif/img/social.png) Retrouvez-nous sur les réseaux  
+---  
+[Medium](https://datagif.medium.com/) [X](https://x.com/datagif) [Bluesky](https://bsky.app/profile/datagif.fr) [Instagram](https://www.instagram.com/datagif/) [Threads](https://www.threads.net/@datagif) [Linkedin](https://www.linkedin.com/company/datagif/) [Datagif.fr](https://datagif.fr/)  
+  
+| | Vous recevez cet e-mail car vous êtes inscrit•e via le site [datagif.fr](https://datagif.fr/newsletter-medias/)Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)  
+👋 [Cliquez-ici](*|UNSUB|*) pour vous désabonner  
+---

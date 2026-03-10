@@ -1,0 +1,203 @@
+*|MC_PREVIEW_TEXT|*  
+  
+͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿
+
+| | [Ouvrir dans le navigateur](*|ARCHIVE|*)  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/08a19920-bd75-4bc9-ed75-a0932e2c2ab2.png)](*|ARCHIVE|*)  
+---  
+  
+| | | ![Médias](https://newsletter.datagif.fr/ext/datagif/img/medias-v2.png)  
+---  
+  
+| 159  
+---  
+  
+| | La veille innovation et design média par Datagif  
+---  
+  
+| | | En France, on a pas de budget, mais on a des newsletters !  
+---  
+Et bonne rentree ! C'est reparti pour une saison. Que visiblement vous attendiez, car notre edition de selection d'ete vous a particulierement plu : on a frole notre record d'ouverture 🔥  
+  
+Et sinon, vous faites quoi le 19 septembre ? Disclose et Rembobine [animent le festival du journalisme d'impact](https://luma.com/3sdi4far?ref=datagif-nl), a Paris. On y parlera d'impact (evidemment) : comment le journalisme peut faire bouger les lignes, le tout a retrouver dans un guide cree pour l'occasion. Bonus : si vous voulez me voir partager quelques bons liens sur le sujet, c'est l'occasion. On s'y retrouve ?   
+  
+| | | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/dd27fd0a-f659-dbfe-2c8d-0fa69e1c9747.png)  
+---  
+  
+| [Gaetan Duchateau](mailto:gaetan@datagif.fr)  
+---  
+Lead @Datagif  
+  
+| | | Casse-Bourbon  
+---  
+  
+| 🕹️  
+---  
+  
+| | Le jeu de l'ete de Contexte met en lumiere le concept de _politico-game_  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/3a2d02e3-d2f3-72da-46b7-90593d4c7f80.jpg)](https://www.contexte.com/fr/article/pouvoirs/jouez-a-casse-bourbon-et-debloquez-tous-les-bonus_235412)  
+---  
+Si vous l'avez manque, octroyez-vous une petite partie. S'appuyant sur les mecaniques d'Arkanoid (1986), ce jeu propose par Contexte vous propose d'**explorer les subtilit es de l'Assemblee Nationale par le jeu**. Une obstruction parlementaire ? Les objectifs sont proteges par des boucliers. Un depot d'amendements ? C'est parti pour le multi-baaaaalle !  
+  
+Bref, bravo a ses deux auteurs, qui vont peut-etre voir debouler un certain François B. dans le classement.   
+[Faire une partie a l'AN](https://www.contexte.com/fr/article/pouvoirs/jouez-a-casse-bourbon-et-debloquez-tous-les-bonus_235412), et au [Parlement europeen](https://www.contexte.com/eu/article/energy/be-a-hemicycle-hero_235424)  
+  
+| | | ![](https://newsletter.datagif.fr/ext/datagif/img/newsletter.png) Bonjour bonjour  
+---  
+Vous arrivez tout juste ? Bienvenue. Tous les 15 jours, [l'agence Datagif](https://datagif.fr/) vous partage gratuitement le meilleur de sa veille innovation et design d'information.  
+| [Abonnez-vous 😎 ](https://datagif.fr/newsletter-medias/)  
+---  
+  
+| | | IA  
+---  
+  
+| 🎒  
+---  
+  
+| | **Des id ees fraiches pour la rentree des medias**   
+---  
+| ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/b55ca04a-815a-715d-c132-19e3122d135a.png)  
+---  
+🇮🇹 En Italie, L'Eco di Bergamo a utilise l'IA pour creer [une base de donnees inedite](https://ognivitaunracconto.ecodibergamo.it/ognivita) de 320 000 avis de deces, reconstitues par reconnaissance d'image a partir de ses archives papier. Un travail patrimonial sensible et original, [mis en lumiere](https://thefix.media/2025/08/14/how-the-italian-newspaper-leco-di-bergamo-used-ai-to-create-an-unprecedented-obituary-database/) par The Fix. 🇳🇴 En Norvege, le quotidien Aftenposten reinvente [sa page d'accueil](https://www.aftenposten.no/) avec une IA qui adapte dynamiquement les articles selon le comportement reel des lecteurs. Pas de preferences a cocher : l'algorithme apprend de l'historique de lecture et complete le travail de curation manuelle des journalistes. C'est encore The Fix [qui detaille](https://thefix.media/2025/07/31/how-aftenposten-reinvents-its-homepage-with-ai-to-increase-engagement-and-subscriptions/) cette approche de personnalisation automatisee. 🇸🇬 Apres le _B2B_ et le _B2C_ , [Splice Media alerte](https://splicemedia.com/stories/ai-is-your-newest-audience-the-b2a2c-design-challenge) sur l'avenement du _B2A2C_ (Business to AI to Consumer) : les redactions doivent desormais penser leurs contenus pour etre lus par des intelligences artificielles, qui les restitueront ensuite a leurs utilisateurs. Mais tout l'enjeu consiste a ne pas oublier l'humain au bout de la chaine. 💬 Enfin, FT Strategies (avec le soutien de la Google News Initiative) [partage les enseignements](https://www.ftstrategies.com/en-gb/insights/taking-ai-from-the-backend-to-the-front-page-scaling-internal-tests-into-conversational-audience-experiences) d'un programme d'accompagnement de medias en Europe et en Afrique autour des usages "front" de l'IA : moteurs de recherche, assistants conversationnels, etc. Ce qui fonctionne ? Sans surprise, ce sont d'abord les outils conçus non pour l'innovation en soi, mais pour repondre a des besoins utilisateurs specifiques, mesurables, et utiles.  
+  
+| | | Sondage  
+---  
+  
+| 🎤  
+---  
+  
+| | The Guardian prend la temperature  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/c73e178b-9ec7-fd0a-682f-ea53ed3a1cf8.png)](https://guardiannewsandmedia.formstack.com/forms/sept_2025_climate_survey_prospects_a?lid=uj2p24k2owkg)  
+---  
+En debut de mois, si vous faites partie des lecteurs du Guardian, vous avez peut-etre reçu le meme mail que nous : **en font-ils assez sur la crise climatique ?**  
+   
+Dans un questionnaire detaille, le Guardian demande a ses lecteurs comment est-ce qu'ils jugent la couverture de la crise climatique par le media, quels sujets ils souhaiteraient voir etre traites dans leurs colonnes et dans quelle mesure les papiers publies ont influe sur les comportements des lecteurs.   
+  
+Ce questionnaire est un bel exemple d'humilite teintee de fierte, et illustre **comment entretenir sainement le lien avec son lectorat**. Notons egalement que ce questionnaire a ete publie quelques semaines apres la publication de "[The 89% project](https://www.theguardian.com/environment/2025/aug/12/89-project-why-climate-action-matters-callout)", dans lequel le Guardian invite ses lecteurs a contribuer a un recit inspirant autour de l'engagement pour le climat et raconter pourquoi ils se soucient du climat, et qu'est-ce qui les a pousse a agir.  
+[Voir le sondage du Guardian](https://guardiannewsandmedia.formstack.com/forms/sept_2025_climate_survey_prospects_a?lid=uj2p24k2owkg)  
+  
+| | | Le 50/50  
+---  
+Envie d'explorer un sujet ?   
+Cliquez sur le tag, tous nos liens sont juste derriere  
+  
+| | | [🎲 3D](https://datagif.fr/liens/?feature=3d)  
+---  
+  
+| | [📊 infographie](https://datagif.fr/liens/?format=infographie)  
+---  
+  
+| | |   
+---  
+Avant l'ete :  
+Sans blague.  
+  
+| | | [🏀 sport](https://datagif.fr/liens/?theme=sport)  
+---  
+  
+| | [🏆 59%](https://datagif.fr/liens/?language=espagnol)  
+---  
+  
+| |   
+---  
+  
+| | | [💶 economie](https://datagif.fr/liens/?theme=economie)  
+---  
+  
+| | [41%](https://datagif.fr/liens/?language=allemand)  
+---  
+  
+| | | Refonte  
+---  
+  
+| 🎨  
+---  
+  
+| | L'Avenir fait peau neuve  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/680f9413-9eaf-43e2-b1fc-346d64e69641.gif)](https://www.lavenir.net/)  
+---  
+Le media belge a mis le paquet pour la rentree : nouvelle identite, nouveau site, nouveau tout. Deux elements du site ont particulierement retenu notre attention :   
+  
+🔍 La rubrique "Les plus lus en region" scindee en deux, avec un selecteur permettant de choisir sa region, puis d'enregistrer le choix comme region de preference : **malin et dynamique**.  
+  
+💬 Toujours sur la page d'accueil, l'encart "L'Avenir vous repond", permettant aux internautes de poser des questions en relation avec l'actu a la redaction : une fonctionnalite qui n'est pas revolution mais que nous adorons voir **avec une place aussi centrale** , particulierement pour la presse regionale.  
+[Decouvrir le nouveau site L'Avenir](https://www.lavenir.net/)  
+  
+| | | Le lien Gaetan, lead @Datagif  
+---  
+Avalanche d'information vs politique de l'autruche  
+  
+| | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/dd27fd0a-f659-dbfe-2c8d-0fa69e1c9747.png)  
+---  
+  
+| | L'enjeu est : preserver sa sante mentale. L'etude du Reuters sur le desengagement de l'attention envers les medias a capte l'attention du Guardian, [qui publie une chronique sur le sujet](https://www.theguardian.com/society/ng-interactive/2025/sep/01/news-avoidance-high-anxiety). Ce qu'il en sort, c'est un cruel manque de methodologie par les individus pour se reguler. Ça n'est pas parce que l'info est accessible h24 qu'il faut la consulter en continu. Choisir ses sources, ses canaux, s'organiser : c'est ce qui manque a beaucoup, qui se contentent de se couper totalement (0 notif, 0 app, 0 abonnement). Le risque : un isolement extreme et une deconnexion aux sujets de societe. Entre le tout blanc et le tout noir, il y a la zone grise. Une opportunite pour les medias d'eduquer son audience sur le bon dosage ?  
+---  
+  
+| | | Le meilleur lien de l'edition n°158  
+---  
+  
+| | À vos fiches de lecture !  
+---  
+Parmi la ribambelle de listes que nous avons partage dans la precedente edition, ce sont les recos lecture de The Atlantic qui ont suscite le plus d'interet !   
+[Prolonger l'ete avec The Atlantic](https://www.theatlantic.com/books/archive/2025/05/summer-reading-2025/682549/)  
+  
+| | | Video  
+---  
+  
+| 📱  
+---  
+  
+| | Comment utiliser l'audience de son site pour booster son compte Youtube   
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/9c71daf0-0566-7cfb-5fcf-85aa97c95c4a.gif)](https://elpais.com/planeta-futuro/2025-08-11/arroz-de-la-onu-revendido-a-10-euros-el-kilo-y-comisiones-del-50-para-obtener-efectivo-asi-se-sobrevive-en-el-mercado-negro-en-gaza.html?autoplay=1&sma=mananaenlaces_2025.08.11)  
+---  
+Le sujet de la video est vaste : faut-il investir des formats dedies sur des plateformes tierces, quelle qualite viser, quelle tonalite... Et quel effort fournir pour developper des audiences qui en valent la peine ? **El Pa is tient peut-etre une bonne idee**. Dans son gabarit d'article assez classique, le media a ajoute une integration de video verticale, ce qui fonctionne bien sur mobile evidemment. Mais ce qui a retenu notre attention : il s'agit d'un Short, heberge chez Youtube, en lecture automatique.   
+  
+Resultat : a chaque ouverture d'article (site, app), **cela compte pour une vue sur la vid eo**. Consequence : le nombre de vues se cumule, l'algo de Youtube apprecie, la video peut ainsi mieux remonter sur la plateforme directement. Tout cela semble bricole mais on sent qu'il y a un truc malin.   
+[Voir l'article en situation chez El Pais](https://youtu.be/gV9XWTXF43A)  
+  
+| | | Arnaque  
+---  
+  
+| 🏠  
+---  
+  
+| | Le piege des annonces immobilieres  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/1a3dfb74-e8fa-7303-9fb9-904aef484d23.gif)](https://www.srf.ch/news/gesellschaft/erfundene-traumwohnungen-angelockt-und-abgezockt-so-erkennen-sie-fake-inserate-im-netz)  
+---  
+Cette annonce semblait trop belle pour etre vraie ? Pour vous aider a dejouer les pieges des fausses publicites et annonces de location, le media suisse SRF propose une approche a la fois pratique et visuellement soignee. Si le sujet est bien connu, le format se distingue par son haut de page anime et ses illustrations.  
+  
+L'article **se pr esente comme une sorte de guide **pour demeler le vrai du faux, avec une serie de questions pour debusquer les arnaques et les bonnes pratiques a adopter. Le tout est complete par une interview video d'une victime de ces arnaques. Une maniere efficace de sensibiliser le public a un probleme malheureusement courant.  
+[Dejouer les arnaques au logement](https://www.srf.ch/news/gesellschaft/erfundene-traumwohnungen-angelockt-und-abgezockt-so-erkennen-sie-fake-inserate-im-netz)  
+  
+| | | Bonus  
+---  
+Et encore quelques liens  
+🪐 Le WaPo nous embarque dans [une exploration de la galaxie d'Andromede](https://www.washingtonpost.com/science/interactive/2025/hubble-telescope-andromeda-galaxy-explore/?itid=sr_0_243b8e96-8794-44a0-ba7c-3f34dbfeb731) 🤖 [Le NYT decrypte la desinformation par videos generees par l'IA](https://www.nytimes.com/2025/07/15/technology/israel-iran-psychological-warfare.html), la nouvelle arme de guerre entre l'Iran et Israel 🗺️ La [carte en relief](https://www.reuters.com/graphics/USA-TRUMP/PUBLIC-LANDS/zdpxkxdwnvx/) qui met en lumiere les terres publiques federales menacees par l'administration Trump 🤼‍♂️ [Les techniques de lutte presentees par SRF](https://www.srf.ch/sport/mehr-sport/schwingen/esaf-2025-der-perfekte-schwung-zum-koenig) a l'occasion de la Fete federale de lutte et des jeux alpestres : a ne pas reproduire chez soi ! 🤑 Quand [Substack impose desormais le paiement via Apple](https://mail.bigdeskenergy.com/p/substack-just-killed-creator-economy?utm_source=orbitaloperations.beehiiv.com&utm_medium=newsletter&utm_campaign=summer-s-shadow), et gonfle les prix de 30% en privant les auteurs du controle sur leurs abonnes 📰 À la recherche d'une archive ? Decouvrez [la librairie La Galcante specialisee dans la vente de journaux anciens](https://www.instagram.com/reel/DNvD-rJQv19/?utm_source=ig_web_copy_link) 📊 Explorez [les differents parcours de vie de jeunes suisses](https://www.tagesanzeiger.ch/die-haeufigsten-familienmodelle-junger-menschen-in-der-schweiz-552710313293) grace a une datavisualisation  
+  
+| | | Et voila pour l'edition 159  
+---  
+✏️ Un numero prepare par Athenais, Lucie, Charly, Aurore et Gaetan  
+  
+✌️ Merci pour votre fidelite, vos retours et vos partages  
+  
+🔀 Un lien peut servir a vos collegues ? N'hesitez pas a leur transferer cette newsletter, ils vous remercieront !  
+  
+   
+par  
+| [![DATAGIF](https://newsletter.datagif.fr/ext/datagif/img/logo-big.png)](https://datagif.fr)  
+---  
+  
+| | | ![](https://newsletter.datagif.fr/ext/datagif/img/social.png) Retrouvez-nous sur les réseaux  
+---  
+[Medium](https://datagif.medium.com/) [X](https://x.com/datagif) [Bluesky](https://bsky.app/profile/datagif.fr) [Instagram](https://www.instagram.com/datagif/) [Threads](https://www.threads.net/@datagif) [Linkedin](https://www.linkedin.com/company/datagif/) [Datagif.fr](https://datagif.fr/)  
+  
+| | Vous recevez cet e-mail car vous êtes inscrit•e via le site [datagif.fr](https://datagif.fr/newsletter-medias/)Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)  
+👋 [Cliquez-ici](*|UNSUB|*) pour vous désabonner  
+---

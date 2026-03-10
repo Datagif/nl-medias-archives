@@ -1,0 +1,219 @@
+*|MC_PREVIEW_TEXT|*  
+  
+͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿
+
+| | [Ouvrir dans le navigateur](*|ARCHIVE|*)  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/ff4f6539-4f20-2bc1-92a8-fcabed4100d0.png)](*|ARCHIVE|*)  
+---  
+  
+| | | ![Médias](https://newsletter.datagif.fr/ext/datagif/img/medias-v2.png)  
+---  
+  
+| 154  
+---  
+  
+| | La veille innovation et design média par Datagif  
+---  
+  
+| | | Experimenter pour s'ameliorer  
+---  
+Non, on a jamais fini de tester des trucs dans tous les sens. Entre les outils de conception et design disponibles depuis peu chez Figma et Google par exemple, ou meme juste dans Mailchimp (voir notre premier paragraphe), on prend un malin plaisir a experimenter. Ça fonctionne, ça fonctionne pas, dans tous les cas on est gagnant : on en retire des enseignements, on s'ameliore, on peut aussi conseiller nos clients. Et vous, vous gardez du temps pour tester des trucs marrants ?  
+  
+| | | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/dd27fd0a-f659-dbfe-2c8d-0fa69e1c9747.png)  
+---  
+  
+| [Gaetan Duchateau](mailto:gaetan@datagif.fr)  
+---  
+Lead @Datagif  
+  
+| | | **REX**  
+---  
+  
+| **🧪**  
+---  
+  
+| | "C'est normal docteur ?" On vous fait entrer dans notre laboratoire !  
+---  
+| ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/509f43b9-607f-a2e5-841b-8f101474438d.jpg)  
+---  
+Si vous etes abonne*e a la version mail de cette newsletter (oui, elle existe aussi sur [LinkedIn](https://www.linkedin.com/newsletters/m%C3%A9dias-par-datagif-7147965233976791043/)), vous vous etes peut-etre demande pourquoi vous avez reçu deux fois le dernier numero. La reponse est simple : parce que vous n'aviez pas ouvert la newsletter lors du premier envoi. On vous explique ⬇️  
+  
+Un mardi sur deux, a 10h30, Charly, Gaetan, Athenais et Lucie se rassemblent pour discuter des sujets de la newsletter a venir - c'est un peu notre conf' de redac'. On se partage notre veille, on juge de la pertinence de certains liens, et on valide l'angle de chaque sujet.  
+  
+Pour le precedent numero de la NL, un autre sujet etait a l'ordre de jour : si nous maintenons l'envoi, il sera alors programme en plein jour ferie, le 8 mai - peu de chance pour qu'il soit lu. Devons-nous decaler l'envoi ? Ou simplement annuler ce rendez-vous pour cette fois ? Et pourquoi ne pas profiter de ce week-end de pont pour tester une fonctionnalite Mailchimp qui nous fait de l'oeil depuis plusieurs mois ? On a opte pour la derniere option, qui est celle de programmer un renvoi a tous les destinataires qui n'ont pas ouvert le numero "original". Il faut savoir que **cette newsletter est aussi notre petit laboratoire, on y teste pas mal de choses, et on aime vous partager nos apprentissages, nos conclusions**. Les voici :   
+  
+**✅ Plus de 200 personnes ont ouvert le mail de renvoi** : ce fut donc utile pour autant de monde ! Et le **taux de clic etait tres interessant**, si on prend pour ratio les plus de 200 ouvertures.   
+  
+❌ Plus de 200 ouvertures… sur pres de 2 800 de ce 2e envoi. Voila qui remet le tout en perspective. **Ceux qui n 'ont pas ouvert la premiere fois n'ont pas ouvert la seconde fois**. Et surtout, quelques retours de lecteurs qui nous ont prevenu d'une erreur, quand d'autres nous ont precise ne pas avoir ouvert la NL a la reception, pour remettre a plus tard leur lecture.   
+  
+🤔 En conclusion, si nous devions retenter l'exercice, **nous changerions sans h esiter l'objet du mail**, pour preciser qu'il s'agit d'un renvoi et pour eviter la confusion du "deja-vu". Mais c'est malheureusement la seule chose que nous pourrions editer - le contenu ne pouvant etre retouche. On medite encore sur le sujet, mais nous sommes curieux de votre avis sur le sujet !   
+  
+| | | ![](https://newsletter.datagif.fr/ext/datagif/img/newsletter.png) Bienvenue  
+---  
+Tous les 15 jours, le meilleur de la veille innovation et design d'information, par Datagif.  
+| [Abonnez-vous ](https://datagif.fr/newsletter-medias/)  
+---  
+  
+| | | Produit  
+---  
+  
+| 📱  
+---  
+  
+| | Le Guardian transforme en profondeur son application  
+---  
+| ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/eef6e8d8-b27c-6278-4214-4ac1ade37faa.jpg)  
+---  
+Avec des changements majeurs autour de trois axes : l'audio, les jeux, la personnalisation. Ce que l'on retient :  
+  
+🔈 Le nouvel espace dedie a l'audio n'est pas seulement un regroupement de l'offre de podcasts. C'est aussi l'occasion de souligner que chaque article est disponible dans une version a ecouter, meme si cette fonctionnalite pourrait etre davantage valorisee dans l'espace audio.   
+  
+🧩 L'offre de jeux est musclee, toujours dans un but de captivite dans l'app.   
+  
+🔖 "Mon Guardian" est un espace dedie aux sujets suivis : rien de revolutionnaire ici, plutot la confirmation que cet espace sanctuarise pour l'utilisateur est au coeur des preoccupations.  
+  
+🏡 Enfin, la page d'accueil de l'application a ete revue : une frise bien vue, avant le traditionnel _header_ , pour valoriser des sujets choisis.  
+  
+❌ Des choix audacieux ont ete faits : le direct est relegue dans un 2e niveau de menu, idem pour l'espace '_discover_ '.   
+  
+Une appli est un produit vivant, qui evolue en permanence : nous surveillerons donc de pres les ajustements mineurs qui peuvent s'operer dans les prochains mois.    
+[Explorer les changements dans l'app du Guardian](https://www.theguardian.com/help/insideguardian/2025/may/07/app-relaunch)  
+  
+| | | Une question qui revient souvent :  
+---  
+C'est qui "Datagif", derriere cette newsletter ?  
+C'est deja le 154e numero et vous avez certainement rejoint cette newsletter en cours de route. Merci ! Vous ne le savez peut-etre donc pas, nous sommes [Datagif](https://datagif.fr/), une agence de strategie et design d'information. Cette newsletter existe pour partager le meilleur de la veille que nous realisons en interne, quotidiennement. Les bons liens, on vous les reserve. Mais pourquoi cette veille axee medias ? Car le design d'information est notre coeur de metier : strategie, UX, UI, sont nos metiers, pour assurer le bon parcours d'une info aupres du bon public. Et donc, [une bonne partie de nos clients sont des medias](https://datagif.fr/medias/), mais pas que !  
+  
+| | | Methodologie  
+---  
+  
+| 📰  
+---  
+  
+| | Comment les redactions s'approprient l'intelligence artificielle  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/811ee175-c117-d85d-ca3c-ac0962a777d1.jpg)](https://www.cjr.org/feature-2/how-were-using-ai-tech-gina-chua-nicholas-thompson-emilia-david-zach-seward-millie-tran.php)  
+---  
+La Columbia Journalism Review [a interroge](https://www.cjr.org/feature-2/how-were-using-ai-tech-gina-chua-nicholas-thompson-emilia-david-zach-seward-millie-tran.php) une vingtaine de journalistes, redacteurs en chef et dirigeants de medias sur leurs usages de l'IA. Resultat : une galerie de temoignages concrets, entre retours d'experiences, declarations prophetiques, reserves philosophiques et cas d'usage bien reels.  
+  
+Beaucoup testent les LLM pour categoriser l'information ou comparer des traitements mediatiques. D'autres les utilisent pour analyser des images satellites ou estimer des foules. Mais tous insistent : pas question de deleguer sans controle, ni d'ignorer les implications ethiques ou environnementales. Certains ne se disent pas particulierement impressionnes par les resultats actuels et surtout presque tous affirment refuser de confier aux machines la tache qu'ils estiment la plus essentielle (et valorisante) de leur metier : ecrire.  
+[Decouvrir les temoignages sur CJR](https://www.cjr.org/feature-2/how-were-using-ai-tech-gina-chua-nicholas-thompson-emilia-david-zach-seward-millie-tran.php)  
+  
+| | | Decryptage  
+---  
+  
+| 🐦  
+---  
+  
+| | Les frasques de Musk passees au crible de la data  
+---  
+| ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/d99ca829-f7c0-b4b2-2ed7-bb79ae2e2845.jpg)  
+---  
+L'influence d'Elon Musk sur X et la montee de l'extreme droite en Europe est un sujet que la RTBF (en collaboration avec France Info et France 24) et le [NYT](https://www.nytimes.com/interactive/2025/05/15/business/elon-musk-x-twitter-feed-following-followers.html) ont explore sous des angles complementaires. Les deux enquetes adoptent un format immersif, debutant par une introduction visuelle sous forme de defilement d'un ecran de smartphone sur X, agremente d'explications. 🧑‍🔬 D'un cote, la [RTBF decrypte en graphiques tres parlants l'activite du milliardaire](https://www.rtbf.be/article/comment-elon-musk-utilise-son-reseau-x-pour-faire-monter-l-extreme-droite-en-europe-11540235) : ses plus de 15 000 messages postes en cinq mois (majoritairement des reponses) revelent comment Musk booste des comptes d'influenceurs d'extreme droite, allant jusqu'a appeler clairement a voter pour certains partis.  
+  
+🔍 De l'autre, le[ NYT se penche sur son flux](https://www.nytimes.com/interactive/2025/05/15/business/elon-musk-x-twitter-feed-following-followers.html), analysant ses plus de 1 000 abonnements qui incluent influenceurs d'extreme droite, complotistes et militants anti-transgenres, confirmant une allegeance marquee. Deux approches, meme format d'entree, pour un constat convergent sur la puissance d'Elon Musk a influencer l'agenda mediatique et politique.  
+  
+Bonus : comment Musk a lui-meme tente d'influer son agent Grok, qui ne s'est [pas completement laisse faire](https://lepavenumerique.substack.com/p/puissent-les-ia-nous-sauver-de-leurs?utm_source=post-email-title&publication_id=1653266&post_id=163905868&utm_campaign=email-post-title&isFreemail=true&r=lnwvt&triedRedirect=true&utm_medium=email)...  
+  
+| | | Le 50/50  
+---  
+Envie d'explorer un theme ?  
+Cliquez sur le tag, tous nos liens sont juste derriere  
+  
+| | | [🏙️ ville](https://datagif.fr/liens/?theme=ville)  
+---  
+  
+| | [✏️ design](https://datagif.fr/liens/?feature=cartehttps://datagif.fr/liens/?theme=design)  
+---  
+  
+| | |   
+---  
+Il y 15 jours  
+Des cartographes et geographes dans l'assemblee ?   
+  
+| | | [🗺️ carte](https://datagif.fr/liens/?feature=carte)  
+---  
+  
+| | [🏆 58%](https://datagif.fr/liens/?feature=interactif)  
+---  
+  
+| |   
+---  
+  
+| | | [👀 tracker](https://datagif.fr/liens/?format=tracker)  
+---  
+  
+| | [42%](https://datagif.fr/liens/?format=audio)  
+---  
+  
+| | | Revenus  
+---  
+  
+| 💰  
+---  
+  
+| | **Un comparatif de quelques solutions permettant  de monetiser sa newsletter**  
+---  
+| ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/7e52af3d-6da9-aaf7-d685-26d1f4d7d051.jpg)  
+---  
+La newsletter, vous le savez, on y croit beaucoup. C'est un format accessible, pas trop complique a creer, qui peut aussi fortement se demarquer. En France, on est plutot radin et l'audience n'est globalement pas super emballee par l'idee de payer pour du contenu, mais les contre-exemples commencent a s'imposer. Le site de ressources journalstiques Pressgazette [a realise un comparatif](https://pressgazette.co.uk/newsletters/newsletter-platforms-for-publishers-compared-substack-versus-the-rest/) de Substack, Ghost, Beehiiv et Kit, solutions permettant d'heberger sa newsletter tout en la monetisant, avec :  
+  
+⚖️ avantages / inconvenients de la solution  
+😓 couts de licence annuelle  
+🥵 cout de la commission   
+💸 cout des transactions  
+  
+Que voulez-vous, on a rien sans rien. Solution non-listee mais 100% française : [Kessel](https://www.kessel.media/), a ajouter dans la balance.  
+  
+Le sujet vous interesse ? Vous envisagez une newsletter payante ? On peut vous accompagner sur la reflexion, il suffit de nous repondre a ce mail !  
+  
+| | | Le lien de Gaetan, lead strat & design  
+---  
+Le monde merveilleux de l'Eurovision  
+  
+| | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/dd27fd0a-f659-dbfe-2c8d-0fa69e1c9747.png)  
+---  
+  
+| | Un veritable culte est voue a ce rendez-vous in-con-tour-na-ble : entre kitsch, strass et paillettes, c'est une usine a memes. J'avoue, je fais partie de ces fans. Mais faisons le focus sur un point essentiel : comment creer l'identite visuelle de cet evenement ~~europ een~~ planetaire ? [C'est la question qu'a pose Lenodal](https://blog.lenodal.com/index.php?/archives/0491-Eurovision-2025-dans-les-coulisses-de-lidentite-visuelle.html) (la source de veille absolue de l'identite tv) au directeur artistique de l'evenement, Artur Deyneuve. Dans cet entretien passionnant, Artur nous raconte comment le brief au depart traite comme un autre est devenu un sujet unique et different de tous ses projets, comment il a fallu composer avec une identite posee en 2023 tout en valorisant le pays hote (la Suisse) pour cette edition, et par extension valoriser l'heritage graphique du pays (qui est loin d'etre anodin). Detail amusant : la Suisse ayant un drapeau carre, tous les pays y ont eu droit aussi. Une sacree mission pour une emission sacree ! 🥁  
+---  
+  
+| | | Le meilleur lien de l'edition n°153  
+---  
+  
+| | IA du bon avec l'IA ? 🧐  
+---  
+Vous avez ete nombreux a vouloir experimenter la nouvelle fonctionnalite de l'application du WaPo, qui integre de l'IA pour remplacer la recherche.   
+[(Re)tester "Ask the Post"](https://apps.apple.com/fr/app/washington-post/id352509417)  
+  
+| | | Bonus  
+---  
+Toujours plus de liens, a portee de clic !  
+🔒 Forbidden Stories nous [ouvre les portes de la prison de Taganrog](https://forbiddenstories.org/fr/prison-russe-taganrog-torture/) avec une modelisation 3D  
+  
+🚰 Votre eau est-elle contaminee au CVM ? [Vert le media propose une carte interactive](https://vert.eco/articles/leau-potable-de-votre-commune-est-elle-contaminee-au-cvm-ce-gaz-toxique-et-cancerogene-verifiez-sur-notre-carte-de-france-interactive) pour verifier  
+  
+⛪️ The South China Morning Post ajoute [une derniere couche sur le pape](https://multimedia.scmp.com/infographics/news/world/article/3310236/habemus-papa/index.html), avec des illustrations toujours aussi soignees  
+  
+🪳Gare aux tiques ! [La carte qui recense les zones a risque de la maladie de Lyme ou du TBE](https://interaktiv.morgenpost.de/zecken-atlas-deutschland/) en Allemagne  
+  
+🗺️ Le Monde met a jour sa carte de voyage interactive : [parcourez le monde sans quitter l'Europe](https://www.lemonde.fr/les-decodeurs/visuel/2025/05/02/125-destinations-pour-faire-le-tour-du-monde-sans-quitter-la-france-ou-l-europe_6254182_4355771.html)  
+  
+| | | Merci pour votre lecture  
+---  
+✏️ Cette edition a ete preparee par Athenais, Lucie, Charly, Aurore et Gaetan.  
+  
+Et merci pour vos partages de liens ! C'est toujours un plaisir de recevoir ce qui vous a interpelle, ou meme ce sur quoi vous travaillez. Continuez !  
+   
+par  
+| [![DATAGIF](https://newsletter.datagif.fr/ext/datagif/img/logo-big.png)](https://datagif.fr)  
+---  
+  
+| | | ![](https://newsletter.datagif.fr/ext/datagif/img/social.png) Retrouvez-nous sur les réseaux  
+---  
+[Medium](https://datagif.medium.com/) [X](https://x.com/datagif) [Bluesky](https://bsky.app/profile/datagif.bsky.social) [Instagram](https://www.instagram.com/datagif/) [Threads](https://www.threads.net/@datagif) [Linkedin](https://www.linkedin.com/company/datagif/) [Datagif.fr](https://datagif.fr/)  
+  
+| | Vous recevez cet e-mail car vous êtes inscrit•e via le site [datagif.fr](https://datagif.fr/newsletter-medias/)Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)  
+👋 [Cliquez-ici](*|UNSUB|*) pour vous désabonner  
+---

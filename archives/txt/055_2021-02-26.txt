@@ -1,0 +1,144 @@
+---  
+![Médias](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/d060cdc3-f8d4-4207-b9bb-0b8ffda1ca6f.png)  
+La veille innovation et design media par Datagif  
+  
+| *|MC_PREVIEW_TEXT|*  
+---  
+---  
+1\. Incendies Le Guardian nous fait flipper  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/87e3cd5c-ecbe-430f-81ab-8f0ddf218dd1.png)  
+---  
+La semaine derniere, le Guardian revelait comment les incendies se propageaient dans des regions du monde qui n'en avaient jamais connu jusque-la. L'article paru sur papier etait deja ~~impactant~~  reussi, mais le journal s'est permis de l'adapter d'une bien belle maniere en ligne. Theme sombre immersif, cartographie massive, degrades rouge-orange : c'est joli mais surtout tres flippant.  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/a2c23cdb-9f61-4e0d-8a19-51c7bc5704d1.png)  
+---  
+|  -- [Lire l'article](https://www.theguardian.com/environment/ng-interactive/2021/feb/19/how-fires-have-spread-to-previously-untouched-parts-of-the-world) du Guardian  
+---  
+---  
+2\. Video Axios invente le « mini-cours » en video  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/62d24913-a111-4443-9182-79c2e5d85677.png)  
+---  
+Axios a lance recemment un nouveau format video appele « Get Smart ». La promesse est simple : decrypter des sujets d'actualite sous la forme de « mini-cours » en quelques episodes. Le dernier en date porte sur un theme chaud du moment : les vaccins.  
+  
+Sur la forme, cela ressemble beaucoup aux videos de Vox, mais en encore plus catchy : pas plus de 5 minutes par episode, et des angles tres pedagogiques. Et pour ne rien gacher, chaque serie est sponsorisee par un gros annonceur.  
+  
+Bonus : on peut aussi recevoir 1 episode par jour dans sa boite mail...  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/708421df-98d1-4d03-95a3-f2c6baa904a9.png)  
+---  
+|  -- [Decouvrir Get Smart](https://www.axios.com/get-smart/) chez Axios  
+---  
+---  
+3\. Login Pourquoi doit-on toujours se (re)connecter aux sites d'info ?  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/1be44ff5-c62f-43c4-b2a2-57ab027ee8d3.png)  
+---  
+Un journaliste [ironisait](https://twitter.com/davidmackau/status/1358836602982793220) recemment sur Twitter a propos d'un sentiment partage par [beaucoup](https://twitter.com/Signez/status/1364230706780602370) : on passe son temps a se connecter aux sites d'info sans trop savoir pourquoi 🤬  
+  
+Un probleme difficile a resoudre car il y a toujours un trou dans la raquette (technique). Dans beaucoup de cas, le probleme survient quand on ouvre un lien via une application mobile, un reseau social ou son client mail. Le lien est alors ouvert dans un environnement different du navigateur habituel, et il faut alors se reconnecter.  
+  
+En 2019, le Nieman Lab avait analyse ce mystere en prenant [l'exemple calamiteux du New Yorker.](https://www.niemanlab.org/2019/01/why-wont-the-new-yorker-keep-you-logged-in-mystery-solved-kind-of/) Les solutions techniques ne sont pas forcement evidentes a implementer pour les medias, quand elles ne sont tout simplement pas hors de leur controle. Apple et Google commencent neanmoins a faciliter le partage des sessions sur mobile.  
+  
+Quelques pistes pour eviter la [fatigue du mot de passe](https://fr.wikipedia.org/wiki/Fatigue_de_mot_de_passe) :   
+● Certains medias français experimentent le systeme de login commun « [PassMedia](https://passmedia.org/) »  
+● [Facebook](https://www.facebook.com/journalismproject/publisher-account-linking) et [Google](https://blog.google/outreach-initiatives/google-news-initiative/introducing-subscribe-google/) testent des fonctionnalites pour associer ses abonnements media[ ](https://www.facebook.com/journalismproject/publisher-account-linking)a[ ](https://www.facebook.com/journalismproject/publisher-account-linking)leurs comptes  
+● Et bien sur les gestionnaires de mots de passe !  
+---  
+|   
+---  
+---  
+4\. Marketing Petit detail repere dans la derniere enquete « OpenLux » du Monde : un petit message promotionnel vers son application de jeu Memorable, evidemment angle sur... les paradis fiscaux. Il fallait oser, mais c'est tres malin !  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/65a75f2e-17ff-4687-8c40-ff4ac60d1cdd.jpg)  
+---  
+---  
+5\. Suivi Des nouvelles des travailleurs essentiels   
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/64d7aaff-5ae3-428e-a19d-6d960d927238.gif)  
+---  
+Presque une annee apres avoir interroge des travailleurs essentiels, le New York Times propose un grand format pour faire le point sur leur situation.  
+  
+L'enquete s'ouvre avec des grandes questions, suivis de sept temoignages qui renvoient aussi vers l'article de l'an dernier. Le tout dans un design monochrome et rectiligne, qui evoque (au choix) un planning, des memos ou meme une autoroute.  
+  
+Un joli combo entre suivi editorial et creativite sur la forme.  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/8b366573-fbdf-4c00-a1b2-b44ba3666394.png)  
+---  
+|  -- [Lire l'article](https://www.nytimes.com/interactive/2021/02/17/magazine/remote-work-return-to-office.html) du New York Times  
+---  
+---  
+6\. Low-tech Les SMS a la rescousse des medias texans  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/512cb79e-4706-4c2a-9a7d-120b78721b0a.png)  
+---  
+![](http://gallery.mailchimp.com/653153ae841fd11de66ad181a/images/transparent.gif)  
+---  
+Le Texas a ete balaye mi-fevrier par une tempete hivernale, amenant avec elle des temperatures glaciales et des pannes de courant geantes.  
+  
+La presse locale a evidemment repondu au rendez-vous, le tout dans des conditions extremes. Certains medias comme le Texas Tribune se sont reveles tres ingenieux, en diffusant notamment des infos vitales par... SMS.  
+---  
+|  -- [Lire l'analyse](https://www.niemanlab.org/2021/02/with-sporadic-access-to-electricity-texas-news-outlets-are-texting-audiences-with-information-they-cant-get-from-the-state/) du Nieman Lab  
+---  
+---  
+7\. Covid-19 Montrer l'ampleur de l'epidemie  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/6f777aa9-94c3-4518-82dd-1718777d1144.png)  
+---  
+Les États-Unis viennent de franchir les 500 000 morts du Covid et, comme a chaque palier symbolique, les unes de journaux ont repense leur mises en page pour arborer des elements tres visuels :  
+● une gigantesque courbe chez USA Today  
+● une representation en points de chacune des vies perdues pour le New York Times. Il s'agit d'une reprise mise a jour de la visualisation des 450 000 cas [publiee sur son site](https://www.nytimes.com/interactive/2021/01/27/us/us-coronavirus-deaths-rate.html).  
+● plusieurs comparaisons visuelles chez le Washington Post (avec notamment un cimetiere ou un memorial geant) afin de mieux se representer ce que recouvre ce chiffre. Une [version en ligne](https://www.washingtonpost.com/nation/interactive/2021/500000-covid-deaths-visualized/) est egalement disponible.  
+---  
+---  
+8\. Strategie Plus de medias sur Facebook : banco ?  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/be0a3922-c9e3-4fc6-aec0-9aa5d939430c.png)  
+---  
+Vous avez sans doute entendu parler de la controverse media de la semaine : le bras de fer entre les medias australiens et les GAFA, vent debout devant un nouveau projet de regulation.  
+  
+Facebook a sorti l'arme fatale en coupant le partage d'actualites a ses utilisateurs australiens... avant de faire marche arriere. Tout le monde s'est emu (a juste titre) de cette decision, pas franchement coherente avec la lutte contre les fake news. Les medias ont aussi crie au grand mechant loup... mais au final ne serait-ce pas la une formidable opportunite ?  
+  
+À court-terme, le trafic des medias australiens a evidemment tremble, selon les premieres analyses de Chartbeat. Mais a long-terme, les medias n'auraient-ils pas interet a retirer leurs contenus de ces plateformes, ou au moins l'experimenter ? Voila de quoi renverser le rapport de force avec les GAFA et faire revenir les utilisateurs vers leurs propres plateformes. Premier signe encourageant : les telechargements de certaines applications media etaient a leur sommet en Australie cette semaine...  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/b80a7351-f006-4af2-abe5-853d1eb9ac53.png)  
+---  
+|  -- [Lire la bonne analyse](https://bigtechnology.substack.com/p/why-facebooks-temporary-news-ban) de la newsletter Big Technology  
+-- [Lire le retour d'experience du media neo-zelandais Stuff](https://reutersinstitute.politics.ox.ac.uk/risj-review/news-site-stuff-left-facebook-seven-months-later-traffic-just-fine-and-trust-higher), qui avait deja abandonne Facebook avec succes   
+---  
+---  
+9\. Coulisses The Economist lance une newsletter pour parler de son data-journalisme  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/c447c585-af75-464e-b396-cad05ef2dcb2.jpg)  
+---  
+Baptisee "Off the charts", cette newsletter hebdomadaire raconte comment l'equipe de data-journalistes travaille ses sujets, choisit ses donnees, ou questionne les possibilites de visualisations...  
+  
+L'edition de cette semaine est dediee au [tracker de deces](https://www.economist.com/graphic-detail/coronavirus-excess-deaths-tracker) lies au Covid-19. The Economist avait ete l'un des premiers a agreger plusieurs sources de donnees pour obtenir un resultat plus fin.  
+  
+Riche, lisible et utile pour valoriser l'expertise journalistique : c'est un bon exemple de newsletter que nous recommandons !  
+---  
+|  -- Inscrivez-vous a [Off the charts](https://www.economist.com/offthecharts/)  
+-- Lisez [l'edition de la semaine](https://view.e.economist.com/?qs=e18e95ab233eee4422bf942978668c2c0032f6ea4389833d2bccf6a8e0f58df59f8fa470681cf1f897efa3ddda643b6d99f2500695763700cfcfaa23530c15adbeee2212aa9733b0d761e6377e6a04b3)  
+---  
+---  
+C'est tout pour aujourd'hui !  
+|  Et n'oubliez pas : vous pourrez nous retrouver lundi prochain aux **Rencontres editoriales**, organisees par Samsa.  
+  
+Plein de tables rondes passionnantes au programme : on vous parlera notamment des elections 2022...  
+---  
+|  -- [Decouvrir le programme ](https://www.innovation-editoriale.fr/programme-des-rencontres-de-linnovation-editoriale-2021)  
+---  
+Vous recevez cet e-mail car vous êtes inscrit•e via le site   
+[medias.datagif.fr](https://medias.datagif.fr/)   
+  
+🏄‍   
+Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)   
+  
+📪  
+Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)   
+  
+✌️  
+Retrouvez la veille et les projets de Datagif sur   
+[Medium](https://medium.com/Datagif) \- [Twitter](https://twitter.com/datagif) \- [Instagram](https://www.instagram.com/datagif) \- [Datagif.fr](https://datagif.fr)   
+  
+👋   
+[Cliquez-ici](*|UNSUB|*) pour vous désabonner   
+  
+  
+*|IF:REWARDS|* *|HTML:REWARDS|* *|END:IF|*   
+  
+  
+---

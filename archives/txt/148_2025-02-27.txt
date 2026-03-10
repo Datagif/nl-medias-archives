@@ -1,0 +1,234 @@
+*|MC_PREVIEW_TEXT|*  
+  
+͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿
+
+| | [Ouvrir dans le navigateur](*|ARCHIVE|*)  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/4e6c220d-601a-7680-ae5b-3bfe046e73a2.png)](*|ARCHIVE|*)  
+---  
+  
+| | | ![Médias](https://newsletter.datagif.fr/ext/datagif/img/medias-v2.png)  
+---  
+  
+| 148  
+---  
+  
+| | La veille innovation et design média par Datagif  
+---  
+  
+| | | En toute franchise  
+---  
+Il y a quelques jours, lors d'une discussion avec un client, ce dernier me dit "Tu sais, on vous a aussi choisi pour votre franc-parler". C'est vrai. On est francs dans nos echanges avec nos clients : on hesite pas a dire les choses. Quand une intuition est bonne, on va la souligner, s'appuyer dessus. Quand d'autres le sont moins, on va poser des questions pour chercher a les ameliorer, sans cacher les aspects negatifs. On est aussi honnetes : un planning, c'est pas cense etre uniquement pour faire plaisir au client, c'est aussi un support pour se rendre compte que creuser un sujet, ça prend du temps. Mais une fois qu'on a bien fait le tour des questions, c'est comme ça qu'on avance le mieux sur les projets. Et vous, cette franchise, elle fait partie de votre quotidien ? Racontez-nous ça par mail si vous voulez !  
+  
+| | | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/dd27fd0a-f659-dbfe-2c8d-0fa69e1c9747.png)  
+---  
+  
+| [Gaetan Duchateau](mailto:gaetan@datagif.fr)  
+---  
+Lead @Datagif  
+  
+| | | **Allemagne**  
+---  
+  
+| **🇩🇪**  
+---  
+  
+| | Élections allemandes : _Das Beste_ \- notre selection des analyses  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/f8547a3d-31fe-0448-16d2-c73b84e742c0.jpg)](https://www.theguardian.com/world/ng-interactive/2025/feb/19/the-rise-of-the-far-right-global-trade-and-ukraines-future-why-the-german-election-matters-visual-explainer)  
+---  
+Entre incertitudes economiques, poussee de l'extreme droite, guerre en Ukraine et recomposition politique, les legislatives allemandes ont ete particulierement suivies par les medias cette annee. **Voici notre s election des formats les plus interessants** pour mieux comprendre les enjeux et resultats du scrutin.  
+🏠 **Tr es bonne idee** chez _[Politico](https://www.politico.eu/europe-poll-of-polls/germany/)_ : le jour des elections, **une jauge des estimations de r esultats** s'est affichee en haut de leur page d'accueil, permettant de suivre le vote en direct. De maniere plus perenne, [un dossier special](https://www.politico.eu/europe-poll-of-polls/germany/) compile sondages, dataviz et articles, un format classique mais a l'interface soignee.  
+  
+📊 _Les D ecodeurs_ du _Monde_ ont propose [un mode d'emploi du scrutin](https://www.lemonde.fr/les-decodeurs/article/2025/02/23/allemagne-ce-qu-il-faut-savoir-sur-les-elections-legislatives-du-23-fevrier_6559937_4355770.html), expliquant les partis, le systeme electoral et les grands enjeux. **Un bon exemple d 'article de fond explicatif**, pense aussi pour favoriser le referencement.  
+  
+📉 Dans le cadre de sa serie "Rise of the Right", _The Guardian_ a cherche a expliquer la montee de l'extreme droite a travers [un defilement de datavisualisations](https://www.theguardian.com/world/ng-interactive/2025/feb/19/the-rise-of-the-far-right-global-trade-and-ukraines-future-why-the-german-election-matters-visual-explainer). **La bonne id ee : un jeu de superpositions des graphiques** qui met en lumiere les dynamiques electorales.  
+  
+🦅 **Le plus original** : _Reuters_ a propose [un long format interactif a navigation horizontale](https://www.reuters.com/graphics/GERMANY-ELECTION/ECONOMY/zjpqaqdorpx/), rapide a parcourir, avec une charte graphique **inspir ee du Bauhaus**. Il explore un paradoxe economique : comment la force industrielle allemande est-elle devenue une faiblesse, nourrissant le mecontentement electoral ? _Gute Lekt ure_ !  
+  
+| | | ![](https://newsletter.datagif.fr/ext/datagif/img/newsletter.png) Enchantes  
+---  
+Vous decouvrez cette newsletter ? Bienvenue !   
+| [Abonnez-vous ](https://datagif.fr/newsletter-medias/)  
+---  
+  
+| | | Mouvement  
+---  
+  
+| 🪄  
+---  
+  
+| | Des visuels pas forcément statiques : ça peut faire toute la différence  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/55443589-e750-038b-140d-603dbe6e4c2e.gif)](https://www.nytimes.com/interactive/2025/02/20/arts/metroidvania-games-metroid-castlevania.html)  
+---  
+Vous le savez, on adore les petits details qui ameliorent un basique pour en faire quelque chose de differenciant. Vous etes-vous deja demande pourquoi les photos sont-elles forcement statiques ? Voici deux exemples pour y reflechir sous la douche :  
+  
+⚔️ Cet article du NYT qui [decortique le genre _metroidvania_ en jeu video](https://www.nytimes.com/interactive/2025/02/20/arts/metroidvania-games-metroid-castlevania.html) avec un point fondamental : les captures d'ecran de jeu sont bien plus revelatrices animees que statiques. Un jeu est par defaut en mouvement, non ? L'article montre donc des boucles de 15 secondes de jeu et clairement ça change tout. [Voyez vous-meme](https://www.nytimes.com/interactive/2025/02/20/arts/metroidvania-games-metroid-castlevania.html) !  
+  
+⛷️ Tout autre sujet : dans cet article, le WaPo fait une visite guidee de la preparation [des Jeux d'hiver de 2026](https://www.washingtonpost.com/sports/olympics/interactive/2025/milan-cortina-olympics-logisitcs/) de Milan-Cortina. Le detail : des videos verticales, sortes de stories prises au telephone par le journaliste, integrees a l'article. Bah franchement, [c'est cool](https://www.washingtonpost.com/sports/olympics/interactive/2025/milan-cortina-olympics-logisitcs/).  
+| ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/cb8fda3e-2b7c-bf14-8913-ee6dc0e49bbc.gif)  
+---  
+  
+| | | Colocation  
+---  
+On a des postes et un bureau dispo   
+C'est le jeu, parfois un colocataire s'en va vers de nouveaux horizons. Resultat : un bureau de 4 postes s'est libere chez nous.   
+Vous cherchez un poste individuel, ou jusque 4 places dans un bureau ferme ? Cafe, Internet et dejeuners-debats sont inclus dans la location (le dernier : "Est-ce que les creches doivent s'implanter a proximite des coworkings").   
+  
+Repondez simplement a cet e-mail pour en savoir plus !  
+  
+| | | Appli hour  
+---  
+  
+| 🧃  
+---  
+  
+| | Les Echos tente de faire venir l'audience vers son appli  
+---  
+| ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/dec33ccc-d2f9-3bc2-1fb8-54cebcb970b4.gif)  
+---  
+Une question assez directe s'est posee chez les Echos : comment creer un reflexe de l'appli, chez une audience qui n'est pas encore abonnee. La reponse : **la mise a disposition, tous les jours de 18h a 20h, d'une selection de 15 articles** recommandes par la redaction + un bonus inattendu.   
+  
+💡 L'idee : entrer dans les sujets de maniere "moins intimidante"   
+📱 L'UX : un bouton central dans la tapbar (sacree place !) qui ouvre un carrousel façon Tinder  
+💰 Pour le moment : c'est un espace entierement gratuit, pour justement creer un rendez-vous avec cette audience-cible  
+  
+L'idee est seduisante car :  
+🔀 Elle reutilise des contenus deja produits   
+🕕 Elle puise dans les mecaniques classiques de la presse avec le rendez-vous de fin de journee  
+🧢 Elle est bien positionnee : cible, contenu, nom  
+  
+Mais : est-ce qu'elle permettra de surmonter l'effort pour l'audience-cible d'acceder a une appli non installee ? On surveille tout ça !  
+[Plus d'infos chez Les Echos](https://www.lesechos.fr/tech-medias/medias/avec-le-18-20-les-echos-offre-une-nouvelle-declinaison-de-ses-contenus-2143444)  
+  
+| | | Le 50/50  
+---  
+Envie d'explorer un sujet ?  
+Faites votre choix, on a fait le tri  
+  
+| | | [ 🏛️ culture](https://datagif.fr/liens/?theme=culture)  
+---  
+  
+| | [📊 infographie](https://datagif.fr/liens/?format=infographie)  
+---  
+  
+| | |   
+---  
+Il y 15 jours  
+Bah alors, et les bonnes resolutions ?  
+  
+| | | [📝 liste](https://datagif.fr/liens/?format=liste)  
+---  
+  
+| | [🏆 72%](https://datagif.fr/liens/?theme=climat)  
+---  
+  
+| |   
+---  
+  
+| | | [🏀 sport](https://datagif.fr/liens/?theme=sport)  
+---  
+  
+| | [28%](https://datagif.fr/liens/?theme=tech)  
+---  
+  
+| | | Le lien de Jeremy, designer  
+---  
+Documenter visuellement la creation d'un logiciel  
+  
+| | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/0433e652-14d0-37ac-6939-95c6db07528a.png)  
+---  
+  
+| | À l'ere du frigo IA et des toilettes connectees, il est facile d'oublier la complexite qui se cache derriere tout ce qui nous entoure.  
+  
+Entre fonctionnement d'un ecran, rasterisation de la typographie, projection 3D et meme QR Code, Dan Hollick demystifie ces concepts aujourd'hui ancres dans notre quotidien avec son manuel au titre accrocheur : [Making Software](https://www.makingsoftware.co/).  
+  
+Rassurez-vous, nous sommes loin d'un livre a destination d'ingenieurs… À la place, l'auteur accompagne les plus curieux d'entre nous avec **des illustrations inspir ees de schemas des annees 1980** et des explications simples pour briller en societe ou simplement satisfaire sa curiosite. De notre cote, on a on a hate de lire les prochains chapitres via sa newsletter !  
+---  
+  
+| | | Impots  
+---  
+  
+| 💸  
+---  
+  
+| | Demeler le casse-tete fiscal belge  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/bbb44f90-bc11-30c9-e402-293924f6c3fa.png)](https://multimedia.lecho.be/monargent/impots/ipp-precompte-immobilier-commune/)  
+---  
+Comprendre ses impots locaux, mission impossible ? La complexite des taxes communales en Belgique peut vite devenir un casse-tete. Pour y voir plus clair, L'Écho a developpe un [outil interactif](https://multimedia.lecho.be/monargent/impots/ipp-precompte-immobilier-commune/) malin et accessible. Tapez simplement le nom de votre commune et decouvrez le detail des centimes additionnels.  
+  
+Ce format interactif, clair et detaille, permet a l'audience de comprendre comment ces taxes s'appliquent, sans avoir besoin d'etre un expert en fiscalite ni de se perdre sur des sites gouvernementaux. Un service citoyen dans la lignee des missions du media !  
+[Calculez vos centimes additionnels chez l'Echo](https://multimedia.lecho.be/monargent/impots/ipp-precompte-immobilier-commune/)  
+  
+| | | Le meilleur lien du n°147  
+---  
+  
+| | Francophonie   
+---  
+Vous etiez tout aussi intrigues que nous sur votre français ? Oui oui c'est bien le [calculateur de dialecte](https://www.24heures.ch/france-suisse-belgique-ce-test-vous-dit-dou-vous-etes-689978624847) qui a suscite le plus d'interet lors de la precedente edition, l'occasion de revenir sur les expressions les plus farfelues et de relancer l'eternel debat sur la chocolatine 👀  
+[Une clenche, vraiment ? ](https://www.24heures.ch/france-suisse-belgique-ce-test-vous-dit-dou-vous-etes-689978624847)  
+  
+| | | Poesie  
+---  
+  
+| 🪶  
+---  
+  
+| | Le NYT cree un gabarit specifique pour ses critiques litteraires  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/225bc220-a0de-7216-8e90-b95a8b14ae98.png)](https://www.nytimes.com/interactive/2025/02/21/books/gwendolyn-brooks-my-dreams-my-works-sonnet.html?unlocked_article_code=1.zU4.WxkA.M031iwgxi1XR&smid=nytcore-ios-share)  
+---  
+Si vous aimez la poesie, vous etes sans doute deja passe sur les articles d'A.O. Scott, critique litteraire pour le New York Times Book Review. Depuis novembre dernier, A.O. Scott publie des commentaires de texte de poemes. Retour sur les bancs du lycee : on decortique, on analyse, on commente, on etaye.  
+  
+Ce gabarit est le parfait exemple d'un format bien pense et bien realise, car il repond a un besoin particulier et est replicable a l'infini sans avoir a apporter de modifications selon le poeme analyse. On apprecie egalement la direction artistique des illustrations, que nous retrouvons dans chaque nouvel article, permettant de bien identifier ces contenus, et donc d'appuyer le rendez-vous.   
+[Decouvrir le gabarit "Commentaire de texte" du NYT](https://www.nytimes.com/interactive/2025/02/21/books/gwendolyn-brooks-my-dreams-my-works-sonnet.html?unlocked_article_code=1.zU4.WxkA.M031iwgxi1XR&smid=nytcore-ios-share)  
+  
+| | | Trackers  
+---  
+  
+| **🔎**  
+---  
+  
+| | **É riger une digue editoriale contre le raz-de-maree Trump**  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/74bddbd1-1f29-64a1-3a92-05687c3c45f2.jpg)](https://www.nytimes.com/interactive/2025/us/trump-agenda-2025.html)  
+---  
+Depuis son premier mandat, l'administration Trump applique la strategie bien rodee de Steve Bannon : "**inonder la zone** " (_flood the zone_). Un flot continu de decisions et de polemiques rend l'actualite difficile a suivre. Pour analyser ce chaos, le _New York Times_ a mis en place **trois trackers interactifs**. Pour rappel, ces outils de suivi sont regulierement mis a jour et engrangent naturellement pas mal de trafic. Tout benef.  
+  
+📌 Un [tracker des actions presidentielles](https://www.nytimes.com/interactive/2025/us/trump-agenda-2025.html) qui offre une vue jour par jour des decisions et declarations majeures deTrump et de son administration. **Gr ace a des filtres par categorie et type d'action**, l'interface transforme un flux incessant d'infos en un tableau de bord clair et exploitable.  
+  
+⚖️ Un [tracker des poursuites judiciaires](https://www.nytimes.com/interactive/2025/us/trump-administration-lawsuits.html), construit sur un gabarit similaire, permet un suivi des affaires en cours impliquant le gouvernement.  
+  
+**🧐** Le [tracker des confirmations](https://www.nytimes.com/interactive/2025/01/29/us/politics/trump-cabinet-confirmations-tracker.html), au format _dataviz_ plus classique, suit en temps reel les nominations du cabinet presidentiel, entre auditions, votes et obstacles eventuels.  
+[Suivre les mises a jour sur le New York Times](https://www.nytimes.com/interactive/2025/us/trump-agenda-2025.html)  
+  
+| | | Bonus  
+---  
+Des liens, encore des liens  
+🔥 Quand les flammes menacent, que sauvez-vous ? Un [reportage](https://www.nytimes.com/interactive/2025/02/21/us/la-fires-survivors-palisades-eaton.html?unlocked_article_code=1.y04.58RI.s9qdBTqqpO2B&smid=bs-share) melant videos et textes raconte l'histoire de Californiens contraints de choisir leurs biens les plus precieux face aux incendies.  
+  
+🆘 Le manque de traitement des dechets a Gaza entraine une accumulation dangereuse pour la population. Une situation illustree par Reuters en [infographie](https://www.reuters.com/graphics/GAZA-WASTE/egpblkaagpq/) detaillee.  
+  
+🏔️ Un [format immersif](https://www.lequipe.fr/explore/wf144-everest-kodak-perdu/) nous plonge dans l'histoire de Mallory et Irvine sur l'Everest, ravivee par une decouverte recente...  🍿 À l'occasion de la Saint-Valentin, le New York Times avait prepare une [selection de films](https://www.nytimes.com/interactive/2025/02/11/movies/valentines-day-movies-love-hate.html) pour les anti et les pro-comedies romantiques, permettant a chacun de choisir son camp.  
+  
+📒 Le Boston Globe reussit a donner vie a la [bande dessinee](https://apps.bostonglobe.com/opinion/graphics/2024/09/sisters-hospice-icu-comic/) en format defilement, grace a une serie d'histoires enrichies d'animations.  
+  
+| | | Et voila.  
+---  
+De notre cote, on travaille sur plusieurs projets cool : refonte d'un site multi-secteurs, refonte d'un media specialise, deploiement d'une charte visuelle sur les produits editoriaux... On vous montre tout ça des que c'est publie. En attendant, merci pour votre fidelite, on espere sincerement que ces inspirations vous aident a reflechir a vos projets.  
+  
+Une edition preparee par Lucie, Athenais, Charly, Jeremy et Gaetan.  
+par  
+| [![DATAGIF](https://newsletter.datagif.fr/ext/datagif/img/logo-big.png)](https://datagif.fr)  
+---  
+  
+| | | ![](https://newsletter.datagif.fr/ext/datagif/img/social.png) Retrouvez-nous sur les réseaux  
+---  
+[Medium](https://datagif.medium.com/) [X](https://x.com/datagif) [Bluesky](https://bsky.app/profile/datagif.bsky.social) [Instagram](https://www.instagram.com/datagif/) [Threads](https://www.threads.net/@datagif) [Linkedin](https://www.linkedin.com/company/datagif/) [Datagif.fr](https://datagif.fr/)  
+  
+| | Vous recevez cet e-mail car vous êtes inscrit•e via le site [datagif.fr](https://datagif.fr/newsletter-medias/)Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)  
+👋 [Cliquez-ici](*|UNSUB|*) pour vous désabonner  
+---

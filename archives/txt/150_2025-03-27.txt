@@ -1,0 +1,238 @@
+*|MC_PREVIEW_TEXT|*  
+  
+͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿
+
+| | [Ouvrir dans le navigateur](*|ARCHIVE|*)  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/56b671c9-1f8e-00b2-89d1-601f96c28485.png)](*|ARCHIVE|*)  
+---  
+  
+| | | ![Médias](https://newsletter.datagif.fr/ext/datagif/img/medias-v2.png)  
+---  
+  
+| 150  
+---  
+  
+| | La veille innovation et design média par Datagif  
+---  
+  
+| | | Pourquoi on a pris cette decision ?  
+---  
+Dans un echange recent avec un client, nous avons souligne l'importance de la restitution, en fin de mission, de toute la documentation du projet. Mais surtout, au-dela des elements qui decrivent le fonctionnement, de bien documenter les _pourquoi_. Pourquoi a-t-on decide de choisir cet outil ? Pourquoi a-t-on mis de cote cette fonctionnalite, qui etait presente dans le cahier des charges ? Pourquoi cette maquette a ete integree differemment de ce qui etait prevu ?  
+  
+Pour eviter de devoir tout recommencer, connaitre l'historique de son produit est essentiel, surtout quand on est arrive apres sa mise en place. Donc pensez-y : meme si ça peut vous sembler evident sur le moment, ne notez pas que vos decisions, notez egalement leur pourquoi. Ça sera utile plus tard, croyez-moi !  
+  
+| | | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/dd27fd0a-f659-dbfe-2c8d-0fa69e1c9747.png)  
+---  
+  
+| [Gaetan Duchateau](mailto:gaetan@datagif.fr)  
+---  
+Lead @Datagif  
+  
+| | | **Navigation**  
+---  
+  
+| **🧭**  
+---  
+  
+| | Deux experiences de navigation originales pour bien demarrer cette edition  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/0cc89a8c-a810-f3fd-ccce-c87869bf81dd.png)](https://www.nationalgeographic.com/into-the-amazon/)  
+---  
+🏎️ [ESPN](https://www.espn.com/espn/feature/story/_/id/43832710/how-f1-evolved-1950-where-headed-2026) revient sur l'histoire de la F1 dans un long format qui se decouvre au defilement, reproduisant une piste de formule 1. Une experience reussie et complete, composee d'illustrations, d'audios de moteurs, d'infographies… Bref, c'est toujours aussi efficace.   
+  
+💧 Le [National Geographic](https://www.nationalgeographic.com/into-the-amazon/), en partenariat avec Rolex dans le cadre de l'expedition National Geographic et Rolex Perpetual Planet Amazon, a publie un (tres) gros dossier sur l'etude des eaux presentes dans la foret amazonienne. Pendant 2 ans, 16 scientifiques ont suivi l'eau, depuis la source au sommet du Nevado Ausangate au Perou, jusque dans la mangrove sur le littoral bresilien. La navigation du dossier suit le meme parcours que celui de l'eau, offrant une immersion remarquable. Une deuxieme navigation est egalement possible [depuis une carte](https://www.nationalgeographic.com/into-the-amazon/navigation/), qui permet de mieux projeter les echelles du chemin parcouru. Ce dossier est une petite pepite, que l'on trouve de plus en plus rarement du fait des couts de production, mais dont on ne se lasse pas.   
+  
+| | | Decoupage  
+---  
+  
+| ✂️  
+---  
+  
+| | La lecture decoupee : une prediction pour 2025 verifiee bien rapidement  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/d2f0b2ea-7703-b9ea-7174-6ffc608c120d.jpg)](https://www.newsreel.co/about)  
+---  
+Nous l'avions sentie arrivee dans [🔮 nos predictions pour cette annee](https://medium.com/datagif/les-7-predictions-media-de-datagif-pour-2025-0d02efa9ab56) : la lecture sequencee, ou decoupee, de l'information. C'est un usage qui semble prendre ses marques, de plusieurs manieres :  
+  
+🧢 Le magazine Phosphore, dorenavant numerique, [publie sur son site ses numeros](https://magazines.phosphore.com/) a lire essentiellement sur mobile. Inspire du format _stories_ , le support propose des articles decoupes en ecrans (donc une info par page) avec de temps en temps des articles un peu plus longs a defiler.   
+  
+👀 C'est exactement la meme mecanique qu'emploie Urbania depuis quelques temps pour son [Micromag](https://urbania.fr/micromag?_ref=home_section_title).  
+  
+🗜️ Et prochainement, vous pourrez tester [l'application Newsreel](https://www.newsreel.co/) dont la promesse est de "dire adieu a l'article de 1500 mots". À la place : des carrousels interactifs, des chronologies, des quiz. Est-ce la le futur de l'info ?  
+  
+| | | Mais au fait :   
+---  
+Pourquoi cette newsletter ?  
+Voila pres de 7 ans que cette newsletter existe, mais vous ne le savez peut-etre pas : nous ne sommes pas qu'une newsletter. Nous sommes [Datagif](https://datagif.fr/), une agence de strategie et design d'information. Nous avons cree cette newsletter car une partie de nos clients sont des medias, effectivement, et cela nous permet de partager au plus grand nombre la veille que nous faisons en interne. Le but pour nous : identifier les signaux faibles, les tendances dans les evolutions d'usages, les mecaniques UX et design interessantes qui nourriront notre reflexion pour les projets sur lesquels nous sommes impliques. Vous n'imaginez pas comme ça nous rend particulierement efficaces lorsque l'on travaille sur la refonte d'un site ou d'une appli. [Envie d'en savoir plus ?](https://datagif.fr/medias/)  
+  
+| | | IA  
+---  
+  
+| 🤖  
+---  
+  
+| | El Pais lance Vera, son propre outil d'IA conversationnel pour ses abonne*es  
+---  
+| ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/3570b42f-6915-74d7-5ed1-4591948c656f.jpg)  
+---  
+En decembre dernier, [le media espagnol annonçait](https://elpais.com/comunicacion/el-pais-que-hacemos/2024-12-02/el-pais-prepara-un-asistente-conversacional-generado-con-inteligencia-artificial-y-lo-pondra-a-prueba-con-suscriptores.html) preparer un assistant conversationnel alimente par l'IA, et s'appuyant sur le contenu "_v eridique et verifie_" des archives historiques d'El Pais. Hier, les abonne*es recevaient la nouvelle dans leur boite mail : Vera est sortie !   
+  
+Developpee avec la technologie d'OpenAI, Vera promet aux abonnes d'El Pais de devenir leur premier point de contact lorsque ces derniers ont une question sur l'actualite, mais egalement sur des livres, films… Par les temps qui courent, alors que la defiance envers les medias ne cesse de s'accroitre (cf. [Barometre La Croix, Veria, La Poste - La confiance des Français dans les medias - 2025](https://27192314.fs1.hubspotusercontent-eu1.net/hubfs/27192314/Verian%20-%20La%20Croix%20-%20Barom%C3%A8tre%20M%C3%A9dias%202025%20-%20Rapport.pdf)) , la promesse est forte : El Pais reaffirme son positionnement, celui d'un media de reference, en qui l'on peut avoir toute confiance.   
+  
+_Bon, c 'est bien beau tout ça. Malgre notre abonnement a El Pais, nous n'avons toujours pas trouve ou acceder a Vera. On refait le point dans 2 semaines s'il y a du nouveau _✌️   
+[Voir la presentation de Vera par El Pais](https://elpais.com/videos/2025-03-26/asi-funciona-vera-la-herramienta-conversacional-con-ia-para-suscriptores-premium-de-el-pais.html?cid=ZWxwYWlzX2NybV9lZGl0b3JpYWwyNV9lbWFpbG1rdF9ib2xldGluX3ZlcmFlbHBhaXNyZWdpc3RyYWRvc19FUw%3D%3D&mid=DM420384&bid=-1103143861)  
+  
+| | | Sponsorise  
+---  
+  
+| 🤑  
+---  
+  
+| | Le bon exemple d'un hub sponsorise chez The Atlantic  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/7a2d79f5-17a8-7e69-b0c7-682f2686b5bd.jpg)](https://www.theatlantic.com/sponsored/google/dialogues/3941/)  
+---  
+Il s'agit de la 2e edition de "Dialogues", mise en ligne en fin d'annee derniere : une publication payee par Google et hebergee chez The Atlantic. Entierement conçu par l'equipe dediee au contenu partenaire, avec la participation de journalistes freelances (hors de la redaction du media), _Dialogues_ est editorialement separe de The Atlantic. Et pourtant, ce hub s'integre bien a l'identite du media :  
+  
+• design : le hub conserve les couleurs, les typos, les filets qui font l'identite du media  
+• UX : le hub a une structure propre, de meme pour les articles : nous sommes dans un espace a part  
+• contenus : la tonalite reste proche de celle du media, meme si evidemment les personnes interrogees sont toutes chez Google  
+• decouvrabilite : etonnamment, hormis lors de la semaine de sa publication, il n'y a pas d'entree depuis le site de The Atlantic vers le hub. La communication est plutot deployee cote Google, via ses reseaux sociaux. Dommage pour le manque de passerelles.  
+  
+| | | Le 50/50  
+---  
+Envie d'explorer un sujet ?  
+Cliquez sur le tag, tous nos liens sont juste derriere  
+  
+| | | [ 🐝 societe](https://datagif.fr/liens/?theme=societe)  
+---  
+  
+| | [🌦️ climat](https://datagif.fr/liens/?theme=climat)  
+---  
+  
+| | |   
+---  
+Il y 15 jours  
+Plutot urbain, information ou les deux ?  
+  
+| | | [🏙️ ville](https://datagif.fr/liens/?theme=ville)  
+---  
+  
+| | [🏆 59%](https://datagif.fr/liens/?theme=climat)  
+---  
+  
+| |   
+---  
+  
+| | | [🗞️ média](https://datagif.fr/liens/?theme=media)  
+---  
+  
+| | [41%](https://datagif.fr/liens/?theme=tech)  
+---  
+  
+| | | Abus  
+---  
+  
+| **📚**  
+---  
+  
+| | **Des livres pirat es dans les IA : l'enquete de The Atlantic**  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/ef5afa91-2c51-ddf5-be6c-d6f1696dd321.gif)](https://www.theatlantic.com/technology/archive/2025/03/libgen-meta-openai/682093/)  
+---  
+Une grosse semaine pour The Atlantic, qui en plus du [Signalgate](https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/), [s'est aussi penche sur l'utilisation massive de la bibliotheque pirate LibGen](https://www.theatlantic.com/technology/archive/2025/03/libgen-meta-openai/682093/) -- constituee de millions de livres et papiers scientifiques -- pour entrainer les modeles d'IA de Meta ou OpenAI (mais pas Google, ouf !). L'enquete revient sur l'origine de ces bases de donnees, souvent desorganisees et remplies d'oeuvres protegees, et sur les questions ethiques et juridiques que cela souleve. Au coeur du texte, un outil interactif, [deja utilise pour une enquete similaire](https://www.theatlantic.com/technology/archive/2024/11/opensubtitles-ai-data-set-search/680685/) sur le cinema et la television, permet de rechercher si un auteur figure dans les jeux de donnees de LibGen. Un excellent exemple d'article enrichi par la donnee, sans casser le rythme de lecture.  
+[Rechercher tous les livres pirates par Meta](https://www.theatlantic.com/technology/archive/2025/03/libgen-meta-openai/682093/)  
+  
+| | | Le lien de Melanie, UX/UI  
+---  
+Hermes releve le defi de la modernite lors du Saut Hermes 2025  
+  
+| | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/72315504-ae3d-e697-3d92-ed1032809655.png)  
+---  
+  
+| | Ce que j'ai prefere ? La direction artistique, audacieuse et minimaliste, qui prouve qu'une maison bicentenaire peut seduire les jeunes sans trahir son ADN. Un pari reussi.  
+  
+Sur l'affiche, le trait vif et puissant, comme un fil de couture qui se tisse, mele elegance et mouvement avec une grande simplicite. Mais c'est surtout le travail sur les reseaux sociaux que j'ai trouve interessant : collages, traces irreguliers et mix media (video + illustration) donnent un cote accessible et chaleureux, tres moderne. J'y vois egalement un clin d'oeil au junk journal, une touche contemporaine et parfaitement maitrisee.  
+  
+Et le petit truc en plus ? Les "pensees" du cheval ou de la selle, un humour discret et decale qui apportent une legerete bienvenue, sans tomber dans le cliche.  
+  
+Un equilibre reussi entre tradition et renouveau, qui montre qu'Hermes sait evoluer avec son temps. À decouvrir [ici](https://www.instagram.com/p/DHVnoRnsBPI/), ou [par la](https://www.instagram.com/p/DHgQjbntCPo/).    
+---  
+  
+| | | Le meilleur lien du n°149  
+---  
+  
+| | Friands de Google Slides ? 👀  
+---  
+Lors de l'edition precedente de cette newsletter, c'est The Verge qui a retenu votre attention avec une plongee dans l'avenir d'Internet… et une audace cote format. Exit le long format classique, le media a choisi Google Slides pour presenter son enquete. Une approche qui a visiblement seduit, entre inspiration agence, direction artistique soignee, et synthese eclairante sur les communautes en ligne.   
+[Pour explorer l'enquete de The Verge, c'est par ici](https://docs.google.com/presentation/d/1_Q7ywvZQ9fOhgVmF78MHfvOy51Kc-9d7A4tWUvFg-OY/edit)  
+  
+| | | Cubemania  
+---  
+  
+| 🎲  
+---  
+  
+| | Decortiquer la resolution d'un Rubik's cube image par image  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/99db6c1f-e574-0693-342e-7ddce5491bdc.gif)](https://www.nytimes.com/interactive/2025/03/24/science/max-park-rubiks-speedcube.html)  
+---  
+Connaissez-vous le _speedcubing_ ou la resolution rapide du Rubik's cub, ce casse-tete a la fois fascinant et frustrant pour tant d'entre nous ? Le New York Times nous plonge dans [la performance de Max Park](https://www.nytimes.com/interactive/2025/03/24/science/max-park-rubiks-speedcube.html), detenteur du record du monde de 2023.  
+  
+Comment ? Avec [une video](https://www.nytimes.com/interactive/2025/03/24/science/max-park-rubiks-speedcube.html) qui decompose chaque mouvement, chaque seconde, chaque coup. Un ballet de mains virtuoses, une resolution presque mathematique. Controlez la video au defilement et suivez les explications strategiques, le temps qui file et le nombre de coups. Une experience hypnotique, meme si elle ne vous transformera pas en champion.  
+[Laissez-vous hypnotiser](https://www.nytimes.com/interactive/2025/03/24/science/max-park-rubiks-speedcube.html)  
+  
+| | | ![](https://newsletter.datagif.fr/ext/datagif/img/newsletter.png) Oh, bonjour !  
+---  
+Vous decouvrez cette newsletter via quelqu'un qui vous l'a sympathiquement envoyee ? Ne manquez pas le prochain numero !  
+| [Abonnez-vous ](https://datagif.fr/newsletter-medias/)  
+---  
+  
+| | | Phonetique  
+---  
+  
+| 🐷  
+---  
+  
+| | La voix des animaux  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/9c81374d-5120-c8d1-8c30-14c331ff801d.png)](https://pudding.cool/2025/03/language/)  
+---  
+Les animaux ont-ils des accents ? The Pudding s'est lance dans une [exploration sonore](https://pudding.cool/2025/03/language/) insolite et captivante : decortiquer les voix de nos compagnons a quatre pattes a travers les langues. Un simple miaulement ne sonne pas pareil selon les langues, une realite complexe que ce format decrypte avec rigueur et pedagogie.  
+  
+Bien plus qu'une simple compilation de sons, on nous plonge au coeur de la phonetique, revelant les [subtilites](https://pudding.cool/2025/03/language/) qui se cachent derriere chaque langue. Une veritable leçon de linguistique auditive, qui vaut largement le detour et vous fera entendre les animaux d'une toute nouvelle oreille.  
+[Coin coin](https://pudding.cool/2025/03/language/)  
+  
+| | | Bonus  
+---  
+Et un, et deux, et trois liens !  
+🧪 Coucou RFK Jr : [Le New York Times](https://www.nytimes.com/interactive/2025/03/14/opinion/pre-vaccine-america.html) __ revient sur la propagation des maladies infantiles dans l'Amerique pre-vaccin a travers des datavisualisations animees. ⛵ [L'Équipe Explore](https://www.lequipe.fr/explore/wf146-skipper-bizon/) nous embarque dans un long format sur les morts mysterieuses du skipper Bertrand Saldo et du basketteur NBA Bison Dele. 🐻 Pour compenser l'absence d'equipes de Philadelphie au March Madness, [The Inquirer](https://www.inquirer.com/college-sports/inq2/march-madness-philly-mascots-gritty-designer-20250325.html) propose un createur de mascotte, dans le style (tres poilu) de leur icone internationale Gritty.  
+  
+| | | Merci pour votre lecture  
+---  
+✏️ Cette edition a ete preparee par Athenais, Lucie, Charly, Melanie (qui arrive tout juste a l'agence 👋), Aurore et Gaetan  
+  
+🔥 Ce qui nous occupe ces jours-ci :  
+  
+• des evolutions au long cours [sur le magazine de la Fnac](https://leclaireur.fnac.com/) que l'on a realise il y a quelques temps et qui cartonne toujours autant  
+• la finalisation des maquettes du portail des medias libres de Basta!  
+• la reflexion sur les produits d'un media international  
+• on est en pleine phase UI de la refonte d'un groupe d'info B2B  
+• la refonte des newsletters d'un media economique  
+  
+Bon et evidemment quelques sujets dont on ne peut pas encore parler.  
+Rendez-vous dans 15 jours pour une nouvelle edition !  
+   
+par  
+| [![DATAGIF](https://newsletter.datagif.fr/ext/datagif/img/logo-big.png)](https://datagif.fr)  
+---  
+  
+| | | ![](https://newsletter.datagif.fr/ext/datagif/img/social.png) Retrouvez-nous sur les réseaux  
+---  
+[Medium](https://datagif.medium.com/) [X](https://x.com/datagif) [Bluesky](https://bsky.app/profile/datagif.bsky.social) [Instagram](https://www.instagram.com/datagif/) [Threads](https://www.threads.net/@datagif) [Linkedin](https://www.linkedin.com/company/datagif/) [Datagif.fr](https://datagif.fr/)  
+  
+| | Vous recevez cet e-mail car vous êtes inscrit•e via le site [datagif.fr](https://datagif.fr/newsletter-medias/)Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)  
+👋 [Cliquez-ici](*|UNSUB|*) pour vous désabonner  
+---

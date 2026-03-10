@@ -1,0 +1,250 @@
+*|MC_PREVIEW_TEXT|*  
+  
+͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿
+
+| | [Ouvrir dans le navigateur](*|ARCHIVE|*)  
+---  
+| ![Médias](https://newsletter.datagif.fr/ext/datagif/img/medias.png)  
+---  
+La veille innovation et design média par DATAGIF  
+  
+| |   
+---  
+  
+| | | Wow, on doit dire qu'on est assez impressionnes de l'accueil reserve a notre page [Liens](http://datagif.fr/liens) ! Merci beaucoup ! Cela montre bien qu'il manquait un truc dans l'environnement des newsletters de veille, et que finalement on touche du doigt une extension sous-estimee de ce format : les archives _pratiques_. Si ça peut donner des idees...  
+---  
+  
+| |   
+---  
+  
+| | | 
+
+## 1\. Usages
+
+## Vos medias preferes sont maintenant officiellement sur WhatsApp  
+  
+---  
+  
+| | | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/c28f2ac0-56f5-f05d-f24d-74953b8b2a64.jpg)  
+---  
+  
+| | « _Ce n 'est pas nouveau_ » nous direz-vous ! Certes, mais on se permet de repondre alors un « _oui mais si_ ». Cela fait en effet deja plusieurs annees que nous pouvons suivre des moments mediatiques forts sur WhatsApp, tels que des elections presidentielles sur des canaux (par exemple chez [Le Monde](https://www.lemonde.fr/afrique/article/2019/09/06/tunisie-suivez-l-election-presidentielle-sur-whatsapp_5507055_3212.html) en 2019). Mais depuis le debut du mois de septembre, le format a change. À l'instar des canaux Instagram, WhatsApp a ouvert des canaux de diffusion a de nombreux medias, marques et personnalites publiques, permettant de suivre leurs actualites depuis l'application.  
+  
+Si les formats et les tonalites se cherchent encore du cote des medias, certains canaux ont attire notre attention. Voici donc notre revue :
+
+  * Nous apprecions le canal d'[HugoDecrypte](https://whatsapp.com/channel/0029Va3feim9MF96w9HoD31Z) qui propose un recap quotidien ecrit des actualites du jour. À l'image d'un thread TwiXtter ou d'une newsletter compacte, l'information est concise. Bonus : quelques sondages apportent un peu d'interaction avec son lectorat.
+  * De leur cote, [Brut](https://whatsapp.com/channel/0029Va6XXV8GehEU07RahT3W) et [FranceInfo](https://whatsapp.com/channel/0029Va3AZZ1GehEKTv5V4E3W) ont egalement opte pour la formule de recap du jour, mais en reprenant des formats video deja diffuses sur Instagram (« Ça s'est passe aujourd'hui » pour Brut, « Ça dit quoi ? » pour FranceInfo).
+  * Outre-Atlantique, le New York Times a cree plusieurs canaux dedies a differentes thematiques : [Cooking](https://whatsapp.com/channel/0029Va8KJ8C1HspqB5MyGN3j), [Games](https://whatsapp.com/channel/0029Va81p5WDZ4LZ9iT5ZW3s)… les verticales a succes du media (on aime beaucoup le jeu du jour chez Datagif).
+  * Enfin, le coup de coeur du jury est decerne a [France Culture](https://whatsapp.com/channel/0029Va7MhD9BlHpgyWcv4E2O), qui semble creer un contenu exclusif pour le canal WhatsApp. Chaque jour, une anecdote culturelle dans votre application, a la maniere de la newsletter [Artips](https://newsletters.artips.fr/decouvrez_artips/).
+
+On en profite : si vous etes un media ou une marque et que vous reflechissez a investir WhatsApp, si vous vous interrogez sur l'angle, la tonalite ou les formats pour cette plateforme, on est la 😉  
+---  
+---  
+  
+| |   
+---  
+  
+| | | 
+
+## 2\. Isolement
+
+## Seuls ensemble magnifiquement illustre par The Pudding  
+  
+---  
+  
+| | | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/1e2aa323-298f-7293-e03e-faca3616ebe1.jpg)](https://pudding.cool/2023/09/invisible-epidemic/)  
+---  
+  
+| | Sur la base d'une etude menee par l'American Time Use Survey, un bureau en charge de la mesure du temps que les gens consacrent a diverses activites (travail, benevolat et socialisation), The Pudding nous propose de suivre le week-end typique de plusieurs americains. La conclusion est sans appel : la solitude est devenue une experience beaucoup plus courante au cours des dernieres decennies - et elle a ete exacerbee par la pandemie.   
+  
+À travers une experience immersive, nous pouvons suivre heure par heure le deroule du week-end de 54 personnes, façon vue en coupe d'un immeuble geant. L'evolution est fluide et les lecteurs peuvent comprendre en un coup d'oeil quelles sont les activites simultanees du panel etudie. Un beau travail de rationalisation et de visualisation de la donnee, le tout en faisant defiler la page.  
+---  
+| | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[Rentrer dans l'appartement de 54 personnes](https://pudding.cool/2023/09/invisible-epidemic/) chez The Pudding  
+  
+| |   
+---  
+  
+| | | 
+
+## 3\. Bonnes pratiques
+
+## Le Washington Post livre ses secrets de fabrication en ligne  
+  
+---  
+  
+| | | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/6a1c1d5e-024f-01c3-4af3-d622c71ec66f.png)](https://build.washingtonpost.com/)  
+---  
+  
+| | En conception web, un "design system" est une bibliotheque de regles, composants ou conseils pour maintenir une coherence au sein d'un ou plusieurs sites. Le Washington Post a eu la tres bonne idee de partager le sien publiquement et une bonne partie peut se montrer tres interessante meme si on est pas salarie chez eux.  
+  
+Nous vous recommandons notamment leur liste de [bonnes pratiques](https://build.washingtonpost.com/resources/guides/performance-and-seo) de developpement web, resumant tres clairement ce qu'il faut suivre pour garantir de bonnes performances ou le referencement. Leurs [conseils en accessibilite ](https://build.washingtonpost.com/resources/accessibility)sont egalement pertinents ou vous pouvez aussi aller regarder comment ils documentent leurs [composants](https://build.washingtonpost.com/resources/tutorials/carousel) sur Figma.  
+---  
+| | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[Explorer le systeme de conception](https://build.washingtonpost.com/) __ du Washington Post  
+  
+| |   
+---  
+  
+| | | 
+
+## 🚨 Bureaux
+
+## Quelques places disponibles dans les locaux de Datagif  
+  
+---  
+  
+| | | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/af588b66-6470-7099-a50f-709ef2a57a22.jpg)  
+---  
+  
+| | Vous etes independant*e, solo ou a deux, cette annonce est pour vous : quelques postes de travail sont disponibles dans nos bureaux, a Paris dans le 11e, metro Charonne.  
+  
+• location au poste : 350€/mois par poste  
+• dans un bureau de 16m2, avec 4 postes au total  
+• emplacement fixe avec bureau et casier  
+• 2 salles de reunions  
+• fibre  
+• cuisine avec the et cafe a disposition  
+• la vie de bureau partagee avec Datagif ✨  
+  
+👀 Interesse*e ? Contactez-nous : contact@datagif.fr  
+---  
+---  
+  
+| |   
+---  
+  
+| | | 
+
+## 4\. Adolescence
+
+## Ça fait quoi d'avoir 13 ans aujourd'hui ? Plongee dans l'usage des reseaux sociaux de quelques ados avec une vue directe sur leurs mobiles  
+  
+---  
+  
+| | | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/45f756df-55d7-b89f-89cf-ebb29273140b.jpg)](https://www.nytimes.com/interactive/2023/09/20/well/family/13-year-old-girls-social-media-self-esteem.html)  
+---  
+  
+| | 13 ans, c'est l'age legal impose par quelques reseaux pour etre utilises - meme si beaucoup de jeunes s'inscrivent avec une fausse date de naissance. 13 ans, c'est aussi le debut de l'adolescence et aujourd'hui le telephone mobile fait partie du quotidien de [91 % d'entre elles*eux aux USA](https://www.nytimes.com/2023/09/20/well/family/teenagers-adolescence-parenting.html). Partant de ce constat, le NYT fait une plongee passionnante dans cet univers, au travers de quelques portraits de jeunes adolescentes.  
+  
+Mais l'enorme plus se joue dans la mise en page de l'article : a l'aide de quelques notes ou boutons au sein de l'article, vous activez sur la droite le telephone de l'adolescente, pour y voir ou entendre des extraits de publications. Un grand bravo aux jeunes filles qui ont joue le jeu de la transparence, rendant le tout extremement concret.  
+---  
+| | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[Plonger dans le quotidien d'ados](https://www.nytimes.com/interactive/2023/09/20/well/family/13-year-old-girls-social-media-self-esteem.html) chez le NYT  
+  
+| |   
+---  
+  
+| | | 
+
+## 5\. Proximite
+
+## Le format 'guide' : un des meilleurs exemples de mix contenu et service  
+  
+---  
+  
+| | | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/fd106a24-cae9-5cdd-89ff-ccf2174e9824.gif)](https://www.washingtonpost.com/food/interactive/2023/best-restaurants-dc-2023-tom-sietsema/)  
+---  
+  
+| | Vous le savez, on aime beaucoup ce gabarit et [le Guide des meilleurs restaus de Washington](https://www.washingtonpost.com/food/interactive/2023/best-restaurants-dc-2023-tom-sietsema/) par le Washington Post illustre parfaitement ses benefices :   
+  
+📍 le concept de guide est un atout local : le media s'inscrit dans l'environnement ou il est implante  
+🤌  le format s'appuie sur un expert (ici, le critique culinaire du media) qui autorise une selection choisie avec soin, plutot qu'un simple annuaire   
+☑️ chaque restau a sa fiche, avec une courte critique inspiree de publications precedentes : reutilisation (reecrite) de contenu existant  
+🥗 les filtres choisis sont aussi un marqueur d'identite, qui donnent le ton et l'angle du media : excellent moyen de se differencier des sites culinaires qui brassent beaucoup plus d'adresses  
+💙 ce format est une page de ressources : l'audience y revient, la garde en favori, le trafic y est donc plus eleve  
+🛠️ enfin, c'est un format hautement replicable : dans l'univers _food_ , mais pas seulement, des lors qu'une expertise du media est a valoriser localement.  
+---  
+| | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+Vous souhaitez mettre en place un gabarit guide ? [Parlons-en ensemble](https://datagif.fr/medias/) !  
+  
+| |   
+---  
+  
+| | | | ![](https://newsletter.datagif.fr/ext/datagif/img/mail.png)  
+---  
+Bienvenue dans cette newsletter 👋  
+Nous sommes [une agence de conseil et design](http://datagif.fr/) qui travaille sur des sujets de design d'information. Pour suivre notre veille, un seul bouton :  
+| [Je m'inscris](https://datagif.fr/newsletter-medias/)  
+---  
+  
+| |   
+---  
+  
+| | | 
+
+## 6\. Cinema
+
+## In the mood for scroll  
+  
+---  
+  
+| | | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/290c783e-d81e-80ff-294b-aceeb459285e.jpg)](https://www.newyorker.com/culture/touchstones/wong-kar-wais-in-the-mood-for-love)  
+---  
+  
+| | The New Yorker a publie un long format dedie a l'influence du realisateur hongkongais Wong Kar-wai. Image, son, dialogue… les films de Wong Kar-wai et plus particulierement « In The Mood For Love » sont decortiques, puis hisses a la tete de la creation d'un esthetisme repris dans de nombreux films, et meme sur TikTok.   
+  
+L'article se defile a la souris, et entre zoom et dezoom, nous permet de decouvrir un travail d'analyse fin et pointu.   
+---  
+| | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[Plonger dans l'univers de Wong Car Wai](https://www.newyorker.com/culture/touchstones/wong-kar-wais-in-the-mood-for-love) chez le New Yorker  
+  
+| |   
+---  
+  
+| | | | ![](https://newsletter.datagif.fr/ext/datagif/img/reseaux.png)  
+---  
+Retrouvez la veille et les projets de Datagif sur  
+[Medium](https://datagif.medium.com/) • [X](https://twitter.com/datagif) • [Bluesky](https://bsky.app/profile/datagif.bsky.social) • [Instagram](https://www.instagram.com/datagif/) • [Linkedin](https://www.linkedin.com/company/datagif/) • [Datagif.fr](https://datagif.fr/)  
+  
+  
+| |   
+---  
+  
+| | | 
+
+## 7\. Sport
+
+## Alcaraz, le nouveau prodige du tennis, etudie sous toutes ses coutures  
+  
+---  
+  
+| | | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/5bffae6e-8909-4f24-0bb2-61a296f0f047.gif)](https://www.espn.com/espn/feature/story/_/id/38087576/inside-carlos-alcaraz-2023-game-federer-djokovic-nadal)  
+---  
+  
+| | ESPN fait le break avec [cet impressionnant long format](https://www.espn.com/espn/feature/story/_/id/38087576/inside-carlos-alcaraz-2023-game-federer-djokovic-nadal) donnant a voir de maniere exhaustive et interactive l'excellence du nouveau champion de tennis espagnol, Carlos Alcaraz. Le melange de video, visuels, citations et donnees statistiques mettant en lumiere les aspects specifiques de son jeu rendent l'analyse accessible meme pour les neophytes.  
+---  
+| | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[Tout savoir sur Alcaraz](https://www.espn.com/espn/feature/story/_/id/38087576/inside-carlos-alcaraz-2023-game-federer-djokovic-nadal) sur ESPN  
+  
+| |   
+---  
+  
+| |   
+---  
+  
+| | Voila pour cette edition, encore une fois riche et pourtant on s'est retenu ! 😅 À dans 15 jours pour la suite !  
+---  
+  
+| | | ![](http://gallery.mailchimp.com/653153ae841fd11de66ad181a/images/transparent.gif)  
+---  
+  
+| |   
+---  
+  
+| | Vous recevez cet e-mail car vous êtes inscrit•e via le site [datagif.fr](https://datagif.fr/newsletter-medias/)Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)  
+👋 [Cliquez-ici](*|UNSUB|*) pour vous désabonner  
+---  
+  
+| | DATAGIF  
+---  
+  
+| |   
+---

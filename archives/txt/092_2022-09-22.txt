@@ -1,0 +1,257 @@
+|  | [Ouvrir dans le navigateur](*|ARCHIVE|*)  
+---  
+| ![Médias](https://newsletter.datagif.fr/ext/datagif/img/medias.png)  
+---  
+La veille innovation et design média par DATAGIF  
+  
+|  | *|MC_PREVIEW_TEXT|*  
+---  
+  
+|  |   
+---  
+  
+|  |  | Difficile de passer a cote de l'evenement qui a secoue la couronne britannique. Mais on discute egalement de la refonte de The Verge, de comment choisir ses series et de calculateur d'inflation. Bonne lecture 🤓  
+---  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 1\. Royaume-Uni
+
+## Comment les medias ont accueilli la perte d'une reine et le gain d'un roi  
+  
+---  
+  
+|  |  | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/af1eb7bc-c3f7-e00c-860d-3f204cf3fc62.jpg)  
+---  
+  
+|  | L'abondance du traitement mediatique reserve a celle qui est devenue reine avec un telegramme et est decedee avec un tweet peut donner le vertige. Sans etre exhaustifs, trois fils Twitter ont rassemble une partie des productions mediatiques :  
+  
+• Le Reuters Institute [partage sa veille royale](https://twitter.com/risj_oxford/status/1568133914807484417), dont [cet article neo-zelandais](https://thespinoff.co.nz/media/09-09-2022/the-queen-has-died-add-details-here-xxx-media-tributes-seven-decades-in-the-making) qui revient sur la preparation a la mort de la Reine cote journalistes, avec un conseil : "_n 'oubliez pas d'editer vos titres prepares a l'avance_" ;  
+  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/91fb2c8c-e42b-93e5-33b0-df3f5e4cd193.jpg)  
+  
+• Amy O'Kruk, journaliste data chez NBC, rassemble quant a elle [un bosquet d'arbres genealogiques](https://twitter.com/amyokruk/status/1568357911167918081) de la famille royale avec comme enjeu commun : rendre visible qui est en lice pour le trone...  
+  
+• Enfin, Diego Areso, directeur artistique de El Pais, a realise [une selection des unes les plus marquantes](https://twitter.com/quintatinta/status/1568225554775838720) de la presse ecrite au fil des annees de regne d'Elizabeth II. 
+
+
+  
+---  
+---  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 2\. Sommaire
+
+## Le media de la gauche americaine Jacobin sait valoriser sa publication papier  
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/0f7a3f35-bc8f-bc13-5435-0a72c3ff740b.gif)](https://jacobin.com/issue/inflation)  
+---  
+  
+|  | Il s'agit d'une problematique recurrente : le public en ligne est-il le meme que le public papier ? Le media Jacobin a conscience que la reponse n'est pas binaire et propose une page dediee a la valorisation de son edition papier plutot reussie.  
+  
+Outre des scans de quelques pages montrant la qualite de la maquette et la richesse du contenu, cette page est egalement un exemple interessant de sommaire : la plupart des articles de la revue sont deja disponibles en ligne, ce qui permet a tout type d'audience de s'y retrouver.   
+---  
+|  | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+Decouvrir en ligne [la page du magazine Jacobin](https://jacobin.com/issue/inflation)  
+  
+|  |   
+---  
+  
+|  |  |  | ![](https://newsletter.datagif.fr/ext/datagif/img/mail.png)  
+---  
+Oh, bonjour, on vous a transfere cette edition ?  
+Pour la recevoir tous les 15 jours dans votre boite mail :  
+| [S'inscrire a la newsletter](https://datagif.fr/newsletter-medias/)  
+---  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 3\. Flux
+
+## The Verge revoit integralement sa maquette, et ça fait discuter  
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/f499377b-9c4d-1514-e9c8-41fbb7f9c1b4.jpg)](https://twitter.com/i/status/1569657450718019589)  
+---  
+  
+|  | 1️⃣ L'experience utilisateur de cette nouvelle mouture ne laisse pas indifferent. La page d'accueil est desormais un enorme flux sans fin, façon Twitter, appuye de blocs de selections thematiques, ce qui sous-entend une consultation frenetique du site cote lectorat. La page article tranche par son fond blanc eblouissant, avant de retrouver en guise de relances la page d'accueil : principe largement utilise puis abandonne il y a quelques temps. The Verge semble effectuer un cycle en termes de principes UX, avec la reutilisation contemporaine d'idees enterrees dans les limbes de l'Internet. Et le public reagit : Ryan Gantz, _design architect_ chez Vox, [prend le temps d'echanger](https://twitter.com/sixfoot6/status/1569786513613029377) avec les nombreux internautes interloques.    
+  
+2️⃣ Techniquement, cette refonte est tres interessante : le fondateur de [CodePen](https://codepen.io/) a dresse toute une [liste](https://twitter.com/chriscoyier/status/1569819665001586690) de trouvailles d'integration web et d'optimisation mais une grande partie du lectorat, tres technophile, a egalement releve des problemes d'[accessibilite](https://twitter.com/ericwbailey/status/1569821696328372225) ou de [performances](https://twitter.com/HTeuMeuLeu/status/1569710634794909712) qui ne collent pas avec les precedents [engagements](https://www.theverge.com/23205223/tech-journalism-accessibility-assistive-coverage) du magazine pour l'environnement ou l'accessibilite. Cote arriere-boutique, tous les sites de l'editeur Media sont propulses par le CMS maison [Chorus](https://getchorus.voxmedia.com/), [concurrent direct](https://digiday.com/media/cms-war-vox-media-washington-post-heating/) de ARC Publishing, le CMS du Washington Post.   
+---  
+|  | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+Surfer [sur le nouveau The Verge](https://www.theverge.com/)  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 4\. Long format
+
+## La reaction au coming out exploree dans les series   
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/f0766e7b-a62f-229a-d94c-64de15921ba3.gif)](https://www.nytimes.com/interactive/2022/09/15/arts/television/coming-out-gay-tv.html?te=1&nl=watching&emc=edit_wg_20220916)  
+---  
+  
+|  | Le NYT explore l'evolution de la mise en image du coming out a l'ecran a travers un long format melant texte et captures de series. À quels visages et sentiments sont confronte.e.s les personnes LGBTQIA+ lorsqu'elles revelent qu'elles sont gays, bisexuel.le.s ou transsexuel.le.s ? On apprecie que ce sujet tres visuel soit traite sous forme de mosaique animee plutot que dans une production 100% video : chacun.e peut lire a son rythme et scruter les expressions sur les visages.   
+---  
+|  | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+Decouvrir le long format [sur ](https://www.nytimes.com/interactive/2022/09/15/arts/television/coming-out-gay-tv.html?te=1&nl=watching&emc=edit_wg_20220916)[le site du New York Times](https://www.nytimes.com/interactive/2022/09/15/arts/television/coming-out-gay-tv.html?te=1&nl=watching&emc=edit_wg_20220916) (et merci Nora pour le lien 👋)  
+  
+|  |   
+---  
+  
+|  |  |  | ![](https://newsletter.datagif.fr/ext/datagif/img/reseaux.png)  
+---  
+Retrouvez la veille et les projets de Datagif sur [Medium](https://datagif.medium.com/) • [Twitter](https://twitter.com/datagif) • [Instagram](https://www.instagram.com/datagif/) • [Datagif.fr](https://datagif.fr/)  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 5\. Étude
+
+## Quel rapport des jeunes a l'information ?  
+  
+---  
+  
+|  |  | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/35bc2ebf-5b03-9114-c214-a9da6749c372.jpg)  
+---  
+  
+|  | Le rapport Kaleidoscope, publie par le Reuters Institute for the Study of Journalism, explore la relation a l'information des jeunes de 18 a 30 ans des Etats-Unis, du Royaume-Unis et du Bresil. On l'a lu pour vous, et voici quelques enseignements a y piocher :   
+  
+1️⃣ Non, la jeune generation ne se desinteresse pas de l'information mais possede un rapport different a l'actualite que ses aines.   
+  
+2️⃣ Cette audience fait une distinction entre "l'actualite" associee aux marques medias traditionnelles et mainstream et les "nouvelles" (sport, divertissement, culture…) qu'elle associe aux medias alternatifs et aux reseaux sociaux.   
+  
+3️⃣ Elle a tendance a privilegier les "nouvelles" et se sent plus proche de la culture internet des medias alternatifs, sans rejeter l'information traditionnelle pour autant.   
+  
+4️⃣ Elle est tout de meme de plus en plus sceptique et critique face a l'information delivree par les grandes marques medias et evite de temps en temps l'information trop "serieuse" pour proteger sa sante mentale.   
+  
+5️⃣ Malgre ces analyses, le rapport met egalement en avant qu'on ne peut pas prendre la jeune generation comme un ensemble uniforme qui consommerait l'information de la meme façon. Elle constitue un groupe heterogene dont il faut prendre en compte les variables sociologiques, politiques ou encore geographiques.  
+  
+6️⃣ Les grandes marques medias ne peuvent donc pas toujours plaire a tous les jeunes en meme temps (eh oui) mais peuvent augmenter leur offre : elargir les themes, diversifier le ton…   
+---  
+|  | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+Explorer en detail [le rapport Kaleidoscope](https://reutersinstitute.politics.ox.ac.uk/news/kaleidoscope-tracking-young-peoples-relationships-news?utm_campaign=Future%20of%20Journalism&utm_medium=email&utm_source=Revue%20newsletter).   
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 6\. Fabrication
+
+## Hypnotique : [le making of](https://twitter.com/jcrutchmer/status/1569521894239633408) de la une du NYT dessinee a la main  
+  
+---  
+  
+|  |  | ![](http://gallery.mailchimp.com/653153ae841fd11de66ad181a/images/transparent.gif)  
+---  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 7\. Personnalisation
+
+## Creez votre propre uniforme de foot americain 🏈  
+  
+---  
+  
+|  | C'est la saison du foot americain et The Philadelphia Inquirer nous offre une retrospective animee des differents maillots portes par l'equipe locale, les _Eagles  _🦅. Mieux, un [outil interactif ](https://www.inquirer.com/eagles/inq2/philadelphia-eagles-new-uniforms-kelly-midnight-green-history-20220907.html)vous permet d'assembler un equipement complet et original a partir de toutes les varietes de chaussettes, maillots, epaulettes ou casques possibles, puis de le partager. Vous pourrez meme comparer votre creation a [celles d'autres supporters celebres](https://www.inquirer.com/eagles/inq2/best-eagles-uniforms-jersey-design-20220907.html), notamment le maire de Philadelphie ou Gritty, la mascotte du coin devenue un [meme](https://www.vox.com/culture/2018/12/24/18145323/gritty-explained-mascot-flyers-meme-leftist).  
+  
+Quand on sait a quel point les maillots de football font parler en France, voila une idee de format qui trouverait sa place par chez nous !  
+---  
+|  | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+[Faire parler](https://www.inquirer.com/eagles/inq2/philadelphia-eagles-new-uniforms-kelly-midnight-green-history-20220907.html) sa creativite sur le Philadelphia Inquirer  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 8\. Guide
+
+## On regarde quoi a l'automne ? NPR vous aide a y voir plus clair  
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/3bb51dd4-3d4d-2cb5-0e93-56c3dd844993.jpg)](https://www.npr.org/2022/09/19/1123223178/best-fall-tv-movies-2022)  
+---  
+  
+|  |  | ![](http://gallery.mailchimp.com/653153ae841fd11de66ad181a/images/transparent.gif)  
+---  
+  
+|  |   
+---  
+|  | ![](https://newsletter.datagif.fr/ext/datagif/img/fleche.png)  
+---  
+Faire son tri [chez NPR](https://www.npr.org/2022/09/19/1123223178/best-fall-tv-movies-2022)  
+  
+|  |   
+---  
+  
+|  |  | 
+
+## 9\. Pouvoir d'achat
+
+## Alimentaire, carburant, energie : Franceinfo vous aide a calculer l'impact de l'inflation [dans un format tres efficace](https://www.francetvinfo.fr/economie/inflation/nourriture-carburant-electricite-combien-vous-coute-inflation-au-quotidien-faites-le-calcul-avec-notre-simulateur.html)  
+  
+---  
+  
+|  |  | [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/e18af332-1747-080b-4888-894ad9fb5fdd.jpg)](https://www.francetvinfo.fr/economie/inflation/nourriture-carburant-electricite-combien-vous-coute-inflation-au-quotidien-faites-le-calcul-avec-notre-simulateur.html)  
+---  
+  
+|  |  | ![](http://gallery.mailchimp.com/653153ae841fd11de66ad181a/images/transparent.gif)  
+---  
+  
+|  |   
+---  
+  
+|  |   
+---  
+  
+|  | ➡️ Merci de nous avoir lus pour cette 92e edition. Cette semaine, nous accueillons Julia et Florian comme nouveaux contributeurs, bienvenue 👋  
+  
+Vous reflechissez a un projet ? [Nous echangerons volontiers avec vous](https://datagif.fr/medias/) ✌️  
+---  
+  
+|  |  | ![](http://gallery.mailchimp.com/653153ae841fd11de66ad181a/images/transparent.gif)  
+---  
+  
+|  |   
+---  
+  
+|  | Vous recevez cet e-mail car vous êtes inscrit•e via le site [datagif.fr](https://datagif.fr/newsletter-medias/)Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)  
+👋 [Cliquez-ici](*|UNSUB|*) pour vous désabonner  
+---  
+  
+|  | DATAGIF  
+---  
+  
+|  |   
+---

@@ -1,0 +1,130 @@
+---  
+![Médias](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/d060cdc3-f8d4-4207-b9bb-0b8ffda1ca6f.png)  
+La veille innovation et design media par Datagif  
+  
+| *|MC_PREVIEW_TEXT|*  
+---  
+---  
+1\. Carto Bienvenue dans New York sans voitures  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/38b0a3db-843c-4fee-b981-bfd32c01456e.gif)  
+---  
+Le New York Times publie un article passionnant sur ce que pourrait etre New York avec (beaucoup) moins de voitures. Pour appuyer son propos, le journal s'est appuye sur les modelisations visuelles d'un cabinet d'urbanisme. Le lecteur est ainsi plonge dans une vue 3D de la ville, et c'est tout de suite tres parlant. On serait curieux de voir de telles simulations pour Paris !  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/371abb15-b875-4c99-a5d8-2c846605b87f.png)  
+---  
+|  -- [Lire cet article](https://www.nytimes.com/2020/07/09/opinion/ban-cars-manhattan-cities.html) du New York Times  
+---  
+---  
+2\. Chronique litteraire Un tres beau projet de Mailchimp  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/8148ed83-3d14-41b4-bffe-7baadbe286c6.png)  
+---  
+_Mailchimp Presents_ , le media adosse au celebre outil d'emailing, nous a habitue a des contenus tres creatifs et leches.  
+  
+Son nouveau projet estival est tres reussi : _By The Books_  se presente comme un "festival litteraire en ligne". On y trouve concretement une selection de livres inspirants, issus de voix emergentes de la litterature contemporaine. Le site presente chaque oeuvre dans une belle interface, qui est aussi completee par un podcast et quelques courts-metrages. Un projet global qui aurait toute sa place chez un "vrai" media d'information !   
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/a0a28e7b-63bb-44a9-b77a-51e2a6994639.png)  
+---  
+|  -- [Decouvrir _By The Books_](https://mailchimp.com/presents/by-the-books/) par Mailchimp Presents  
+---  
+---  
+3\. Nouvelle vague Le Monde dresse un etat des lieux mondial du reconfinement  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/17f9094f-447a-4e26-a319-56fab0fd1603.gif)  
+---  
+Va-t-on se reconfiner ? En attendant de le savoir, Les Decodeurs du Monde scrutent ce qui se passe dans les differentes regions du monde. Avec une visualisation claire sous forme de timeline, cet article re-situe les phases de deconfinement puis de reconfinement. Cerise sur le gateau : un globe anime fait son petit effet en guise d'introduction. À quand le tour de la France ?  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/2f0f2fce-c8cb-43f3-aae1-97bf981d049d.jpg)  
+---  
+|  -- [Lire l'article](https://www.lemonde.fr/les-decodeurs/article/2020/07/07/australie-espagne-pekin-madagascar-ou-reconfine-t-on-face-a-coronavirus_6045510_4355770.html) du Monde  
+---  
+---  
+4\. Recits Une interface intuitive pour confronter des temoignages  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/a48b703f-f24d-4b6c-be81-5f4f606b03c2.png)  
+---  
+Le Telegraph propose une serie de temoignages de citoyens qui racontent leur experience (contrastee) face a l'epidemie. Le twist est dans l'interface, simple mais efficace, pour illustrer la variete de ces temoignages.   
+  
+Un menu permet ainsi de naviguer entre les differents personnages. Sur desktop, les recits sont meme affiches 2 par 2, ce qui illustre bien la diversite de toutes ces situations personnelles.  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/1fa43037-e3ff-4c4b-9270-ea4552b1c988.jpeg)  
+---  
+|  -- [Lire l'article](https://www.telegraph.co.uk/health-fitness/my-pandemic-coronavirus-lockdown-nurse-parents-affair-school/) de The Telegraph  
+---  
+---  
+5\. Feuilleton Le New York Times vous met dans la peau d'une femme en 2020  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/6088c4cc-acb5-4db3-a2f2-294dd45a1b8a.png)  
+---  
+Le New York Times a imagine un format habile pour explorer les biais auxquels les femmes sont confrontees au quotidien. Le lecteur peut ainsi s'inscrire a une newsletter ephemere, decoupee en 7 episodes quotidiens, pour suivre des recits de femmes dans un monde façonne par des hommes.  
+  
+Un storytelling rythme qui montre tout le potentiel des newsletters "froides", que ce soit pour des recits ou des tutoriels pratiques.   
+---  
+|  -- [Decouvrir et s'inscrire a _In Her Words_](https://www.nytimes.com/programs/womens-issues) du New York Times  
+---  
+---  
+6. Epidemie Le site ProPublica realise une data-visualisation tres parlante ou des fleches animees representent l'evolution du coronavirus dans chaque Etat americain.  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/1db4f342-3813-486e-a543-56561b7830c5.gif)  
+---  
+|  -- [Voir l'article](https://projects.propublica.org/reopening-america/) de ProPublica  
+---  
+---  
+7\. Verticale Bloomberg absorbe le media specialise CityLab  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/795f6f5e-a33a-4dc2-bcb4-ebf932a706cd.png)  
+---  
+Apres [_Green_](https://www.bloomberg.com/green), dediee aux changements climatiques, _CityLab_ est la nouvelle verticale de Bloomberg. Une super-rubrique dediee aux transformations de la ville, qui brasse des thematiques allant de l'economie aux politiques publiques jusqu'au design.  
+  
+Le modele est assez interessant :  
+  
+● _CityLab_ etait auparavant un media independant que Bloomberg a rachete pour completer son offre editoriale numerique  
+  
+● **Design :** outre un logo et une teinte specifique, le verticale se fond tres bien dans le site de Bloomberg. On evite donc l'usine a gaz, mais les contenus de CityLab restent reconnaissables  
+  
+● **Edito**  : on y trouve des formats creatifs et audacieux comme[ ce guide illustre](https://www.bloomberg.com/news/articles/2020-06-25/how-to-understand-your-city-budget?srnd=citylab) pour comprendre un budget municipal  
+  
+● **Business** : aucun paywall, l'ensemble des contenus de CityLab sont accessibles gratuitement grace au soutien d'un sponsor unique (Hyundai)  
+---  
+|  -- [Decouvrir CityLab](https://www.bloomberg.com/citylab)  
+---  
+---  
+8\. Coulisses Les secrets de fabrication d'une couverture  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/aee3cbfe-9ea8-40e9-b83b-9aa11cf9ab24.png)  
+---  
+Pour ceux qui aiment les secrets de fabrication, la newsletter _Cover Story_ de The Economist est une petite mine d'or qui raconte chaque semaine la genese de la couverture du journal. Idee de genie, construction au fil de l'eau ou twist au moment du bouclage ? C'est en tout cas un moyen interessant de recreer l'evenement autour du media papier.  
+  
+D'autres medias le racontent egalement sous d'autres formes :  
+● le New York Times Magazine avec son format video regulier [_Behind the Cover_](https://www.nytimes.com/series/behind-the-cover)   
+● [Time](https://time.com/5864356/one-last-chance-time-cover/?utm_source=twitter&utm_medium=social&utm_campaign=editorial&utm_term=_&linkId=93348466) ou le [New Yorker](https://www.newyorker.com/culture/cover-story/cover-story-2020-07-06) avec de simples articles ou meme en Stories [sur Snapchat](https://mashable.com/2016/07/22/new-yorker-snapchat-story/?europe=true)  
+  
+En France, nous serions bien curieux de connaitre l'envers du decor des unes de Society par exemple…  
+---  
+|  -- [Decouvrir la newsletter](https://twitter.com/AlexSelbyB/status/1261707412047831041) "Cover Story" de The Economist  
+---  
+---  
+9\. Le saviez-vous ? Plus de 1000 medias locaux existent en France, et ils ont besoin de vous  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/a079be5e-27ca-4d5b-820d-d386eda63954.gif)  
+---  
+Durant le confinement, le millier de medias locaux français ont rappele leur utilite, garde la confiance du public, enregistre des pics d'audience.  Pourtant, leurs recettes ont ete serieusement affectees...  
+  
+Pour valoriser leur travail d'utilite publique, Datagif s'est associe au Festival de l'info locale. Le resultat : un mini-site qui permet d'explorer les medias locaux pres de chez soi, et incite a les soutenir. On compte sur vous pour faire tourner le lien  ✨  
+---  
+|  -- [Cherchez et soutenez](https://www.festival-infolocale.fr/soutenez-linfo-locale/) les medias proches de chez vous  
+---  
+Vous recevez cet e-mail car vous êtes inscrit•e via le site   
+[medias.datagif.fr](https://medias.datagif.fr/)   
+  
+🏄‍   
+Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)   
+  
+📪  
+Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)   
+  
+✌️  
+Retrouvez la veille et les projets de Datagif sur   
+[Medium](https://medium.com/Datagif) \- [Twitter](https://twitter.com/datagif) \- [Instagram](https://www.instagram.com/datagif) \- [Datagif.fr](https://datagif.fr)   
+  
+👋   
+[Cliquez-ici](*|UNSUB|*) pour vous désabonner   
+  
+  
+*|IF:REWARDS|* *|HTML:REWARDS|* *|END:IF|*   
+  
+  
+---

@@ -1,0 +1,138 @@
+---  
+![Médias](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/d060cdc3-f8d4-4207-b9bb-0b8ffda1ca6f.png)  
+La veille innovation et design media par Datagif  
+  
+| *|MC_PREVIEW_TEXT|*  
+---  
+---  
+1\. Newsletters Le fort potentiel des newsletters mono-thematiques  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/84b65b65-aca1-405d-b067-dfb1edae0d2e.png)  
+---  
+Alors que Trump est englue dans une procedure d'impeachment, le New York Times a habilement degaine une newsletter entierement dediee au suivi de cet evenement politique. On avait deja vu ce concept, notamment pour le suivi du Brexit (chez Bloomberg ou The Telegraph), et c'est toujours une tres bonne idee pour suivre un actualite amenee a s'etaler sur le temps long.   
+  
+L'idee est surtout valable pour les sujets compliques et d'interet public, que les lecteurs ont envie de suivre mais n'auront pas le reflexe de chercher par eux-memes. Meme pas besoin d'une regularite precise : les lecteurs attendent qu'on les tienne au courant en cas d'evenement majeur.   
+  
+En France, les sujets a potentiel ne manquent pas. On imaginerait tres bien une newsletter dediee a l'avenir de Notre-Dame, ou aux suites de la catastrophe a Rouen…  
+---  
+|  -- S'inscrire a [la newsletter du New York Times](https://www.nytimes.com/newsletters/impeachment-briefing)  
+-- Ou decouvrir le "[Brexit Bulletin](https://www.bloomberg.com/news/articles/2019-10-03/brexit-bulletin-running-out-of-time?srnd=brexit)" de Bloomberg  
+---  
+---  
+2\. Élections Le labo journalistique de Radio-Canada rend la campagne attractive  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/398aab59-6d9a-4326-8742-79b34573325a.gif)  
+---  
+Nous avons deja evoque ici le media Rad, laboratoire numerique d'information lance par Radio-Canada en mai 2017. Pour les elections federales, il propose  25 contenus sur 25 jours pour tout comprendre des enjeux du scrutin. Les positions des partis sont abordees en 25 sujets, avec en plus du _factchecking_ et un un resume hebdomadaire de la campagne.  
+  
+Armes a feu, historique des partis, penurie de main-d'oeuvre, avortement, petrole, taxes sur la culture... Chaque sujet est traite en video par un journaliste sur le terrain, de maniere claire et didactique. Un dispositif savamment package, avec une belle identite, qui se deploie non seulement sur le site mais aussi sur Youtube et Instagram. Les posts et les stories interactives y sont d'excellente facture. Cela donnerait presque envie de devenir Canadien.  
+---  
+![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/c45dc34d-fc84-4b90-9253-16d36878a144.jpg)  
+---  
+![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/a4a23eef-37df-428e-978c-fb61b4b27727.jpg)  
+---  
+|  \- Voir le programme special [sur le site](https://www.rad.ca/dossier/elections-2019/), en [playlist Youtube](https://www.youtube.com/watch?v=pqjuZbzT_XI&list=PLdQzHRpOzSu0Vupwke7R9BkA33aQyn_G6), et sur [Instagram](https://www.instagram.com/radpointca/)  
+---  
+---  
+3\. Format La dataviz qui declenche un record d'abonnements au Figaro  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/3248d28c-1ddf-4c04-9e94-49523281f112.png)  
+---  
+« Etes-vous riche ? » : c'est le titre, pour le moins accrocheur, d'un recent article produit par la cellule Fig Data du Figaro. Et visiblement, les lecteurs du Figaro veulent savoir : l'article interactif a battu les records de conversion en abonnes (via le paywall).   
+  
+L'article merite un coup d'oeil : grace a un questionnaire, il permet de se situer parmi l'echelle des revenus et des patrimoines en France. Les reponses permettent egalement en creux de tester la perception de la richesse par les citoyens, bien souvent eloignee de la realite statistique.  
+  
+Comme quoi, quand une dataviz interactive est bien anglee et centree sur les lecteurs, ça paye !  
+---  
+![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/6e2dfeeb-89ef-460e-9401-310bec191dec.png)  
+---  
+|  -- Decouvrir la dataviz "[Etes-vous riche ?](http://www.lefigaro.fr/conjoncture/etes-vous-riche-20190418)" du Figaro  
+-- Pour prolonger, [ce super format du New York Times](https://www.nytimes.com/interactive/2019/10/03/your-money/middle-class-income.html?action=click&module=News&pgtype=Homepage) qui decortique les budgets de 4 foyers americains  
+---  
+---  
+4\. Impeachment On peut resumer la semaine politique US avec ce mot  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/535b8b1b-aa47-46f9-a850-f609ca3aca8b.png)  
+---  
+Pour suivre l'enquete qui pourrait mener a la destitution du president Trump, les medias americains ont su rapidement degainer leurs formats speciaux.  
+  
+● Simple : **Axios** propose le format le plus minimal, en compilant la position des parlementaires via une grille de mini-portraits efficace. Une ligne jaune symbolise le seuil qui declenche le debut des hostilites.  
+  
+● Exhaustif : **le New York Times  **repertorie egalement la position des elus en les rangeant dans 3 colonnes.** ** Les indecis sont presentes avec un verbatim qui rappelle leur position exacte.  
+  
+● Pedago : **Buzzfeed** propose un schema simple (et presque drole) pour expliquer la procedure d'impeachment.  
+  
+● Expert : **Politico** sort une visualisation plus complexe pour analyser la position des elus democrates, notamment dans les Etats qui ont fortement vote pour Trump en 2016.  
+---  
+![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/304ec2c8-b5b8-4839-a651-488eed08ac2f.png)  
+---  
+|  -- L'Impeachment a lire sur [Axios](https://www.axios.com/impeachment-house-democrats-whip-list-c730f5e6-201f-41db-b3e1-923c387b894c.html), [Politico](https://www.politico.com/interactives/2019/house-reps-who-would-vote-for-trump-impeachment-our-latest-list/), [The New York Times](https://www.nytimes.com/interactive/2019/us/politics/trump-impeachment-congress-list.html), [Buzzfeed](https://www.buzzfeednews.com/article/benking/confused-by-the-impeachment-process-this-flowchart-should)  
+---  
+---  
+5\. Brexit Immersion dans le "jour d'apres"  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/b9f43dad-993f-4f03-9997-40827def6149.png)  
+---  
+Comme beaucoup de gens, on commence a saturer serieusement du Brexit. Mais voila un recit deniche chez Bloomberg qui propose un angle interessant (et qui, merci, ne parle pas de Boris Johnson). Le principe est simple : il s'agit d'un compte-rendu des 24 heures qui pourraient suivre un Brexit sans accord, a travers des temoignages.  
+  
+Bloomberg imagine sur la base d'entretiens, d'informations officielles et universitaires, ce que seront les retombes immediates d'un "no deal" pour un conducteur routier (qui devra attendre longuement a la frontiere), pour une famille d'agriculteurs (qui verra zigzaguer dangereusement les tarifs du betail), ou encore pour une musicienne (qui se retrouvera engluee dans des problemes administratifs pour ses prochains concerts). Un recit de la vie reelle, meme si Bloomberg precise : "We won't know until we know".  
+---  
+|  -- The Day After No Deal, [a lire ici](https://www.bloomberg.com/news/features/2019-09-25/what-happens-the-day-after-a-no-deal-brexit?utm_campaign=likeshopme&utm_medium=instagram&srnd=businessweek-v2&utm_source=dash%20hudson&utm_content=www.instagram.com/p/B21-_ZHhTff/)  
+---  
+---  
+6\. Iconographie Comment illustrer l'invisible ?  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/21774a04-556a-4919-9f43-d438f44b9844.jpeg)  
+---  
+Il y a des sujets qui semblent impossibles a illustrer. Pour sa recente enquete sur la pedo-pornographie en ligne, le New York Times a toutefois releve le challenge. L'article est ainsi accompagne d'illustrations abstraites en couleur, qui laissent toutefois entrevoir des silhouettes humaines.  
+  
+L'article joue egalement sur l'effet d'echelle et d'accumulation pour signifier que le phenomene a atteint des proportions terrifiantes. Une dataviz a base de points illustre ainsi l'explosion du nombre de signalements liees a ces images obscenes.   
+---  
+|  -- [Lire l'article](https://www.nytimes.com/interactive/2019/09/28/us/child-sex-abuse.html) du New York Times  
+---  
+---  
+7\. Publicite La mauvaise nouvelle de la semaine  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/e20ce8af-7513-44cf-a079-bab38305c042.png)  
+---  
+Taboola et Outbrain, les deux entreprises leaders sur le marche des "liens sponsorises", vont fusionner. Vous savez, ces fameux articles spam (voire carrement des fake news) qui pullulent sur les sites d'info, et qui entretiennent la confusion avec les articles des medias. On peut parier que la force de frappe combinee de ce nouveau geant ne fera que desequilibrer le rapport de force avec les medias -- deja fortement dependants de ce business tres lucratif... et franchement pervers.  
+---  
+|  -- Lire l'analyse au vitriol de[ TheNextWeb](https://thenextweb.com/tech/2019/10/03/taboola-and-outbrain-the-two-worst-companies-in-the-world-are-merging/) (merci a eux pour cette magnifique illustration)  
+---  
+---  
+8\. Gentrification Meler le recit d'une vie et le recit d'un quartier  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/c5cf4cf1-e26b-48ad-b567-8a932973d1a4.png)  
+---  
+Le Washington Post propose un angle original pour parler de gentrification. Le choix est fait de zoomer sur un petit quartier et de suivre le temoignage d'une habitante de Washington. Sanathera Price nous raconte qu'elle n'a d'autre choix que de quitter cette rue qu'elle aime apres y avoir vecu 40 annees.  
+  
+Un recit de vie mixe avec la vie du quartier, grace a une representation 3D de la rue qui donne un panorama des mutations immobilieres.  
+---  
+|  -- Decouvrir [le recit ici](https://www.washingtonpost.com/dc-md-va/2019/09/21/shed-lived-this-historically-black-dc-block-years-now-she-was-being-pushed-out/)  
+---  
+---  
+9\. Feedbacks Que pensent les lecteurs de vos articles ?  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/3bf78e44-c590-49d1-b96a-438c7bb48786.jpg)  
+---  
+Le media suisse 24 Heures a recemment publie un long format qui propose a ses lecteurs de calculer leur "age musical", en connectant leur compte Spotify. Si le format est interessant pour les statistiques (certes un peu complexes a decrypter), c'est surtout le module de feedback en bas d'article qui nous a interpelle.  
+  
+En effet, apres avoir depense beaucoup de temps et d'energie sur la constitution d'un tel format (au moins 6 personnes impliquees sur celui-ci), il est interessant de recueillir l'avis des lecteurs sur le fond et la forme, au-dela des simples donnees de consultation. La transparence va jusqu'au bout, avec l'affichage des resultats une fois que vous avez vote !  
+---  
+![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/da74b5d8-7fde-4e7c-964e-c97e26fe0e1d.jpg)  
+---  
+|  -- Voir le module [en situation](https://interactif.24heures.ch/2019/spotify-age-musical/)  
+---  
+Vous recevez cet e-mail car vous êtes inscrit•e via le site   
+[medias.datagif.fr](https://medias.datagif.fr/)   
+  
+🏄‍   
+Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)   
+  
+📪  
+Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)   
+  
+✌️  
+Retrouvez la veille et les projets de Datagif sur   
+[Medium](https://medium.com/Datagif) \- [Twitter](https://twitter.com/datagif) \- [Instagram](https://www.instagram.com/datagif) \- [Datagif.fr](https://datagif.fr)   
+  
+👋   
+[Cliquez-ici](*|UNSUB|*) pour vous désabonner   
+  
+  
+*|IF:REWARDS|* *|HTML:REWARDS|* *|END:IF|*   
+  
+  
+---

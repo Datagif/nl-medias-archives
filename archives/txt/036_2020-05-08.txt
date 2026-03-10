@@ -1,0 +1,132 @@
+---  
+![Médias](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/d060cdc3-f8d4-4207-b9bb-0b8ffda1ca6f.png)  
+La veille innovation et design media par Datagif  
+  
+| *|MC_PREVIEW_TEXT|*  
+---  
+---  
+1\. Courbes Le fameux graphique du Financial Times devient interactif  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/7e44a16e-890d-4fa6-80c7-7017ff54989b.gif)  
+---  
+Des le debut de l'epidemie, le Financial Times a produit [un graphique](https://www.ft.com/content/a26fbf7e-48f8-11ea-aeb3-955839e06441) comparatif des differents pays, qui a rapidement fait le tour du monde. Il est a present disponible en version interactive : on peut y comparer deux pays au choix, avec tout un tas de variables. L'echelle logarithmique, [qui a fait couler beaucoup d'encre](https://www.lejdd.fr/Societe/coronavirus-a-quoi-sert-une-echelle-logarithmique-pour-representer-levolution-de-la-pandemie-3961176), est desormais completee par une echelle lineaire classique. Detail interessant : chaque utilisateur peut partager son graphique personnalise, ce qui devrait etre efficace en terme de viralite.  
+  
+On note egalement chez le FT un autre bon tracker, qui compare cette fois l'intensite du confinement, pays par pays.  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/6325f2a7-1ed9-427f-9a2c-456bb742a1aa.jpg)  
+---  
+|  -- Voir [la version interactive](https://ig.ft.com/coronavirus-chart/?areas=usa&areas=fra&cumulative=0&logScale=1&perMillion=1&values=deaths) des courbes de suivi  
+-- Voir [le tracker des pays confines](https://ig.ft.com/coronavirus-lockdowns/)  
+---  
+---  
+2\. Newsletter Le New York Times relance sa lettre d'info matinale  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/24f5ed37-94e2-4723-8ce2-de58bae2ca18.png)  
+---  
+Encore un signe que les newsletters sont devenues un veritable produit editorial strategique pour les medias. Le New York Times a lance cette semaine une nouvelle version de sa newsletter matinale, avec de gros moyens. Il faut dire qu'elle cumule deja 17 millions d'inscrits dans le monde (!), ce qui en fait un des points de contact les plus importants du Times avec ses lecteurs.   
+  
+Parmi les changements :  
+• La newsletter change de nom pour devenir « The Morning » (en echo au podcast quotidien « The Daily » et a la serie TV hebdomadaire « The Weekly »).  
+• L'incarnation est egalement renforcee avec l'arrivee du journaliste star David Leonhart, qui signe desormais chaque edition (aide par une equipe d'au moins 6 journalistes)  
+• Cote contenu, la structure est repensee pour etre encore plus rythmee et editorialisee... mais reste un peu aride sur la forme.   
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/96bf1db9-e1c5-423e-bbfc-ac863c389403.png)  
+---  
+|  -- [Voir la nouvelle formule](https://static.nytimes.com/email-content/NN_sample.html?action=click&module=nl-index-see-the-latest) de "The Morning"  
+-- [Lire le retour d'experience](https://open.nytimes.com/a-new-look-for-the-morning-newsletter-36bb135b5c79?gi=efa029494ba4) tres complet sur cette refonte  
+---  
+---  
+3\. Idees Un vrai dispositif web autour du "monde d'apres"  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/239a4e97-8917-41e7-a1da-9844e6161384.png)  
+---  
+Ah ce fameux « monde d'apres »… Tous les medias ont relaye l'expression et les tribunes de tout poil commencent a s'empiler _ad nauseam_ dans les colonnes des journaux. Peu de sites d'info ont toutefois fait l'effort editorial et design de batir un vrai dispositif editorial ambitieux sur le sujet.   
+  
+On note ainsi le travail du journal espagnol El Pais, qui a interroge 75 penseurs et experts internationaux de bonne tenue. Toutes leurs contributions sont hebergees sur un mini-site dedie, au design assez efficace.   
+---  
+|  -- [Lire le dossier de El Pais](https://elpais.com/especiales/2020/coronavirus-covid-19/predicciones/)  
+---  
+---  
+4\. Millenials Quand la BBC cible les jeunes sur Instagram  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/a85f3c2b-0fbf-4f85-b5a6-8bcc31574186.png)  
+---  
+Surprise : ce compte Instagram appartient bien au groupe BBC. Il s'appelle "BBC News Minute" et s'adresse evidemment a un public jeune en mimant les codes des influenceurs. Derriere les montages flashy, le fond est bien la : on y trouve de  nombreux decryptages et interviews, mais aussi des formats malins comme des Questions/Reponses ou un quiz sur l'anxiete.   
+---  
+|  -- Decouvrir [BBC News Minute sur Instagram](https://www.instagram.com/bbcminute/)  
+---  
+---  
+5\. Services Des calendriers partages avec les lecteurs  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/6b34a9ed-ddfe-46a0-ac81-401cd7e320a4.jpeg)  
+---  
+Les journalistes ont l'habitude de planifier et d'anticiper les grands evenements a l'avance. Et si cet effort etait partage avec les lecteurs, afin de les aider a avoir un coup d'avance sur l'actualite ?   
+  
+C'est dans cette optique que l'equipe "Nouveaux formats" du Wall Street Journal experimente la mise a disposition de plusieurs calendriers partages avec les lecteurs. Les deux premiers sont consacres a l'economie et aux elections americaines, et visent clairement un public de decideurs ou de passionnes. Une enieme preuve qu'un media en ligne peut se rendre utile autrement qu'en publiant des articles…  
+---  
+|  -- [Lire le retour d'experience](https://medium.com/the-wall-street-journal/how-our-new-calendars-help-readers-plan-for-the-news-e4427b62c4d) du WSJ  
+---  
+---  
+6\. Corona-fatigue Le Guardian veut nous faire penser a autre chose  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/b3f21612-63f5-4625-9f48-194134e0f181.jpg)  
+---  
+Selon une [etude du Pew Research Center](https://www.journalism.org/2020/04/29/about-seven-in-ten-u-s-adults-say-they-need-to-take-breaks-from-covid-19-news/), 7 americains sur 10 declarent avoir besoin d'un break d'info a propos du coronavirus. Rien de plus previsible que cette saturation, apres de longues semaines de confinement conjuguees a une actualite mono-maniaque.  
+  
+Pour les medias, pas question d'abandonner le sujet, mais un reequilibrage progressif semble necessaire. The Guardian le fait par exemple assez bien avec son rendez-vous quotidien "The antidote". Chaque jour, cette compilation d'articles est une bouffee d'air garantie sans coronavirus. La selection est par ailleurs vertueuse : elle est basee sur les articles qui ont le meilleur temps de lecture (ramene a la longueur de l'article), afin de privilegier la qualite au clickbait. On en redemande toute l'annee !  
+---  
+|  -- Tous les episodes d'[Antidote a retrouver ici](https://www.theguardian.com/world/series/the-antidote) chez The Guardian  
+---  
+---  
+7\. Kiosque Prisma Media lance une app pour lire tous ses magazines en illimite  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/f3153923-51ac-4685-9060-dcd2f2cbf720.jpg)  
+---  
+Pour 10€ par mois, la nouvelle application Elisa donne acces a l'ensemble des magazines du groupe Prisma (Femme Actuelle, Capital, National Geographic, Neon, Voici...), en illimite.  
+  
+Ce package varie est propose dans une interface claire et efficace... meme si les contenus restent limites a la version PDF des magazines. Bref, pas vraiment  optimal pour une lecture sur ecran mobile. Plus largement, on se demande si l'offre editoriale de Prisma peut vraiment lutter face a des concurrents comme SFR Presse ou Cafeyn, dont les offres sont beaucoup plus fournies (en quotidiens nationaux ou en magazines).  
+---  
+|  -- Testez Elisa [sur iOS](https://apps.apple.com/us/app/elisa/id1484526040) ou [sur Android](https://play.google.com/store/apps/details?id=com.prismamedia.elisa&hl=en_US)  
+---  
+---  
+8\. Soutien Un bel exemple de solidarite entre medias  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/5a3282ca-02a2-424a-82cc-e55cc9a27db9.gif)  
+---  
+A l'occasion de la journee internationale pour la liberte de la presse, le New York Times a lance une campagne sympathique pour inciter ses lecteurs a s'abonner a la presse locale. Un coup de projecteur bienvenu alors que la crise du coronavirus touche de plein fouet les medias locaux.  
+  
+A l'echelle de la France, et si les medias locaux ou independants s'unissaient autour d'une telle campagne d'auto-promotion ? La cause des medias n'est pas tres populaire, mais le contexte exceptionnel peut aussi etre vu comme une opportunite a saisir.  
+  
+On pourrait ainsi imaginer une campagne de publicite -- ce ne sont pas les espaces publicitaires vides qui manquent en ce moment -- ou plus simplement une campagne virale sur les reseaux sociaux. S'il fallait une inspiration :[ la campagne initiee par Julien Pham](https://www.instagram.com/p/B_uL6LboCcy/?utm_source=ig_web_copy_link) sur Instagram pour soutenir les commerces independants...  
+---  
+![](http://gallery.mailchimp.com/653153ae841fd11de66ad181a/images/transparent.gif)  
+---  
+|  -- Voir [la page](https://www.nytimes.com/interactive/2020/us/support-local-journalism.html) du New York Times en soutien a la presse locale americaine  
+---  
+---  
+9\. Autopromo Une nouvelle identite et un nouveau site pour L'Orient-Le Jour  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/cc47d3ad-4c4b-41af-8a82-91bfdb8e7861.jpg)  
+---  
+L'Orient-Le Jour, le plus francophone des journaux libanais, a revele la semaine derniere sa nouvelle identite et son nouveau site web. Une refonte conçue et designee par Datagif 😊  
+  
+Allez jeter un petit coup d'oeil et n'hesitez pas a vous abonner pour soutenir la presse independante libanaise !  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/81344c8e-15f8-40b0-9879-b53108a2c631.png)  
+---  
+|  -- [Decouvrir le nouveau site](https://www.lorientlejour.com/) de L'Orient-Le Jour  
+-- [La refonte expliquee de A a Z](https://www.lorientlejour.com/nouveau/)  
+---  
+Vous recevez cet e-mail car vous êtes inscrit•e via le site   
+[medias.datagif.fr](https://medias.datagif.fr/)   
+  
+🏄‍   
+Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)   
+  
+📪  
+Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)   
+  
+✌️  
+Retrouvez la veille et les projets de Datagif sur   
+[Medium](https://medium.com/Datagif) \- [Twitter](https://twitter.com/datagif) \- [Instagram](https://www.instagram.com/datagif) \- [Datagif.fr](https://datagif.fr)   
+  
+👋   
+[Cliquez-ici](*|UNSUB|*) pour vous désabonner   
+  
+  
+*|IF:REWARDS|* *|HTML:REWARDS|* *|END:IF|*   
+  
+  
+---

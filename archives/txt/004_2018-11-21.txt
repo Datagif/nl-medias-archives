@@ -1,0 +1,98 @@
+---  
+![Médias](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/d060cdc3-f8d4-4207-b9bb-0b8ffda1ca6f.png)  
+La veille innovation et design media par Datagif  
+  
+| *|MC_PREVIEW_TEXT|*  
+---  
+---  
+1\. Longform 30 ans et 20 000 courriers des lecteurs en disent long sur les États-Unis  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/edee5d61-60d9-4acf-ba5b-839f13adebf4.gif)  
+---  
+Sexe, religion et orientation sexuelle font partie des questions les plus posees depuis 30 ans a "Dear Abby", un edito de conseils aux lecteurs distribue par plus de 120 journaux depuis sa creation en 1956. The Pudding a compile et decortique 20 000 lettres pour observer les evolutions des preoccupations des americain•es qui se confient de maniere tres intime, esperant obtenir le conseil qui ameliorera leur situation.  
+  
+D'une masse enorme d'information disparate, le site a reussi le tour de force d'organiser les lettres par sujets dans des graphiques assez eloquents. Chaque bloc qui constitue une part d'un graphique est lie a une lettre, que vous pouvez lire en integralite. Un mix interessant entre donnees macro et histoires uniques.   
+  
+Detail methodologique a noter : The Pudding s'est associe a la solution IBM Watson Studio pour trier ces donnees sur la base d'analyse semantique, pour ensuite les publier en open source.   
+---  
+-- Pour entrer dans l'intimite des americain•es, c'est sur  [The Pudding](https://pudding.cool/2018/11/dearabby/)  
+---  
+2\. Égalite Un bot pour inciter les journalistes a citer plus de femmes  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/16c7d774-4ddc-48c7-87d0-d860ad9e3f77.png)  
+---  
+En voila une bonne idee du Financial Times : le journal britannique a developpe un bot qui alerte automatiquement ses journalistes si un article cite trop d'interlocuteurs masculins.  
+  
+Le sujet est loin d'etre anodin puisque, selon une etude interne, seulement 21 % des citations du FT proviennent actuellement de femmes. Cette sous-representation rejaillit sur l'image du titre, encore largement perçu comme un "journal d'hommes".  
+  
+Pour inflechir cette dynamique, le FT s'est egalement fixe pour objectif d'accroitre la part des tribunes et contributions ecrites par des expertes.  
+---  
+-- Plus d'infos sur l'initiative, [via The Guardian](https://www.theguardian.com/media/2018/nov/14/financial-times-tool-warns-if-articles-quote-too-many-men)  
+---  
+3\. Small talk Quartz veut elever le niveau du debat public avec sa nouvelle appli  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/e1df2744-2968-42db-8ec5-722d5247555e.png)  
+---  
+Le site d'information americain Quartz, connu pour ses innovations editoriales et creatives, lance une nouvelle application mobile qui veut traiter l'actu sous une nouvelle perspective.  
+  
+L'appli aggrege des articles provenant de multiples sources, et met surtout en avant les commentaires d'influenceurs tries sur le volet (comme Richard Branson ou le PDG de Deloitte). À contre-courant des medias qui suppriment les commentaires, Quartz entend "relever" le niveau du debat et incite egalement les lecteurs lambdas a reagir aux articles.  
+  
+Pour ne pas virer au pugilas, la plateforme propose des "garde-fous" : impossible de repondre directement a un autre internaute, et la seule reaction possible est un like. Precision importante : l'appli est surtout moderee par des journalistes, qui selectionnent les meilleurs articles et commentaires. Le meilleur des deux mondes entre media et reseau social ?  
+---  
+-- Telecharger l'appli Quartz sur [l'App Store](https://itunes.apple.com/US/app/id1437569339?mt=8) (pas encore de version pour Android !)  
+---  
+4\. Colors Quelles etaient les couleurs de cette campagne des midterms ?   
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/cfe67510-c3c0-4dc1-964f-045f10b607a8.png)  
+---  
+C'est la question que se pose le Washington Post en publiant une analyse graphique des couleurs choisies par les candidats aux midterms. Le rouge des Republicains et le bleu des Democrates etaient-ils un passage oblige ? Via un dispositif simple de datavisualisations, l'auteur montre notamment que les Democrates ont ete plus aventureux que les Republicains.  
+La thematique interesse aussi Fast Company qui propose un panorama de logos de campagne.  
+---  
+-- Retrouvez les deux articles sur le site de [Washington Post](https://www.washingtonpost.com/graphics/2018/politics/political-logos/?utm_term=.aace0b758dfa#comments) et de [Fast Company ](https://www.fastcompany.com/90263151/the-colors-of-the-midterm-elections-purple-green-and-gold)  
+---  
+5\. Defiance Les Français ont une image plus negative de leurs medias que les autres Europeens  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/7b6f1a00-7641-408c-a993-28cb4944f5ba.gif)  
+---  
+L'etude peut vous plonger dans une grande depression tant le tableau semble noir par moment. La tres complete etude du Pew Research Center fait le point sur l'usage et la perception de differents medias a travers les generations en sondant 8 pays europeens. On en retire de grandes disparites entre generations, entre clivages politiques mais aussi entre pays.  
+  
+Morceaux choisis :  
+  
+● La confiance dans les medias est tres variable selon les pays. En Europe du Nord, les medias sont davantage perçus comme tres importants et l'on a confiance en eux. La France se demarque avec 28 % d'adultes considerant les medias d'information tres importants pour la societe, taux le plus bas parmi les 8 pays etudies.  
+  
+● Les moins de 30 ans ne font pas confiance les yeux fermes aux medias et sont meme globalement plus critiques que les precedentes generations. Ils lisent globalement peu les quotidiens papier mais considerent les titres historiques comme leur principale source d'information.  
+  
+● Les individus sympathisants des mouvements populistes montrent une plus grande defiance envers les medias.  
+  
+● Les Français qui se revendiquent de gauche sont 39 % a trouver les medias importants contre 23 % de ceux qui se revendiquent de droite. Sans surprise, les clivages politiques sont determinants dans le choix des medias consommes.   
+  
+![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/a57f1e5b-d066-45dc-8e0b-78b5f03b38fc.png)  
+  
+● Dans 7 des 8 pays de l'etude, les medias consideres comme les plus fiables sont des medias du service public. France 2 arrive en tete avec 73 % de Français ayant confiance dans la chaine.  
+---  
+-- L'enorme (mais tres interessant) rapport du Pew Research Center est [disponible ici](http://www.journalism.org/2018/05/14/in-western-europe-public-attitudes-toward-news-media-more-divided-by-populist-views-than-left-right-ideology/).  
+---  
+6\. Medias IRL ! Si vous aimez cette newsletter "Medias" vous aimerez aussi notre evenement "L'heure Medias"  
+|  ![](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/b9fee2e5-8c39-418d-9f29-7d77ab81d990.png)  
+---  
+Merci d'avoir scrolle jusqu'ici ! Creatis (la residence des entrepreneurs medias) et Datagif s'associent pour lancer "L'heure Medias", un nouveau format de conferences trimestrielles pour explorer les tendances et usages medias. En s'appuyant sur un benchmark international et l'identification des bonnes pratiques, l'idee est de creuser un sujet pendant 45 mn puis d'engager une discussion avec le public.  
+Pour la premiere edition, c'est de newsletters dont il sera question. La newsletter est de retour et on vous explique pourquoi !   
+---  
+-- Pour assister a L'heure Medias [inscrivez-vous ici ](https://www.eventbrite.fr/e/billets-lheure-medias-1-52669502901?aff=efbeventtix&fbclid=IwAR0sPWW7S8UVratIlbY8mWUNNEgReW5CNRqWkfkw5mzNrP2u9vW4Jn3RGVo)et pour en savoir plus, [c'est par la ](https://medium.com/datagif/datagif-sassocie-%C3%A0-creatis-pour-lancer-un-programme-%C3%A9v%C3%A9nementiel-d%C3%A9di%C3%A9-%C3%A0-l-innovation-m%C3%A9dia-85caabacc042)  
+Vous recevez cet e-mail car vous êtes inscrit•e via le site   
+[medias.datagif.fr](https://medias.datagif.fr/)   
+  
+🏄‍   
+Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)   
+  
+📪  
+Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)   
+  
+✌️  
+Retrouvez la veille et les projets de Datagif sur   
+[Medium](https://medium.com/Datagif) \- [Twitter](https://twitter.com/datagif) \- [Instagram](https://www.instagram.com/datagif) \- [Datagif.fr](https://datagif.fr)   
+  
+👋   
+[Cliquez-ici](*|UNSUB|*) pour vous désabonner   
+  
+  
+*|IF:REWARDS|* *|HTML:REWARDS|* *|END:IF|*   
+  
+  
+---

@@ -1,0 +1,122 @@
+---  
+![Médias](https://gallery.mailchimp.com/42d1f60e448215132ba30db60/images/d060cdc3-f8d4-4207-b9bb-0b8ffda1ca6f.png)  
+La veille innovation et design media par Datagif  
+  
+| *|MC_PREVIEW_TEXT|*  
+---  
+---  
+1\. Refonte Un media local qui a de l'allure  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/cc97dccb-b173-ac84-0a79-439f41e7fbb0.png)  
+---  
+Les medias locaux patissent generalement d'une experience utilisateur rebutante et d'une image poussiereuse. Ce qui n'incite pas forcement les lecteurs a payer...  
+  
+Contre-exemple : le journal americain The Philadelphia Inquirer planche sur une refonte tres prometteuse avec l'agence americaine Upstatement. D'apres les premiers aperçus, l'identite visuelle et l'experience ont ete radicalement repensees. On y entrevoit une identite vibrante, coloree et un flux modulable, pense pour les mobiles. C'est a mille lieues de l'image desuete de la presse locale et ça donne tres envie !   
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/109a1f37-2b14-a34f-2103-4a41f69cf5a3.gif)  
+---  
+|  -- [Decouvrir le teaser](https://upstatement.com/case-study/philadelphia-inquirer/) sur le site de l'agence  
+---  
+---  
+2\. Tracker La cote de popularite de Joe Biden  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/c396e590-8a02-9aba-d3d5-57cd8e37971e.png)  
+---  
+Le media FiveThirtyEight lance son suivi de cote de popularite de Biden. Inaugure en 2017 avec Trump, l'outil agrege differents sondages avec une methodologie elaboree qui pondere la fiabilite de chaque sondeur. Une dataviz tres claire, avec toutefois plusieurs niveaux lectures pour les ferus de politique ou de statistique.  
+---  
+|  -- [Decouvrir le tracker](https://projects.fivethirtyeight.com/biden-approval-rating/) de FiveThirtyEight  
+---  
+---  
+3\. Bitcoin L'art de la pedagogie visuelle  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/bdd1b9cd-84b5-0e60-2de3-38b34fd9134a.gif)  
+---  
+Le bitcoin pose un sacre challenge de pedagogie aux medias mainstream. Pour expliquer clairement cette technologie complexe et ses impacts, le New York Times multiplie les articles visuels.   
+  
+On apprecie particulierement celui-ci, qui fait usage de petites illustrations animees pour expliquer l'impact energetique dementiel du bitcoin. Ou l'on apprend que le reseau mondial consomme plus d'electricite que tout l'Etat de Washington, et 7 fois plus que tous les services de Google. C'est tout de suite plus parlant.  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/b5839b4a-ba53-5abf-ab6d-f447d2e122df.gif)  
+---  
+|  -- [Lire l'article](https://www.nytimes.com/interactive/2021/09/03/climate/bitcoin-carbon-footprint-electricity.html?smid=tw-nytimes&smtyp=cur) du NYT  
+---  
+---  
+4\. Dataviz Le cout de 13 ans de guerre a Gaza  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/b93841de-eee8-a468-d8f3-1565bac4ad64.png)  
+---  
+L'Associated Press publie un long format tres riche sur les repercussions de 13 annees de guerre entre le Hamas et Israel a Gaza.  
+  
+Evolutions des zones sinistrees sur plusieurs annees, cout financiers et cout humain... Le format navigue entre photos, dataviz et animations 3D pour nous immerger dans l'impact de la guerre pour les habitants. Digne du New York Times !  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/d1f9e4a3-e99b-ad82-4e21-cc5eea8aa00a.gif)  
+---  
+|  -- [Decouvrir l'analyse](https://projects.apnews.com/features/2021/gaza-toll-of-war/gaza-toll-by-the-numbers.html) de l'Associated Press  
+---  
+---  
+5\. Detail ProPublia enquete sur les limites du chiffrement de WhatsApp... et glisse des petites animations dans son article en guise de clin d'oeil   
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/983706f6-76af-9f71-fb48-784301435db8.gif)  
+---  
+---  
+|  -- [Lire l'enquete](https://www.propublica.org/article/how-facebook-undermines-privacy-protections-for-its-2-billion-whatsapp-users) sur ProPublica  
+---  
+---  
+6\. Making-of France Inter raconte la composition de son nouveau jingle horaire  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/efa4088e-40fc-c06c-ce37-737959bb8355.jpg)  
+---  
+Comment cree-t-on une sequence de 8 secondes qui definit l'identite sonore d'une station et doit s'integrer parfaitement parmi les musiques presentes a l'antenne ? France Inter y repond avec une petite video passionnante, ou les compositeurs Loik Dury et Christophe Minck racontent notamment avoir reçu un brief disant a peu pres :_ _ "France Inter est n°1, il faut faire du lourd".  
+---  
+|  -- [Decouvrir l'interview](https://twitter.com/franceinter/status/1434577268802834438) en video sur Twitter  
+-- Écouter [l'emission dediee](https://www.franceinter.fr/emissions/pop-n-labo/pop-n-co-le-labo-du-samedi-04-septembre-2021) (a partir de 05:10)  
+---  
+---  
+7\. Tracker De jolies visualisations pour le plan de relance americain  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/ec689002-7809-1fdc-a707-d9fcdd987caa.png)  
+---  
+Suite au plan de relance de 200 milliards de dollars engage par les Etats-Unis, Bloomberg propose des illustrations pour comparer la maniere dont les differents Etats depensent cet argent.  
+  
+On y retrouve differents types de visualisation, avec une direction artistique qui attrape l'oeil et rend le sujet moins aride.  
+---  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/addd5b7a-622d-18c3-088d-08428a4dab3f.png)  
+---  
+|  -- [Consulter les graphiques](https://www.bloomberg.com/graphics/2021-american-rescue-plan-state-money-data/?srnd=premium-europe) de Bloomberg  
+---  
+---  
+8\. Crea Les bonnes idees ne coutent pas forcement cher 💸  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/f04d67b6-a518-7c0d-751b-a56a01e1f57c.png)  
+---  
+En direction artistique, le cout de production n'est pas toujours correle a la qualite ou la creativite. Cette couverture reussie de Bloomberg Businessweek en est une preuve : pas d'achat d'art, juste une bonne idee simple et rapide a executer.   
+---  
+|   
+---  
+---  
+9\. Data Une introduction efficace  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/756a7dc9-e823-109a-6fdd-f200606108b5.png)  
+---  
+Aux Etats-Unis, les Afro-Americains meurent a des taux plus eleves que n'importe quels autres citoyens, a quasi n'importe quel age, rappelle le Marshall Project, media specialise dans le systeme de justice penale americain.  
+  
+Son enquete est notable pour son introduction animee, qui represente le surplus de mortalite sous la forme d'un nuage de points (chaque point representant un deces). Sobre et efficace.  
+---  
+|  -- [Lire l'enquete](https://www.themarshallproject.org/2021/08/30/the-black-mortality-gap-and-a-century-old-document) sur The Marshall Project  
+---  
+---  
+C'est tout pour aujourd'hui ! On se retrouve dans deux semaines  😉  
+|  ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/1967c5ae-262e-378a-5f4f-0bb7938455d4.gif)  
+---  
+Vous recevez cet e-mail car vous êtes inscrit•e via le site   
+[medias.datagif.fr](https://medias.datagif.fr/)   
+  
+🏄‍   
+Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)   
+  
+📪  
+Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)   
+  
+✌️  
+Retrouvez la veille et les projets de Datagif sur   
+[Medium](https://medium.com/Datagif) \- [Twitter](https://twitter.com/datagif) \- [Instagram](https://www.instagram.com/datagif) \- [Datagif.fr](https://datagif.fr)   
+  
+👋   
+[Cliquez-ici](*|UNSUB|*) pour vous désabonner   
+  
+  
+*|IF:REWARDS|* *|HTML:REWARDS|* *|END:IF|*   
+  
+  
+---

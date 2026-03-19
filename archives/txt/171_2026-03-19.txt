@@ -1,0 +1,172 @@
+*|MC_PREVIEW_TEXT|*
+
+͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿
+
+| | [Ouvrir dans le navigateur](*|ARCHIVE|*)  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/f6997594-ee70-e32a-8e76-e170a816444c.png)](*|ARCHIVE|*)  
+---  
+  
+| | | ![Médias](https://newsletter.datagif.fr/ext/datagif/img/medias-v2.png)  
+---  
+  
+| 171  
+---  
+  
+| | La veille innovation et design média par Datagif  
+---  
+  
+| | | ⛷️ Message de service  
+---  
+Gaetan est en vacances, tres certainement en train de lire cette newsletter depuis un telesiege. On ne va pas se mentir : on est a deux doigts de changer tous les mots de passe, refaire la deco du bureau ou changer le logo 👀 pendant qu'il n'est pas la. En attendant son retour, on s'est dit que le meilleur moyen d'occuper Gaetan pendant ses remontees mecaniques, c'etait de lui (et de vous) concocter une veille aux petits oignons. Pas d'edito cette semaine donc, on passe directement aux choses serieuses.  
+  
+| | | Engagement  
+---  
+  
+| 💭  
+---  
+  
+| | Cliquer plutot que commenter  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/56fc5100-ccd4-8ae7-2874-b4095ef7deaf.png)](https://www.derstandard.at/story/3000000310751/ein-regime-im-ueberlebensmodus-leak-zeigt-irans-massive-ueberwachung-im-land)  
+---  
+Le media autrichien Der Standard propose une alternative maligne a la traditionnelle section commentaires. En fin d'article, avant d'entrer dans le debat, les lecteurs peuvent qualifier leur lecture via des boutons associes a des ressentis : "informatif", "utile", "touchant", "amusant" ou un simple _like_. C'est une micro-interaction precieuse car elle permet de creer un lien immediat avec l'audience en recoltant un feedback qualitatif, sans exiger l'effort d'ecriture d'un message complet. Une maniere fluide de valoriser le ressenti des lecteurs tout en nourrissant les donnees de la redaction sur l'impact de ses contenus.  
+[Reagissez au bas de l'article de Der Standard](https://www.derstandard.at/story/3000000310751/ein-regime-im-ueberlebensmodus-leak-zeigt-irans-massive-ueberwachung-im-land)  
+  
+| | | Desinformation  
+---  
+  
+| 🐦  
+---  
+  
+| | **" Grok, est‑ce que c'est vrai ?" : le tracker des fact-checkings sur X**  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/0dbe9875-c461-075d-9912-c4f6aff7e22e.jpg)](https://indicator.media/grok-is-this-true-tracker)  
+---  
+[Indicator](https://indicator.media/), le nouveau media independant specialise dans la desinformation en ligne, lance [un tableau de bord](https://indicator.media/grok-is-this-true-tracker) qui recense quotidiennement **les tweets ayant g enere le plus de demandes de verification aupres de Grok.** Le but ici n'etant pas de verifier ce que dit Grok, mais de presenter les sujets les plus chauds, la reponse mediane du chatbot et la presence eventuelle de Community Notes.  
+  
+Ce qui rend le dispositif interessant, c'est qu'il capte plusieurs phenomenes simultanes. Il donne une tres bonne idee des sujets les plus viraux du jour, peu importe leur veracite. Il prend ainsi le pouls des pires rumeurs qui circulent sur X, car ce sont aussi celles qui suscitent le plus de doutes. Le tableau est a la fois legerement encourageant (meme sur X, tout n'est pas pris pour argent comptant) et profondement deprimant quand on connait [tous les problemes de Grok](https://theconversation.com/grok-est-ce-que-cest-vrai-quand-lia-oriente-notre-comprehension-du-monde-262775).  
+[Consulter le tracker Grok d'Indicator](https://indicator.media/grok-is-this-true-tracker)    
+  
+| | | Le 50/50  
+---  
+Envie d'explorer un theme ?   
+Cliquez sur le tag, tous nos liens sont juste derriere  
+  
+| | | [🏀 sport](https://datagif.fr/liens/?theme=sport)  
+---  
+  
+| | [🗳️ politique](https://datagif.fr/liens/?theme=politique)  
+---  
+  
+| | |   
+---  
+Il y a 15 jours :  
+Une petite faim ? 🤭  
+  
+| | | [🍔 Menu](https://datagif.fr/liens/?feature=menu)  
+   
+---  
+  
+| | [🏆](https://datagif.fr/liens/?feature=menu) [65%](https://datagif.fr/liens/?feature=menu)  
+---  
+  
+| |   
+---  
+  
+| | | [🐝 Societe](https://datagif.fr/liens/?theme=societe)  
+---  
+  
+| | [35%](https://datagif.fr/liens/?theme=societe)  
+---  
+  
+| | | ![](https://newsletter.datagif.fr/ext/datagif/img/newsletter.png) Hey, bonjour !  
+---  
+C'est gratuit. C'est quali. C'est fait avec une certaine attention au detail. Cette newsletter est realisee par [Datagif](http://datagif.fr) pour vous et vos collegues.  
+| [Nouveau*elle ? Abonnez-vous !  ](https://datagif.fr/newsletter-medias/)  
+---  
+  
+| | | Referencement  
+---  
+  
+| 📉  
+---  
+  
+| | **L 'effondrement du trafic des medias tech americains decrypte**  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/ae653300-07ff-61a5-554f-2585545fd601.jpg)](https://futurism.com/artificial-intelligence/google-ai-overviews-media)  
+---  
+[Futurism](https://futurism.com/artificial-intelligence/google-ai-overviews-media) relaie [une etude de l'agence SEO Growtika](https://growtika.com/blog/tech-media-collapse) qui documente l'ampleur du desastre : les 10 principaux sites d'information tech americains (CNET, Wired, The Verge, TechRadar...) **ont perdu en moyenne 58% de leur trafic organique depuis d ebut 2024**. Certains ont chute de plus de 90%. L'etude de Growtika est presentee dans **un long format dataviz efficace**  : tableaux de donnees brutes mois par mois, graphiques comparatifs animes, analyse chronologique fine, conçu pour etre citable par des medias comme Futurism.  
+  
+Si la chute releve certainement de causes multifactorielles, une explication majeure ressort : les effondrements les plus brutaux ont lieu mi-2025, periode qui correspond a l'expansion **des AI Overviews de Google**. Ces resumes automatiques repondent directement dans les resultats de recherche sans necessiter de clic. Les medias specialises dans les guides pratiques sont les plus touches : leurs contenus sont exactement le type de requetes que l'IA peut resumer. La **mont ee en puissance de Reddit** dans les resultats peut aussi expliquer en partie le declin, ainsi que les utilisateurs qui **recherchent directement dans les outils IA** comme ChatGPT.  
+  
+En France, **le d eploiement progressif des AI Overviews a pris du retard** mais ce sera l'occasion de verifier si l'impact est tres lie a cette fonctionnalite precise, ou plus generalement a la montee en puissance de l'IA.  
+[Decouvrir l'etude de Growtika](https://growtika.com/blog/tech-media-collapse)  
+  
+| | | Le lien d'Aurore  
+---  
+Remonter le temps avec Basta!   
+  
+| | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/e9c68c01-64cd-3181-357f-d2fc3da3cceb.png)  
+---  
+  
+| | Une fonctionnalite conçue il y a quelques mois avec Julie, notre designer, vient d'etre mise en ligne sur le [Portail des medias independants de Basta!](https://fra01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fportail.basta.media%2F&data=05%7C02%7Caurore%40datagif.fr%7C23615e651a3448423f2508de84ddbcb5%7C62adcfd6a04b40b79d9d973b6b921f30%7C0%7C0%7C639094285090019269%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=3RMWjByPPkyi6WHiPOwxVvTGwcB%2BI6TB3KpXxJK4%2F%2Fg%3D&reserved=0 "https://fra01.safelinks.protection.outlook.com/?url=https%3a%2f%2fportail.basta.media%2f&data=05%7c02%7caurore%40datagif.fr%7c23615e651a3448423f2508de84ddbcb5%7c62adcfd6a04b40b79d9d973b6b921f30%7c0%7c0%7c639094285090019269%7cunknown%7ctwfpbgzsb3d8eyjfbxb0eu1hcgkionrydwusilyioiiwljaumdawmcisilaioijxaw4zmiisikfoijoitwfpbcisilduijoyfq%3d%3d%7c0%7c%7c%7c&sdata=3rmwjbyppkyi6whipowxvvtgwcb%2bi6tb3kpxxjk4%2f%2fg%3d&reserved=0") : un systeme de navigation par date dans les editions passees, a trouver en bas de la page d'accueil.  
+  Fini la pagination a l'aveugle, les utilisateurs peuvent desormais selectionner un jour precis pour retrouver l'integralite de l'edition telle qu'elle existait alors (edito et selection de liens). Un systeme discret mais qui transforme l'experience d'archive en une veritable machine a remonter le temps de l'info, co-construit avec notre client Nicolas. Ideal pour ceux qui ont manque une edition ou qui souhaitent documenter un moment precis.  
+---  
+| ![](http://gallery.mailchimp.com/653153ae841fd11de66ad181a/images/transparent.gif)  
+---  
+  
+| | | Illustrations  
+---  
+  
+| 🐒  
+---  
+  
+| | L'odyssee illustree de Bili  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/37be8964-5e02-b323-4a0f-9828e4fed889.gif)](https://www.nytimes.com/interactive/2026/03/09/magazine/bili-wildlife-trafficking-illegal-gorilla-trade.html)  
+---  
+Le New York Times explore le trafic de bebes gorilles en suivant le destin de Bili, a travers une enquete portee par des illustrations animees. Le trait de crayon, en mouvement, donne au recit une dimension sensible et transforme ce sujet sombre en une narration visuelle a la fois emouvante et instructive.  
+[Decouvrir le recit visuel](https://www.nytimes.com/interactive/2026/03/09/magazine/bili-wildlife-trafficking-illegal-gorilla-trade.html)  
+  
+| | | Predictions  
+---  
+  
+| 🔮  
+---  
+  
+| | L'information a choix multiples  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/2b2c780f-3a7f-a495-0800-5d4d0bf210a6.png)](https://www.nytimes.com/interactive/2026/03/08/opinion/iran-war-ayatollah.html)  
+---  
+Le New York Times s'attaque aux tensions entre l'Iran et ses voisins a travers un dispositif narratif qui valorise l'hypothese plurielle. En soumettant une serie de scenarii sur le futur de l'Iran a plusieurs experts, le NYT transforme une analyse complexe en un parcours dont le lecteur est le pivot. Nous retenons egalement le chapitrage qui permet de naviguer entre differentes trajectoires proposees, presque comme un recit interactif. Par ailleurs, en structurant ainsi le contenu, on laisse l'audience absorber des enjeux denses a son propre rythme. Un equilibre precieux entre profondeur editoriale et confort d'usage.  
+[Explorer les scenarii du New York Times](https://www.nytimes.com/interactive/2026/03/08/opinion/iran-war-ayatollah.html)  
+  
+| | | Le meilleur lien de l'edition n°170  
+---  
+  
+| | Meta, le grand mechant loup ?  
+---  
+C'est donc le projet Hyperion de Sherwood qui a rafle vos clics : un dossier ou le gigantisme des infrastructures de Meta se cache derriere des petits animaux mignons façon Richard Scarry. Vous avez visiblement apprecie ce decalage entre la douceur des illustrations jeunesse et la realite glaciale des serveurs d'IA.  
+[_(Re)d ecouvrez le conte industriel de Sherwood_](https://sherwood.news/tech/hyperion/)  
+  
+| | | Bonus  
+---  
+Et ça continue, encore et encore  
+🗳️ Seriez-vous un bon maire ? [Testez vos aptitudes a la gestion municipale](https://www.estrepublicain.fr/elections/2026/03/10/seriez-vous-un-bon-maire-faites-le-test?utm_source=adobe&utm_medium=newsletter&utm_campaign=LER_la_matinale_en_franche_comte_&ii=777304c886371e4d73b3b32c0f698c6ebcd242c1aab6ff89b996478bcb369ddb) avec le quiz de L'Est Republicain. 🪖 Reuters decrypte comment [les drones bon marche iraniens redefinissent la guerre aerienne](https://www.reuters.com/graphics/IRAN-CRISIS/DRONES/dwpkyamxqpm/) et compliquent les operations americaines. 🗺️ Les cartographies du [Monde](https://www.lemonde.fr/les-decodeurs/article/2026/03/15/la-carte-des-resultats-des-municipales-au-premier-tour-en-temps-reel_6671322_4355770.html) et du [Figaro](https://www.lefigaro.fr/elections/municipales/municipales-2026-les-resultats-commune-par-commune-en-carte-et-en-direct-20260315) des resultats du premier tour des municipales. ⚖️ SRF met a disposition un [outil interactif pour tester les differentes compositions de noms](https://www.srf.ch/news/schweiz/neues-namensrecht-diese-neuen-freiheiten-erhalten-ehepaare-bei-der-namenswahl) pour les couples en Suisse.    
+  
+| | | Merci d'avoir lu le n°171.  
+---  
+✏️ Un numero prepare, _en toute transparence_ , par Athenais, Lucie, Charly et Aurore. Et comme toujours : vous avez un bon lien, une idee, une question ? Repondez simplement a ce mail 💌 !  
+par  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/4c0f942e-f4cd-d452-0085-366f3f0ffdca.png)](https://datagif.fr)  
+---  
+  
+| | | ![](https://newsletter.datagif.fr/ext/datagif/img/social.png) Retrouvez-nous sur les réseaux  
+---  
+[Medium](https://datagif.medium.com/) [X](https://x.com/datagif) [Bluesky](https://bsky.app/profile/datagif.fr) [Instagram](https://www.instagram.com/datagif/) [Threads](https://www.threads.net/@datagif) [Linkedin](https://www.linkedin.com/company/datagif/) [Datagif.fr](https://datagif.fr/)  
+  
+| | Vous recevez cet e-mail car vous êtes inscrit•e via le site [datagif.fr](https://datagif.fr/newsletter-medias/)Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)  
+👋 [Cliquez-ici](*|UNSUB|*) pour vous désabonner  
+---

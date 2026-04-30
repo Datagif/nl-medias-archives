@@ -1,0 +1,201 @@
+*|MC_PREVIEW_TEXT|*
+
+͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿
+
+| | [Ouvrir dans le navigateur](*|ARCHIVE|*)  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/cc8cdb13-950e-d9dd-7345-f47e6a3f3592.png)](*|ARCHIVE|*)  
+---  
+  
+| | | ![Médias](https://newsletter.datagif.fr/ext/datagif/img/medias-v2.png)  
+---  
+  
+| 174  
+---  
+  
+| | La veille innovation et design média par Datagif  
+---  
+  
+| | | Le rapport Alloncle : 400 pages pour rater l'essentiel  
+---  
+70% des transformations echouent a cause du facteur humain ignore (cf McKinsey qui le dit depuis des annees). Ce rapport l'ignore superbement : fusions, suppressions de chaines, recherche d'economies, mais zero reflexion sur ce que represente l'audiovisuel public pour les Français, pour la creation, pour l'information independante. Et zero pour les marques, qui y perdront des espaces d'expression que le prive ne remplacera pas.  
+  
+Maintenant, pas le choix. C'est encore aux citoyens et au debat public de s'emparer du sujet, de demonter point par point les pseudo-arguments du rapport. Ça va etre passionnant, ne le cachons pas. Et les annonceurs ont interet a peser dans la balance, l'ecosysteme mediatique qui contribue a leur visibilite est en jeu !  
+  
+| | | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/3897d30a-856e-f08d-bbb3-ab869dcdb75a.png)  
+---  
+  
+| [Gaetan Duchateau](mailto:gaetan@datagif.fr)  
+---  
+Lead @Datagif  
+  
+| | | Curation  
+---  
+  
+| 💎  
+---  
+  
+| | Le design au service du propos  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/aa15a050-52b0-80e8-075d-84606d88c553.gif)](https://www.itsnicethat.com/?nicefeed&item=862)  
+---  
+C'est un parti pris a double tranchant, mais qui est bien traite ici : l'adoption de codes sociaux pour valoriser le contenu editorial. Avec "The Nice Feed", le media It's Nice That installe un espace de recommandation et de veille directement inspire d'Instagram, place strategiquement en haut de sa page d'accueil. L'integration d'un flux regulierement mis a jour permet de dynamiser la curation sans alourdir l'interface, tout en repondant aux nouveaux usages de consultation rapide et un probable besoin de focus. Une maniere efficace de transformer une selection de liens en un objet vivant et immediatement identifiable.  
+[Parcourir le flux de It's Nice That](https://www.itsnicethat.com/)  
+  
+| | | Next gen  
+---  
+  
+| 🌉  
+---  
+  
+| | La nouvelle app du San Francisco Standard dopee a l'IA redefinit les bases  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/a37b5487-ddff-65e6-94b5-79ecc390bb93.jpg)](https://www.linkedin.com/posts/griffingaffney_readers-asked-and-we-listenedthe-san-francisco-ugcPost-7448073953996382208-zRUE/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABdzgMB8tuiV-L04wKnl1UTgYxK-E1FmPQ)  
+---  
+Nous assistons au deploiement d'applications media d'un nouveau genre. Le San Francisco Standard a [beneficie d'une subvention](https://www.niemanlab.org/2026/02/the-san-francisco-standard-gets-150k-to-build-an-ai-powered-news-app/) issue d'un programme soutenu par OpenAI et Microsoft avec comme enjeu clair : placer l'IA au coeur du fonctionnement de l'appli. Pas une fonctionnalite, pas un onglet, mais tout le systeme. L'appli en est donc le resultat et vise a concurrencer serieusement des solutions de contournement deja trouvees par le public (au hasard, n'utiliser que leur agent IA prefere) et ainsi **rapatrier une audience pr ecieuse**.   
+  
+Parmi les fonctionnalites :  
+• personnalisation du contenu (classique)  
+• notifications hyperlocales basees sur la geoloc (a voir si c'est utile)  
+• archive interactive avec contexte instantane alimente par l'IA (ah oui, ça on aime)  
+• et surtout : revue totale de ce qui est "frais" pour l'utilisateur, a tester !  
+  
+Avec ce type d'app, il faut donc voir une direction assez forte de**ma itrise du contenu dans un environnement ferme**. On peut s'attendre dans un avenir proche a voir se multiplier les outils IA dans des environnements cloisonnes, au service du contenu qui l'alimente. Ce qui renforce les usages forts et la preference vers des espaces uniques.   
+[Tester l'appli du SF Standard (compte US uniquement)](https://apps.apple.com/us/app/the-san-francisco-standard/id6447247127)  
+  
+| | | Le 50/50  
+---  
+Envie d'explorer un theme ?   
+Cliquez sur le tag, tous nos liens sont juste derriere  
+  
+| | | [🗺️ carte](https://datagif.fr/liens/?feature=carte)  
+---  
+  
+| | [🫵 interactif](https://datagif.fr/liens/?feature=interactif)  
+---  
+  
+| | |   
+---  
+Il y a 15 jours :  
+Il est temps de vous mettre au vert.  
+  
+| | | [🏙️ ville](https://datagif.fr/liens/?theme=ville)  
+   
+---  
+  
+| | [🏆](https://datagif.fr/liens/?theme=culture)  [67%](https://datagif.fr/liens/?theme=ville)  
+---  
+  
+| |   
+---  
+  
+| | | [🤒 sante](https://datagif.fr/liens/?theme=santé)  
+---  
+  
+| | [33%](https://datagif.fr/liens/?theme=santé)  
+---  
+  
+| | | ![](https://newsletter.datagif.fr/ext/datagif/img/newsletter.png) Alo ui cer mail  
+---  
+Si vous avez la ref, vous faites partie des lecteur*rices sur*es qui vont pouvoir transferer cette newsletter a tous vos collegues.  
+| [Premiere lecture ? L'abo gratuit c'est par ici](https://datagif.fr/newsletter-medias/)  
+---  
+  
+| | | Transparence  
+---  
+  
+| 🤝  
+---  
+  
+| | La clarte editoriale comme pacte de confiance  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/00d7aa4f-a7c3-2608-00f8-b38705ca1449.png)](https://bonpote.com/la-nouvelle-ligne-editoriale-chez-bon-pote/)  
+---  
+Mi-avril, Bon Pote a publie un article expliquant l'evolution de sa ligne editoriale, desormais structuree autour de trois piliers : Écologie, Democratie et Numerique. Sur le fond, rien de tres surprenant pour les fideles du media, c'est davantage une formalisation de ce qu'il pratiquait deja. Mais ce qui merite d'etre salue, c'est la demarche elle-meme : **rendre explicite ce qui guide les choix editoriaux**, expliquer pourquoi certains sujets sont couverts, d'autres non, et assumer publiquement ses positionnements, qu'ils soient scientifiques, politiques ou ethiques.  
+  
+C'est assez rare dans le paysage mediatique pour etre souligne. La plupart des redactions fonctionnent avec une ligne implicite que personne ne formule vraiment, ce qui laisse souvent les lecteur*ices dans le flou sur les biais ou intentions du media. C'est un geste de transparence editoriale qui renforce la confiance, et une pratique que l'on aimerait voir se generaliser.   
+[Decouvrir la nouvelle ligne editoriale de Bon Pote](https://bonpote.com/la-nouvelle-ligne-editoriale-chez-bon-pote/)  
+  
+| | | Pedagogie  
+---  
+  
+| 💡  
+---  
+  
+| | PerThirtySix : quand deux devs nous expliquent la tech  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/1765fd7a-2d3e-d661-f5c3-d593713c5520.png)](https://perthirtysix.com/how-the-heck-do-qr-codes-work)  
+---  
+[PerThirtySix](https://perthirtysix.com/) est un projet singulier porte par deux ingenieurs, Rob Moore et Shri Khalpada, entre le media et le blog, a l'intersection de la data et du design. Ce n'est pas tout a fait le successeur direct du regrette [FiveThirtyEight](https://fivethirtyeight.com/), le site n'etant pas axe sur la politique, mais on y retrouve le gout pour les bonnes datavisualisations, notamment en sport (le terme "Per 36 minutes" renvoie d'ailleurs aux stats de basket).  
+  
+On vous en parle pour leur serie _How The Heck_ ("Comment diable..."), commencee par un article pour expliquer [comment marchent les QR codes](https://perthirtysix.com/how-the-heck-do-qr-codes-work) mais enrichi recemment d'explications sur [le fonctionnement du GPS ](https://perthirtysix.com/how-the-heck-does-gps-work)ou encore [Shazam](https://perthirtysix.com/how-the-heck-does-shazam-work). À chaque fois, une technologie du quotidien est expliquee de maniere interactive a destination de lecteurs curieux mais non techniques, avec differents niveaux de lecture.  
+  
+Saluons donc bien haut ces devs qui prennent le temps de la pedagogie visuelle, en "clarifiant sans simplifier" comme ils l'ecrivent eux-memes, et avec une obsession pour la qualite des interactions.  
+[Decouvrir comment diable marche Shazam dans leur dernier episode](https://perthirtysix.com/how-the-heck-does-shazam-work)  
+  
+| | | Fidelisation  
+---  
+  
+| 🥕  
+---  
+  
+| | S'ancrer dans la routine des lecteurs  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/df85659b-e870-61ea-706f-a3906d216ed7.png)](https://www.repubblica.it/salute/2026/04/08/news/dimagrire_velocemente_salute_dieta-425267932/)  
+---  
+La Repubblica transforme un dossier sante sur la perte de poids en parcours quotidien : **un programme jour par jour** , recettes, conseils nutritionnels, contenus penses pour accompagner le lecteur dans sa demarche. Ce qui retient l'attention, ce n'est pas tant le fond mais le dispositif, car en structurant un sujet ponctuel comme un outil de suivi recurrent, le media s'installe dans la routine de ses lecteurs. C'est une strategie de rendez-vous classique, qui, **bien ex ecutee, transforme une visite unique en habitude**. Un modele a garder en tete.  
+[Decouvrir comment La Repubblica transforme un dossier en rendez-vous quotidien](https://www.repubblica.it/salute/2026/04/08/news/dimagrire_velocemente_salute_dieta-425267932/)  
+  
+| | | Le meilleur lien de l'edition n°173  
+---  
+  
+| | Vous allez donc jusqu'a la section bonus ?   
+---  
+Contre toute attente, c'est notre section bonus qui a rafle la mise : le reportage photo du NYT Magazine sur ces jeunes qui vivent sans smartphone a ete le lien le plus clique de la derniere edition. Un clic d'autant plus surprenant qu'il se cachait tout en bas de la newsletter. Vous lisez donc jusqu'au bout, et rien que pour ça : merci. 🫶  
+[_(Re)d ecouvrez_ le reportage photo](https://www.nytimes.com/interactive/2026/03/31/magazine/young-people-without-smartphones-photo.html)  
+  
+| | | Abonnement  
+---  
+  
+| 💰  
+---  
+  
+| | Le Washington Post parie sur le « prix dynamique »  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/14740f43-ee7f-e9af-d67f-c55d74c98844.png)](https://www.reddit.com/r/Journalism/comments/1rtv0kl/over_60000_washington_post_readers_reportedly/)  
+---  
+L'information a commence a bruisser il y a un petit mois, lorsque le Washingtonian a revele que [le journal de Jeff Bezos utilise des algorithmes pour individualiser ses tarifs d'abonnement](https://washingtonian.com/2026/03/12/the-washington-post-is-using-reader-data-to-set-subscription-prices-how-does-that-work/). Nous avons prefere attendre que la poussiere retombe pour analyser l'ampleur du phenomene : il ne s'agit pas de simple « yield management » a la SNCF, mais d'une veritable tarification de surveillance. En croisant votre assiduite de lecture, votre localisation et vos donnees de consommation, l'IA determine le prix maximum que vous etes pret a payer. Sur Reddit, la grogne monte dans les communautes anglophones et francophones (notamment sur [r/privacy](https://www.reddit.com/r/privacy/comments/1rxb8y4/the_washington_post_is_using_reader_data_to_set/?tl=fr), [r/Journalism](https://www.reddit.com/r/Journalism/comments/1rt5peh/the_washington_post_is_using_reader_data_to_set/) et [r/ABoringDystopia](https://www.reddit.com/r/ABoringDystopia/comments/1ru4k87/jeff_bezos_owned_washington_post_readers_were/)), ou l'on s'inquiete de voir l'acces a l'info devenir aussi opaque qu'un algorithme Uber.  
+  
+Au-dela de la technique, c'est [une derive majeure](https://www.la-croix.com/international/quand-l-algorithme-du-washington-post-fixe-le-prix-de-labonnement-a-la-tete-du-client-20260323?sharingId=69ef7c4ab0672151fa0da292) que pointe La Croix : peut-on encore parler de mission d'information quand le tarif est fixe a la discretion d'une « boite noire » ? Si cette experimentation s'avere rentable, elle pourrait rapidement devenir la norme pour les titres de presse en quete de revenus, au risque de fragiliser durablement le contrat de confiance avec leurs lecteurs.  
+[Parcourir le format interactif du Straits Times](https://www.straitstimes.com/multimedia/graphics/2026/04/modern-dating-singapore/index.html?shell)  
+  
+| | | Bonus  
+---  
+Quelques liens pour la route  
+🔍 [Un scrollytelling edifiant de CNN](https://edition.cnn.com/interactive/2026/03/world/expose-rape-assault-online-vis-intl/) sur les groupes en ligne ou des hommes echangent sur le viol de leurs compagnes.  
+  
+🤖 Que revele-t-on sur sa vie privee quand on parle a une IA ? Vous le saurez dans [ce format interactif du Straits Times](https://www.straitstimes.com/multimedia/graphics/2026/04/ai-chatbots-privacy-risk/index.html).  
+  
+📱 [L'Echo refond son app mobile](https://www.linkedin.com/posts/nicolas-becquet-2b28b754_lecho-se-dote-dune-nouvelle-app-et-ugcPost-7452286784157409280-oASV/) et nous explique sa demarche.  
+  
+🕵️ [StreetPress forme gratuitement](https://www.streetpress.com/sujet/1765990816-enqueter-extreme-droite-streetpress-lance-formation-gratuite-journalistes) les journalistes a enqueter sur l'extreme droite : appel a candidatures jusqu'au 15 mai.  
+  
+📺 ARTE lance une nouvelle chaine info sur Youtube : [Arte Info](https://www.youtube.com/channel/UClBcxPzCuj98sMcB-gPCMmw)  
+  
+📣 Dernier appel pour [candidater au prix](https://www.festival-infolocale.fr/prix-fil) du Festival de l'info locale ! (avec Datagif dans les coulisses du prix 👀)  
+  
+| | | Merci d'avoir lu le n°174.  
+---  
+✏️ Un numero prepare par Athenais, Lucie, Aurore Charly, et Gaetan. À dans 15 jours pour de nouvelles aventures dans le monde du design d'info !  
+par  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/cd5c9692-2a94-4593-f8cc-af63f5425400.png)](https://datagif.fr)  
+---  
+  
+| | | ![](https://newsletter.datagif.fr/ext/datagif/img/social.png) Retrouvez-nous sur les réseaux  
+---  
+[Medium](https://datagif.medium.com/) [X](https://x.com/datagif) [Bluesky](https://bsky.app/profile/datagif.fr) [Instagram](https://www.instagram.com/datagif/) [Threads](https://www.threads.net/@datagif) [Linkedin](https://www.linkedin.com/company/datagif/) [Datagif.fr](https://datagif.fr/)  
+  
+| | Vous recevez cet e-mail car vous êtes inscrit•e via le site [datagif.fr](https://datagif.fr/newsletter-medias/)Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)  
+👋 [Cliquez-ici](*|UNSUB|*) pour vous désabonner  
+---

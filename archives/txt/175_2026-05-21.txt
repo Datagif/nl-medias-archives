@@ -1,0 +1,204 @@
+*|MC_PREVIEW_TEXT|*
+
+͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿
+
+| | [Ouvrir dans le navigateur](*|ARCHIVE|*)  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/14c81c16-8a7c-4229-f059-bf11c5ae442f.png)](*|ARCHIVE|*)  
+---  
+  
+| | | ![Médias](https://newsletter.datagif.fr/ext/datagif/img/medias-v2.png)  
+---  
+  
+| 175  
+---  
+  
+| | La veille innovation et design média par Datagif  
+---  
+  
+| | | La preference : votre valeur refuge  
+---  
+On vit un moment charniere. La matiere premiere qu'est le contenu d'un editeur se trouve decoupee, retraitee, exploitee... et pas necessairement par ses auteurs. Reddit qui tente de [tuer son site mobile](https://www.linkedin.com/feed/update/urn:li:activity:7460224973958348800/) au profit de son app. Des archives de medias visualisees par des particuliers. Un trafic quasi inexistant depuis les IA vers les sources originales. Les indices concordent. Une guerre de la preference et de la souverainete fait rage sur de multiples fronts : cette edition en explore quelques-uns.  
+  
+| | | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/3897d30a-856e-f08d-bbb3-ab869dcdb75a.png)  
+---  
+  
+| [Gaetan Duchateau](mailto:gaetan@datagif.fr)  
+---  
+Lead @Datagif  
+  
+| | | GEO  
+---  
+  
+| 🤖  
+---  
+  
+| | IA et medias : Le Parisien tente sa carte, Le Monde rafle la mise, Google calme le jeu  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/7df03e5b-e048-af75-8a11-a6c55915deaa.jpg)](https://larevuedesmedias.ina.fr/chatgpt-ia-chatbots-audiences-medias-le-monde)  
+---  
+Nous avons selectionne trois signaux convergents cette quinzaine sur la place que prennent les IA conversationnelles comme ChatGPT dans la chaine d'acces a l'information. 🔌 D'abord, Le Parisien est, a notre connaissance, le premier media français a publier [son application dans le ChatGPT Store](https://chatgpt.com/apps/le-parisien/asdk_app_69b16708fe4c81919e52e384a0733ccd), l'annuaire d'apps lance par OpenAI en 2025. Attention : ce n'est pas un chatbot ou moteur de recherche interne totalement maitrise par le journal, c'est bien un connecteur qui permet d'utiliser Le Parisien comme source privilegiee dans une discussion et d'afficher aussi les articles du Parisien sous forme de cartes a leur charte. Mais le modele reste libre de synthetiser, completer, ou parfois inventer : Le Parisien apporte une source, pas un perimetre. La nuance sera sans doute difficile a saisir pour le lecteur, mais c'est une experimentation interessante. Cote techno, ces "Apps" reposent sur les GPTs d'OpenAI, donc on n'est pas sur un protocole plus ouvert comme MCP, mais difficile de prevoir ce qui va s'imposer. 📊 Ensuite, [la Revue des Medias de l'INA](https://larevuedesmedias.ina.fr/chatgpt-ia-chatbots-audiences-medias-le-monde) a publie une etude tres complete sur le trafic sortant des IA conversationnelles vers les sites de presse. Le constat est saisissant : depuis la France, Le Monde capte a lui seul 25,9 % des redirections, soit plus d'un clic sur quatre. Le Guardian arrive deuxieme (8,8 %), Reuters troisieme (3,3 %). Les deux premiers, partenaires editoriaux d'OpenAI, raflent donc plus d'un tiers du trafic. Et 9 medias seulement concentrent plus de la moitie du traffic. Le service public, la presse independante et les titres regionaux sont eux tres marginalises. Ce que demontre cette etude, c'est l'effet "_winner takes it all_ " des accords bilateraux : la visibilite semble etre plus quelque chose de negocie qu'un merite editorial. Au final, l'apport de trafic reste cependant modeste pour tout le monde car les plateformes etudiees ne rapportent qu'environ 12 millions de visites annuelles depuis la France (dont 10 millions pour ChatGPT seul), rien a voir avec les milliards de visites amenees par Google. 📜 Enfin, Google vient de publier [son premier guide officiel](https://developers.google.com/search/docs/fundamentals/ai-optimization-guide) pour opitmiser son positionnement dans ses fonctionnalites de recherche IA integrees. Le message est assez clair : Google considere que le GEO (Generative Engine Optimization) et le AEO (Answer Engine Optimization) ne sont pas de nouvelles disciplines, mais du bon vieux SEO. Le guide signale au passage l'inutilite du fichier llms.txt, des techniques de "chunking" et des modifications de contenus specifiques IA, qui n'apporteraient, rien selon eux, dans ses systemes. Pour Google, ce qui compte reste identique a ses conseils de referencement habituels : contenu unique, expertise reelle, structure technique saine. Pour les medias, le sous-texte reste quand meme limpide : il n'y a pas de raccourci magique pour exister dans les reponses des IA, et la qualite editoriale reste le levier principal. À condition, peut-etre, d'avoir signe le bon contrat…  
+| ![](http://gallery.mailchimp.com/653153ae841fd11de66ad181a/images/transparent.gif)  
+---  
+  
+| | | Recyclage  
+---  
+  
+| 📊  
+---  
+  
+| | Retraiter des donnees issues de medias grace a l'IA  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/31c9a6a6-42b4-e534-81ed-616c6f0ebdb6.jpg)](https://blinddates.rory.codes/)  
+---  
+Les outils sont la, les donnees aussi. Alors, qu'est-ce qu'on attend ?  
+  
+Un developpeur fan du Guardian [a analyse 15 ans de rendez-vous a l'aveugle](https://blinddates.rory.codes/) publies par le journal : extraction via API, retraitement par deux LLM, et le resultat donne une lecture fascinante des tendances accumulees depuis 2009. Meme demarche pour l'Eurovision : Giuseppe Sollazzo [a decortique 70 ans de paroles](https://puntofisso.net/eurovision/) sous tous les angles possibles, langues, themes, genres, evolutions.  
+  
+Ces deux projets ont ete realises par des particuliers, le week-end, pour le plaisir, ce qui rend la chose encore plus eloquente.  
+  
+**Mais ce qui manque dans les deux cas, c 'est exactement ce qu'un media apporte** : une patte editoriale, un angle assume, un storytelling visuel qui embarque l'audience. La donnee brute est neutre par nature ; c'est l'editeur qui lui donne une couleur, une intention, une raison d'etre lue.  
+  
+Chaque support de contenu assis sur des annees de publications structurees dispose d'une mine d'or inexploitee, capable de renforcer la preference de son audience et de generer des formats originaux a moindre effort. Ce qui manque peut-etre, c'est la confiance ou l'envie de s'approprier ces outils pour tester, explorer. Mais la question se pose : est-ce a des particuliers de le faire a leur place ?  
+  
+| | | Le 50/50  
+---  
+Envie d'explorer un theme ?   
+Cliquez sur le tag, tous nos liens sont juste derriere  
+  
+| | | [🎲 3D](https://datagif.fr/liens/?feature=3d)  
+---  
+  
+| | [👀 tracker](https://datagif.fr/liens/?format=tracker)  
+---  
+  
+| | |   
+---  
+Il y a 15 jours :  
+Des passionne*es de geographie par ici ?  
+  
+| | | [🗺️ carte](https://datagif.fr/liens/?feature=carte)  
+   
+---  
+  
+| | [🏆](https://datagif.fr/liens/?theme=culture)  [65%](https://datagif.fr/liens/?feature=carte)  
+---  
+  
+| |   
+---  
+  
+| | | [🫵 interactif](https://datagif.fr/liens/?feature=interactif)  
+---  
+  
+| | [35%](https://datagif.fr/liens/?feature=interactif)  
+---  
+  
+| | | ![](https://newsletter.datagif.fr/ext/datagif/img/newsletter.png) Bienvenue  
+---  
+Heeey, vous arrivez suite a un transfert de mail ? Bienvenue, et ne manquez pas le n° 176 !  
+| [Bisouuuu je mabone ✈️](https://datagif.fr/newsletter-medias/)  
+---  
+  
+| | | Contrat de confiance  
+---  
+  
+| 🤝  
+---  
+  
+| | La pari de presenter ses valeurs avant de vendre ses articles  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/329335da-678a-1695-bb0d-b7bf9cafded8.png)](https://krautreporter.de/mitglied-werden)  
+---  
+C'est une demarche audacieuse que propose le media allemand Krautreporter avec sa page d'accueil, conçue comme une veritable vitrine de ses valeurs plutot que comme un flux d'actualites. Avant de valoriser ses derniers papiers, la page prend le temps de presenter l'equipe, sa charte editoriale et ses differents formats, tout en offrant trois articles gratuits pour convaincre par l'exemple.  
+  
+Ce choix s'avere particulierement pertinent pour un media independant, sans publicite, qui cherche avant tout a susciter l'adhesion. C'est une approche que nous croyons tres efficace selon le positionnement, et que nous avons d'ailleurs mise en application pour l'un de nos clients - a decouvrir bientot !  
+[Decouvrir la demarche de Krautreporter](https://krautreporter.de/mitglied-werden)  
+  
+| | | Interactif  
+---  
+  
+| 🧾  
+---  
+  
+| | L'inflation dans votre panier   
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/74c302d4-ab8c-f91c-eea8-9d920859a932.jpg)](https://www.morgenpost.de/interaktiv/article411741866/interaktiver-warenkorb-zeigt-inflation-im-supermarkt.html)  
+---  
+Pour illustrer l'inflation autrement que par des courbes et des pourcentages, le Berliner Morgenpost propose de composer son propre panier parmi plus d'une centaine de produits dans un long format. À l'issue des courses, un ticket de caisse affiche de combien elles ont augmente depuis le Covid, la guerre en Ukraine ou le conflit au Moyen-Orient. Une façon maligne de rendre l'inflation concrete, portee par une execution simple et soignee.  
+[Faire ses courses et decouvrir l'addition](https://www.morgenpost.de/interaktiv/article411741866/interaktiver-warenkorb-zeigt-inflation-im-supermarkt.html)  
+  
+| | | Extraball  
+---  
+  
+| 🐬  
+---  
+  
+| | Le WaPo tente une analogie qui detonne  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/23a64968-4817-0ce1-8357-3f39b2ee5702.gif)](https://www.washingtonpost.com/business/interactive/2026/how-rising-prices-ricochet-strait-hormuz-your-gas-tank/)  
+---  
+La question est simple : c _omment la hausse des prix ricoche depuis le d etroit d'Ormuz jusqu'a votre reservoir d'essence ?_  
+  
+C'est le "ricoche" qui a du faire lever un sourcil en conference de redaction, avec un moment 'eureka' dans la foulee. Et si on racontait cette histoire de repercussions en illustrant le tout avec un flipper geant ? Le decor : le detroit d'Ormuz et les USA. La balle : le fil conducteur sur tout l'impact qu'a le blocus. Bim bam boum, au defilement les items s'allument. Inutile de dire qu'il est plus _marrant_ de consulter l'article que de le lire vraiment. Mais si ça permet au plus grand nombre de s'interesser au sujet, c'est deja une petite victoire, non ?  
+[Comme une boule de flipper qui roule chez le Washington Post](https://www.washingtonpost.com/business/interactive/2026/how-rising-prices-ricochet-strait-hormuz-your-gas-tank/)  
+  
+| | | Le meilleur lien de l'edition n°174  
+---  
+  
+| | Le Nice Feed a eu votre clic  
+---  
+Le lien le plus clique de la derniere edition, c'est le "Nice Feed" d'It's Nice That, ce flux de curation en page d'accueil inspire des codes Instagram. Preuve que vous aussi, vous etes sensibles aux bonnes idees UX quand elles servent le contenu. 🎨  
+[(Re)decouvrez le Nice Feed](https://www.itsnicethat.com/?nicefeed)  
+  
+| | | Suivi  
+---  
+  
+| 🇺🇸  
+---  
+  
+| | Trump et la tentation autoritaire - partie 2  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/45521b10-f3bf-9010-3844-9a13b488e479.png)](https://www.nytimes.com/interactive/2026/05/13/opinion/iran-war-democracy-america.html)  
+---  
+Dans l'[edition n°163](https://mailchi.mp/datagif/medias-newsletter-15724096?e=d786f56e1a) de cette newsletter, nous partagions l'analyse du comite editorial du New York Times qui passait le mandat de Donald Trump au crible de [12 indicateurs d'erosion democratique](https://www.nytimes.com/interactive/2025/10/31/opinion/trump-autocracy-democracy-report.html). Six mois plus tard, le quotidien americain remet sa matrice a jour pour mesurer precisement l'evolution de la trajectoire engagee. Toujours appuye sur ce systeme de curseurs tres visuel, ce nouveau volet documente les faits marquants et les recents arbitrages politiques qui expliquent le mouvement de ces indicateurs. Une mise en perspective rigoureuse et indispensable pour suivre la fragilisation des institutions outre-Atlantique.  
+[Consulter la mise a jour des indicateurs du New York Times](https://www.nytimes.com/interactive/2026/05/13/opinion/iran-war-democracy-america.html)  
+  
+| | | Thermometre  
+---  
+  
+| ⚽️  
+---  
+  
+| | Avant les buts, les degres  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/d4c2a308-f968-f68f-0e3d-427a6ae31254.png)](https://elpais.com/clima-y-medio-ambiente/2026-05-14/un-mundial-de-futbol-en-plena-crisis-climatica-como-afectara-el-calor-a-tu-seleccion.html?event_log=oklogin)  
+---  
+La Coupe du Monde 2026 se jouera en pleine crise climatique, et El Pais s'empare du sujet avec une dataviz qui suit la progression des equipes dans le tournoi en y associant, match par match, **la probabilit e de depasser 26 degres**, le seuil a partir duquel la chaleur devient dangereuse pour les joueurs.  
+  
+Dallas, Houston, Miami : certaines villes affichent 100% de risque des les premiers tours, quand d'autres comme Seattle ou San Francisco restent sous la barre des 1%. Ce qui a retenu notre attention, c'est d'**avoir choisi le tableau des phases finales comme support** : un objet que les fans scrutent match apres match, detourne ici pour raconter le rechauffement climatique ville par ville.  
+[Consulter le tableau (climatique)](https://elpais.com/clima-y-medio-ambiente/2026-05-14/un-mundial-de-futbol-en-plena-crisis-climatica-como-afectara-el-calor-a-tu-seleccion.html?event_log=oklogin)  
+  
+| | | Bonus  
+---  
+Plein de nouveaux onglets a ouvrir  
+🛢️ Quels produits subissent l'inflation a cause de la guerre en Iran ? [Reuters l'explique en illustrations](https://www.reuters.com/graphics/IRAN-CRISIS/OIL-CONSUMERS/akpeyynmypr/). 🚢 Iran toujours, [le New York Times reconstitue la route d'un tanker petrolier](https://www.nytimes.com/interactive/2026/05/07/world/middleeast/oil-tanker-strait-hormuz-iran-war.html) en _scrollytelling_. 📱 Le directeur produit du Telegraph [devoile la refonte de la page d'accueil](https://www.linkedin.com/posts/mathiasdouchet_launching-a-new-homepage-is-always-a-big-share-7455584100473782273-3xcj/) de son application mobile. 🎠 [Shaad](https://www.instagram.com/shaad/) est un magazine presente sur un compte Instagram via des carrousels de copies d'ecran, un format assez surprenant on va dire. 🎸 Un dossier du New York Times Magazine sur [les 30 plus grands songwriters americains encore vivants](https://www.nytimes.com/interactive/2026/magazine/greatest-american-songwriters-alive.html), en portraits et interviews videos. 🌑 [Le Parisien presente en video](https://www.linkedin.com/feed/update/urn:li:activity:7460297348674650112/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABa9COsBR5X9B2g7__2XoiysSEtAl8FMbf4) leur simulateur maison pour la prochaine eclipse solaire. 🔤 "Comme un ecrivain peu inspire" : [The Pudding a analyse](https://pudding.cool/2026/05/similes/) la predictibilite de milliers de comparaisons utilisees dans les romans. 📚 Litterature encore, The Guardian dresse [leur top 100 des meilleurs romans de tous les temps](https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time) et [interroge ses lecteurs](https://www.theguardian.com/books/2026/may/12/tell-us-what-are-your-top-three-novels-of-all-time).  
+  
+💐 Le NYT compile [les meilleurs conseils de meres](https://www.nytimes.com/interactive/2026/05/08/well/family/mom-advice-mothers-day.html) en format interactif illustre. Et bonne fete a toutes les mamans qui nous lisent !  
+  
+📺️ Et specifiquement pour la maman de Charly, semi-pro des jeux tele, [voici un nouveau _gameshow_ lance par LCP](https://www.youtube.com/watch?v=ygIvCfdR-20) : QE, "la 1ere emission qui augmente votre Quotient Economique".  
+  
+| | | Merci d'avoir lu le n°175.  
+---  
+✏️ Un numero prepare par Athenais, Lucie, Charly, Aurore et Gaetan. Et pour les plus attentif*ves, on a decale l'edition d'une semaine car on savait tres bien que vous n'alliez pas ouvrir vos mails la semaine derniere ✌️  
+par  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/cd5c9692-2a94-4593-f8cc-af63f5425400.png)](https://datagif.fr)  
+---  
+  
+| | | ![](https://newsletter.datagif.fr/ext/datagif/img/social.png) Retrouvez-nous sur les réseaux  
+---  
+[Medium](https://datagif.medium.com/) [X](https://x.com/datagif) [Bluesky](https://bsky.app/profile/datagif.fr) [Instagram](https://www.instagram.com/datagif/) [Threads](https://www.threads.net/@datagif) [Linkedin](https://www.linkedin.com/company/datagif/) [Datagif.fr](https://datagif.fr/)  
+  
+| | Vous recevez cet e-mail car vous êtes inscrit•e via le site [datagif.fr](https://datagif.fr/newsletter-medias/)Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)  
+👋 [Cliquez-ici](*|UNSUB|*) pour vous désabonner  
+---

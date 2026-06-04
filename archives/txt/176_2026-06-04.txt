@@ -1,0 +1,212 @@
+*|MC_PREVIEW_TEXT|*
+
+͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿
+
+| | [Ouvrir dans le navigateur](*|ARCHIVE|*)  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/d3d8ba7e-818c-2522-e9e0-de40744ecf72.png)](*|ARCHIVE|*)  
+---  
+  
+| | | ![Médias](https://newsletter.datagif.fr/ext/datagif/img/medias-v2.png)  
+---  
+  
+| 176  
+---  
+  
+| | La veille innovation et design média par Datagif  
+---  
+  
+| | | Digitaliser son contenu : non, ça n'est pas un abandon du print  
+---  
+Nous travaillons en ce moment sur un sujet passionnant : la digitalisation d'un magazine print. Ce client souhaite etendre son audience et actuellement, en ligne c'est surtout le pdf et quelques articles qui sont exploites. Mais derriere cette intention se cache une question : quel sera le role du print une fois le projet numerique lance ? Et nous savons que les usages different. Un magazine web est une nouvelle ouverture aupres de publics n'ayant pas la possibilite de mettre la main sur un numero imprime. Il ne s'agit pas de creer un transfert d'usage, mais tout simplement une ouverture.   
+Maintenant nous attaquons une deuxieme question sous-jacente : les process d'ecriture et de publication vont-ils evoluer ? Reponse une prochaine fois !  
+  
+| | | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/3897d30a-856e-f08d-bbb3-ab869dcdb75a.png)  
+---  
+  
+| [Gaetan Duchateau](mailto:gaetan@datagif.fr)  
+---  
+Lead @Datagif  
+  
+| | | Temoignage  
+---  
+  
+| 🎤  
+---  
+  
+| | El Pais partage 50 temoignages de lecteur*ices a l'occasion de son 50e anniversaire  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/d7d6d66c-e05c-c3be-c21e-866eb7904ff2.jpeg)](https://elpais.com/aniversario/2026-05-17/un-futuro-por-escribir.html?mid=DM682855&bid=148698826)  
+---  
+On vous en parlait dans le [numero 169](https://mail.google.com/mail/u/1/?ui=2&ik=89cf7a2a45&view=lg&permmsgid=msg-f:1857543620216031899) de notre newsletter : El Pais lançait une operation participative en invitant ses lecteur*ices a raconter leur histoire avec le media. Eh bien le resultat a ete publie \- et quel travail !  
+  
+Le media alterne entre des portraits photo et video, et meme des pastilles audio. Le rendu est impeccable, et temoigne de la qualite de la relation entretenue avec les abonne*es.   
+[Decouvrir les temoignages des lecteur*ices d'El Pais](https://elpais.com/aniversario/2026-05-17/un-futuro-por-escribir.html?mid=DM682855&bid=148698826)  
+  
+| | | Homepage  
+---  
+  
+| 🏠︎  
+---  
+  
+| | The Verge rafraichit sa page d'accueil  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/33147b63-3a9a-db8c-8f2d-5acd22662af6.jpeg)](https://www.theverge.com/bulletin/914842/the-next-evolution-of-the-verges-homepage-is-here)  
+---  
+Nous avions parle de la refonte radicale de The Verge en 2022 dans [notre edition #92](https://datagif.fr/newsletter-medias/?campaign_id=23e5267381) : une homepage-fleuve façon fil Twitter a la direction artistique tres marquee. Quatre ans plus tard, le media remet le chantier sur la table et explique sa demarche dans un long billet.  
+  
+Leur constat est honnete : le paysage a enormement change depuis, et **leurs lecteurs ont tous des habitudes diff erentes**. La page d'accueil unique façon flux avait du mal a contenter tout le monde, et surtout, le defilement chronologique faisait disparaitre trop vite les articles de fond. La reponse structurelle est finalement **plus classique** : a gauche, une selection editoriale tres magazine avec les articles importants du jour ; a droite, le flux d'actus conserve, mais avec la possibilite de le basculer sur un flux personnalise selon ses interets.  
+  
+Ce qu'on peut retenir sur ce retour a un modele plus sage :  
+  
+🖥️ Pas de "mobile-first" assume : **The Verge soigne ses utilisateurs desktop** , et l'application mobile est annoncee mais pas encore la.  
+  
+⚙️ Cote technique, ils avaient deja abandonne en 2023 leur CMS maison Chorus au profit de WordPress VIP, [un changement de cap notable](https://www.axios.com/2023/07/18/vox-media-chorus).  
+  
+💬 Une demarche evolutive et transparente, avec la [creation d'un blog dedie aux evolutions produit](https://www.theverge.com/verge-product-updates), des commentaires ouverts (pas forcement tendres, comme lors de la premiere refonte), et un groupe de recherche constitue d'abonnes associes aux decisions et aux tests.  
+  
+🎯 Face aux bouleversements actuels, The Verge a bien compris**  qu'il faut desormais construire une audience et non plus juste capter du trafic.** Toute leur demarche produit, de cette page d'accueil a leur prochaine experimentation sur la federation, vise a transformer des visiteurs de passage en abonnes qui reviennent sur le site web.  
+[Suivre les evolutions produit de The Verge](https://www.theverge.com/verge-product-updates)  
+  
+| | | Le 50/50  
+---  
+Envie d'explorer des contenus etrangers ?   
+Cliquez sur le tag, tous nos liens sont juste derriere  
+  
+| | | [🇩🇪 allemand](https://datagif.fr/liens/?language=allemand)  
+---  
+  
+| | [🇪🇸 espagnol](https://datagif.fr/liens/?language=espagnol)  
+---  
+  
+| | |   
+---  
+Il y a 15 jours :  
+Resultat serre (comme la finale de la Ligue des champions ❤️💙) !  
+  
+| | | [👀 tracker](https://datagif.fr/liens/?format=tracker)  
+   
+---  
+  
+| | [🏆](https://datagif.fr/liens/?feature=3d)  [53%](https://datagif.fr/liens/?format=tracker)  
+---  
+  
+| |   
+---  
+  
+| | | [🎲 3D](https://datagif.fr/liens/?feature=3d)   
+---  
+  
+| | [47%](https://datagif.fr/liens/?feature=3d)  
+---  
+  
+| | | ![](https://newsletter.datagif.fr/ext/datagif/img/newsletter.png) Hey hey  
+---  
+Bienvenue ! vous arrivez suite a un transfert de mail ? Merci aux collegues. Maintenant vous pouvez vous abonner !  
+| [ Excellente idee 💡](https://datagif.fr/newsletter-medias/)  
+---  
+  
+| | | Portail  
+---  
+  
+| 🎾   
+---  
+  
+| | Le magazine PodMust monte au filet pour Roland Garros  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/66acc793-af9f-844a-d235-2729cf6e67c1.jpg)](https://podmust.com/roland-garros-2026/)  
+---  
+C'est un evenement annuel, connu, anticipable, et PodMust l'a bien compris. Le magazine de podcasts a cree une page-portail dediee au tournoi edition 2026, rassemblant une selection choisie de podcasts de tennis, avec des episodes en haut du classement si vous ne savez pas par ou commencer. La page joue le jeu du direct, avec les resultats en temps reel pour ne rien manquer pendant une ecoute.   
+  
+Bonus malin : pour le public qui decouvrira le media pendant cet evenement, un concours sur la base d'un bon vieux Pong permet de remporter 3 mois decouverte a la version premium.   
+  
+**-> À retenir pour une marque **: creer une page carrefour pour un evenement, rassembler du contenu thematique selectionne et hierarchise, proposer une opportunite de fidelisation ✅  
+[Explorer la page de PodMust](https://podmust.com/roland-garros-2026/)  
+  
+| | | Bande-dessinee  
+---  
+  
+| 🗯️  
+---  
+  
+| | Le quotidien invisible des aidants seniors à Singapour   
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/37150873-0863-e3f4-bee7-103c29ce875b.png)](https://www.straitstimes.com/multimedia/graphics/2026/05/senior-caregivers/index.html?shell)  
+---  
+Le Straits Times a suivi sept aidants seniors qui prennent soin d'autres seniors a Singapour, a l'heure ou le pays s'apprete a devenir une societe hyper-vieillissante. Au defilement, le long format reconstitue en bande dessinee le quotidien d'une partie d'entre eux heure par heure : on voit leurs foyers, le temps qui defile, les gestes repetes pour leurs proches malades, les levers aux aurores, les taches menageres, et pour certains une vie professionnelle a maintenir en parallele.  
+  
+Les emplois du temps, mis cote a cote, donnent a voir l'ampleur d'une charge mentale et physique qui s'etire pour certains de 3h30 du matin jusqu'a minuit. Ce parti pris illustre pour raconter ces vies nous a beaucoup plu, car il donne a ces portraits une intimite que les donnees seules ne pourraient pas resumer.  
+[Decouvrir leur histoire](https://www.straitstimes.com/multimedia/graphics/2026/05/senior-caregivers/index.html?shell)  
+  
+| | | Le lien de Maxime, directeur conseil  
+---  
+Qu'est ce que ça changerait si on vivait dans une simulation ?  
+  
+| | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/a0a4476b-f81a-7baa-3797-2913b081d299.png)  
+---  
+  
+| | Rien. Mais ça n'en rend pas moins [l'enquete de Loic Hecht](https://arenes.fr/livre/la-simulation/) passionnante et derangeante. Pourquoi ? Deja, la quete initiale de trouver les deux milliardaires de la tech qui financeraient des recherches sur le sujet est vite mise de cote. À la place, _La simulation_ nous plonge dans une exploration singuliere des notions de realite et de conscience. La forme largement inspiree du gonzo rend la traversee des passages obligatoires par la philosophie et surtout la physique plus facile et meme fun. Tout cela en evitant habilement tout ce qui pourrait ressembler a de la theorie du complot. On en ressort soit en ayant juste passe un bon moment, soit pourquoi pas avec une nouvelle grille de lecture… Quant a savoir si nous sommes des algorithmes : 🤷‍♂️.  
+---  
+  
+| | | L'audio ecrit  
+---  
+  
+| 🎧  
+---  
+  
+| | Spotify a deux doigts d'inventer l'ecriture  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/592d6e26-10ce-88c1-467d-e0773315ecd2.jpg)](https://newsroom.spotify.com/2026-05-26/articles-magazine-test-launch/)  
+---  
+Plus serieusement, Spotify se positionne a present comme une plateforme multi-formats. Apres le renfort video devenu incontournable pour les podcasts, voici les articles long format.   
+  
+Pour l'instant a l'essai avec une poignee de medias partenaires, cette nouveaute a le merite de donner quelques indications claires :  
+  
+• Spotify se positionne comme ecosysteme global (conforme a la strategie de centralisation que tout support adopte) et renforce son developpement info / storytelling, au-dela de la musique.  
+• Cote utilisateur, c'est malin : on sait pertinemment que les publics choisissent leur support (audio, video, texte...) et ici ils peuvent donc acceder a tout au meme endroit.  
+• Et ça permet de rattraper les utilisateurs decourages par un episode audio trop long pour eux.  
+• Enfin, quand un episode de podcast est travaille, notamment sur les formats longs, il existe a priori dans le process une version ecrite, pas toujours exploitee : l'effort est donc ici acceptable.  
+[En savoir plus dans la newsroom de Spotify](https://newsroom.spotify.com/2026-05-26/articles-magazine-test-launch/)  
+  
+| | | Le meilleur lien de l'edition n°175  
+---  
+  
+| | Le rapport de Google a rafle la mise  
+---  
+C'est le premier guide officiel de Google pour optimiser son site web pour les fonctionnalites d'IA dans la recherche Google qui vous a le plus intrigue. On comprend, on partage les memes preoccupations que vous !  
+[(Re)decouvrez le guide de Google](https://developers.google.com/search/docs/fundamentals/ai-optimization-guide?hl=fr)  
+  
+| | | Coaching  
+---  
+  
+| 🏃‍♀️‍➡️  
+---  
+  
+| | 20 km de Bruxelles : la RTBF analyse votre course avant et apres  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/a2c41fbe-4b0c-ec23-3d8c-77657b572652.jpg)](https://www.rtbf.be/article/20-km-de-bruxelles-voici-les-zones-les-plus-difficiles-du-parcours-selon-votre-profil-11727027)  
+---  
+La cellule Decrypte de la RTBF a produit deux formats distincts autour des 20 km de Bruxelles qui forment un bon exemple de strategie de contenu autour d'un evenement sportif.  
+  
+🔙 [Le premier, publie avant la course,](https://www.rtbf.be/article/20-km-de-bruxelles-voici-les-zones-les-plus-difficiles-du-parcours-selon-votre-profil-11727027) exploite les traces GPS de quelques 2000 coureurs de l'edition 2025 pour identifier les zones de difficulte selon votre profil. C'est du **contenu utile et anticipatoire** : on s'adresse au participant pour l'aider a preparer son epreuve, avec une analyse segmentee et personnalisee.  
+  
+🔜 [Le second, publie des les resultats connus](https://www.rtbf.be/article/votre-recap-perso-des-20-km-de-bruxelles-ou-vous-situez-vous-par-rapport-aux-autres-participants-11733095), est **un r ecapitulatif egalement personnalise** ou il suffit d'indiquer son dossard, façon _Spotify wrapped_ , pour pouvoir comparer sa course avec les autres participants. Evidemment c'est un exercice de style maintenant assez classique, **tr es efficace en terme de partage et de viralite,** mais qui se prete facilement au sujet.  
+[Decouvrir le recap personnalise chez RTBF Decrypte](https://www.rtbf.be/article/votre-recap-perso-des-20-km-de-bruxelles-ou-vous-situez-vous-par-rapport-aux-autres-participants-11733095)  
+  
+| | | Merci d'avoir lu le n°176.  
+---  
+✏️ Un numero prepare par Athenais, Lucie, Charly, Aurore, Maxime et Gaetan.   
+  
+📢 Appel a temoins : vous avez le mondial de foot en tete ? Envoyez-nous vos bons liens, on prepare une selection !  
+par  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/cd5c9692-2a94-4593-f8cc-af63f5425400.png)](https://datagif.fr)  
+---  
+  
+| | | ![](https://newsletter.datagif.fr/ext/datagif/img/social.png) Retrouvez-nous sur les réseaux  
+---  
+[Medium](https://datagif.medium.com/) [X](https://x.com/datagif) [Bluesky](https://bsky.app/profile/datagif.fr) [Instagram](https://www.instagram.com/datagif/) [Threads](https://www.threads.net/@datagif) [Linkedin](https://www.linkedin.com/company/datagif/) [Datagif.fr](https://datagif.fr/)  
+  
+| | Vous recevez cet e-mail car vous êtes inscrit•e via le site [datagif.fr](https://datagif.fr/newsletter-medias/)Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)  
+👋 [Cliquez-ici](*|UNSUB|*) pour vous désabonner  
+---

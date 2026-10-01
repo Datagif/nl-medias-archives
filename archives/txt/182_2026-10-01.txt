@@ -1,0 +1,156 @@
+*|MC_PREVIEW_TEXT|*
+
+͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿
+
+| | [Ouvrir dans le navigateur](*|ARCHIVE|*)  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/8e887a37-b4b2-73c9-9306-33dfd382ef23.png)](*|ARCHIVE|*)  
+---  
+  
+| | | ![Médias](https://newsletter.datagif.fr/ext/datagif/img/medias-v2.png)  
+---  
+  
+| 182  
+---  
+  
+| | La veille innovation et design média par Datagif  
+---  
+  
+| | | Une semaine de conferences, notre selection  
+---  
+La semaine derniere, nous etions presents a la Nantes Digital Week, a la fois en auditeurs et en speakers, selon les moments. Une partie de l'equipe de [Datagif](http://datagif.fr) a rejoint les collegues du groupe [Province_](http://province.fr) pour animer une table ronde sur l'attention, un atelier sur l'accessibilite, et j'ai egalement anime la table ronde avec les finalistes du [prix du Festival de l'info locale](https://festival-infolocale.fr/prix-fil), qui se deroulait dans le cadre de la NDW. Un sacre programme, riche en rencontres, echanges, et partages, dont on vous resume une selection dans cette edition speciale. Si je devais retenir un concept cle de tous mes echanges : un produit editorial est en construction permanente. Un chantier d'erreurs et d'essais, qui s'auto-ajuste au fur et a mesure des resultats. Une exploration constructive qui permet d'affuter sa strategie et ses outils. Et dans tous les cas, c'est essentiel d'etre bien accompagne. _Ha!_ , comme dirait Denis B. !  
+  
+| | | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/3897d30a-856e-f08d-bbb3-ab869dcdb75a.png)  
+---  
+  
+| [Gaetan Duchateau](mailto:gaetan@datagif.fr)  
+---  
+Lead @Datagif  
+  
+| | | Gagner l'attention  
+---  
+  
+| 🫵  
+---  
+  
+| | Bataille de l'attention : comment exister a l'heure de l'IA et des algos  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/aa57bc45-81f2-6087-7b43-a1a428dadad6.jpg)](https://www.linkedin.com/feed/update/urn:li:activity:7509195269033361408/)  
+---  
+Nous avons echange au MediaCampus Audencia SciencesCom a Nantes lors d'une conference animee par Estelle Prusker, aux cotes d'Émilie Houdou, Nicolas Couvret et Romain Poisblaud. Une vaste question, qui prend racine dans des echanges que l'on a pu avoir avec nos clients : « a quoi bon produire du contenu si les algos et l'IA decident de tout ? ». Eh bien justement, **il est plus que temps de se focaliser sur ce qui engendrera chez vos publics cibles une attention constructive**.  
+  
+Alors que notre attention est de plus en plus sollicitee, comment exister en tant que marque ? Que ce soit par la selection du bon point de contact (plutot que de se disperser), par le choix de la bonne histoire qui declenche quelque chose (plutot que d'attendre que ça se fasse tout seul) ou par la structuration de l'information (plutot que de laisser l'audience choisir au hasard), tout concorde pour remettre ce sujet pas tout a fait neuf sur le devant de la scene face aux outils IA. Ces outils sont justement la pour nous aider a organiser, trier, mais attention a la production : [comme l'a rappele Émilie](https://www.linkedin.com/feed/update/urn:li:activity:7508413664027348992/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B7DjTLJYYRuSu1FjTjpHTIw%3D%3D), 41 % des publications LinkedIn de plus de 250 mots auraient ete generees par un LLM entre avril et juin 2026. Les plateformes, LinkedIn en tete, desavantagent desormais les contenus generiques, souvent produits par IA. Et au-dela des plateformes, ce sont aussi les audiences qui sont sensibles au contenu "humain".  
+  
+De notre cote, nous avons defendu une idee simple : il y a deux façons de gagner l'attention, la capter ou la meriter. **Le design d 'information** joue la seconde carte, a travers quatre leviers que sont le design emotionnel, la hierarchisation visuelle, le design anti-chaos et l'architecture de l'information. [On vous le raconte dans ce post](https://www.linkedin.com/feed/update/urn:li:activity:7509195269033361408/).   
+  
+Comment ne pas aller dans le sens des plateformes qui jouent sur le FOMO (fear of missing out) et proposent des flux de comptes non suivis ? Comment emerger dans ce flot continu ? Pour ne pas surcharger le flux et ne pas rajouter du bruit au bruit, une des reponses est dans la qualite plutot que la quantite. Quel angle unique une marque peut-elle apporter ? Quelle valeur son contenu apporte-t-il a l'audience ciblee ? Quel service cela engendre-t-il ? Et au milieu d'un ensemble charge, la coherence est indispensable. Votre audience navigue sur plusieurs canaux : c'est deja dur d'etre en concurrence avec les autres, sans y ajouter une concurrence avec soi-meme.  
+Le sujet vous parle ? On peut continuer la discussion par mail !  
+  
+| | | Accessibilite  
+---  
+  
+| 📐  
+---  
+  
+| | **L 'accessibilite, un reflexe a integrer des la conception**  
+---  
+| ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/971a187d-b192-a4be-2b00-3d4a7fa76ce7.jpg)  
+---  
+À l'invitation de Pierre Martin, directeur de **MyDigitalSchool** , et avec nos tres sympathiques collegues de **Digital Garden** , nous avons anime un **atelier consacr e a l'accessibilite numerique**. Son ambition : rendre le sujet concret, donner des reperes simples, outiller les participants et faire de l'accessibilite un reflexe dans les projets a venir. Car un contenu n'est reellement publie que si chacune et chacun peut le consulter, le comprendre et y interagir avec la meme autonomie. Une image sans alternative textuelle, un contraste insuffisant, une video non sous-titree, un bouton sans intitule clair ou un parcours impossible au clavier peuvent exclure une partie du public, souvent sans que les equipes qui produisent les contenus ne s'en rendent compte. En d'autres termes **ce que vivent des millions d 'internautes **(1 personne sur 6 d'apres l'OMS)**face a un site mal conçu, c'est comme essayer de manger une soupe avec des baguettes : le meme repas… mais pas les memes couverts**. À partir de **tests concrets** sur des sites web et d'une grille d'auto-diagnostic reutilisable, les participants ont appris a reperer les obstacles les plus frequents : structure des titres, alternatives aux images et aux medias, zoom, formulaires… Ces observations s'appuient sur quatre principes simples : une information doit etre perceptible, une interface utilisable, un contenu comprehensible et une technologie robuste avec des outils d'assistance. L'enjeu n'etait pas de former des auditeurs en une seance de 2h30 ni de produire un audit exhaustif, mais d'enclencher une demarche. La question a conserver, avant chaque publication ou evolution d'un site : **qui risque de ne pas pouvoir acc eder a cette information, et que pouvons-nous changer pour l'eviter ?**  
+[Bonus : le manuel pratique de l'UNESCO pour ameliorer l'accessibilite des medias](https://www.unesco.org/fr/articles/30-facons-dont-les-medias-peuvent-ameliorer-laccessibilite)  
+  
+| | | ![](https://newsletter.datagif.fr/ext/datagif/img/newsletter.png) Bienvenue  
+---  
+Premiere lecture ? Cette newsletter editee par l'agence [Datagif](http://datagif.fr) parle de design d'information, en s'appuyant sur l'univers mouvant et dynamique des medias  
+| [ C'est gratuit, tous les 15 j dans ma boite mail](https://datagif.fr/newsletter-medias/)  
+---  
+  
+| | | Automatisation  
+---  
+  
+| 🤖  
+---  
+  
+| | cukr.city : 20 agents IA pour tenir un media sous les bombes  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/c8bf5f71-2d74-c46a-7ea7-7701ce8ee12f.jpg)](https://dw.cukr.club/talk)  
+---  
+C'etait l'une des interventions la plus marquante du Festival de l'info locale. À Soumy, en Ukraine, Dmytro Tishchenko et l'equipe de [cukr.city](https://cukr.city/) font fonctionner un media sans developpeur, sans analyste, sans responsable financier, sans temps libre et sans droit a l'erreur. L'equipe gere elle-meme serveurs et materiel pour rester en ligne.  
+  
+Plus qu'un site, cukr.city est un ecosysteme : un site, quatre reseaux sociaux, un cafe, une boutique et un magazine, portes par 25 personnes et 794 donateurs. L'un d'eux resume : « Un don regulier est ma façon de compenser ma propre passivite ».  
+  
+Pour exister, **l 'equipe s'appuie sur une vingtaine d'agents IA **: anti-spam, resumes, agenda, aide a la redaction et a l'analyse des posts, tableaux de bord sur les textes qui convertissent le mieux ou les publicites qui cliquent le plus. Plutot qu'un assistant unique qui fait tout mais moyennement, **la r edaction a cree des specialistes**. Chaque semaine, les agents sont audites avec une question simple, « qu'est-ce qui vous a agace ? », et les reponses nourrissent leurs instructions. Et chaque trimestre, les agents ont une routine d'analyse de l'usage, pour optimiser les couts.  
+  
+![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/325d22ac-0599-95a1-ea58-8662bbdcb193.jpg)  
+  
+Sur le contenu, les regles sont claires : celui qui appuie sur « publier » reste responsable des erreurs ; **aucune photo ni vid eo generee **; et une double verification systematique sur les sujets touchant aux enfants et a la guerre. Car, comme l'a rappele Dmytro Tishchenko : « quelqu'un qui se reveille au bruit d'une explosion n'a pas besoin qu'un bot le lui annonce ».  
+  
+Enfin, les heures liberees par les agents se remplissent tres vite : Dmytro souligne l'importance de se fixer des priorites.  
+[La passionnante presentation de Curk](https://dw.cukr.club/talk/)  
+  
+| | | Reseaux sociaux  
+---  
+  
+| 👀  
+---  
+  
+| | Mission de service public ou strategie de presence ?  
+---  
+| ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/a3bbd807-6f41-b314-74f8-86826706367c.jpg)  
+---  
+Deux logiques radicalement differentes se sont croisees sur la meme scene du FIL. Pour le Departement d'Ille-et-Vilaine, la question n'est pas d'occuper le terrain mais de remplir une mission. Comme l'a souligne Benjamin Teitgen, **on ne choisit pas forc ement de s'informer sur un sujet peu attrayant**, et pourtant le Departement estime necessaire que le public le soit. Et cela change tout dans la façon de produire, notamment quand le volume n'est pas vecu comme tres positif.  
+  
+Le Departement **mise donc sur la sobri ete et sur la video perenne**, dont l'information reste valable un, deux ou trois ans plus tard, en distinguant contenus pratiques, pedagogiques ou de valorisation selon les supports. Ces contenus serviciels doivent en revanche etre sponsorises pour atteindre leur public. Et pas question de dependre uniquement des reseaux : **podcasts et newsletters reviennent en force** , car une partie de la population **a besoin de ma itriser son rythme d'information**. Avec ce voeu en conclusion : « _Je r eve que les reseaux redeviennent sociaux_ ».  
+  
+À l'oppose, Lea Bons a presente la strategie de volume et de presence du groupe EBRA : 9 titres, 10 a 15 contenus originaux par jour, demultiplies par la multidiffusion pour gagner en visibilite sur TikTok et Instagram. **Chaque journaliste ma itrise toute la chaine**, du script a la publication. La logique est celle d'un entonnoir : diffuser beaucoup, puis resserrer progressivement sur moins de contenus, plus qualitatifs. Cote monetisation, Facebook rapporte, YouTube reste difficile a aller chercher, et TikTok comme Instagram servent surtout la notoriete.  
+  
+Un point met tout le monde d'accord : parler des gens, ça marche !  
+  
+| | | Rappel  
+---  
+Vous faites quoi, deja, chez Datagif ?  
+Si vous avez besoin de structurer ou trier vos contenus, recentrer vos efforts aupres de vos publics car vous ne savez plus a qui vous vous adressez et pourquoi... vous pouvez nous contacter. Notre coeur d'activite, [c'est le design d'info.](https://datagif.fr/) La mise en forme de vos contenus, leur interface, qui valorise votre expertise aupres de vos publics qui ne vous attendent pas forcement au bon endroit...   
+  
+| | | Morceaux choisis  
+---  
+  
+| 🎤  
+---  
+  
+| | Quelques enseignements un peu en vrac  
+---  
+| ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/5a901978-8555-44a5-e213-6f8fe678a89a.gif)  
+---  
+🤝 Collaborations avec les createurs de contenu : ces derniers ne se considerent pas comme des medias et se decrivent plutot comme des « producteurs de recit ». La ou un editeur cherche souvent l'audience la plus large possible, eux visent l'audience la plus ciblee possible, et leur parole porte parfois davantage que celle des emetteurs institutionnels.  
+  
+📍 Être sur le terrain, ça change tout : montrer que les editeurs sont la au contact des audiences renforce fortement l'adhesion de fond.  
+  
+👮‍♂️ Grace a l'IA, dupliquer des contenus a la volee est devenu un probleme de pillage. La course juridique est lancee, mais ça ne suffit pas. Un sujet porte notamment par Florent Rimbert de [l'APIG](https://www.alliancepresse.fr/).  
+  
+🔍 Nicolas Camier de Basta! est revenu sur [le portail des medias independants](https://portail.basta.media/), sur lequel Datagif a [travaille](https://datagif.fr/projet/basta/) : c'est une grande reussite de rassembler des contenus de qualite, choisis a la main, que l'audience perçoit comme un service. Un modele a repliquer !  
+  
+🎛️ Alessandro Massi, de la solution marketing [Opper](https://www.opper.io/), avec qui nous collaborons pour certains clients, a partage son retour d'experience sur la montee en puissance de dashboards plus reactifs et cibles.  
+  
+⏳ Sophie Gourmelen, presidente du groupe EBRA, a eu cette phrase tres juste : "_On est pass e de web-first au contenu-first. La temporalite n'est plus le seul critere si on veut creer du contenu singulier a forte valeur ajoutee qui cree de l'engagement._"  
+  
+🚀 Faire, tester, explorer : l'immobilite est un danger. Ça ne veut pas dire partir dans tous les sens, mais plutot de suivre ses forces, ce qui distingue d'un concurrent, et d'ameliorer brique par brique le produit. Que ça soit la forme, que ça soit les outils, ou encore les supports : une chose a la fois, en capitalisant sur ce qui a fonctionne.   
+  
+| | | Merci d'avoir lu cette edition speciale.  
+---  
+Une edition preparee par Athenais, Lucie, Aurore, Charly et Gaetan.  
+  
+Chez Datagif, on accompagne nos clients sur le design de leur contenu. Leur mise en forme, leur structuration, et l'interface dans laquelle vos audiences les capteront. Si vous avez des remarques sur ces sujets, ou si vous avez des questions : ecrivez-nous ! on adore !  
+  
+Et un dernier mot : comme vous l'avez compris, un projet editorial est voue a evoluer par petites touches. Cette newseltter va dans les prochaines semaines elle-aussi beneficier de quelques changements. À suivre :)   
+par  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/cd5c9692-2a94-4593-f8cc-af63f5425400.png)](https://datagif.fr)  
+---  
+  
+| | | ![](https://newsletter.datagif.fr/ext/datagif/img/social.png) Retrouvez-nous sur les réseaux  
+---  
+[Medium](https://datagif.medium.com/) [X](https://x.com/datagif) [Bluesky](https://bsky.app/profile/datagif.fr) [Instagram](https://www.instagram.com/datagif/) [Threads](https://www.threads.net/@datagif) [Linkedin](https://www.linkedin.com/company/datagif/) [Datagif.fr](https://datagif.fr/)  
+  
+| | Vous recevez cet e-mail car vous êtes inscrit•e via le site [datagif.fr](https://datagif.fr/newsletter-medias/)Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)  
+👋 [Cliquez-ici](*|UNSUB|*) pour vous désabonner  
+---

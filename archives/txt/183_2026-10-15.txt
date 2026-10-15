@@ -1,0 +1,171 @@
+*|MC_PREVIEW_TEXT|*
+
+͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿
+
+| | [Ouvrir dans le navigateur](*|ARCHIVE|*)  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/07e9f4f4-a4ff-2bf2-0642-c02c9131a7a8.png)](*|ARCHIVE|*)  
+---  
+  
+| | | ![Datagif](https://newsletter.datagif.fr/ext/datagif/img/datagif.png)  
+---  
+  
+| 183  
+---  
+  
+| | La veille stratégie et design média  
+---  
+  
+| | | Ah mais vous n'etes pas qu'une newsletter ?  
+---  
+Cette newsletter que vous etes pres de 6000 a lire tous les 15 jours existe depuis 8 ans deja ! Elle est nee de l'envie de partager le haut du panier de notre veille en design d'information, avec un prisme media / presse tres fort, puisque c'est la ou l'on voyait le plus d'innovation. En 8 ans, la newsletter a evolue plusieurs fois : par son design, par ses outils annexes ([notre inventaire de liens](https://datagif.fr/liens), par exemple), par ses interactions, mais aussi en coulisses, par des explorations de notre part.   
+  
+Le changement que l'on applique cette semaine en est la continuite. Nous conservons notre axe fort de partage d'innovation dans le design de l'information, mais nous changeons le nom de cette newsletter : **Datagif** , tout simplement. Parce qu'au bout de 8 ans, nous estimons avoir entendu de trop nombreuses fois certain*es de nos lecteur*rice*s s'etonner de decouvrir que derriere cette newsletter, il y a Datagif, une agence qui travaille pour de multiples clients sur des problematiques de strategie et design de l'info. Alors voila, le nom change, la promesse elle ne bouge pas : vous partager ce qui a retenu notre attention ces derniers jours.   
+  
+| | | ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/3897d30a-856e-f08d-bbb3-ab869dcdb75a.png)  
+---  
+  
+| [Gaetan Duchateau](mailto:gaetan@datagif.fr)  
+---  
+Lead @Datagif  
+  
+| | | Retour d'experience  
+---  
+  
+| 🎙️  
+---  
+  
+| | Creer une newsletter par hasard et en faire un pilier de son offre ensuite  
+---  
+| ![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/ed266ed7-c274-f835-b17f-ae28843d7a9a.jpg)  
+---  
+On explore un bloc un peu different : au fil de nos rencontres avec des createur*rice*s de contenu, on voit se dessiner des parcours et des objectifs. Aujourd'hui, [Sane](https://www.linkedin.com/in/sanelebrun), qui a cree en 2023 [Upmynt](https://www.upmynt.com/), une newsletter d'acculturation a l'IA devenue le moteur de son activite. On etait dans la meme boite en stage marketing il y a… (ouvre LinkedIn) 20 ans tout pile 👴. Depuis, on s'est suivis sans se croiser, jusqu'a cet echange tres cool !  
+  
+**Ga etan : Pourquoi une newsletter dediee a l'IA ?**  
+**Sane Lebrun :** Apres plusieurs experiences marketing dans des startups tech / crypto / growth, tout s'est arrete brusquement. Pour m'occuper et me tenir informe, j'ai lance Upmynt sans plan de monetisation, en attendant un nouvel emploi. Depuis, la NL a grandi, il y a eu un livre chez Albin Michel, des formations, des conferences.  
+  
+**Ga etan : Ta newsletter est-elle ta source de revenus ?  
+Sane : **Indirectement. Aujourd'hui elle a 8 000 abonnes, dont 5 % de payants ; j'en esperais 10 %, mais en France on paie moins pour l'info. Les packages pub sont irreguliers (dont un a 2 000 € recemment), l'affiliation rapporte quelques centaines d'euros par mois. La newsletter, c'est ma reputation et mon pipeline : je vis des conferences, masterclass et formations en entreprise.  
+  
+**Ga etan : Qu'est-ce qui ne marche pas comme prevu ?  
+Sane. : **Trois frustrations que je peux partager :  
+• J'ai arrete les interviews ecrites : beaucoup de temps pour peu de retours, et si l'invite ne relaie pas, tu perds son audience. Je les garde dans mes packages pub.  
+• Je stagne depuis 4 mois : +80 a 100 abonnes/mois, ce qui compense a peine le churn. Pour passer les 10 000 (seuil psychologique pour vendre la pub plus cher), je viens de lancer une campagne d'acquisition a hauteur de 2 000 €.  
+• Écrire seul face a son ecran, c'est parfois un peu dur : le format newsletter implique peu d'interactions avec les lecteurs, et 95 % des abonne*es ne lisent pas ce qui me prend le plus de temps a produire. Mais les 5 % payants font vivre la newsletter et ma motivation.  
+  
+**Ga etan : Comment diversifier editorialement une newsletter ?  
+Sane :** En novembre, je lance le podcast « Face a l'IA », jusqu'a la presidentielle 2027. Le but : challenger candidats et decideurs sur l'IA, sans complaisance, et il y a une place a prendre entre les journalistes politiques qui maitrisent mal le sujet, et les podcasts IA trop business. J'ai sonde mes lecteurs : 70 % d'appetence, ce qui confirme le potentiel. Certes le ROI est incertain, mais la fenetre 2027 ne reviendra pas. Et ça etend mon champ editorial.   
+  
+Merci Sane pour cet echange. [Abonnez-vous](https://www.upmynt.com/) si vous etes curieux ! Et un element fort que je retiens : 5 % d'abonnes payants, c'est au final un bon score en France.  
+  
+| | | Dataviz  
+---  
+  
+| 🌐  
+---  
+  
+| | **La poign ee de mainteneurs sur laquelle repose tout Internet**  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/f9525481-b189-8b72-088d-f8b32e63f1f5.png)](https://sheets.works/data-viz/holding-up-the-internet/)  
+---  
+Des milliards d'appareils lisent la bonne heure grace a un seul fichier texte : la base des fuseaux horaires. Paul Eggert, enseignant a UCLA, la tient a jour sur son temps libre. [Ce long format de sheets.works](https://sheets.works/data-viz/holding-up-the-internet/ "https://sheets.works/data-viz/holding-up-the-internet/") verifie si [ce celebre dessin xkcd dit vrai](https://xkcd.com/2347/ "https://xkcd.com/2347/") : Internet serait un colosse aux pieds d'argile. Ce cabinet de conseil, qui publie chaque semaine au moins une datavisualisation, a examine l'historique du code de logiciels essentiels. Dans une dizaine d'entre eux, des outils que tous les developpeurs utilisent, une ou deux personnes font tout le travail. Le long format met un nom et un visage sur ces inconnus, dont la fortune est souvent tres loin de celle des milliardaires de la tech. Sur le meme theme de la dependance, les memes auteurs ont applique leur methode a [la liste de regles qui fait marcher presque tous les bloqueurs de pub](https://sheets.works/data-viz/do-you-use-an-ad-blocker "https://sheets.works/data-viz/do-you-use-an-ad-blocker"). Le pire ennemi des medias qui vivent de la publicite est donc surtout un homme : le Neo-Zelandais Ryan Brown, alias Fanboy, principal contributeur d'[EasyList](https://easylist.to/ "https://easylist.to/"), la liste qu'utilisent AdBlock et consorts.  
+[Decouvrir ces heros de l'ombre sur sheets.works](https://sheets.works/data-viz/holding-up-the-internet)  
+  
+| | | ![](https://newsletter.datagif.fr/ext/datagif/img/newsletter.png) Bienvenue  
+---  
+Premiere lecture ? Cette newsletter editee par l'agence [Datagif](http://datagif.fr) parle de design d'information, en s'appuyant sur l'univers mouvant et dynamique des medias  
+| [ C'est gratuit, tous les 15 j dans ma boite mail](https://datagif.fr/newsletter-medias/)  
+---  
+  
+| | | Multimedia  
+---  
+  
+| 🌍  
+---  
+  
+| | La forme au service du fond  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/dcd9ff8d-8eb9-a8d9-aa5e-5560900c6929.png)](https://forbiddenstories.org/fr/vol-vers-le-ghana-expulses-des-etats-unis-vers-un-pays-inconnu/#title-page)  
+---  
+Forbidden Stories a publie une enquete qui retrace le parcours de migrants expulses des États-Unis vers un pays qui n'est pas le leur, malgre des protections juridiques censees les en empecher. Temoignages video, extraits audio et carte 3D qui suit les vols au defilement se succedent et se completent sans jamais se marcher dessus. Et c'est precisement ce qui permet de rester embarque du premier au dernier scroll, malgre la densite du sujet. Ce type de format multimedia (quand il est bien execute) prouve que la forme peut amplifier le fond plutot que le concurrencer. Ici, chaque couche narrative apporte quelque chose que la precedente ne pouvait pas dire seule.  
+[Explorer l'enquete de Forbidden Stories](https://forbiddenstories.org/fr/vol-vers-le-ghana-expulses-des-etats-unis-vers-un-pays-inconnu/#title-page)  
+  
+| | | Rappel  
+---  
+Vous faites quoi, deja, chez Datagif ?  
+Si vous avez besoin de structurer ou trier vos contenus, recentrer vos efforts aupres de vos publics car vous ne savez plus a qui vous vous adressez et pourquoi... vous pouvez nous contacter. Notre coeur d'activite, [c'est le design d'info.](https://datagif.fr/) La mise en forme de vos contenus, leur interface, qui valorise votre expertise aupres de vos publics qui ne vous attendent pas forcement au bon endroit...   
+  
+| | | Crise  
+---  
+  
+| 🚨  
+---  
+  
+| | Des boites a outils pour couvrir les catastrophes  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/3d38dd18-5f01-006f-f2ac-2219e622fca7.png)](https://grist.org/extreme-weather/disaster-preparation-recovery-resources/)  
+---  
+Face a l'acceleration des evenements climatiques extremes et des situations d'urgence, les redactions doivent reagir vite sans perdre en precision. Pour eviter la desorganisation en plein chaos, le Nieman Lab met en lumiere [de nouvelles initiatives pensees](https://www.niemanlab.org/2026/09/when-disaster-strikes-newsrooms-scramble-a-new-website-aims-to-help-tame-the-chaos/) pour structurer la couverture de crise :  
+  
+🧰 D'un cote, le media Grist a conçu une [boite a outil complete](https://grist.org/extreme-weather/disaster-preparation-recovery-resources/) (checklists, guides pratiques, ressources de securite) a destination des journalistes sur le terrain.  
+  
+🗒️ De l'autre, des projets comme [Text BPR](https://text.bpr.org/) misent sur des formats ultra-legers en pur texte pour continuer d'informer les populations meme lorsque le reseau s'effondre. Ce qui retient notre attention, c'est ce passage d'une reaction dans l'urgence a une veritable culture du design d'information de crise : des interfaces depouillees, des ressources pretes a l'emploi et des formats penses avant tout pour l'utilite publique et l'accessibilite.  
+  
+| | | Newsletter  
+---  
+  
+| 📮  
+---  
+  
+| | La restructuration d'une newsletter comme levier de transmission de l'info  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/efb7147c-85f9-1f28-e2ec-bddc5ed08c82.gif)](https://us4.campaign-archive.com/?u=17eec3b69147463a281334e85&id=145c75dc33)  
+---  
+Il y a quelques mois, le Fonds pour une Presse Libre (FPL) nous a sollicites pour repenser entierement son principal canal de communication : sa newsletter. L'objectif etait clair : clarifier l'identite, installer un rendez-vous fixe et optimiser la conversion des abonne*es en donateurs*rices. Resultat ? Une nouvelle structure plus rythmee et une direction artistique fidele aux valeurs du Fonds, pensees pour engager durablement.  
+  
+Un projet passionnant pour une cause qui l'est tout autant -- et si vous voulez leur donner un coup de pouce au passage, [leur campagne de soutien annuelle est en cours](https://fondspresselibre.org/soutenir) !  
+[Lire le dernier numero de la NL du FPL](https://us4.campaign-archive.com/?u=17eec3b69147463a281334e85&id=145c75dc33)  
+  
+| | | Presidentielle  
+---  
+  
+| 🗳️  
+---  
+  
+| | Les bases de donnees comme outil d'information  
+---  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/bb97db8c-aef0-81ff-21a6-e416862cc950.png)](https://bonpote.com/plus-de-la-moitie-des-230-cadres-du-rn-epingles-pour-racisme-ou-antisemitisme/#rn-base)  
+---  
+  ✋ [Bon Pote](https://bonpote.com/plus-de-la-moitie-des-230-cadres-du-rn-epingles-pour-racisme-ou-antisemitisme/#rn-base), qui met les bouchees doubles ces derniers temps pour la presidentielle, a passe en revue les 230 cadres et parlementaires du RN. Resultat : 127 d'entre eux, plus de la moitie, ont ete epingles pour des propos ou des actes racistes ou antisemites. Leur infographie permet de parcourir chaque cas et de consulter les sources a l'origine des revelations. La methodologie precise ce qui est retenu et ce qui est ecarte. ⚖️ [Komune](https://www.komunemedia.fr/comparateur/), media antiraciste finance par ses lecteurs, compare les promesses des candidat*es a leurs votes. Chaque texte de loi reçoit deux pastilles, une pour la personne et une pour son parti : aligne, partiellement aligne, contradictoire ou non testable. Il n'y a ni note globale ni classement : l'outil donne les faits, permet de fouiller dans le detail, mais ne tranche pas a la place du lecteur.  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/c3235d02-f2c1-1b2b-31c0-084cb5830156.png)](https://www.komunemedia.fr/comparateur/)  
+---  
+[Explorer sur Bon Pote les cadres du RN epingles pour racisme ou antisemitisme](https://bonpote.com/plus-de-la-moitie-des-230-cadres-du-rn-epingles-pour-racisme-ou-antisemitisme/#rn-base) et [comparer les actions des candidats sur Komune](https://www.komunemedia.fr/comparateur/)  
+  
+| | | Bonus  
+---  
+Et c'est pas fini !   
+📺 Le [top 100 des meilleures series du XXIe](https://www.nytimes.com/interactive/2026/arts/television/best-tv-shows-21st-century.html) siecle selon le NYT. De quoi remplir vos soirees jusqu'en 2030.  
+  
+🌍 Apres l'abandon de Mercator par l'ONU, [El Pais decortique les projections cartographiques](https://elpais.com/internacional/2026-09-13/como-se-hace-un-mapa-el-problema-de-aplanar-la-tierra-y-por-que-la-onu-abandona-mercator.html). 📚 Vos [flux RSS compiles en livre](https://www.naiveweekly.com/articles/how-i-read-javier-arce-reflects-on-his-rss-to-e-ink-setup?utm_source=substack&utm_medium=email) et envoyes chaque matin sur votre liseuse : c'est la promesse de [Dear Reader](https://dearreader.xyz/).  
+  
+🕯️ Y a-t-il une vie apres la mort ? [The Pudding reunit](https://pudding.cool/2026/10/lifeafter/)[ 1500 repondants dans une piece virtuelle](https://pudding.cool/2026/10/lifeafter/) pour explorer leurs croyances. 🧊 Apres un ete caniculaire, [SRF chiffre la fonte des glaciers suisses](https://www.srf.ch/wissen/klimawandel/eisverlust-2026-massive-gletscherschmelze-so-viel-eis-verschwand-im-hitzesommer) avec un modele 3D du glacier de Gries.  
+  
+🩺 SRF encore, dresse le [portrait illustre de soignantes](https://www.srf.ch/wissen/gesundheit/wege-aus-der-gesundheitskrise-diese-drei-frauen-bleiben-trotz-allen-widrigkeiten) qui ont choisi de rester malgre la crise du systeme de sante.  
+  
+| | | Et voila pour le n°183  
+---  
+Une edition preparee par Athenais, Lucie, Aurore, Charly et Gaetan.  
+  
+Chez Datagif, on accompagne nos clients sur le design de leur contenu. Leur mise en forme, leur structuration, et l'interface dans laquelle vos audiences les capteront. Si vous avez des remarques sur ces sujets, ou si vous avez des questions : ecrivez-nous ! 💌  
+par  
+| [![](https://mcusercontent.com/42d1f60e448215132ba30db60/images/cd5c9692-2a94-4593-f8cc-af63f5425400.png)](https://datagif.fr)  
+---  
+  
+| | | ![](https://newsletter.datagif.fr/ext/datagif/img/social.png) Retrouvez-nous sur les réseaux  
+---  
+[Medium](https://datagif.medium.com/) [X](https://x.com/datagif) [Bluesky](https://bsky.app/profile/datagif.fr) [Instagram](https://www.instagram.com/datagif/) [Threads](https://www.threads.net/@datagif) [Linkedin](https://www.linkedin.com/company/datagif/) [Datagif.fr](https://datagif.fr/)  
+  
+| | Vous recevez cet e-mail car vous êtes inscrit•e via le site [datagif.fr](https://datagif.fr/newsletter/)Lire cette newsletter dans votre [navigateur](*|ARCHIVE|*)Vous avez un projet média et souhaitez être accompagné•e ?  
+Écrivez-nous : [*|ABUSE_EMAIL|*](mailto:*|ABUSE_EMAIL|*)  
+👋 [Cliquez-ici](*|UNSUB|*) pour vous désabonner  
+---
